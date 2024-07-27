@@ -1,0 +1,1797 @@
+﻿<?xml version="1.0" encoding="Unicode" ?>
+<string_table>
+	<string id="st_val_box_01_2">
+		<text>地下室里的箱子</text>
+	</string>
+	<string id="st_val_box_01_2_descr">
+		<text>我在地下室有危险标志的门边把东西都抛下了。现在我没时间，但我晚些时候一定会拿到它。</text>
+	</string>
+	<string id="st_val_electric_box_01">
+		<text>配电室的藏匿物</text>
+	</string>
+	<string id="st_val_electric_box_01_descr">
+		<text>我在废弃工厂二楼的配电室藏得很好。等我再有几个神器的时候我会全部拿出来换点现钱。</text>
+	</string>
+	<string id="st_val_pipe_o1_base_free">
+		<text>拼装器的深处的藏匿物</text>
+	</string>
+	<string id="st_val_pipe_o1_base_free_descr">
+		<text>我不小心走进了基地下面拼装器的深处。看起来那里很隐蔽，于是我把一些东西藏到管道里面。</text>
+	</string>
+	<string id="st_val_pipe_02">
+		<text>管子里的物品</text>
+	</string>
+	<string id="st_val_pipe_02_descr">
+		<text>在一楼的植物旁，靠近楼梯的边上，我把东西藏到一个管子里了。</text>
+	</string>
+	<string id="st_val_pipe_02_0000">
+		<text>水塔下方的管子</text>
+	</string>
+	<string id="st_val_pipe_02_0000_descr">
+		<text>一群狗在我通过农场时发现了我，于是我把东西丢到水塔下面的管道里，然后跑掉了。迟点我会去取回它。</text>
+	</string>
+	<string id="st_val_pipe_valve_01_01">
+		<text>工厂里的藏匿物</text>
+	</string>
+	<string id="st_val_pipe_valve_01_01_descr">
+		<text>一些物品藏匿在废弃工厂的饲草架旁边。在入口的右拐处，管子的横梁上。很容易把它混在一堆看起来差不多的东西里面。</text>
+	</string>
+	<string id="st_val_rucksack_01">
+		<text>控制室里的背包</text>
+	</string>
+	<string id="st_val_rucksack_01_descr">
+		<text>我真的该去翻倒的拖拉机那边，到前座上把背包拿回来。 我前几天把它丢掉了，为了逃开一些人的攻击。</text>
+	</string>
+	<string id="st_val_rucksack_01_free_base">
+		<text>树下的藏匿物</text>
+	</string>
+	<string id="st_val_rucksack_01_free_base_descr">
+		<text>我不是很记得我把东西仍在哪棵树下，好像是在入口附近，但即使这样这棵树也并不显眼。</text>
+	</string>
+	<string id="st_val_rucksack_02">
+		<text>树附近的背包</text>
+	</string>
+	<string id="st_val_rucksack_02_descr">
+		<text>其他人都把他们的东西放到地下室去了，只有我把它埋到了树下。我打赌没人能找到它！</text>
+	</string>
+	<string id="st_val_rucksack_02_02">
+		<text>屋顶下面的藏匿物</text>
+	</string>
+	<string id="st_val_rucksack_02_02_descr">
+		<text>我不担心我的东西，因为没人会找到它的。除非他们像松鼠一样跳上去。</text>
+	</string>
+	<string id="st_val_rucksack_02_03">
+		<text>塔里的藏匿物</text>
+	</string>
+	<string id="st_val_rucksack_02_03_descr">
+		<text>我告诉我的同伴我把背包弄丢了。实际上，我把它藏在了水塔上。它应该还在那里。</text>
+	</string>
+	<string id="st_val_rucksack_02_2">
+		<text>梯子里的背包</text>
+	</string>
+	<string id="st_val_rucksack_02_2_descr">
+		<text>战斗开始了，我还有一些时间把我的东西藏起来。我把它藏在了梯子下面的管子里面。时机来临时我会去取回它的。</text>
+	</string>
+	<string id="st_val_instrument_case_01">
+		<text>修理工的箱子</text>
+	</string>
+	<string id="st_val_instrument_case_01_descr">
+		<text>我找到了一个属于以前的修理工的箱子。现在我要把它藏在这里。下次有时间再把它放到更安全的地方去。</text>
+	</string>
+	<string id="st_val_seif_01">
+		<text>工厂里的藏匿物</text>
+	</string>
+	<string id="st_val_seif_01_descr">
+		<text>如果你看到了这个信息，那就证明我已经死了。好吧，去工厂里取回我的藏匿物 - 但我希望你永远不会找到它，混蛋！</text>
+	</string>
+	<string id="st_val_seif_02_descr">
+		<text>我不知道自己能不能逃出去，所以我把我的东西藏在了废弃的农场里，现在是时候去取回它了。</text>
+	</string>
+	<string id="st_val_trees_log_01">
+		<text>小岛上的残干</text>
+	</string>
+	<string id="st_val_trees_log_01_descr">
+		<text>我的一个好兄弟把一些好东西藏在沼泽地附近，他没办法自己来取回了，但他告诉我他把一些东西藏在天线不远处的残干中。我必须取回它。</text>
+	</string>
+	<string id="st_val_trees_log_01_1">
+		<text>腐木中的藏匿物</text>
+	</string>
+	<string id="st_val_trees_log_01_1_descr">
+		<text>我不信任我的同伴，我老觉得他想干掉我。所以我把我的东西藏在了桥附近的腐木里，我希望他不会找到它们。</text>
+	</string>
+	<string id="st_val_trees_stump_01">
+		<text>残干中的藏匿物</text>
+	</string>
+	<string id="st_val_trees_stump_01_descr">
+		<text>前几天我从一群怪物手中逃出时，把我的东西藏在一段残干中了。就在离旧农场不远的地方。</text>
+	</string>
+	<string id="st_val_trees_stump_01_0000">
+		<text>山附近的残干</text>
+	</string>
+	<string id="st_val_trees_stump_01_0000_descr">
+		<text>我把我的东西藏在山底下的残干中。那真是个好地方 - 我希望我能一直这么好运直到我取回它。</text>
+	</string>
+	<string id="st_val_trees_stump_01_1">
+		<text>木板附近的残干</text>
+	</string>
+	<string id="st_val_trees_stump_01_1_descr">
+		<text>我看见可亚在那岛上的残干附近呆了很久。我打赌那吝啬鬼肯定藏了什么东西在那。让他往那里多放点东西后我再去偷走它。</text>
+	</string>
+	<string id="st_val_trees_zaz968">
+		<text>小汽车中的藏匿物</text>
+	</string>
+	<string id="st_val_trees_zaz968_descr">
+		<text>那些傻瓜正头痛呢！他们的东西突然不见了！哈哈哈！好吧，其实是我把他们的东西藏在了沼泽地附近的小汽车里了。我打赌没人会去那里的。</text>
+	</string>
+	<string id="st_yan_electric_box_01">
+		<text>工厂的配电盘中的藏匿物</text>
+	</string>
+	<string id="st_yan_electric_box_01_descr">
+		<text>我调查了安德雷的PAD，他把一些东西藏在了工厂的配电盘里面。</text>
+	</string>
+	<string id="st_yan_electric_box_02">
+		<text>变压器室中的控制器里的藏匿物</text>
+	</string>
+	<string id="st_yan_electric_box_02_descr">
+		<text>当所有人逃离工厂时，我把我所有的东西都藏在了变压器室里了。</text>
+	</string>
+	<string id="st_yan_instrument_case_01">
+		<text>工厂里的东西</text>
+	</string>
+	<string id="st_yan_instrument_case_01_descr">
+		<text>我在机库里找到了这个工具箱，它看起来很不错，我把我的东西都放在里面了 - 在我取回它之前就先把它放这里吧。</text>
+	</string>
+	<string id="st_yan_instrument_case_01_0000">
+		<text>货车里的箱子</text>
+	</string>
+	<string id="st_yan_instrument_case_01_0000_descr">
+		<text>真是个不错的地方 - 周围的僵尸和异变点能帮我保护好我的东西。</text>
+	</string>
+	<string id="st_yan_pipe_01">
+		<text>墙边的藏匿物</text>
+	</string>
+	<string id="st_yan_pipe_01_descr">
+		<text>我把我的东西藏在墙边的管子里。</text>
+	</string>
+	<string id="st_yan_pipe_02">
+		<text>管子里的东西</text>
+	</string>
+	<string id="st_yan_pipe_02_descr">
+		<text>我把一些珍贵的东西放在了屋子房间里的管子中。</text>
+	</string>
+	<string id="st_yan_rucksack_01">
+		<text>入口附近的背包</text>
+	</string>
+	<string id="st_yan_rucksack_01_descr">
+		<text>我把我的东西藏在入口处附近。希望没人找到它。</text>
+	</string>
+	<string id="st_yan_rucksack_02">
+		<text>通风管里的藏匿物</text>
+	</string>
+	<string id="st_yan_rucksack_02_descr">
+		<text>嘿，托尼，记清楚我们背包的坐标， - 它藏在一段坏了的通风管里面。 祝你好运！你的朋友：猫头鹰。</text>
+	</string>
+	<string id="st_yan_rucksack_02_0000">
+		<text>座位下的背包</text>
+	</string>
+	<string id="st_yan_rucksack_02_0000_descr">
+		<text>我没时间考虑了，把东西藏在司机座位下面后我就要走了。</text>
+	</string>
+	<string id="st_yan_rucksack_02_0001">
+		<text>吊车中的藏匿物</text>
+	</string>
+	<string id="st_yan_rucksack_02_0001_descr">
+		<text>天知道我当时把我的背包藏哪里去了！它应该就在吊车附近的！</text>
+	</string>
+	<string id="st_yan_seif_01">
+		<text>最安全的藏匿点</text>
+	</string>
+	<string id="st_yan_seif_01_descr">
+		<text>天底下最安全的藏东西的地方是我的了！前提是工厂必须也很安全。</text>
+	</string>
+	<string id="st_yan_trees_log_01">
+		<text>原木里的物品</text>
+	</string>
+	<string id="st_yan_trees_log_01_descr">
+		<text>我把东西塞进原木里，别认为他们会发现。</text>
+	</string>
+	<string id="st_yan_trees_log_01_0000">
+		<text>山附近的原木</text>
+	</string>
+	<string id="st_yan_trees_log_01_0000_descr">
+		<text>当那些僵尸从工厂里冲出来时，我没时间考虑其他事了。我把东西藏在了山附近的原木中。</text>
+	</string>
+	<string id="st_yan_trees_stump_01">
+		<text>塔附近的残干</text>
+	</string>
+	<string id="st_yan_trees_stump_01_descr">
+		<text>我把我的东西藏在残干中，就在那有高压电塔的山头附近。那群傻瓜居然以为我是过来看风景的，哈哈！</text>
+	</string>
+	<string id="gar_equipment_pipe_01_ss">
+		<text>管子里的藏匿物</text>
+	</string>
+	<string id="gar_equipment_pipe_01_ss_descr">
+		<text>我把我的东西藏在了一堆辐射废料旁的管子里。</text>
+	</string>
+	<string id="gar_equipment_pipe_02_ss">
+		<text>列车旁边的管子</text>
+	</string>
+	<string id="gar_equipment_pipe_02_ss_descr">
+		<text>在废弃列车的附近有个管子，我把我的东西藏在了里面。</text>
+	</string>
+	<string id="st_agr_cross_1">
+		<text>坟墓下的藏匿物</text>
+	</string>
+	<string id="st_agr_cross_1_descr">
+		<text>我把一些好东西埋在农业研究所地区的灌木丛的坟墓下。</text>
+	</string>
+	<string id="st_agr_electric_box_02">
+		<text>车间配电盘里的藏匿物</text>
+	</string>
+	<string id="st_agr_electric_box_02_descr">
+		<text>那个该死的家伙拿走了我们的东西，狗屎！还好我偷了回来并把它们藏在二楼的配电盘里。</text>
+	</string>
+	<string id="st_agr_instrument_case_01">
+		<text>拖拉机里的藏匿物</text>
+	</string>
+	<string id="st_agr_instrument_case_01_0000">
+		<text>我把我的东西藏在拖拉机附近。</text>
+	</string>
+	<string id="st_agr_instrument_case_01_0000_descr">
+		<text>我把我的东西藏在指挥官的箱子里。如果不被别人发现的话它一定会很安全。</text>
+	</string>
+	<string id="st_agr_instrument_case_01_0001">
+		<text>车厢里的藏匿物</text>
+	</string>
+	<string id="st_agr_instrument_case_01_0001_descr">
+		<text>农业研究所的列车车厢里有好东西。</text>
+	</string>
+	<string id="st_agr_instrument_case_01_0002">
+		<text>汽车站的巴士</text>
+	</string>
+	<string id="st_agr_instrument_case_01_0002_descr">
+		<text>基地附近的汽车站有部巴士，我把东西藏在里面。</text>
+	</string>
+	<string id="st_agr_instrument_case_01_descr">
+		<text>当晚上吉米修好了拖拉机后我们就开着它上路了。见鬼，随后我们又遇见了吸血怪，我们马上跳车逃走了，不过我忘了把我的东西带走了。</text>
+	</string>
+	<string id="st_agr_pipe_02">
+		<text>管子里的藏匿物</text>
+	</string>
+	<string id="st_agr_pipe_02_descr">
+		<text>把东西藏在L型管子里面后，我把大门锁上了。没人能进去。</text>
+	</string>
+	<string id="st_agr_rucksack_01">
+		<text>不知道谁的背包</text>
+	</string>
+	<string id="st_agr_rucksack_01_0000">
+		<text>独行者营地的东西</text>
+	</string>
+	<string id="st_agr_rucksack_01_0000_descr">
+		<text>我把我的背包扔到树上去了，否则别人会发现它的。从基地的管子通过后很容易就能找到那里。</text>
+	</string>
+	<string id="st_agr_rucksack_01_descr">
+		<text>我在纪律团基地附近的一棵树上作了记号，不过我现在没时间爬上去。</text>
+	</string>
+	<string id="st_agr_rucksack_02">
+		<text>沼泽里的藏匿物</text>
+	</string>
+	<string id="st_agr_rucksack_02_0000">
+		<text>遗失的背包</text>
+	</string>
+	<string id="st_agr_rucksack_02_0000_descr">
+		<text>当我累了刚坐在石头上休息，我发现我的背包不知道什么时候不见了。我想有时间的时候我要回去找一下。</text>
+	</string>
+	<string id="st_agr_rucksack_02_0001">
+		<text>船夫的背包</text>
+	</string>
+	<string id="st_agr_rucksack_02_0001_descr">
+		<text>当我的同伴把那群狗引开时，我爬上了塔顶。我想我的背包丢在了灌木丛里了。</text>
+	</string>
+	<string id="st_agr_rucksack_02_descr">
+		<text>我的背包藏在了沼泽地中的管子里。那里面有我的所有东西。</text>
+	</string>
+	<string id="st_agr_seif_01">
+		<text>灌木丛里的藏匿物</text>
+	</string>
+	<string id="st_agr_seif_01_descr">
+		<text>我背着满满的背包在山谷中行走。雨越下越大，我真的走不动了，我只能把我的背包扔到路边自己走了。</text>
+	</string>
+	<string id="st_agr_trees_log_01">
+		<text>单独的原木</text>
+	</string>
+	<string id="st_agr_trees_log_01_0000">
+		<text>复活节彩蛋</text>
+	</string>
+	<string id="st_agr_trees_log_01_0000_descr">
+		<text>到东边去，我把一个 "复活节彩蛋" 藏在了一段原木中。</text>
+	</string>
+	<string id="st_agr_trees_log_01_descr">
+		<text>没人会跑这么远来一段原木中找我的东西吧？</text>
+	</string>
+	<string id="st_agru_treasure_1">
+		<text>控制室里的管子</text>
+	</string>
+	<string id="st_agru_treasure_1_descr">
+		<text>当怪物出现在四周时，我把东西藏在管子里然后逃跑了。</text>
+	</string>
+	<string id="st_agru_treasure_2">
+		<text>异变点附近的背包</text>
+	</string>
+	<string id="st_agru_treasure_2_descr">
+		<text>我在过桥时不小心把我的背包丢到异变点里面去了。我想取回它，但是我做不到。</text>
+	</string>
+	<string id="st_agru_treasure_3">
+		<text>废弃的柜子</text>
+	</string>
+	<string id="st_agru_treasure_3_descr">
+		<text>我还记得那个柜子。当怪物出现时，我只能把东西放到里面然后马上逃走。</text>
+	</string>
+	<string id="st_agru_treasure_4">
+		<text>尸体上的背包</text>
+	</string>
+	<string id="st_agru_treasure_4_descr">
+		<text>那些凶恶的怪物把我的同伴撕开了，还好我跑得快！感谢神，它们没有追过来。</text>
+	</string>
+	<string id="st_agru_treasure_5">
+		<text>阶梯下面的背包</text>
+	</string>
+	<string id="st_agru_treasure_5_descr">
+		<text>我看到阶梯下面的水里有一个背包，如果不是那些讨厌的异变点，我早就拿走它了。</text>
+	</string>
+	<string id="st_esc_cross_2">
+		<text>山上的坟墓</text>
+	</string>
+	<string id="st_esc_cross_2_descr">
+		<text>我把东西埋在山上的坟墓下面。</text>
+	</string>
+	<string id="st_esc_instrument_case_01_ramp">
+		<text>桥附近的藏匿物</text>
+	</string>
+	<string id="st_esc_instrument_case_01_ramp_descr">
+		<text>我把东西藏在断桥上。我可是花了好大力气才爬到那里的。</text>
+	</string>
+	<string id="st_esc_pipe_02_in_crater">
+		<text>断木下面的管子</text>
+	</string>
+	<string id="st_esc_pipe_02_in_crater_descr">
+		<text>我把东西藏在新手村附近断木下的管子里。晚点我会把它拿回来的。</text>
+	</string>
+	<string id="st_esc_pipe_03_in_crater">
+		<text>隧道里的管子</text>
+	</string>
+	<string id="st_esc_pipe_03_in_crater_descr">
+		<text>我们把东西藏在了异变点附近的管子中。它应该还在那边。</text>
+	</string>
+	<string id="st_esc_rucksack_01_in_chimney">
+		<text>烟囱里的背包</text>
+	</string>
+	<string id="st_esc_rucksack_01_in_chimney_descr">
+		<text>当我还是个新手的时候，我把一些东西藏到了烟囱里面。不过我不太记得是什么东西了。</text>
+	</string>
+	<string id="st_esc_rucksack_01_natree">
+		<text>树中的藏匿物</text>
+	</string>
+	<string id="st_esc_rucksack_01_natree_descr">
+		<text>我把一些东西藏在树上。通过山边的枝干可以很容易地爬上去。</text>
+	</string>
+	<string id="st_esc_rucksack_01_pod_train">
+		<text>列车头下的藏匿物</text>
+	</string>
+	<string id="st_esc_rucksack_01_pod_train_descr">
+		<text>我们的指挥官命令我们尽快去支援尼古拉夫他们。当时我把我的背包扔在了列车头下面就走了。</text>
+	</string>
+	<string id="st_esc_rucksack_02_inbush">
+		<text>灌木丛后面的背包</text>
+	</string>
+	<string id="st_esc_rucksack_02_inbush_descr">
+		<text>有一天晚上我们跟一群强盗交火，当时我不小心把我的背包扔到了灌木丛后面的一堆石头附近，后来我逃走了。</text>
+	</string>
+	<string id="st_esc_rucksack_02_natree">
+		<text>木柴下面的背包</text>
+	</string>
+	<string id="st_esc_rucksack_02_natree_descr">
+		<text>我把我的背包藏在农场对面的建筑里，然后把一堆木柴放在了它上面盖住。</text>
+	</string>
+	<string id="st_esc_seif_03">
+		<text>罐子中的藏匿物</text>
+	</string>
+	<string id="st_esc_seif_03_0000">
+		<text>基地中的藏匿物</text>
+	</string>
+	<string id="st_esc_seif_03_0000_desc">
+		<text>吉尔把他的东西藏在了封锁线的营地里面。</text>
+	</string>
+	<string id="st_esc_seif_03_descr">
+		<text>我在新手村附近的废车场里面找到了一个好地方，然后把东西都藏在了那里。</text>
+	</string>
+	<string id="st_esc_trees_log_01">
+		<text>原木中的藏匿物</text>
+	</string>
+	<string id="st_esc_trees_log_01_descr">
+		<text>有一群狗追在我的后面。我把东西藏在原木里面后就跑了。</text>
+	</string>
+	<string id="st_esc_trees_log_02">
+		<text>原木中的藏匿物</text>
+	</string>
+	<string id="st_esc_trees_log_02_descr">
+		<text>我取得了一个死去独行者的藏匿物坐标 - 就在农场后面的原木中。</text>
+	</string>
+	<string id="st_esc_trees_stump_01">
+		<text>森林里的残干</text>
+	</string>
+	<string id="st_esc_trees_stump_01_descr">
+		<text>我和我的同伴把我们的东西藏在了几棵树中间的残干里。</text>
+	</string>
+	<string id="st_esc_trees_stump_01_penb_syn_trader">
+		<text>村子附近的残干</text>
+	</string>
+	<string id="st_esc_trees_stump_01_penb_syn_trader_descr">
+		<text>我不能把东西藏在太远的地方。我在新手村附近找到了一段有洞的残干，然后把我的东西放了进去。</text>
+	</string>
+	<string id="st_esc_trees_stump_02">
+		<text>森林里的残干</text>
+	</string>
+	<string id="st_esc_trees_stump_02_descr">
+		<text>西德洛维奇叫我们在警戒线附近找个地方藏东西以便把东西运到外面去。我把我的东西藏到了山附近的残干中。</text>
+	</string>
+	<string id="st_esc_trees_stump_03">
+		<text>残干里的藏匿物</text>
+	</string>
+	<string id="st_esc_trees_stump_03_descr">
+		<text>在我去废弃区的途中，我把所有东西都藏到森林里的原木中，那样强盗就不能抢走它们了。</text>
+	</string>
+	<string id="st_found_new_treasure">
+		<text>收到藏匿物讯息：</text>
+	</string>
+	<string id="st_gar_electric_box_01">
+		<text>废弃的配电盘</text>
+	</string>
+	<string id="st_gar_electric_box_01_descr">
+		<text>我必须把我的东西藏好，以便到时能在黑市卖个好价钱。东西就藏在吊车控制室旁边的配电盘里。</text>
+	</string>
+	<string id="st_gar_electric_box_02">
+		<text>棚子下面的控制盘</text>
+	</string>
+	<string id="st_gar_electric_box_02_descr">
+		<text>我希望那些东西能卖个好价钱，我把它们藏在棚子下面的控制盘里，就在离这里不远的地方。</text>
+	</string>
+	<string id="st_gar_electric_box_02_ss">
+		<text>废车场的配电盘</text>
+	</string>
+	<string id="st_gar_electric_box_02_ss_descr">
+		<text>东西就藏在配电盘里，它被一些废弃物覆盖着。</text>
+	</string>
+	<string id="st_gar_pipe_02">
+		<text>管子里的藏匿物</text>
+	</string>
+	<string id="st_gar_pipe_02_descr">
+		<text>我把一些好东西藏在断掉的管子里，这样就没人能从我这里抢走它了。</text>
+	</string>
+	<string id="st_gar_pipe_05">
+		<text>吊车底部的管子</text>
+	</string>
+	<string id="st_gar_pipe_05_descr">
+		<text>我把我的一些日用品藏在吊车底部的管子里了。你知道的，以防不时之需嘛。</text>
+	</string>
+	<string id="st_gar_rucksack_02">
+		<text>树下的背包</text>
+	</string>
+	<string id="st_gar_rucksack_02_1_ss">
+		<text>吊车控制室里的背包</text>
+	</string>
+	<string id="st_gar_rucksack_02_1_ss_descr">
+		<text>我把背包藏在吊车的控制室里了，现在我还不能去取回它。</text>
+	</string>
+	<string id="st_gar_rucksack_02_descr">
+		<text>在我卖掉它们发财之前，这个背包里的东西必须很好地藏在这树下。</text>
+	</string>
+	<string id="st_gar_rucksack_02_ss">
+		<text>敌人的物品</text>
+	</string>
+	<string id="st_gar_rucksack_02_ss_descr">
+		<text>我把背包扔在一堆高辐射的废料里，这样我的敌人就不能拿到它了。</text>
+	</string>
+	<string id="st_gar_rucksack_03">
+		<text>废车场里的藏匿物</text>
+	</string>
+	<string id="st_gar_rucksack_03_descr">
+		<text>我把我的东西扔在了废车场附近的混凝土板下面。我在别人发现之前取回它。</text>
+	</string>
+	<string id="st_gar_rucksack_04">
+		<text>列车顶的藏匿物</text>
+	</string>
+	<string id="st_gar_rucksack_04_descr">
+		<text>我把我的背包丢在列车顶。那可不容易被找到。</text>
+	</string>
+	<string id="st_gar_seif_01">
+		<text>坑里的藏匿物</text>
+	</string>
+	<string id="st_gar_seif_01_descr">
+		<text>我怀疑其他人将填平这个坑，不过它暂时可以给我藏点东西。</text>
+	</string>
+	<string id="st_gar_seif_03">
+		<text>支架下面的藏匿物</text>
+	</string>
+	<string id="st_gar_seif_03_descr">
+		<text>我把我的东西藏在高辐射地区旁边的保险箱里面。谁想去拿到它就等于是去自杀！</text>
+	</string>
+	<string id="st_gar_trees_log_01">
+		<text>原木中的洞</text>
+	</string>
+	<string id="st_gar_trees_log_01_descr">
+		<text>我把东西藏在营地不远处的原木中。</text>
+	</string>
+	<string id="st_gar_trees_log_02">
+		<text>大树后面的原木</text>
+	</string>
+	<string id="st_gar_trees_log_02_descr">
+		<text>克尔扬给了我一些讯息，他说他把一些东西藏在大树后面的原木里。</text>
+	</string>
+	<string id="st_gar_trees_log_03">
+		<text>灌木丛中的原木</text>
+	</string>
+	<string id="st_gar_trees_log_03_descr">
+		<text>我把我的东西塞满了整条原木，并把它拖进灌木丛里面。这样就没人会注意到它。</text>
+	</string>
+	<string id="st_gar_trees_stump_01">
+		<text>逃兵的藏匿物</text>
+	</string>
+	<string id="st_gar_trees_stump_01_descr">
+		<text>有个家伙想把他们的藏匿物转移，不过看起来他的同伙有其他的想法 … 管他的，那群傻瓜。他们不可能找到那些藏匿物。只有我知道它藏在哪里。</text>
+	</string>
+	<string id="st_gar_trees_stump_03">
+		<text>腐木里的藏匿物</text>
+	</string>
+	<string id="st_gar_trees_stump_03_descr">
+		<text>我把我的东西藏在一个腐木里，以防有一天我的同伙会抢走它。</text>
+	</string>
+	<string id="st_gar_trees_stump_04">
+		<text>基地附近的藏匿物</text>
+	</string>
+	<string id="st_gar_trees_stump_04_descr">
+		<text>我不知道别人的事情，但是我把我的背包藏在一根残干下，就在围墙旁边。</text>
+	</string>
+	<string id="st_gar_zaz968">
+		<text>白色小汽车</text>
+	</string>
+	<string id="st_gar_zaz968_descr">
+		<text>总有一天我不用再呆在这该死的废弃区，在那天到来时我会把我的藏匿无从白色小汽车里取回来，然后跟废弃区说：永别了！</text>
+	</string>
+	<string id="st_hos_electric_box_02">
+		<text>医院里的配电盘</text>
+	</string>
+	<string id="st_hos_electric_box_02_descr">
+		<text>我们把一些东西藏在医院一楼的配电盘里。</text>
+	</string>
+	<string id="st_hos_rucksack_01">
+		<text>阶梯下的背包</text>
+	</string>
+	<string id="st_hos_rucksack_01_descr">
+		<text>在我们攻上二楼前，我们必须把不必要的东西扔掉。</text>
+	</string>
+	<string id="st_hos_seif_01">
+		<text>大堂里的障碍物</text>
+	</string>
+	<string id="st_hos_seif_01_descr">
+		<text>我们在医院二楼交火，我不得不把我的东西藏在一个老旧的保险箱里。</text>
+	</string>
+	<string id="st_lim_electric_box_01">
+		<text>下水道里的藏匿物</text>
+	</string>
+	<string id="st_lim_electric_box_01_2">
+		<text>无线电站的藏匿物</text>
+	</string>
+	<string id="st_lim_electric_box_01_2_descr">
+		<text>当我们进攻这座建筑时，我在阳台上的配电盘发现了一些不知道谁的东西。但我没时间看了，我们必须马上抢占这里。</text>
+	</string>
+	<string id="st_lim_electric_box_01_descr">
+		<text>我们把一些东西藏在下水道里面。等我们回去时再取回它。</text>
+	</string>
+	<string id="st_lim_instrument_case_01">
+		<text>藏匿的背包</text>
+	</string>
+	<string id="st_lim_instrument_case_01_1">
+		<text>阁楼上的背包</text>
+	</string>
+	<string id="st_lim_instrument_case_01_1_descr">
+		<text>我们用了两天的时间来打退敌人的进攻。在友军到达之前我们只能退守到屋顶。撤退前我把一些东西藏在了屋子的阁楼里。</text>
+	</string>
+	<string id="st_lim_instrument_case_01_descr">
+		<text>当我们经过后院时，我发现围墙后面有个小箱子。</text>
+	</string>
+	<string id="st_lim_pipe_02">
+		<text>小车下面的管子</text>
+	</string>
+	<string id="st_lim_pipe_02_01">
+		<text>车库后面</text>
+	</string>
+	<string id="st_lim_pipe_02_01_descr">
+		<text>我看见有人把东西藏在了车库后面，但是我没时间去仔细检查它。就在大树后面的管子里面。</text>
+	</string>
+	<string id="st_lim_pipe_02_2">
+		<text>货柜箱里的管子</text>
+	</string>
+	<string id="st_lim_pipe_02_2_descr">
+		<text>我们被困住后院里了，不过我看见有个货柜箱里面的管子里有些东西。等我们把这里的事情结束了我再去看看。</text>
+	</string>
+	<string id="st_lim_pipe_02_descr">
+		<text>一部UAZ小汽车下面的管子里藏着些东西。我现在没时间过去看看，也许要迟点 - 假如我还活着的话。</text>
+	</string>
+	<string id="st_lim_rucksack_01">
+		<text>汽车仪表板下的背包</text>
+	</string>
+	<string id="st_lim_rucksack_01_descr">
+		<text>狗屎。我可怜的背包被卡在了汽车仪表板下面拿不出来了。</text>
+	</string>
+	<string id="st_lim_rucksack_02_1">
+		<text>围墙旁边的背包</text>
+	</string>
+	<string id="st_lim_rucksack_02_12">
+		<text>受伤的家伙的藏匿物</text>
+	</string>
+	<string id="st_lim_rucksack_02_12_descr">
+		<text>在我们爬上一面高墙时，他不得不把他的背包扔掉，否则他那可怜的猪脑袋就要被敌人打穿了。</text>
+	</string>
+	<string id="st_lim_rucksack_02_1_descr">
+		<text>我正遭到追杀，我不得不把我的背包扔在围墙旁边然后逃跑。</text>
+	</string>
+	<string id="st_lim_rucksack_02_2">
+		<text>死者的背包</text>
+	</string>
+	<string id="st_lim_rucksack_02_2_descr">
+		<text>我看到我附近的一个新手被手榴弹炸中了，死前还在那里乱叫。他的背包掉到桥下面去了，死人不需要背包，但是我需要。</text>
+	</string>
+	<string id="st_lim_seif_03">
+		<text>车库里的保险箱</text>
+	</string>
+	<string id="st_lim_seif_03_descr">
+		<text>我们在检查车库时发现了一个保险箱。也许我们需要点时间来打开它。</text>
+	</string>
+	<string id="st_lim_trees_log_01">
+		<text>半掩埋的原木</text>
+	</string>
+	<string id="st_lim_trees_log_01_descr">
+		<text>在我们干掉他之前，我们看到他把一些东西藏在原木里面了。</text>
+	</string>
+	<string id="st_lim_trees_stump_01_1">
+		<text>残干里的藏匿物</text>
+	</string>
+	<string id="st_lim_trees_stump_01_1_descr">
+		<text>在我们攻击这里之前，那些被困的家伙把东西藏在残干里了。</text>
+	</string>
+	<string id="st_mar_nichka_0000">
+		<text>掩体附近的藏匿物</text>
+	</string>
+	<string id="st_mar_nichka_0000_descr">
+		<text>那群家伙过来了，我只能把我的东西藏在掩体附近，就在离交通站不远的地方。</text>
+	</string>
+	<string id="st_mar_nichka_0001">
+		<text>塔下面的小箱子</text>
+	</string>
+	<string id="st_mar_nichka_0001_descr">
+		<text>我把我的东西都藏在高压电塔下面的一个小箱子里面了。</text>
+	</string>
+	<string id="st_mar_nichka_0003">
+		<text>小车里的藏匿物</text>
+	</string>
+	<string id="st_mar_nichka_0003_descr">
+		<text>那个白痴阿历克斯不知道从哪得到了这个箱子。我们把一些东西放在里面，然后藏在小车中。</text>
+	</string>
+	<string id="st_mar_nichka_0004">
+		<text>车站里的管子</text>
+	</string>
+	<string id="st_mar_nichka_0004_descr">
+		<text>我把一些东西藏在了沼泽地中间的旧车站里面的管子中。</text>
+	</string>
+	<string id="st_mar_nichka_0005">
+		<text>沼泽地里的管子</text>
+	</string>
+	<string id="st_mar_nichka_0005_descr">
+		<text>我很累并且也厌烦了背着我的重背包在沼泽地里走动了。所以我把它藏在一根管子里面。这里的杂草能很好的隐藏它。</text>
+	</string>
+	<string id="st_mar_nichka_0006">
+		<text>沼泽地里的背包</text>
+	</string>
+	<string id="st_mar_nichka_0006_descr">
+		<text>我逃跑的时候把我的背包丢在沼泽里面了，不过我并不想去取回它。</text>
+	</string>
+	<string id="st_mar_nichka_0007">
+		<text>水中的保险箱</text>
+	</string>
+	<string id="st_mar_nichka_0007_descr">
+		<text>在倒掉的桥附近的水中有个保险箱，我把我的东西都藏在里面。</text>
+	</string>
+	<string id="st_mar_nichka_0008">
+		<text>杂草中的背包</text>
+	</string>
+	<string id="st_mar_nichka_0008_descr">
+		<text>我跟一群野猪战斗时弄丢了我的背包，应该丢在了杂草丛中，我不太记得了。</text>
+	</string>
+	<string id="st_mar_nichka_0009">
+		<text>一些异能石块</text>
+	</string>
+	<string id="st_mar_nichka_0009_descr">
+		<text>我骗了一些家伙的东西，然后暂时把它们藏在杂草里面，迟点我会来取回。</text>
+	</string>
+	<string id="st_mar_nichka_0010">
+		<text>大树附近的残干</text>
+	</string>
+	<string id="st_mar_nichka_0010_descr">
+		<text>我将东西藏在枯树旁边的残干中，当我离开沼泽地时我会去取回它。</text>
+	</string>
+	<string id="st_mar_nichka_0011">
+		<text>塔附近的原木</text>
+	</string>
+	<string id="st_mar_nichka_0011_descr">
+		<text>高压电塔附近的原木里藏着些东西。</text>
+	</string>
+	<string id="st_mar_nichka_0012">
+		<text>坟墓下的藏匿物</text>
+	</string>
+	<string id="st_mar_nichka_0012_descr">
+		<text>我把一些东西埋在一个坟墓下面，它上面附着一个面罩。</text>
+	</string>
+	<string id="st_mar_nichka_0013">
+		<text>坟墓下的藏匿物</text>
+	</string>
+	<string id="st_mar_nichka_0013_descr">
+		<text>在一个下雨天，我把一些东西埋在坟墓下面。</text>
+	</string>
+	<string id="st_mar_nichka_0014">
+		<text>木柴堆里的东西</text>
+	</string>
+	<string id="st_mar_nichka_0014_descr">
+		<text>主啊，请你帮我看护好这些东西，我把它们藏在木柴堆中的原木里了。</text>
+	</string>
+	<string id="st_mar_nichka_0015">
+		<text>草丛里的藏匿物</text>
+	</string>
+	<string id="st_mar_nichka_0015_descr">
+		<text>我把背包藏在教堂附近的杂草里面。我的PDA里有它的坐标。</text>
+	</string>
+	<string id="st_mar_nichka_0016">
+		<text>半掩埋的保险箱</text>
+	</string>
+	<string id="st_mar_nichka_0016_descr">
+		<text>我把东西藏在教堂附近沼泽地中的一个保险箱里。别去打它的主意，混蛋！</text>
+	</string>
+	<string id="st_mar_nichka_0017">
+		<text>炉子下面的背包</text>
+	</string>
+	<string id="st_mar_nichka_0017_descr">
+		<text>我把装满东西的背包藏在炉子下面。</text>
+	</string>
+	<string id="st_mar_nichka_0018">
+		<text>小车里的东西</text>
+	</string>
+	<string id="st_mar_nichka_0018_descr">
+		<text>我把一些东西藏在小车里面，看来我应该在白天去把它取回来。</text>
+	</string>
+	<string id="st_mar_nichka_0019">
+		<text>铁路旁边的残干</text>
+	</string>
+	<string id="st_mar_nichka_0019_descr">
+		<text>在通过铁路时我们听到枪声，以防万一，我把背包藏在一些石头后面的残干里。</text>
+	</string>
+	<string id="st_mar_nichka_0020">
+		<text>水塔的管子</text>
+	</string>
+	<string id="st_mar_nichka_0020_descr">
+		<text>我们把一些东西藏在管子里，它在沼泽地附近的水塔中。</text>
+	</string>
+	<string id="st_mar_nichka_0021">
+		<text>床垫附近的背包</text>
+	</string>
+	<string id="st_mar_nichka_0021_descr">
+		<text>利卡在小船中的床垫上睡着了，当他睡醒离开时忘记把背包也带上了。</text>
+	</string>
+	<string id="st_mar_nichka_0022">
+		<text>厨房里的箱子</text>
+	</string>
+	<string id="st_mar_nichka_0022_descr">
+		<text>我放了些东西在厨房的箱子里，晚点我就把它们拿出来卖掉。</text>
+	</string>
+	<string id="st_mar_nichka_0023">
+		<text>原木中的藏匿物</text>
+	</string>
+	<string id="st_mar_nichka_0023_descr">
+		<text>当我准备去沼泽内的另一个地区时，我把一些东西藏了在原木中，以后再来拿。</text>
+	</string>
+	<string id="st_mar_nichka_0024">
+		<text>控制板里的藏匿物</text>
+	</string>
+	<string id="st_mar_nichka_0024_descr">
+		<text>农场的变压器房里的控制板内有些东西。危险！离开！</text>
+	</string>
+	<string id="st_mar_nichka_0025">
+		<text>交通站台的电力控制器</text>
+	</string>
+	<string id="st_mar_nichka_0025_descr">
+		<text>当我加入组织时，我把一些东西藏在了交通站台的电力控制器中。迟早有一天会用得上的。</text>
+	</string>
+	<string id="st_mar_nichka_0026">
+		<text>足迹旁的背包</text>
+	</string>
+	<string id="st_mar_nichka_0026_descr">
+		<text>我看到了一些怪物的足迹。我马上取出我仅有的小刀，并且把我的背包扔下后就逃。后来一些人救了我，我还得回去把我的背包拿回来。</text>
+	</string>
+	<string id="st_mar_nichka_0027">
+		<text>大树旁边的残干</text>
+	</string>
+	<string id="st_mar_nichka_0027_descr">
+		<text>让那些傻瓜找去吧！没人会想到我把东西藏在残干里面！</text>
+	</string>
+	<string id="st_mar_nichka_0028">
+		<text>树后的保险箱</text>
+	</string>
+	<string id="st_mar_nichka_0028_descr">
+		<text>我把一些值钱的东西放在树后面的保险箱里。一旦有机会我就会把它取出来运到外面卖掉换钱帮我的孩子治病。</text>
+	</string>
+	<string id="st_mar_nichka_0029">
+		<text>灌木丛里的藏匿物</text>
+	</string>
+	<string id="st_mar_nichka_0029_descr">
+		<text>我用尽了全身的力气才走出沼泽，所以我不得不把我的东西扔到路边的灌木丛里以减轻我的负担。</text>
+	</string>
+	<string id="st_mar_nichka_0030">
+		<text>车底的藏匿物</text>
+	</string>
+	<string id="st_mar_nichka_0030_descr">
+		<text>桥对面的卡车底下有个小箱子。</text>
+	</string>
+	<string id="st_mar_nichka_0031">
+		<text>沼泽地中间的东西</text>
+	</string>
+	<string id="st_mar_nichka_0031_descr">
+		<text>我把一个小箱子藏在沼泽中间突出来的金属管里面。我会去取回它的。</text>
+	</string>
+	<string id="st_mar_nichka_0032">
+		<text>炉子里的小箱子</text>
+	</string>
+	<string id="st_mar_nichka_0032_descr">
+		<text>我的东西在一个小箱子里，小箱子就在炉子里，炉子在一栋烧毁的房子里，而房子在沼泽地里。</text>
+	</string>
+	<string id="st_mar_nichka_0033">
+		<text>草丛里的保险箱</text>
+	</string>
+	<string id="st_mar_nichka_0033_descr">
+		<text>我不知道为什么这个保险箱会在这里，不过我可以好好利用它。我把东西都藏在里面。</text>
+	</string>
+	<string id="st_mar_nichka_0034">
+		<text>沼泽里的树干</text>
+	</string>
+	<string id="st_mar_nichka_0034_descr">
+		<text>老大说我们不能带太多东西上路。所以我把一些东西藏在残干里，就在水塔附近，树下的草丛里。</text>
+	</string>
+	<string id="st_mar_nichka_0035">
+		<text>沼泽里的腐木</text>
+	</string>
+	<string id="st_mar_nichka_0035_descr">
+		<text>我在通过沼泽地时发现了这根腐木。我想它提供了一个给我藏东西的好地方。</text>
+	</string>
+	<string id="st_mar_nichka_0036">
+		<text>岛上的背包</text>
+	</string>
+	<string id="st_mar_nichka_0036_descr">
+		<text>这片沼泽地里到处都是怪物，我被它们追了好久。我跑得像跑马拉松一样，累坏了。我不得不把我的背包扔了，它实在太重了。</text>
+	</string>
+	<string id="st_mar_nichka_0037">
+		<text>站台的藏匿物</text>
+	</string>
+	<string id="st_mar_nichka_0037_descr">
+		<text>我把一些东西埋在站台附近，这样强盗就不能抢走它们了。</text>
+	</string>
+	<string id="st_mar_nichka_0038">
+		<text>管子里的东西</text>
+	</string>
+	<string id="st_mar_nichka_0038_descr">
+		<text>管子里面有个黑色的背包。是谁的呢？</text>
+	</string>
+	<string id="st_mar_nichka_0039">
+		<text>控制室里的小箱子</text>
+	</string>
+	<string id="st_mar_nichka_0039_descr">
+		<text>我在沼泽地里找到一个工具箱，然后把一些东西藏在里面，然后放到吊车的控制室里。以后会有用到它们的时候的。</text>
+	</string>
+	<string id="st_mar_nichka_0040">
+		<text>车厢下的背包</text>
+	</string>
+	<string id="st_mar_nichka_0040_descr">
+		<text>要离开了，但我的背包太重了。我只能把它扔在车厢下面。</text>
+	</string>
+	<string id="st_mar_nichka_0041">
+		<text>教堂的屋顶</text>
+	</string>
+	<string id="st_mar_nichka_0041_descr">
+		<text>我把背包藏在教堂的屋顶。</text>
+	</string>
+	<string id="st_mar_nichka_0042">
+		<text>桥下的东西</text>
+	</string>
+	<string id="st_mar_nichka_0042_descr">
+		<text>当我被一些家伙追杀时，我跑过一座桥，不小心把我的背包掉到桥下面去了。狗屎！里面可是有很多好东西的。</text>
+	</string>
+	<string id="st_mar_nichka_0043">
+		<text>石头的中间</text>
+	</string>
+	<string id="st_mar_nichka_0043_descr">
+		<text>我把背包扔在三块石头的中间。不然那些家伙会抢走它的。</text>
+	</string>
+	<string id="st_mar_nichka_0044">
+		<text>石头下面的树干</text>
+	</string>
+	<string id="st_mar_nichka_0044_descr">
+		<text>我一直在寻找一个好地方来藏匿我的东西。我终于找到了！我把东西藏在一些石头下面的树干里面。</text>
+	</string>
+	<string id="st_mil_cross_1">
+		<text>坟墓下的藏匿物</text>
+	</string>
+	<string id="st_mil_cross_1_descr">
+		<text>我把东西藏在坟墓下面。让它们就这样放着等到我来取回它们吧。</text>
+	</string>
+	<string id="st_mil_cross_2">
+		<text>树边的坟墓</text>
+	</string>
+	<string id="st_mil_cross_2_descr">
+		<text>我把东西藏在树边的坟墓下面。</text>
+	</string>
+	<string id="st_mil_instrument_case_01">
+		<text>炉子里的东西</text>
+	</string>
+	<string id="st_mil_instrument_case_01_descr">
+		<text>我把一些东西藏在废弃小屋的炉子里面。我必须把值钱的东西都藏好。</text>
+	</string>
+	<string id="st_mil_pipe_02">
+		<text>基地门口旁边的管子</text>
+	</string>
+	<string id="st_mil_pipe_02_descr">
+		<text>我把东西藏在他们眼皮底下。就在守卫房间后面的管子里面，基地门口旁边。</text>
+	</string>
+	<string id="st_mil_rucksack_01">
+		<text>烟囱附近的东西</text>
+	</string>
+	<string id="st_mil_rucksack_01_0000">
+		<text>小车里的藏匿物</text>
+	</string>
+	<string id="st_mil_rucksack_01_0000_descr">
+		<text>当麦斯回来时我得将这个背包交给他。在这之前，就让它呆在车里吧。</text>
+	</string>
+	<string id="st_mil_rucksack_01_descr">
+		<text>我把背包丢在了废弃小屋的烟囱旁边了。等那些吸血怪走了我再去取回它。</text>
+	</string>
+	<string id="st_mil_rucksack_02">
+		<text>拖车下的背包</text>
+	</string>
+	<string id="st_mil_rucksack_02_0000">
+		<text>桥下的东西</text>
+	</string>
+	<string id="st_mil_rucksack_02_0000_descr">
+		<text>背包在军事基地桥下的的车厢里。</text>
+	</string>
+	<string id="st_mil_rucksack_02_0001">
+		<text>地道的裂缝</text>
+	</string>
+	<string id="st_mil_rucksack_02_0001_descr">
+		<text>我把背包掉在地道的裂缝里面了，我想我得去取回它。</text>
+	</string>
+	<string id="st_mil_rucksack_02_0002">
+		<text>洗手间里的藏匿物</text>
+	</string>
+	<string id="st_mil_rucksack_02_0002_descr">
+		<text>我怀疑有人正在寻找村子里里的藏匿物，但是我不担心，因为只有我知道它藏在洗手间里面。</text>
+	</string>
+	<string id="st_mil_rucksack_02_0003">
+		<text>围墙旁的藏匿物</text>
+	</string>
+	<string id="st_mil_rucksack_02_0003_descr">
+		<text>我把可怜的克尔扬的背包扔在机库后面了。我厌烦了背着这个背包到处跑了。</text>
+	</string>
+	<string id="st_mil_rucksack_02_0004">
+		<text>树下的背包</text>
+	</string>
+	<string id="st_mil_rucksack_02_0004_descr">
+		<text>当时我看到那些怪物就在水塔旁边，我马上把我的背包扔在一棵倒了的大树旁，当时我想我要逃跑的话身上是越轻越好。</text>
+	</string>
+	<string id="st_mil_rucksack_02_0005">
+		<text>地下室里的背包</text>
+	</string>
+	<string id="st_mil_rucksack_02_0005_descr">
+		<text>我被辐射到了，现在我很不舒服。我把背包扔在地下室里，等我恢复以后我会来取回它的。</text>
+	</string>
+	<string id="st_mil_rucksack_02_0006">
+		<text>被遗忘的背包</text>
+	</string>
+	<string id="st_mil_rucksack_02_0006_descr">
+		<text>那场爆炸把一面墙炸成了碎片，一些甚至砸到了我头上 …这些该死的！我马上就拿起我的背包逃跑！可是当我逃出来时我才发现我拿的不是我的背包… 我想它应该还在那里。</text>
+	</string>
+	<string id="st_mil_rucksack_02_0007">
+		<text>厨房里的东西</text>
+	</string>
+	<string id="st_mil_rucksack_02_0007_descr">
+		<text>废弃村庄里的某座房子的厨房里有个绿色的背包。坐标已经记录。</text>
+	</string>
+	<string id="st_mil_rucksack_02_0008">
+		<text>石头下面的东西</text>
+	</string>
+	<string id="st_mil_rucksack_02_0008_descr">
+		<text>我把背包藏在了两块石头中间的草丛里。</text>
+	</string>
+	<string id="st_mil_rucksack_02_descr">
+		<text>我看见一个被异变点击倒的白痴把他的背包扔到拖车下面了。我要去看看才行。</text>
+	</string>
+	<string id="st_mil_trees_01_0001">
+		<text>石头下面的原木</text>
+	</string>
+	<string id="st_mil_trees_01_0001_descr">
+		<text>我发现石头旁边有根原木，我把东西藏在了里面。</text>
+	</string>
+	<string id="st_mil_trees_log_01">
+		<text>有洞的原木</text>
+	</string>
+	<string id="st_mil_trees_log_01_0000">
+		<text>农夫的机器里的藏匿物</text>
+	</string>
+	<string id="st_mil_trees_log_01_0000_descr">
+		<text>东西藏在农夫的机器旁边的大原木里面。</text>
+	</string>
+	<string id="st_mil_trees_log_01_0001">
+		<text>石头下面的原木</text>
+	</string>
+	<string id="st_mil_trees_log_01_0001_descr">
+		<text>我发现石头旁边有根原木，我把东西藏在了里面。</text>
+	</string>
+	<string id="st_mil_trees_log_01_descr">
+		<text>我把东西藏在倒了的塔旁边的松树下。</text>
+	</string>
+	<string id="st_mil_trees_stump_01">
+		<text>混凝土板后面的残干</text>
+	</string>
+	<string id="st_mil_trees_stump_01_0000">
+		<text>围墙旁边的残干</text>
+	</string>
+	<string id="st_mil_trees_stump_01_0000_descr">
+		<text>维特尤克告诉我他把我的那一份东西藏在军事基地跟沼泽地中间的一根残干里面。</text>
+	</string>
+	<string id="st_mil_trees_stump_01_0001">
+		<text>围墙旁边的残干</text>
+	</string>
+	<string id="st_mil_trees_stump_01_0001_descr">
+		<text>维特尤克告诉我他把我的那一份东西藏在军事基地跟沼泽地中间的一根残干里面。</text>
+	</string>
+	<string id="st_mil_trees_stump_01_descr">
+		<text>混凝土板下面有一根残干，就在两块石头中间。</text>
+	</string>
+	<string id="st_red_box_01_0000">
+		<text>蓝色的箱子</text>
+	</string>
+	<string id="st_red_box_01_0000_descr">
+		<text>我把东西装在一个蓝色箱子里面，然后把它藏在一栋房子的二楼。</text>
+	</string>
+	<string id="st_red_pipe_02">
+		<text>拖车上的管子</text>
+	</string>
+	<string id="st_red_pipe_02_descr">
+		<text>我把我的东西放进一根管子里，然后把它扔到废弃的拖车里面。</text>
+	</string>
+	<string id="st_red_rucksack_01">
+		<text>黑色的背包</text>
+	</string>
+	<string id="st_red_rucksack_01_1_0000">
+		<text>树枝上的背包</text>
+	</string>
+	<string id="st_red_rucksack_01_1_0000_descr">
+		<text>我爬到了树上，因为有只看不见的怪物在追我。我把背包放在树枝上，然后马上跳下去逃跑了。</text>
+	</string>
+	<string id="st_red_rucksack_01_descr">
+		<text>该死，我在跑出森林的时候把背包弄丢了。我不会回去寻找它，除非有人把那个鬼地方用炸弹炸到地狱去。</text>
+	</string>
+	<string id="st_red_rucksack_01_on_tree">
+		<text>围墙旁边的树</text>
+	</string>
+	<string id="st_red_rucksack_01_on_tree_descr">
+		<text>那该死的吸血怪追得我得爬到树上去！还好我把背包扔了，不然我肯定跳不过那些围墙。</text>
+	</string>
+	<string id="st_red_rucksack_01_under_stone_2">
+		<text>洞里的背包</text>
+	</string>
+	<string id="st_red_rucksack_01_under_stone_2_descr">
+		<text>一天晚上我爬到一个洞穴里面想好好睡一觉，进去后我就后悔了：有个吸血怪在看着我…它拉住我的背包，我以最快的速度扔掉背包，然后像条狗一样冲了出去，但是我的背包还留在吸血怪那边。</text>
+	</string>
+	<string id="st_red_rucksack_01_under_stone_3">
+		<text>山谷旁的石头</text>
+	</string>
+	<string id="st_red_rucksack_01_under_stone_3_descr">
+		<text>一群狗把我逼到了山谷边，所以我把背包扔在一些石头旁边，然后尝试突围。</text>
+	</string>
+	<string id="st_red_rucksack_02">
+		<text>灌木丛里的背包</text>
+	</string>
+	<string id="st_red_rucksack_02_0000">
+		<text>森林里的背包</text>
+	</string>
+	<string id="st_red_rucksack_02_0000_descr">
+		<text>我像变成了恐怖电影的主角，我在这里迷路了，还把我的背包弄丢了。我想我要先把它找回来。</text>
+	</string>
+	<string id="st_red_rucksack_02_0001">
+		<text>石头下面的背包</text>
+	</string>
+	<string id="st_red_rucksack_02_0001_descr">
+		<text>克尔扬的背包实在太重了，所以我把它扔在利曼斯克大桥附近的一些石头下面。</text>
+	</string>
+	<string id="st_red_rucksack_02_4">
+		<text>邪恶的物品</text>
+	</string>
+	<string id="st_red_rucksack_02_4_descr">
+		<text>这个背包有一个不寻常的背景！所有拿到它的人都死了！所以我把它扔了，以后也不想看到它。</text>
+	</string>
+	<string id="st_red_rucksack_02_5">
+		<text>奇怪的地方</text>
+	</string>
+	<string id="st_red_rucksack_02_5_descr">
+		<text>一天晚上我抱着我的背包靠在石头上睡着了，第二天早上醒来，我发现我居然在一个完全不知道的地方！我希望找到那些石头和我的背包，但是好像有什么东西把我困住了。</text>
+	</string>
+	<string id="st_red_rucksack_02_6">
+		<text>石头堆下的背包</text>
+	</string>
+	<string id="st_red_rucksack_02_6_descr">
+		<text>在红森林的出口，一些石头从山谷掉下来并落在我面前，这时石头后面好像有什么东西向我伸来，我不得不把背包扔在一遍然后自己逃跑了。</text>
+	</string>
+	<string id="st_red_rucksack_02_descr">
+		<text>我在通过灌木丛的时候把我的背包弄丢了。</text>
+	</string>
+	<string id="st_red_rucksack_02_in_stone">
+		<text>遗失的背包</text>
+	</string>
+	<string id="st_red_rucksack_02_in_stone_descr">
+		<text>那个白痴亚伯把我的背包丢在一些石头里面，现在他又不敢回去取回它。他可真是我的 "好朋友" 。</text>
+	</string>
+	<string id="st_red_rucksack_02_in_tonnel">
+		<text>雷区中的藏匿物</text>
+	</string>
+	<string id="st_red_rucksack_02_in_tonnel_descr">
+		<text>我把一些异能石块藏在一个废弃雷区的深处。</text>
+	</string>
+	<string id="st_red_sekret_trees_stump_01_0000">
+		<text>迷失的残干</text>
+	</string>
+	<string id="st_red_sekret_trees_stump_01_0000_descr">
+		<text>我在红森林里面迷了路。我把东西都塞在残干的洞里，如果我能出去的话一定会回来拿的。</text>
+	</string>
+	<string id="st_red_trees_log_01">
+		<text>树洞里的东西</text>
+	</string>
+	<string id="st_red_trees_log_01_descr">
+		<text>在去利曼斯克的路上，我把一些东西藏在倒下的树的洞里，就在保护区的出口不远处。</text>
+	</string>
+	<string id="st_red_trees_stump_01">
+		<text>残干上的洞</text>
+	</string>
+	<string id="st_red_trees_stump_01_0000">
+		<text>森林前面的残干</text>
+	</string>
+	<string id="st_red_trees_stump_01_0000_descr">
+		<text>我们不知道森林里有什么在等着我们，所以我们把一些东西先放在腐木里面。</text>
+	</string>
+	<string id="st_red_trees_stump_01_2_0000">
+		<text>山谷附近的残干</text>
+	</string>
+	<string id="st_red_trees_stump_01_2_0000_descr">
+		<text>我们把一些东西放在异变点旁。我们的目标就是这个异变点，它有异常的威力，所以它里面一定会产生一些很值钱的异能石块。</text>
+	</string>
+	<string id="st_red_trees_stump_01_3">
+		<text>残干里的东西</text>
+	</string>
+	<string id="st_red_trees_stump_01_3_descr">
+		<text>西瓦告诉我红森林里面有一根装有东西的残干。我们必须找到它看看有什么东西藏在里面。</text>
+	</string>
+	<string id="st_red_trees_stump_01_4">
+		<text>树干中的藏匿物</text>
+	</string>
+	<string id="st_red_trees_stump_01_4_descr">
+		<text>我们把一些东西藏在红森林某个地方的树干里。</text>
+	</string>
+	<string id="st_red_trees_stump_01_7">
+		<text>山谷附近的残干</text>
+	</string>
+	<string id="st_red_trees_stump_01_7_descr">
+		<text>我在山谷附近发现了这根残干，顺便把一些东西藏在了里面。</text>
+	</string>
+	<string id="st_red_trees_stump_01_descr">
+		<text>我听到了一些可怕的叫声，我马上把我的东西藏在旁边的残干里然后逃跑了。</text>
+	</string>
+	<string id="st_red_zaz968">
+		<text>矿井入口附近的小车</text>
+	</string>
+	<string id="st_red_zaz968_descr">
+		<text>我把一些东西藏在矿井入口附近的小车的座位下。等晚点去会见西德洛维奇的时候再回来取回它。</text>
+	</string>
+	<string id="st_val_seif_02">
+		<text>农场里的保险箱</text>
+	</string>
+	<string id="st_yan_trees_log_01_0001">
+		<text>车库后的原木</text>
+	</string>
+	<string id="st_yan_trees_log_01_0001_descr">
+		<text>我把一些东西藏在车库旁边的原木里，就在杨塔的工厂附近。</text>
+	</string>
+	<string id="val_equipment_rucksack_01_02">
+		<text>松树下的藏匿物</text>
+	</string>
+	<string id="val_equipment_rucksack_01_02_descr">
+		<text>我把东西藏在松树下面的管子里，就在离沼泽地不远处。</text>
+	</string>
+	<string id="esc_treasure_weapon_prisoner_descr">
+		<text>一个隐藏在水泥管下面的保险箱。我把一些东西藏在了里面。</text>
+	</string>
+	<string id="esc_treasure_weapon_prisoner_name">
+		<text>少校的藏匿物</text>
+	</string>
+	<string id="gar_treasure_quest_digger_reward">
+		<text>老旧的藏匿物</text>
+	</string>
+	<string id="gar_treasure_quest_digger_reward_descr">
+		<text>一群强盗把他们的东西藏在了这里。</text>
+	</string>
+	<string id="gar_treasure_quest_old_pda">
+		<text>工具箱</text>
+	</string>
+	<string id="gar_treasure_quest_old_pda_descr">
+		<text>工具箱的夹层里有一部旧PDA。</text>
+	</string>
+	<string id="gar_treasure_quest_reward_in_anomaly">
+		<text>异变点里的藏匿物</text>
+	</string>
+	<string id="gar_treasure_quest_reward_in_anomaly_descr">
+		<text>如果尤加没说谎的话，那个异变点里面有一把奇特的枪。</text>
+	</string>
+	<string id="gar_treasure_quest_smuggler_weapons">
+		<text>汽车行李箱</text>
+	</string>
+	<string id="gar_treasure_quest_smuggler_weapons_descr">
+		<text>似乎有一群走私者把他们的东西藏在了这里。</text>
+	</string>
+	<string id="st_esc_seif_03_0000_descr">
+		<text>吉尔把他的东西藏在了保险箱里面，就在封锁线的营地里。</text>
+	</string>
+	<string id="st_mar_q_n_10">
+		<text>沼泽里的藏匿物</text>
+	</string>
+	<string id="st_mar_q_n_10_descr">
+		<text>有些贵重的东西藏在了沼泽地中的再循环工厂里。不管怎么样，它现在是你的了。</text>
+	</string>
+	<string id="st_mar_q_n_11">
+		<text>装着现金的保险箱</text>
+	</string>
+	<string id="st_mar_q_n_11_descr">
+		<text>这把钥匙能够打开那个装着现金的保险箱。</text>
+	</string>
+	<string id="st_mar_q_n_12">
+		<text>赏金</text>
+	</string>
+	<string id="st_mar_q_n_12_descr">
+		<text>我们把属于你的那部分赏金放在这里了。你有空就自己过来拿。</text>
+	</string>
+	<string id="st_mar_q_n_13">
+		<text>小箱子</text>
+	</string>
+	<string id="st_mar_q_n_13_descr">
+		<text>如果是那样的话，这个是一个藏着好东西的箱子的坐标。你可以在一个大箱子后面找到它，就在墙旁边。</text>
+	</string>
+	<string id="st_mar_q_n_14">
+		<text>桥下的保险箱</text>
+	</string>
+	<string id="st_mar_q_n_14_descr">
+		<text>桥下有个保险箱，里面装着什么呢？</text>
+	</string>
+	<string id="st_mar_q_n_6">
+		<text>装着现金的背包</text>
+	</string>
+	<string id="st_mar_q_n_6_descr">
+		<text>我把一个装满现金的背包的坐标上传到你PDA了，看你能不能找到它。</text>
+	</string>
+	<string id="st_mar_q_n_7">
+		<text>密码锁保险箱</text>
+	</string>
+	<string id="st_mar_q_n_7_descr">
+		<text>有些好东西藏在沼泽地中的保险箱里。</text>
+	</string>
+	<string id="st_mar_q_n_8">
+		<text>报酬的藏匿点</text>
+	</string>
+	<string id="st_mar_q_n_8_descr">
+		<text>你可以在一些石头下面找到一个黑色的背包。如果能找到它，它就是你的了。</text>
+	</string>
+	<string id="st_mar_q_n_9">
+		<text>塔里的小箱子</text>
+	</string>
+	<string id="st_mar_q_n_9_descr">
+		<text>有人告诉我塔下有个箱子，里面藏着好东西。</text>
+	</string>
+	<string id="st_mar_q_t_a_15">
+		<text>士兵的背包</text>
+	</string>
+	<string id="st_mar_q_t_a_15_descr">
+		<text>你得到的将会比你付出的多得多。去找到它，就藏在士兵尸体旁边的背包里面。</text>
+	</string>
+	<string id="st_mar_q_t_a_3">
+		<text>额外的麻烦</text>
+	</string>
+	<string id="st_mar_q_t_a_3_descr">
+		<text>去找到死去士兵的背包。你会在里面找到一些好东西。</text>
+	</string>
+	<string id="st_mar_q_t_l_16">
+		<text>难以置信的奖赏</text>
+	</string>
+	<string id="st_mar_q_t_l_16_descr">
+		<text>我会给你有价值的情报的，虽然找到它有点困难。路上保持警觉，上次有个家伙没听我的忠告，结果他就再也没有回来了。</text>
+	</string>
+	<string id="st_mar_q_t_l_1">
+		<text>尸体上的背包</text>
+	</string>
+	<string id="st_mar_q_t_l_1_descr">
+		<text>这个背包掉在了尸体的旁边。</text>
+	</string>
+	<string id="st_mar_q_t_l_2">
+		<text>伞兵</text>
+	</string>
+	<string id="st_mar_q_t_l_2_descr">
+		<text>去找到这个坐标中的背包。那里面藏着给你的报酬。</text>
+	</string>
+	<string id="st_mar_q_t_l_4">
+		<text>战士的尸体</text>
+	</string>
+	<string id="st_mar_q_t_l_4_descr">
+		<text>一个年轻的战士在这里长眠，并为你守护着这个背包。</text>
+	</string>
+	<string id="st_mar_q_t_l_5">
+		<text>管道下的背包</text>
+	</string>
+	<string id="st_mar_q_t_l_5_descr">
+		<text>记住这个坐标，那里有一个背包，就在管道下面，一个独行者的尸体旁边。</text>
+	</string>
+	<string id="st_esc_q10_n">
+		<text>铁丝网旁边的残干</text>
+	</string>
+	<string id="st_esc_q10_n_descr">
+		<text>去吧兄弟，去取回你的报酬，就在铁丝网附近的残干里面。</text>
+	</string>
+	<string id="st_esc_q1_n">
+		<text>绿色的箱子</text>
+	</string>
+	<string id="st_esc_q1_n_descr">
+		<text>我特别为你准备了这些东西。就放在在封锁线的边缘的一个军用箱子里面。</text>
+	</string>
+	<string id="st_esc_q2_n">
+		<text>小背包</text>
+	</string>
+	<string id="st_esc_q2_n_descr">
+		<text>这是我其中一个藏匿物品的地方的坐标，找到它，里面的东西就是你的了。</text>
+	</string>
+	<string id="st_esc_q3_t_l">
+		<text>通往沼泽地的路</text>
+	</string>
+	<string id="st_esc_q3_t_l_descr">
+		<text>你给我钱，我给你信息，你得自己去找它，就在通往沼泽地的路上，一具尸体旁边。</text>
+	</string>
+	<string id="st_esc_q4_t_a">
+		<text>给英雄的奖励</text>
+	</string>
+	<string id="st_esc_q4_t_a_descr">
+		<text>一个独行者的尸体旁边有个背包。找到它，就在旧电车附近。</text>
+	</string>
+	<string id="st_esc_q5_n">
+		<text>补偿金</text>
+	</string>
+	<string id="st_esc_q5_n_descr">
+		<text>你可以靠这个坐标找到一些东西，就藏在树下的一个背包里面。</text>
+	</string>
+	<string id="st_esc_q6_n">
+		<text>藏匿物的讯息</text>
+	</string>
+	<string id="st_esc_q6_n_descr">
+		<text>我把东西藏在配电盘里面，去找到它，那里已经没有电力了。不过我不知道那边会不会有异变点。</text>
+	</string>
+	<string id="st_esc_q7_n">
+		<text>车厢下的东西</text>
+	</string>
+	<string id="st_esc_q7_n_descr">
+		<text>车厢下的箱子里装着一些好东西。</text>
+	</string>
+	<string id="st_esc_q8_n">
+		<text>坟墓下的藏匿物</text>
+	</string>
+	<string id="st_esc_q8_n_descr">
+		<text>挖坟是不对的，但是我把我的东西埋在了一个假的坟墓里，所以你不必担心会打扰到那些死人。</text>
+	</string>
+	<string id="st_esc_q9_t_a">
+		<text>废弃车库后面的箱子</text>
+	</string>
+	<string id="st_esc_q9_t_a_descr">
+		<text>我告诉你一个装着好东西的箱子的消息，它就在封锁线的废弃车库后面，注意旁边有个异变点。这是个新手发现的，不过不用在乎他了，他已经死了。</text>
+	</string>
+	<string id="st_gar_q10_n">
+		<text>废弃区边缘的残干</text>
+	</string>
+	<string id="st_gar_q10_n_descr">
+		<text>好吧，我给你一些提示，去废弃区边缘的残干里找到你的补偿金。</text>
+	</string>
+	<string id="st_gar_q1_n">
+		<text>吊车里的背包</text>
+	</string>
+	<string id="st_gar_q1_n_descr">
+		<text>一个背包被藏在了废弃的吊车里。</text>
+	</string>
+	<string id="st_gar_q2_n">
+		<text>管子里的藏匿物</text>
+	</string>
+	<string id="st_gar_q2_n_descr">
+		<text>我把一些钱和东西藏在管子里。你们谁也别想打它主意！</text>
+	</string>
+	<string id="st_gar_q3_n">
+		<text>废弃工具里的配电盘</text>
+	</string>
+	<string id="st_gar_q3_n_descr">
+		<text>前些日子我找到了这个藏东西的好地方并把一些好东西藏在了里面。</text>
+	</string>
+	<string id="st_gar_q4_n">
+		<text>污染废弃物里的小箱子</text>
+	</string>
+	<string id="st_gar_q4_n_descr">
+		<text>我给你一个藏着好东西的小箱子的坐标。穿好防护服再过去找它，否则那里的辐射会把你烤熟的。</text>
+	</string>
+	<string id="st_gar_q5_n">
+		<text>推土机旁边的箱子</text>
+	</string>
+	<string id="st_gar_q5_n_descr">
+		<text>你会在推土机旁边的箱子里找到一些基地里面才有卖的好东西。</text>
+	</string>
+	<string id="st_gar_q6_t_l">
+		<text>不幸者的背包</text>
+	</string>
+	<string id="st_gar_q6_t_l_descr">
+		<text>我想你不会怕鬼吧。去，找到这个背包，就在一具尸体旁边。</text>
+	</string>
+	<string id="st_gar_q7_t_l">
+		<text>打洞机旁的尸体</text>
+	</string>
+	<string id="st_gar_q7_t_l_descr">
+		<text>那可怜的小男孩死在了翻倒的打洞机旁边。去看看他背包里有什么？</text>
+	</string>
+	<string id="st_gar_q8_t_a">
+		<text>废弃区的尸体</text>
+	</string>
+	<string id="st_gar_q8_t_a_descr">
+		<text>一个被异变点杀死的家伙有个背包，里面装着些好东西。</text>
+	</string>
+	<string id="st_gar_q9_n">
+		<text>去农业研究所的路上</text>
+	</string>
+	<string id="st_gar_q9_n_descr">
+		<text>一个小箱子被藏在了去农业研究所的路上的一部小车里面。</text>
+	</string>
+	<string id="st_val_q10_n">
+		<text>机库里的保险箱</text>
+	</string>
+	<string id="st_val_q10_n_descr">
+		<text>旧工厂里面有个保险箱，保险箱里面有一堆好东西在等你去拿。</text>
+	</string>
+	<string id="st_val_q11_t_l">
+		<text>石头旁边的尸体</text>
+	</string>
+	<string id="st_val_q11_t_l_descr">
+		<text>石头旁边的尸体上有个背包，里面藏着些东西。</text>
+	</string>
+	<string id="st_val_q1_n">
+		<text>水塔下面</text>
+	</string>
+	<string id="st_val_q1_n_descr">
+		<text>我的东西，等等，应该说现在是你的东西了，它藏在水塔下面的背包里。</text>
+	</string>
+	<string id="st_val_q2_n">
+		<text>松树旁边的灌木丛</text>
+	</string>
+	<string id="st_val_q2_n_descr">
+		<text>从一次幸运的旅行回来后，我把一些东西藏在灌木丛里面，现在就去找到它吧。</text>
+	</string>
+	<string id="st_val_q3_t_a">
+		<text>士兵的尸体</text>
+	</string>
+	<string id="st_val_q3_t_a_descr">
+		<text>记下这些关键字：非常贵重 - 背包 - 不幸的士兵 - 异变点旁边。</text>
+	</string>
+	<string id="st_val_q4_n">
+		<text>灌木丛里的东西</text>
+	</string>
+	<string id="st_val_q4_n_descr">
+		<text>记住这个坐标，去那里找到我藏匿着的东西。</text>
+	</string>
+	<string id="st_val_q5_n">
+		<text>自由团基地的保险箱</text>
+	</string>
+	<string id="st_val_q5_n_descr">
+		<text>自由团基地里有个保险箱，里面放着一些贵重的物品。</text>
+	</string>
+	<string id="st_val_q6_n">
+		<text>塔顶部的箱子</text>
+	</string>
+	<string id="st_val_q6_n_descr">
+		<text>在自由团基地附近的塔顶部有个蓝色箱子，里面装着一些会让你满意的东西。</text>
+	</string>
+	<string id="st_val_q7_n">
+		<text>独行者的坟墓</text>
+	</string>
+	<string id="st_val_q7_n_descr">
+		<text>老树旁边的独行者墓地下埋着一些东西。</text>
+	</string>
+	<string id="st_val_q8_n">
+		<text>座位下面的箱子</text>
+	</string>
+	<string id="st_val_q8_n_descr">
+		<text>在车子的司机座位下面你会发现一个箱子，里面的东西我可不知道你会不会喜欢。</text>
+	</string>
+	<string id="st_val_q9_n">
+		<text>围墙旁边的残干</text>
+	</string>
+	<string id="st_val_q9_n_descr">
+		<text>我把一些东西藏在围墙旁边的残干里面了。</text>
+	</string>
+	<string id="st_agr_q10_t_l">
+		<text>异变点附近的东西</text>
+	</string>
+	<string id="st_agr_q10_t_l_descr">
+		<text>这个不幸的士兵跑进异变点了，但他的背包还在那里，里面装着他从独行者手里抢来的东西。如果你足够幸运的话，你可以去拿走它。</text>
+	</string>
+	<string id="st_agr_q1_n">
+		<text>铁丝网附近的围墙</text>
+	</string>
+	<string id="st_agr_q1_n_descr">
+		<text>我告诉你一个藏匿点的讯息 - 一个独行者的背包掉在围墙附近。你可以把那座塔当成坐标。</text>
+	</string>
+	<string id="st_agr_q2_n">
+		<text>倒下的大树下面</text>
+	</string>
+	<string id="st_agr_q2_n_descr">
+		<text>不好意思，我们在辐射区里没有存放东西的库房！所以你最好快点去把藏在树下面的东西拿走，你不去别人也会去的。</text>
+	</string>
+	<string id="st_agr_q3_t_a">
+		<text>高辐射区里的尸体</text>
+	</string>
+	<string id="st_agr_q3_t_a_descr">
+		<text>你想要的东西在我手上。你想要的话也可以，去高辐射区里面找吧，就在一具尸体旁边。</text>
+	</string>
+	<string id="st_agr_q4_n">
+		<text>坟墓上的圆筒</text>
+	</string>
+	<string id="st_agr_q4_n_descr">
+		<text>荣誉的价值比钱更高。所以还是把坟墓上门的圆筒里的东西拿走吧。</text>
+	</string>
+	<string id="st_agr_q5_n">
+		<text>围墙的角落</text>
+	</string>
+	<string id="st_agr_q5_n_descr">
+		<text>沃卡没能从上次辐射风暴中逃走。好走，兄弟！我会把你藏在围墙角落旁边的残干里的东西拿走的。哈哈！</text>
+	</string>
+	<string id="st_agr_q6_n">
+		<text>配电盘</text>
+	</string>
+	<string id="st_agr_q6_n_descr">
+		<text>我的物品藏匿点，啊，不好意思，现在是你的了 - 我把它藏在纪律团基地的配电盘里。</text>
+	</string>
+	<string id="st_agr_q7_n">
+		<text>大树旁边的树洞</text>
+	</string>
+	<string id="st_agr_q7_n_descr">
+		<text>前些日子我的朋友告诉我一些我的敌人的物品藏匿点的讯息，你想不想去拿光里面的东西呢？</text>
+	</string>
+	<string id="st_agr_q8_t_a">
+		<text>车里的尸体</text>
+	</string>
+	<string id="st_agr_q8_t_a_descr">
+		<text>那帮士兵明显超速驾驶了，更重要的是他们把车开进了异变点，哈哈！现在他们的东西是你的了！</text>
+	</string>
+	<string id="st_agr_q9_n">
+		<text>半埋的保险箱</text>
+	</string>
+	<string id="st_agr_q9_n_descr">
+		<text>我把一个放满我的东西的保险箱半埋在山谷的底部。现在看来它是你的了。</text>
+	</string>
+	<string id="st_agru_q1_n">
+		<text>阶梯下的藏匿物</text>
+	</string>
+	<string id="st_agru_q1_n_descr">
+		<text>我把东西藏在这里，到阶梯的地下层去找它吧。</text>
+	</string>
+	<string id="st_agru_q2_n">
+		<text>地下室的箱子</text>
+	</string>
+	<string id="st_agru_q2_n_descr">
+		<text>在阶梯的底部你会找到一个装满好东西的箱子。不过请小心别惊动那些住在地下室的家伙。</text>
+	</string>
+	<string id="st_agru_q3_t_a">
+		<text>地下室</text>
+	</string>
+	<string id="st_agru_q3_t_a_descr">
+		<text>一个白痴士兵死在了农业研究所的地下，他冲进了异变点，现在你可以去那里取得他的背包，当然你别也冲进异变点才行。</text>
+	</string>
+	<string id="st_agru_q4_n">
+		<text>管子里的藏匿物</text>
+	</string>
+	<string id="st_agru_q4_n_descr">
+		<text>我从其他独行者的PDA里取得了他们在农业研究所地下的物品藏匿点的讯息。记住它的坐标。</text>
+	</string>
+	<string id="st_yan_q8_t_l">
+		<text>湖里的尸体</text>
+	</string>
+	<string id="st_yan_q8_t_l_descr">
+		<text>找到那个正在湖里 "游泳" 的士兵的背包。</text>
+	</string>
+	<string id="st_yan_q1_n">
+		<text>锅炉房顶部的箱子</text>
+	</string>
+	<string id="st_yan_q1_n_descr">
+		<text>锅炉房的顶部有个小箱子，只不过那里有许多僵尸，小心点。</text>
+	</string>
+	<string id="st_yan_q2_n">
+		<text>车厢里的箱子</text>
+	</string>
+	<string id="st_yan_q2_n_descr">
+		<text>去工厂的车厢里面找到那个装着东西的箱子，然后你会知道怎么做的。</text>
+	</string>
+	<string id="st_yan_q3_t_l">
+		<text>排水管旁边的背包</text>
+	</string>
+	<string id="st_yan_q3_t_l_descr">
+		<text>找到排水管旁边的背包，里面的东西我们平分。你可以很容易地找到那里，就在一具尸体旁边。</text>
+	</string>
+	<string id="st_yan_q4_n">
+		<text>科学家基地的箱子</text>
+	</string>
+	<string id="st_yan_q4_n_descr">
+		<text>在科学家基地里的小车内找到藏匿着东西的箱子并拿走所有东西。</text>
+	</string>
+	<string id="st_yan_q5_n">
+		<text>配电盘</text>
+	</string>
+	<string id="st_yan_q5_n_descr">
+		<text>工厂里的小房间里面有个箱子，我把坐标传给你了。</text>
+	</string>
+	<string id="st_yan_q6_n">
+		<text>水塔的钟型口</text>
+	</string>
+	<string id="st_yan_q6_n_descr">
+		<text>工厂里的水塔的钟型口里藏着些东西。我不知道里面有什么。</text>
+	</string>
+	<string id="st_yan_q7_n">
+		<text>货车的控制室</text>
+	</string>
+	<string id="st_yan_q7_n_descr">
+		<text>你会在货车的控制室里面找到一些藏匿物的。拿走它们。</text>
+	</string>
+	<string id="st_yan_q9_n">
+		<text>科学家营地对面的残干</text>
+	</string>
+	<string id="st_yan_q9_n_descr">
+		<text>在科学家营地对面有一根藏匿着好东西的残干。</text>
+	</string>
+	<string id="st_red_q10_n">
+		<text>矿井里的管子</text>
+	</string>
+	<string id="st_red_q10_n_descr">
+		<text>我确信那里一定藏匿着些什么值钱的东西，就在红森林里面。</text>
+	</string>
+	<string id="st_red_q1_t_l">
+		<text>死去的独行者</text>
+	</string>
+	<string id="st_red_q1_t_l_descr">
+		<text>我发现了一部死去独行者的PDA，里面有一些关于藏匿物的讯息。这是它的坐标。</text>
+	</string>
+	<string id="st_red_q2_t_a">
+		<text>危险的藏匿点</text>
+	</string>
+	<string id="st_red_q2_t_a_descr">
+		<text>我早就派了些白痴去找这个藏匿点了，不过我知道他们没法得到它，大部分人都被异变点杀死了。</text>
+	</string>
+	<string id="st_red_q3_n">
+		<text>红色的管道</text>
+	</string>
+	<string id="st_red_q3_n_descr">
+		<text>有些东西被藏在管道系统的红色管道后面了。不过我对此不感兴趣。</text>
+	</string>
+	<string id="st_red_q4_n">
+		<text>巴士</text>
+	</string>
+	<string id="st_red_q4_n_descr">
+		<text>我的一个朋友把一些东西藏在巴士的后座里，他不再跟我们一起了，不过我想他不会介意你去拿走这些东西的。</text>
+	</string>
+	<string id="st_red_q5_n">
+		<text>石块中的管子</text>
+	</string>
+	<string id="st_red_q5_n_descr">
+		<text>一个战俘告诉我这个讯息- 在装甲车后面的石块中有一根管子，里面藏着些东西。</text>
+	</string>
+	<string id="st_red_q6_n">
+		<text>箱子里的背包</text>
+	</string>
+	<string id="st_red_q6_n_descr">
+		<text>记住，东西在背包里，背包在箱子里，箱子在桥附近，桥在红森林的另一面。</text>
+	</string>
+	<string id="st_red_q7_t_a">
+		<text>可怜人的背包</text>
+	</string>
+	<string id="st_red_q7_t_a_descr">
+		<text>一个可怜的家伙把他的背包遗失在红森林了，如果你能找到它，那里面的东西就是你的了。</text>
+	</string>
+	<string id="st_red_q8_n">
+		<text>电车附近的保险箱</text>
+	</string>
+	<string id="st_red_q8_n_descr">
+		<text>我可不是胡说的，一些家伙把他们的贵重物品藏在一个保险箱里，就在翻掉的电车附近。</text>
+	</string>
+	<string id="st_red_q9_n">
+		<text>残干里的东西</text>
+	</string>
+	<string id="st_red_q9_n_descr">
+		<text>有些好东西藏在残干的洞里。那里是个不显眼的地方，如果我不给你坐标的话你是不可能找到它的。</text>
+	</string>
+	<string id="st_mil_q10_n">
+		<text>森林里的藏匿物</text>
+	</string>
+	<string id="st_mil_q10_n_descr">
+		<text>一个背包被藏在森林里的石头下面，希望找到它的人不是坏人。</text>
+	</string>
+	<string id="st_mil_q1_t_l">
+		<text>尸体下的背包</text>
+	</string>
+	<string id="st_mil_q1_t_l_descr">
+		<text>它可能不是一个藏匿点，但是我想那背包里面有许多值钱的东西，就在水塔上。</text>
+	</string>
+	<string id="st_mil_q2_n">
+		<text>倒了的树下的藏匿物</text>
+	</string>
+	<string id="st_mil_q2_n_descr">
+		<text>在那棵倒了的树下面，应该藏着些什么东西。</text>
+	</string>
+	<string id="st_mil_q3_n">
+		<text>外婆的保险箱</text>
+	</string>
+	<string id="st_mil_q3_n_descr">
+		<text>我不知道这个保险箱为什么会在炉子上面，不过它里面应该有东西。</text>
+	</string>
+	<string id="st_mil_q4_n">
+		<text>坟墓下的藏匿物</text>
+	</string>
+	<string id="st_mil_q4_n_descr">
+		<text>我保证你马上会变得富有，假如你找到了埋在那坟墓下面的东西。</text>
+	</string>
+	<string id="st_mil_q5_n">
+		<text>军事基地的箱子</text>
+	</string>
+	<string id="st_mil_q5_n_descr">
+		<text>如果你潜入了军事基地，你可以在一个阁楼中找到一个箱子，里面有许多好东西。</text>
+	</string>
+	<string id="st_mil_q6_n_a">
+		<text>保险箱里的东西</text>
+	</string>
+	<string id="st_mil_q6_n_a_descr">
+		<text>我的情报显示兵营里的保险箱里有不少好东西。</text>
+	</string>
+	<string id="st_mil_q7_n_a">
+		<text>小保险箱</text>
+	</string>
+	<string id="st_mil_q7_n_a_descr">
+		<text>耶第谢夫队长总是把这个小保险箱带在身边，直到他最近被调动去其他地方。你为什么不看看有什么东西在里面呢？</text>
+	</string>
+	<string id="st_mil_q8_n_a">
+		<text>废弃物中的藏匿物</text>
+	</string>
+	<string id="st_mil_q8_n_a_descr">
+		<text>杰瓦故意把他的东西藏在了一堆废弃物中，我偷偷在地点做了些标记，现在我把坐标传给你。</text>
+	</string>
+	<string id="st_mil_q9_n_a">
+		<text>神秘的箱子</text>
+	</string>
+	<string id="st_mil_q9_n_a_descr">
+		<text>在军车控制室下面有个箱子，里面藏着一些神秘的东西。</text>
+	</string>
+</string_table>

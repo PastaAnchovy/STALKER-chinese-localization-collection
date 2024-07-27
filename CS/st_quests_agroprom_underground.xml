@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="Unicode" ?>
+<string_table>
+	<string id="agru_find_secret_task_name">
+		<text>找到潜行者小队的隐藏点</text>
+	</string>
+	<string id="agru_find_secret_task_text">
+		<text>在农业研究所地下设施里，藏有一个属于一群曾到达特异区中心的潜行者的隐藏点。这些潜行者们利用此处作为信息交换场所。你必须找到隐藏点以及那个联系用的PDA。</text>
+	</string>
+	<string id="agru_go_out_end_task_name">
+		<text>离开地下</text>
+	</string>
+	<string id="agru_go_out_end_task_text">
+		<text>从地下脱出。</text>
+	</string>
+	<string id="agru_go_out_task_name">
+		<text>离开进水的地区。</text>
+	</string>
+	<string id="agru_go_out_task_text">
+		<text>紧急用水倾倒启动。下部楼层将被淹没。请离开进水区域。</text>
+	</string>
+	<string id="agru_leader_dolg_task_name">
+		<text>用水淹没地下区域</text>
+	</string>
+	<string id="agru_leader_dolg_task_text">
+		<text>那里有一个老式的抽水站，用于将地表水抽入地下。你必须找到抽水站的控制面板并将水库里的水放出来。这样就能将地下淹没。</text>
+	</string>
+	<string id="agru_destroy_monsters_task_name">
+		<text>干掉异变怪物</text>
+	</string>
+	<string id="agru_destroy_monsters_task_text">
+		<text>干掉那些阻挡你前往抽水站控制室的异变怪物。</text>
+	</string>
+</string_table>

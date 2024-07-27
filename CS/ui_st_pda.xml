@@ -1,0 +1,684 @@
+﻿<?xml version="1.0" encoding="Unicode" ?>
+<string_table>
+	<string id="Global Map">
+		<text>全局地图</text>
+	</string>
+	<string id="Local Map">
+		<text>局部图</text>
+	</string>
+	<string id="Time">
+		<text>时间</text>
+	</string>
+	<string id="actor">
+		<text>佣兵团</text>
+	</string>
+	<string id="actor_bandit">
+		<text>强盗</text>
+	</string>
+	<string id="actor_csky">
+		<text>晴空组织</text>
+	</string>
+	<string id="actor_dolg">
+		<text>纪律团</text>
+	</string>
+	<string id="actor_freedom">
+		<text>自由团</text>
+	</string>
+	<string id="actor_stalker">
+		<text>独行者</text>
+	</string>
+	<string id="agroprom">
+		<text>农业研究所</text>
+	</string>
+	<string id="arena_enemy">
+		<text>敌人</text>
+	</string>
+	<string id="army">
+		<text>军队</text>
+	</string>
+	<string id="bandit">
+		<text>强盗</text>
+	</string>
+	<string id="csky">
+		<text>晴空组织</text>
+	</string>
+	<string id="darkvalley">
+		<text>黑暗山谷</text>
+	</string>
+	<string id="dolg">
+		<text>纪律团</text>
+	</string>
+	<string id="ecolog">
+		<text>科学家</text>
+	</string>
+	<string id="escape">
+		<text>前哨站</text>
+	</string>
+	<string id="freedom">
+		<text>自由团</text>
+	</string>
+	<string id="garbage">
+		<text>废弃区</text>
+	</string>
+	<string id="katacomb">
+		<text>荒废的医院</text>
+	</string>
+	<string id="killer">
+		<text>佣兵团</text>
+	</string>
+	<string id="limansk">
+		<text>利曼斯克</text>
+	</string>
+	<string id="marsh">
+		<text>沼泽</text>
+	</string>
+	<string id="military">
+		<text>军方仓库</text>
+	</string>
+	<string id="monolith">
+		<text>黑石组织</text>
+	</string>
+	<string id="monster">
+		<text>异变怪物</text>
+	</string>
+	<string id="pda_btn_close">
+		<text>关闭PDA</text>
+	</string>
+	<string id="pda_btn_fractionwar">
+		<text>派系战争</text>
+	</string>
+	<string id="pda_btn_fractionwar_hint">
+		<text>当前派系战争状态信息</text>
+	</string>
+	<string id="pda_btn_logs">
+		<text>历史报告</text>
+	</string>
+	<string id="pda_btn_logs_hint">
+		<text>显示通信记录</text>
+	</string>
+	<string id="pda_btn_off_hint">
+		<text>关闭</text>
+	</string>
+	<string id="pda_btn_quests">
+		<text>地图</text>
+	</string>
+	<string id="pda_btn_quests_hint">
+		<text>显示地图区域</text>
+	</string>
+	<string id="pda_btn_ranking">
+		<text>统计</text>
+	</string>
+	<string id="pda_btn_ranking_hint">
+		<text>显示团队信息</text>
+	</string>
+	<string id="pda_filter_news">
+		<text>显示消息</text>
+	</string>
+	<string id="pda_filter_talk">
+		<text>显示对话</text>
+	</string>
+	<string id="red_forest">
+		<text>红森林</text>
+	</string>
+	<string id="st_enemy">
+		<text>敌人</text>
+	</string>
+	<string id="st_faction_war_csky_capture_enemy_base">
+		<text>占领敌人基地</text>
+	</string>
+	<string id="st_faction_war_csky_need_more_power">
+		<text>加强沼泽驻军</text>
+	</string>
+	<string id="st_faction_war_csky_relax">
+		<text>敌人被击败</text>
+	</string>
+	<string id="st_faction_war_csky_secure_level">
+		<text>加强沼泽安全</text>
+	</string>
+	<string id="st_fraction_state">
+		<text>派系力量</text>
+	</string>
+	<string id="st_friend">
+		<text>朋友</text>
+	</string>
+	<string id="st_location">
+		<text>位置：</text>
+	</string>
+	<string id="st_location_bandit">
+		<text>废弃区</text>
+	</string>
+	<string id="st_location_csky">
+		<text>沼泽</text>
+	</string>
+	<string id="st_location_dolg">
+		<text>农业研究所</text>
+	</string>
+	<string id="st_location_freedom">
+		<text>黑暗山谷</text>
+	</string>
+	<string id="st_location_stalker">
+		<text>前哨站</text>
+	</string>
+	<string id="stalker">
+		<text>独行者</text>
+	</string>
+	<string id="stancia_2">
+		<text>切尔诺贝利</text>
+	</string>
+	<string id="trader">
+		<text>商人</text>
+	</string>
+	<string id="ui_fraction_standing">
+		<text>派系列表</text>
+	</string>
+	<string id="ui_no_fraction">
+		<text>你没有加入任何派系</text>
+	</string>
+	<string id="ui_pda_details">
+		<text># /详述</text>
+	</string>
+	<string id="ui_st_capture">
+		<text>攻占：</text>
+	</string>
+	<string id="ui_st_defend">
+		<text>守卫：</text>
+	</string>
+	<string id="ui_st_enemy_frac_info">
+		<text>派系信息</text>
+	</string>
+	<string id="ui_st_enemy_mem_count">
+		<text>敌对派系的人数规模</text>
+	</string>
+	<string id="ui_st_enemy_resource">
+		<text>敌对派系的资源数目</text>
+	</string>
+	<string id="ui_st_name_bandit">
+		<text>强盗</text>
+	</string>
+	<string id="ui_st_name_bandit_2">
+		<text>反叛者</text>
+	</string>
+	<string id="ui_st_name_csky">
+		<text>晴空组织</text>
+	</string>
+	<string id="ui_st_name_dolg">
+		<text>纪律团</text>
+	</string>
+	<string id="ui_st_name_freedom">
+		<text>自由团</text>
+	</string>
+	<string id="ui_st_name_stalker">
+		<text>独行者</text>
+	</string>
+	<string id="ui_st_no_faction">
+		<text>你没有加入任何派系</text>
+	</string>
+	<string id="ui_st_our_frac_info">
+		<text>派系信息</text>
+	</string>
+	<string id="ui_st_our_mem_count">
+		<text>己方派系的人数规模</text>
+	</string>
+	<string id="ui_st_our_resource">
+		<text>己方派系的资源数目</text>
+	</string>
+	<string id="ui_st_state_confrontation">
+		<text>派系力量</text>
+	</string>
+	<string id="ui_st_target_static">
+		<text>己方团队当前任务</text>
+	</string>
+	<string id="yantar">
+		<text>杨塔</text>
+	</string>
+	<string id="zombied">
+		<text>丧尸</text>
+	</string>
+	<string id="zoom_in_btn_hint">
+		<text>放大 +</text>
+	</string>
+	<string id="zoom_out_btn_hint">
+		<text>缩小 -</text>
+	</string>
+	<string id="month_april">
+		<text>4月</text>
+	</string>
+	<string id="month_august">
+		<text>8月</text>
+	</string>
+	<string id="month_december">
+		<text>12月</text>
+	</string>
+	<string id="month_february">
+		<text>2月</text>
+	</string>
+	<string id="month_january">
+		<text>1月</text>
+	</string>
+	<string id="month_july">
+		<text>7月</text>
+	</string>
+	<string id="month_june">
+		<text>6月</text>
+	</string>
+	<string id="month_march">
+		<text>3月</text>
+	</string>
+	<string id="month_may">
+		<text>5月</text>
+	</string>
+	<string id="month_november">
+		<text>11月</text>
+	</string>
+	<string id="month_october">
+		<text>10月</text>
+	</string>
+	<string id="month_september">
+		<text>9月</text>
+	</string>
+	<string id="pda_cur_time">
+		<text>当前时间：</text>
+	</string>
+	<string id="pda_date_filter">
+		<text>数据过滤</text>
+	</string>
+	<string id="pda_legend_caption">
+		<text>状态指示</text>
+	</string>
+	<string id="pda_logs_common">
+		<text>讯息：</text>
+	</string>
+	<string id="pda_logs_frags">
+		<text>讯息：</text>
+	</string>
+	<string id="pda_logs_list_caption">
+		<text>讯息：</text>
+	</string>
+	<string id="pda_logs_missions">
+		<text>讯息：</text>
+	</string>
+	<string id="pda_stat_1">
+		<text>游戏时间：</text>
+	</string>
+	<string id="pda_stat_2">
+		<text>发现的隐藏点：</text>
+	</string>
+	<string id="pda_stat_3">
+		<text>获得的金钱：</text>
+	</string>
+	<string id="pda_stat_4">
+		<text>花费的金钱：</text>
+	</string>
+	<string id="pda_stat_5">
+		<text>接受：</text>
+	</string>
+	<string id="pda_stat_6">
+		<text>完成：</text>
+	</string>
+	<string id="pda_stat_7">
+		<text>失败：</text>
+	</string>
+	<string id="pda_stat_8">
+		<text>独行者：</text>
+	</string>
+	<string id="pda_stat_9">
+		<text>怪物：</text>
+	</string>
+	<string id="pda_stat_common">
+		<text>总计</text>
+	</string>
+	<string id="pda_stat_frags">
+		<text>杀死的</text>
+	</string>
+	<string id="pda_stat_missions">
+		<text>任务</text>
+	</string>
+	<string id="st_lchanger_to_aes">
+		<text>到达切尔诺贝利</text>
+	</string>
+	<string id="st_lchanger_to_agroprom">
+		<text>到达农业研究所</text>
+	</string>
+	<string id="st_lchanger_to_agroprom_und">
+		<text>到达农业研究所地道</text>
+	</string>
+	<string id="st_lchanger_to_darkvalley">
+		<text>到达黑暗山谷</text>
+	</string>
+	<string id="st_lchanger_to_escape">
+		<text>到达封锁线</text>
+	</string>
+	<string id="st_lchanger_to_garbage">
+		<text>到达废弃区</text>
+	</string>
+	<string id="st_lchanger_to_hospital">
+		<text>到达荒废的医院</text>
+	</string>
+	<string id="st_lchanger_to_limansk">
+		<text>到达利曼斯克</text>
+	</string>
+	<string id="st_lchanger_to_marsh">
+		<text>到达沼泽</text>
+	</string>
+	<string id="st_lchanger_to_military">
+		<text>到达军方仓库</text>
+	</string>
+	<string id="st_lchanger_to_red_forest">
+		<text>到达红森林</text>
+	</string>
+	<string id="st_lchanger_to_yantar">
+		<text>到达杨塔</text>
+	</string>
+	<string id="st_ui_pda_legend_additional_task">
+		<text>支线任务</text>
+	</string>
+	<string id="st_ui_pda_legend_base">
+		<text>势力基地</text>
+	</string>
+	<string id="st_ui_pda_legend_enemies">
+		<text>敌对</text>
+	</string>
+	<string id="st_ui_pda_legend_friends">
+		<text>友好</text>
+	</string>
+	<string id="st_ui_pda_legend_lchanger">
+		<text>地图切换点</text>
+	</string>
+	<string id="st_ui_pda_legend_main_task">
+		<text>主线任务</text>
+	</string>
+	<string id="st_ui_pda_legend_mechanic">
+		<text>技师</text>
+	</string>
+	<string id="st_ui_pda_legend_neutrals">
+		<text>中立</text>
+	</string>
+	<string id="st_ui_pda_legend_scout">
+		<text>向导</text>
+	</string>
+	<string id="st_ui_pda_legend_secrets">
+		<text>隐藏点</text>
+	</string>
+	<string id="st_ui_pda_legend_squad">
+		<text>小队指挥官</text>
+	</string>
+	<string id="st_ui_pda_legend_trader">
+		<text>商人</text>
+	</string>
+	<string id="st_ui_pda_legend_vip">
+		<text>重要人物</text>
+	</string>
+	<string id="ui_logs_center_caption">
+		<text>历史信息</text>
+	</string>
+	<string id="ui_map_btn_center">
+		<text>玩家当前位置</text>
+	</string>
+	<string id="ui_map_btn_down">
+		<text>向下</text>
+	</string>
+	<string id="ui_map_btn_left">
+		<text>向左</text>
+	</string>
+	<string id="ui_map_btn_legend">
+		<text>显示标示</text>
+	</string>
+	<string id="ui_map_btn_right">
+		<text>向右</text>
+	</string>
+	<string id="ui_map_btn_up">
+		<text>向上</text>
+	</string>
+	<string id="ui_map_btn_zmreset">
+		<text>全局地图</text>
+	</string>
+	<string id="ui_map_btn_zoom_in">
+		<text>放大</text>
+	</string>
+	<string id="ui_map_btn_zoom_out">
+		<text>缩小</text>
+	</string>
+	<string id="ui_pda_secondary_task">
+		<text>支线任务</text>
+	</string>
+	<string id="ui_ranking_center_caption">
+		<text>势力统计</text>
+	</string>
+	<string id="ui_show_second_task_wnd">
+		<text>支线任务列表</text>
+	</string>
+	<string id="ui_task_btn_focus_center">
+		<text>显示任务目标</text>
+	</string>
+	<string id="ui_task_btn_focus_center2">
+		<text>显示任务目标</text>
+	</string>
+	<string id="ui_task_btn_visible_map_spot">
+		<text>在地图上显示标示</text>
+	</string>
+	<string id="ui_st_eliminate">
+		<text>失败：</text>
+	</string>
+	<string id="ui_st_capture_or">
+		<text>与</text>
+	</string>
+	<string id="ui_st_capture_one_of">
+		<text>守住一个位置：</text>
+	</string>
+	<string id="st_faction_war_stalker_need_more_power">
+		<text>确保优势地位</text>
+	</string>
+	<string id="st_faction_war_stalker_secure_level">
+		<text>保卫堆填区步道</text>
+	</string>
+	<string id="st_faction_war_stalker_capture_placdarm">
+		<text>确认废弃区</text>
+	</string>
+	<string id="st_faction_war_stalker_near_base">
+		<text>坚守其他强盗基地</text>
+	</string>
+	<string id="st_faction_war_stalker_eliminate_base">
+		<text>摧毁匪徒基地</text>
+	</string>
+	<string id="st_faction_war_stalker_relax">
+		<text>已击败强盗</text>
+	</string>
+	<string id="st_faction_war_bandit_need_more_power">
+		<text>确保优势地位</text>
+	</string>
+	<string id="st_faction_war_bandit_secure_level">
+		<text>检查封锁线步道</text>
+	</string>
+	<string id="st_faction_war_bandit_capture_placdarm">
+		<text>冻结封锁线</text>
+	</string>
+	<string id="st_faction_war_bandit_near_base">
+		<text>冻结独行者基地</text>
+	</string>
+	<string id="st_faction_war_bandit_eliminate_base">
+		<text>摧毁独行者基地</text>
+	</string>
+	<string id="st_faction_war_bandit_relax">
+		<text>已摧毁独行者基地</text>
+	</string>
+	<string id="st_faction_war_freedom_secure_level">
+		<text>保护堆填区步道</text>
+	</string>
+	<string id="st_faction_war_freedom_capture_garbage">
+		<text>确认废弃区</text>
+	</string>
+	<string id="st_faction_war_freedom_secure_garbage">
+		<text>抵达农业研究所入口</text>
+	</string>
+	<string id="st_faction_war_freedom_capture_agroprom">
+		<text>支援附近的农业研究所</text>
+	</string>
+	<string id="st_faction_war_freedom_eliminate_base">
+		<text>摧毁自由团基地</text>
+	</string>
+	<string id="st_faction_war_freedom_relax">
+		<text>自由团基地已被摧毁</text>
+	</string>
+	<string id="st_faction_war_duty_secure_level">
+		<text>保护堆填区步道</text>
+	</string>
+	<string id="st_faction_war_duty_capture_garbage">
+		<text>确认废弃区</text>
+	</string>
+	<string id="st_faction_war_duty_secure_garbage">
+		<text>到达黑暗山谷</text>
+	</string>
+	<string id="st_faction_war_duty_capture_darkvalley">
+		<text>冻结黑暗山谷</text>
+	</string>
+	<string id="st_faction_war_duty_eliminate_base">
+		<text>摧毁自由团基地</text>
+	</string>
+	<string id="st_faction_war_duty_relax">
+		<text>自由团基地已被摧毁</text>
+	</string>
+	<string id="st_stage_icon_csky_power_no">
+		<text>未确保优势地位</text>
+	</string>
+	<string id="st_stage_icon_csky_power_yes">
+		<text>已确保优势地位</text>
+	</string>
+	<string id="st_stage_icon_csky_capture_base_no">
+		<text>反叛者基地未被摧毁</text>
+	</string>
+	<string id="st_stage_icon_csky_capture_base_yes">
+		<text>反叛者基地已被摧毁</text>
+	</string>
+	<string id="st_stage_icon_csky_secure_marsh_no">
+		<text>封锁线入口未在我们的控制之中</text>
+	</string>
+	<string id="st_stage_icon_csky_secure_marsh_yes">
+		<text>封锁线入口已在我们的控制之中</text>
+	</string>
+	<string id="st_stage_icon_stalker_power_no">
+		<text>未确保优势地位</text>
+	</string>
+	<string id="st_stage_icon_stalker_power_yes">
+		<text>已确保优势地位</text>
+	</string>
+	<string id="st_stage_icon_stalker_secure_escape_no">
+		<text>废弃区入口未在我们的控制之中</text>
+	</string>
+	<string id="st_stage_icon_stalker_secure_escape_yes">
+		<text>废弃区入口已在我们的控制之中</text>
+	</string>
+	<string id="st_stage_icon_stalker_capture_garbage_no">
+		<text>废弃区出口未被占领</text>
+	</string>
+	<string id="st_stage_icon_stalker_capture_garbage_yes">
+		<text>废弃区出口已被占领</text>
+	</string>
+	<string id="st_stage_icon_stalker_eliminate_bandit_no">
+		<text>强盗基地未被摧毁</text>
+	</string>
+	<string id="st_stage_icon_stalker_eliminate_bandit_yes">
+		<text>强盗基地已被摧毁</text>
+	</string>
+	<string id="st_stage_icon_bandit_power_no">
+		<text>未确保优势地位</text>
+	</string>
+	<string id="st_stage_icon_bandit_power_yes">
+		<text>已确保优势地位</text>
+	</string>
+	<string id="st_stage_icon_bandit_secure_garbage_no">
+		<text>封锁线出口未在我们的控制之中</text>
+	</string>
+	<string id="st_stage_icon_bandit_secure_garbage_yes">
+		<text>封锁线出口已在我们的控制之中</text>
+	</string>
+	<string id="st_stage_icon_bandit_capture_escape_no">
+		<text>封锁线出口未被占领</text>
+	</string>
+	<string id="st_stage_icon_bandit_capture_escape_yes">
+		<text>封锁线出口已被占领</text>
+	</string>
+	<string id="st_stage_icon_bandit_eliminate_stalker_no">
+		<text>独行者基地未被摧毁</text>
+	</string>
+	<string id="st_stage_icon_bandit_eliminate_stalker_yes">
+		<text>独行者基地已被摧毁</text>
+	</string>
+	<string id="st_stage_icon_freedom_secure_darkvalley_no">
+		<text>废弃区入口未在我们的控制之中</text>
+	</string>
+	<string id="st_stage_icon_freedom_secure_darkvalley_yes">
+		<text>废弃区入口已在我们的控制之中</text>
+	</string>
+	<string id="st_stage_icon_freedom_capture_garbage_no">
+		<text>废弃区出口未被占领</text>
+	</string>
+	<string id="st_stage_icon_freedom_capture_garbage_yes">
+		<text>废弃区出口已被占领</text>
+	</string>
+	<string id="st_stage_icon_freedom_secure_garbage_no">
+		<text>农业研究所入口未被占领</text>
+	</string>
+	<string id="st_stage_icon_freedom_secure_garbage_yes">
+		<text>农业研究所入口已被占领</text>
+	</string>
+	<string id="st_stage_icon_freedom_capture_agroprom_no">
+		<text>农业研究所出口未被占领</text>
+	</string>
+	<string id="st_stage_icon_freedom_capture_agroprom_yes">
+		<text>农业研究所出口已被占领</text>
+	</string>
+	<string id="st_stage_icon_freedom_eliminate_duty_no">
+		<text>纪律团基地未被摧毁</text>
+	</string>
+	<string id="st_stage_icon_freedom_eliminate_duty_yes">
+		<text>纪律团基地已被摧毁</text>
+	</string>
+	<string id="st_stage_icon_duty_secure_agroprom_no">
+		<text>废弃区入口未在我们的控制之中</text>
+	</string>
+	<string id="st_stage_icon_duty_secure_agroprom_yes">
+		<text>废弃区入口已在我们的控制之中</text>
+	</string>
+	<string id="st_stage_icon_duty_capture_garbage_no">
+		<text>废弃区出口未被占领</text>
+	</string>
+	<string id="st_stage_icon_duty_capture_garbage_yes">
+		<text>废弃区出口已被占领</text>
+	</string>
+	<string id="st_stage_icon_duty_secure_garbage_no">
+		<text>黑暗山谷入口未被占领</text>
+	</string>
+	<string id="st_stage_icon_duty_secure_garbage_yes">
+		<text>黑暗山谷入口已被占领</text>
+	</string>
+	<string id="st_stage_icon_duty_capture_darkvalley_no">
+		<text>黑暗山谷出口未被占领</text>
+	</string>
+	<string id="st_stage_icon_duty_capture_darkvalley_yes">
+		<text>黑暗山谷出口已被占领</text>
+	</string>
+	<string id="st_stage_icon_duty_eliminate_freedom_no">
+		<text>自由团基地未被摧毁</text>
+	</string>
+	<string id="st_stage_icon_duty_eliminate_freedom_yes">
+		<text>自由团基地已被摧毁</text>
+	</string>
+	<string id="st_location_renegade">
+		<text>沼泽</text>
+	</string>
+	<string id="st_ui_pda_legend_leader">
+		<text>派系领袖</text>
+	</string>
+	<string id="st_target">
+		<text>目标</text>
+	</string>
+	<string id="st_technic_specialization">
+		<text>专化性：</text>
+	</string>
+	<string id="st_technic_specialization_none">
+		<text>无</text>
+	</string>
+	<string id="hospital">
+		<text>荒废的医院</text>
+	</string>
+</string_table>

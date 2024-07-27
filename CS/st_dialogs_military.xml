@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="Unicode" ?>
+<string_table>
+	<string id="hello_mil_freedom_11">
+		<text>你成功穿过了红森林。在我看来，你似乎是个非常幸运的小伙子。但我们这里的形势不容乐观，佣兵。关卡被攻陷，军队快不能坚持了。</text>
+	</string>
+	<string id="hello_mil_freedom_111">
+		<text>军队那儿发生了什么事？</text>
+	</string>
+	<string id="hello_mil_freedom_2">
+		<text>他们…几乎全死了。就在直升机起落场附近的基地那里，在丧尸和突变怪物多次攻击后幸存的人像洞中之鼠被被死死盯住了。还有，我们中的许多人在这次大规模行动中也失踪了。</text>
+	</string>
+	<string id="hello_mil_freedom_22">
+		<text>什么叫“失踪”？发生了什么事？</text>
+	</string>
+	<string id="hello_mil_freedom_222">
+		<text>没人知道确切情况，佣兵。人们都不见了，孤独的潜行者甚至整个部队！有时我们能从电波中零星地收到求救信号。上星期还有支佣兵小队在农庄里寻找自己的部队。</text>
+	</string>
+	<string id="hello_mil_freedom_3">
+		<text>让我去那儿看看出了什么事。</text>
+	</string>
+	<string id="hello_mil_freedom_333">
+		<text>如果你获悉重要资讯就请告诉我，好吗？</text>
+	</string>
+	<string id="hello_mil_freedom_44">
+		<text>好的。</text>
+	</string>
+	<string id="hello_mil_freedom_55">
+		<text>现在又如何了？</text>
+	</string>
+	<string id="hello_mil_freedom_555">
+		<text>不用担心，再见。</text>
+	</string>
+	<string id="hello_mil_freedom_66">
+		<text>你成功的穿过了红森林。在我看来，你似乎是一个非常幸运的小伙子。但我们这里的形势更加糟糕，佣兵。</text>
+	</string>
+	<string id="hello_mil_freedom_666">
+		<text>发生了什么？我需要详情。</text>
+	</string>
+	<string id="hello_mil_freedom_6666">
+		<text>先去看看弗雷斯特吧，他会告诉你的。</text>
+	</string>
+	<string id="hello_mil_freedom_77">
+		<text>现在又如何了？</text>
+	</string>
+	<string id="hello_mil_freedom_777">
+		<text>不用担心，再见。</text>
+	</string>
+	<string id="hello_mil_killer_11">
+		<text>佣兵，你到这儿找什么？</text>
+	</string>
+	<string id="hello_mil_killer_111">
+		<text>找你啊。前哨站的自由团小伙子告诉我你们团的人在这附近消失了。发生了什么事情？</text>
+	</string>
+	<string id="hello_mil_killer_1111">
+		<text>几星期前，我们得到个重要定单，要我们找到一个稀有的神器。客户是上层社会的一个大人物。总之，一切进展顺利：我们的小队在关卡附近找到了那个神器，并已在回去的路上。这时突然发生的辐射风暴击中了神器，当时我们都认为小队已全军覆没了，可他们都幸运的幸存了下来，难题是，随后他们在附近又消失了。我们奉命去寻找他们，因为我们得交付定单。一旦事情搞砸了就没有客户会继续给我们下单了。</text>
+	</string>
+	<string id="hello_mil_killer_11111">
+		<text>他们会不会都死了？从辐射中活下来不容易…</text>
+	</string>
+	<string id="hello_mil_killer_111111">
+		<text>我们接收到了小队的部分通信信号，但我们不能从中获得任何讯息。唯一确定的是大白天里正有一个陷阱等着我们，可能是个异变点或是某些在这附近游荡的新异变怪物。我们不知道该做什么，农庄旁有个旧水塔- 我想如果我们爬上去，在那儿或许能收到他们的传输信号。在我们试图爬上那儿时，一个该死的怪物突然跳出来，抓住了我们的一个兄弟并把他拖走了。而我们其他人就只能眼睁睁地看着！</text>
+	</string>
+	<string id="hello_mil_killer_1111111">
+		<text>你给了我一个有趣的工作。嘿，一个人要做的就是另一个人要做的。我需要解决营救小队的方法，和你们要做的一样多。</text>
+	</string>
+	<string id="hello_mil_killer_11111112">
+		<text>我会小心那些怪物的，现在我需要传送水塔的坐标。</text>
+	</string>
+	<string id="hello_mil_killer_11111113">
+		<text>没什么好担心的。我已经从水塔传送了坐标。</text>
+	</string>
+	<string id="hello_mil_killer_22">
+		<text>很高兴见到你。你找到了解救他们的方法吗？</text>
+	</string>
+	<string id="hello_mil_killer_222">
+		<text>还没有。</text>
+	</string>
+	<string id="hello_mil_killer_44">
+		<text>有什么进展，佣兵？</text>
+	</string>
+	<string id="hello_mil_killer_444">
+		<text>啥也没有。</text>
+	</string>
+	<string id="hello_mil_killer_55">
+		<text>有段时间没看见你了，我们的小伙子被困在在异变点里太久了。你找到了如何解救他们的方法吗？</text>
+	</string>
+	<string id="hello_mil_killer_555">
+		<text>当然。弗雷斯特给了我出口的坐标，它能让小队从空间泡里出来。我所需要的唯一东西就是功能强大的信号传输器来和小队联系并传给他们坐标。</text>
+	</string>
+	<string id="hello_mil_killer_5555">
+		<text>军方基地里应该有个信号传输器。但辐射风暴狠狠袭击了士兵，总共只有十来个还活着。他们都发了SOS信号，认为这样可以得到救助。但我认为没人会来 - 老样子，他们都在等死…</text>
+	</string>
+	<string id="hello_mil_killer_55555">
+		<text>虽然遭遇过辐射风暴，但这些当兵的仍是块难咬的硬骨头。看在我们目标相同的份上，帮我们一把如何？</text>
+	</string>
+	<string id="hello_mil_killer_555555">
+		<text>我们不能和军队正面冲突，应该说现在不是这个时候，佣兵。不过我知道自由团能侦测到那个基地。他们能帮我们减少控制路障的难度，再加上他们的指挥官曾欠我个人情。让我来跟他们联系。</text>
+	</string>
+	<string id="hello_mil_killer_5555555">
+		<text>谢谢你的消息。</text>
+	</string>
+	<string id="hello_mil_killer_55555555">
+		<text>祝好运，佣兵！</text>
+	</string>
+	<string id="hello_mil_killer_5555556">
+		<text>还是让我自己处理吧，自由团跟我可没啥交情。</text>
+	</string>
+	<string id="hello_mil_killer_66">
+		<text>事情顺利吗？ </text>
+	</string>
+	<string id="hello_mil_killer_666">
+		<text>目前还不行。</text>
+	</string>
+	<string id="hello_mil_killer_667">
+		<text>你的战士们从空间泡出来了，并向利曼斯克进发。如果顺利的话，不出两个小时就能到这儿。</text>
+	</string>
+	<string id="hello_mil_killer_6676">
+		<text>真是令人振奋的消息！太感谢了，真不知道该怎么还你这人情！</text>
+	</string>
+	<string id="hello_mil_killer_77">
+		<text>在特异区里混，迟早是要还的，再见。</text>
+	</string>
+	<string id="mil_killer_about_around_0">
+		<text>这一带有什么新闻吗？</text>
+	</string>
+	<string id="mil_killer_about_around_1">
+		<text>是的，我们在这呆了一段时间了，我们一直对周围发生的事情保持警醒。前几天黑石教徒突然出现在了这附近。我之前跟他们其中几个聊了聊，发现这些家伙很不正常，我跟你说，他们一开始总是在念叨什么黑石，听着好像是基因工程之类的东西，后来他们就像朝圣那样往雷达站那里去了，我当时以为那群蠢货去了那里就死定了，可没想到这些朝圣者没过几天又好端端地回来了，唯一不同的就是脑子变得更疯了。我现在特想知道他们在特异区中心发现了什么，是真正的黑石？还是因为发现他们追求的东西一文不值而受打击疯掉了？呵，真不知道他们抽什么风。</text>
+	</string>
+	<string id="mil_killer_about_last_time_0">
+		<text>还有什么值得注意的事情吗？</text>
+	</string>
+	<string id="mil_killer_about_last_time_1">
+		<text>特异区里总是有事情发生，每一件都值得关注。比如我之前跟你说的黑石，现在每个人都在谈论他们…还有，你听说过政府派入特异区的新考察队吗？理论上讲，他们是隶属于联合国的环境科考人员，不过这只是名义上而已。队伍里确实有2个四眼儿科学家，但只要是明眼人就能看出，队里的其他人员都是些经验老道的战士。没人知道他们来这里做什么…啊，我忘说了，他们从不雇佣向导，这就是说如果他们不是依靠卫星导航的话，就是他们不让外人参与自己的绝密任务。他们朝雷达站那边去了，我不知道结果会怎样，但是我有不好的预感。</text>
+	</string>
+	<string id="mil_killer_about_what_is_you_doing_0">
+		<text>你在这边靠什么生活？</text>
+	</string>
+	<string id="mil_killer_about_what_is_you_doing_1">
+		<text>我们一直在收人，不过我们不做潜行者那一套，而是专注于一些特殊工作，你可以把我们看作是一伙独立承包人。话说我之前从未这么深入特异区，虽然我是个全方位复合型人才，但这回确实低估了特异区的危险，结果遇到这么多磨难，我的兄弟们都已经快要忍不住打铺盖回封锁线了。特别是我们在不久前听说了一些新异变怪的事情，它们居然能做出比控制人类思维更霸道的事情来，这就是使人看到一些根本不存在的东西。比如说，你正在跟朋友们一起走着，却突然看到身边变出一大群丧尸，于是你拿枪向周围乱扫一起…或者你在想你正走在一条平坦大道上，事实上你再往前迈一步就会掉下万丈深谷…</text>
+	</string>
+</string_table>

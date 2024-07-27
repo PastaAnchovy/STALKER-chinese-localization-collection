@@ -1,0 +1,723 @@
+﻿<?xml version="1.0" encoding="Unicode" ?>
+<string_table>
+	<string id="st_name_agr_smart_terrain_1_11">
+		<text>森林边缘</text>
+	</string>
+	<string id="st_name_agr_smart_terrain_1_2">
+		<text>沼泽营地</text>
+	</string>
+	<string id="st_name_agr_smart_terrain_1_3">
+		<text>破旧营地</text>
+	</string>
+	<string id="st_name_agr_smart_terrain_1_6">
+		<text>纪律团基地</text>
+	</string>
+	<string id="st_name_agr_smart_terrain_1_6_near_1">
+		<text>北方入口</text>
+	</string>
+	<string id="st_name_agr_smart_terrain_1_6_near_2">
+		<text>东部入口</text>
+	</string>
+	<string id="st_name_agr_smart_terrain_1_near_2">
+		<text>红色角落</text>
+	</string>
+	<string id="st_name_agr_smart_terrain_2_2">
+		<text>圆石营地</text>
+	</string>
+	<string id="st_name_agr_smart_terrain_2_3">
+		<text>石头躲避处</text>
+	</string>
+	<string id="st_name_agr_smart_terrain_2_5">
+		<text>基地营地</text>
+	</string>
+	<string id="st_name_agr_smart_terrain_3_5">
+		<text>断山营地</text>
+	</string>
+	<string id="st_name_agr_smart_terrain_4_2">
+		<text>塔下营地</text>
+	</string>
+	<string id="st_name_agr_smart_terrain_4_4">
+		<text>独行者营地</text>
+	</string>
+	<string id="st_name_agr_smart_terrain_4_4_near_1">
+		<text>铁路站区</text>
+	</string>
+	<string id="st_name_agr_smart_terrain_4_4_near_2">
+		<text>后方出口</text>
+	</string>
+	<string id="st_name_agr_smart_terrain_4_4_near_3">
+		<text>东部关卡</text>
+	</string>
+	<string id="st_name_agr_smart_terrain_4_6">
+		<text>路边关卡</text>
+	</string>
+	<string id="st_name_agr_smart_terrain_5_2">
+		<text>石环</text>
+	</string>
+	<string id="st_name_agr_smart_terrain_5_3">
+		<text>汽车路障</text>
+	</string>
+	<string id="st_name_agr_smart_terrain_5_4">
+		<text>叉口</text>
+	</string>
+	<string id="st_name_agr_smart_terrain_5_7">
+		<text>洞口关卡</text>
+	</string>
+	<string id="st_name_agr_smart_terrain_5_7u">
+		<text>地穴入口</text>
+	</string>
+	<string id="st_name_agr_smart_terrain_6_4">
+		<text>封死的地道</text>
+	</string>
+	<string id="st_name_agr_smart_terrain_6_6">
+		<text>临时营地</text>
+	</string>
+	<string id="st_name_agr_smart_terrain_7_4">
+		<text>通往废弃区的道路</text>
+	</string>
+	<string id="st_name_agr_smart_terrain_7_5">
+		<text>山上营地</text>
+	</string>
+	<string id="st_name_agru_smart_terrain_1">
+		<text>农业研究所地下通道</text>
+	</string>
+	<string id="st_name_esc_smart_terrain_1_11">
+		<text>秘密营地</text>
+	</string>
+	<string id="st_name_esc_smart_terrain_1_12">
+		<text>远离村庄的小山</text>
+	</string>
+	<string id="st_name_esc_smart_terrain_1_16">
+		<text>林中土山</text>
+	</string>
+	<string id="st_name_esc_smart_terrain_2_12">
+		<text>新兵营</text>
+	</string>
+	<string id="st_name_esc_smart_terrain_2_14">
+		<text>树下营火</text>
+	</string>
+	<string id="st_name_esc_smart_terrain_2_2">
+		<text>山坡</text>
+	</string>
+	<string id="st_name_esc_smart_terrain_2_4">
+		<text>山林边缘</text>
+	</string>
+	<string id="st_name_esc_smart_terrain_3_14">
+		<text>林中暂居地</text>
+	</string>
+	<string id="st_name_esc_smart_terrain_3_16">
+		<text>军队前哨</text>
+	</string>
+	<string id="st_name_esc_smart_terrain_3_4">
+		<text>山中营地</text>
+	</string>
+	<string id="st_name_esc_smart_terrain_3_6">
+		<text>谷中营地</text>
+	</string>
+	<string id="st_name_esc_smart_terrain_3_7">
+		<text>林中营火</text>
+	</string>
+	<string id="st_name_esc_smart_terrain_4_10">
+		<text>洼地营火</text>
+	</string>
+	<string id="st_name_esc_smart_terrain_4_11">
+		<text>货车旁的营地</text>
+	</string>
+	<string id="st_name_esc_smart_terrain_4_13">
+		<text>暂居地</text>
+	</string>
+	<string id="st_name_esc_smart_terrain_4_8">
+		<text>桥下营地</text>
+	</string>
+	<string id="st_name_esc_smart_terrain_4_9">
+		<text>桥边营地</text>
+	</string>
+	<string id="st_name_esc_smart_terrain_5_10">
+		<text>巴士车站</text>
+	</string>
+	<string id="st_name_esc_smart_terrain_5_11">
+		<text>山上营地</text>
+	</string>
+	<string id="st_name_esc_smart_terrain_5_12">
+		<text>独行者暂居地</text>
+	</string>
+	<string id="st_name_esc_smart_terrain_5_2">
+		<text>远方前哨</text>
+	</string>
+	<string id="st_name_esc_smart_terrain_5_4">
+		<text>路边营火</text>
+	</string>
+	<string id="st_name_esc_smart_terrain_5_6">
+		<text>草丛露营地</text>
+	</string>
+	<string id="st_name_esc_smart_terrain_5_7">
+		<text>独行者基地</text>
+	</string>
+	<string id="st_name_esc_smart_terrain_5_9">
+		<text>仓库</text>
+	</string>
+	<string id="st_name_esc_smart_terrain_6_3">
+		<text>石下藏匿地</text>
+	</string>
+	<string id="st_name_esc_smart_terrain_6_5">
+		<text>云林营地</text>
+	</string>
+	<string id="st_name_esc_smart_terrain_6_6">
+		<text>破败的农场</text>
+	</string>
+	<string id="st_name_esc_smart_terrain_6_7">
+		<text>山坡露营地</text>
+	</string>
+	<string id="st_name_esc_smart_terrain_6_8">
+		<text>桥下前哨站</text>
+	</string>
+	<string id="st_name_esc_smart_terrain_7_10">
+		<text>临时营地</text>
+	</string>
+	<string id="st_name_esc_smart_terrain_7_11">
+		<text>车站</text>
+	</string>
+	<string id="st_name_esc_smart_terrain_7_9">
+		<text>铁路旁的营火</text>
+	</string>
+	<string id="st_name_esc_smart_terrain_8_10">
+		<text>远离车站的小山</text>
+	</string>
+	<string id="st_name_esc_smart_terrain_8_6">
+		<text>不显眼的藏匿处</text>
+	</string>
+	<string id="st_name_esc_smart_terrain_8_8">
+		<text>河堤旁的营地</text>
+	</string>
+	<string id="st_name_esc_smart_terrain_8_9">
+		<text>松林中的营地</text>
+	</string>
+	<string id="st_name_esc_smart_terrain_9_10">
+		<text>隧道旁的营火</text>
+	</string>
+	<string id="st_name_esc_smart_terrain_9_7">
+		<text>远方营地</text>
+	</string>
+	<string id="st_name_gar_smart_terrain_1_5">
+		<text>路障</text>
+	</string>
+	<string id="st_name_gar_smart_terrain_1_7">
+		<text>山中营地</text>
+	</string>
+	<string id="st_name_gar_smart_terrain_2_3">
+		<text>小路旁的藏匿处</text>
+	</string>
+	<string id="st_name_gar_smart_terrain_2_4">
+		<text>管道后的藏匿处</text>
+	</string>
+	<string id="st_name_gar_smart_terrain_3_2">
+		<text>洼地藏匿处</text>
+	</string>
+	<string id="st_name_gar_smart_terrain_3_3">
+		<text>鼹鼠营地</text>
+	</string>
+	<string id="st_name_gar_smart_terrain_3_5">
+		<text>车站</text>
+	</string>
+	<string id="st_name_gar_smart_terrain_3_6">
+		<text>废品场露营地</text>
+	</string>
+	<string id="st_name_gar_smart_terrain_3_7">
+		<text>废车场</text>
+	</string>
+	<string id="st_name_gar_smart_terrain_3_8">
+		<text>远离集中营的营地</text>
+	</string>
+	<string id="st_name_gar_smart_terrain_4_2">
+		<text>谷中营地</text>
+	</string>
+	<string id="st_name_gar_smart_terrain_4_3">
+		<text>起重机旁的营地</text>
+	</string>
+	<string id="st_name_gar_smart_terrain_4_4">
+		<text>车站旁的营地</text>
+	</string>
+	<string id="st_name_gar_smart_terrain_4_5">
+		<text>转折点</text>
+	</string>
+	<string id="st_name_gar_smart_terrain_4_6">
+		<text>废品堆的侧边</text>
+	</string>
+	<string id="st_name_gar_smart_terrain_4_7">
+		<text>推土机旁的营地</text>
+	</string>
+	<string id="st_name_gar_smart_terrain_4_8">
+		<text>小道起点的营地</text>
+	</string>
+	<string id="st_name_gar_smart_terrain_5_2">
+		<text>北方前哨站</text>
+	</string>
+	<string id="st_name_gar_smart_terrain_5_4">
+		<text>集合点</text>
+	</string>
+	<string id="st_name_gar_smart_terrain_5_5">
+		<text>财宝猎人的营地</text>
+	</string>
+	<string id="st_name_gar_smart_terrain_5_6">
+		<text>破旧的起重机</text>
+	</string>
+	<string id="st_name_gar_smart_terrain_5_8">
+		<text>贼人前哨</text>
+	</string>
+	<string id="st_name_gar_smart_terrain_6_1">
+		<text>边远营地</text>
+	</string>
+	<string id="st_name_gar_smart_terrain_6_3">
+		<text>跳蚤市场</text>
+	</string>
+	<string id="st_name_gar_smart_terrain_6_4">
+		<text>要塞区域</text>
+	</string>
+	<string id="st_name_gar_smart_terrain_6_5">
+		<text>田中营地</text>
+	</string>
+	<string id="st_name_gar_smart_terrain_6_6">
+		<text>林中藏匿处</text>
+	</string>
+	<string id="st_name_gar_smart_terrain_6_7">
+		<text>沙坑</text>
+	</string>
+	<string id="st_name_gar_smart_terrain_7_2">
+		<text>矿工的洞穴</text>
+	</string>
+	<string id="st_name_gar_smart_terrain_7_3">
+		<text>小沼泽边</text>
+	</string>
+	<string id="st_name_gar_smart_terrain_7_4">
+		<text>新营地</text>
+	</string>
+	<string id="st_name_gar_smart_terrain_8_3">
+		<text>防御前哨站</text>
+	</string>
+	<string id="st_name_gar_smart_terrain_8_5">
+		<text>小淡水湖</text>
+	</string>
+	<string id="st_name_gar_smart_terrain_8_7">
+		<text>小路上的营地</text>
+	</string>
+	<string id="st_name_lim_smart_terrain_1">
+		<text>院子</text>
+	</string>
+	<string id="st_name_lim_smart_terrain_10">
+		<text>通往消防队的路</text>
+	</string>
+	<string id="st_name_lim_smart_terrain_2">
+		<text>岔路上的房子</text>
+	</string>
+	<string id="st_name_lim_smart_terrain_3">
+		<text>有阳台的后院</text>
+	</string>
+	<string id="st_name_lim_smart_terrain_4">
+		<text>死路上的路障</text>
+	</string>
+	<string id="st_name_lim_smart_terrain_5">
+		<text>车库边上的小公园</text>
+	</string>
+	<string id="st_name_lim_smart_terrain_6">
+		<text>山上的房子</text>
+	</string>
+	<string id="st_name_lim_smart_terrain_7">
+		<text>桥边的藏匿处</text>
+	</string>
+	<string id="st_name_lim_smart_terrain_8">
+		<text>配电室旁的营地</text>
+	</string>
+	<string id="st_name_lim_smart_terrain_9">
+		<text>建筑点上的营地</text>
+	</string>
+	<string id="st_name_lim_smart_terrain_help_smart">
+		<text>死胡同</text>
+	</string>
+	<string id="st_name_mar_smart_terrain_10_10">
+		<text>河边的营火</text>
+	</string>
+	<string id="st_name_mar_smart_terrain_10_5">
+		<text>机械大院</text>
+	</string>
+	<string id="st_name_mar_smart_terrain_10_7">
+		<text>沼泽营地</text>
+	</string>
+	<string id="st_name_mar_smart_terrain_11_11">
+		<text>南方的农场</text>
+	</string>
+	<string id="st_name_mar_smart_terrain_11_3">
+		<text>卡车旁的营地</text>
+	</string>
+	<string id="st_name_mar_smart_terrain_12_2">
+		<text>北方的农场</text>
+	</string>
+	<string id="st_name_mar_smart_terrain_3_10">
+		<text>岔路</text>
+	</string>
+	<string id="st_name_mar_smart_terrain_3_3">
+		<text>泊船点</text>
+	</string>
+	<string id="st_name_mar_smart_terrain_3_7">
+		<text>多石岛</text>
+	</string>
+	<string id="st_name_mar_smart_terrain_4_5">
+		<text>破败的村庄</text>
+	</string>
+	<string id="st_name_mar_smart_terrain_4_7">
+		<text>原木露营地</text>
+	</string>
+	<string id="st_name_mar_smart_terrain_5_10">
+		<text>沙石坑</text>
+	</string>
+	<string id="st_name_mar_smart_terrain_5_12">
+		<text>小村庄</text>
+	</string>
+	<string id="st_name_mar_smart_terrain_5_8">
+		<text>抽水站</text>
+	</string>
+	<string id="st_name_mar_smart_terrain_6_10">
+		<text>荒岛</text>
+	</string>
+	<string id="st_name_mar_smart_terrain_6_11">
+		<text>了望塔</text>
+	</string>
+	<string id="st_name_mar_smart_terrain_6_4">
+		<text>临时营地</text>
+	</string>
+	<string id="st_name_mar_smart_terrain_6_7">
+		<text>路边路障</text>
+	</string>
+	<string id="st_name_mar_smart_terrain_6_8">
+		<text>小船露营地</text>
+	</string>
+	<string id="st_name_mar_smart_terrain_7_3">
+		<text>河堤下的营地</text>
+	</string>
+	<string id="st_name_mar_smart_terrain_7_7">
+		<text>荒原营地</text>
+	</string>
+	<string id="st_name_mar_smart_terrain_8_11">
+		<text>古老的教堂</text>
+	</string>
+	<string id="st_name_mar_smart_terrain_8_4">
+		<text>荒草丛中的营地</text>
+	</string>
+	<string id="st_name_mar_smart_terrain_8_8">
+		<text>烧毁的农场</text>
+	</string>
+	<string id="st_name_mar_smart_terrain_8_9">
+		<text>小道起点</text>
+	</string>
+	<string id="st_name_mar_smart_terrain_9_10">
+		<text>孤零零的营火</text>
+	</string>
+	<string id="st_name_mar_smart_terrain_csky_base">
+		<text>晴空基地</text>
+	</string>
+	<string id="st_name_mar_smart_terrain_csky_respawn">
+		<text>隐蔽的营地</text>
+	</string>
+	<string id="st_name_mar_smart_terrain_terrain_csky_base">
+		<text>晴空基地</text>
+	</string>
+	<string id="st_name_mil_smart_terrain_2_1">
+		<text>岩中营地</text>
+	</string>
+	<string id="st_name_mil_smart_terrain_2_10">
+		<text>枯林中的藏匿处</text>
+	</string>
+	<string id="st_name_mil_smart_terrain_2_2">
+		<text>远方的要塞区域</text>
+	</string>
+	<string id="st_name_mil_smart_terrain_2_3">
+		<text>低地营地</text>
+	</string>
+	<string id="st_name_mil_smart_terrain_2_4">
+		<text>远方的农场</text>
+	</string>
+	<string id="st_name_mil_smart_terrain_2_6">
+		<text>坠毁的直升机</text>
+	</string>
+	<string id="st_name_mil_smart_terrain_3_2">
+		<text>警卫室</text>
+	</string>
+	<string id="st_name_mil_smart_terrain_3_5">
+		<text>武装岗哨</text>
+	</string>
+	<string id="st_name_mil_smart_terrain_3_8">
+		<text>关卡</text>
+	</string>
+	<string id="st_name_mil_smart_terrain_4_2">
+		<text>佣兵露营地 </text>
+	</string>
+	<string id="st_name_mil_smart_terrain_4_3">
+		<text>水塔</text>
+	</string>
+	<string id="st_name_mil_smart_terrain_4_5">
+		<text>弯曲之道</text>
+	</string>
+	<string id="st_name_mil_smart_terrain_4_6">
+		<text>平交道口</text>
+	</string>
+	<string id="st_name_mil_smart_terrain_4_7">
+		<text>混凝土板上的露营地</text>
+	</string>
+	<string id="st_name_mil_smart_terrain_4_8">
+		<text>独行者营地</text>
+	</string>
+	<string id="st_name_mil_smart_terrain_5_2">
+		<text>山上的路障</text>
+	</string>
+	<string id="st_name_mil_smart_terrain_5_4">
+		<text>村庄入口</text>
+	</string>
+	<string id="st_name_mil_smart_terrain_5_5">
+		<text>候车点的要塞区域</text>
+	</string>
+	<string id="st_name_mil_smart_terrain_5_6">
+		<text>十字路口上的卡车</text>
+	</string>
+	<string id="st_name_mil_smart_terrain_5_8">
+		<text>沼泽棚屋</text>
+	</string>
+	<string id="st_name_mil_smart_terrain_6_4">
+		<text>山间道路</text>
+	</string>
+	<string id="st_name_mil_smart_terrain_7_10">
+		<text>损坏的变压器</text>
+	</string>
+	<string id="st_name_mil_smart_terrain_7_11">
+		<text>松林中的营地</text>
+	</string>
+	<string id="st_name_mil_smart_terrain_7_12">
+		<text>兵营中的营地</text>
+	</string>
+	<string id="st_name_mil_smart_terrain_7_2">
+		<text>军用仓库入口</text>
+	</string>
+	<string id="st_name_mil_smart_terrain_7_4">
+		<text>废弃的农场</text>
+	</string>
+	<string id="st_name_mil_smart_terrain_7_7">
+		<text>运动场</text>
+	</string>
+	<string id="st_name_mil_smart_terrain_7_8">
+		<text>基地后院</text>
+	</string>
+	<string id="st_name_mil_smart_terrain_7_9">
+		<text>废弃的隧道</text>
+	</string>
+	<string id="st_name_mil_smart_terrain_8_3">
+		<text>小屋</text>
+	</string>
+	<string id="st_name_mil_smart_terrain_base2">
+		<text>远方的要塞区域</text>
+	</string>
+	<string id="st_name_mil_smart_terrain_base3">
+		<text>远方的农场</text>
+	</string>
+	<string id="st_name_mil_smart_terrain_base4">
+		<text>水塔</text>
+	</string>
+	<string id="st_name_mil_smart_terrain_base5">
+		<text>雇佣兵露营地 </text>
+	</string>
+	<string id="st_name_mil_smart_terrain_base_monster">
+		<text>村旁的要塞区域</text>
+	</string>
+	<string id="st_name_red_bridge_ally_smart">
+		<text>利曼斯克郊外</text>
+	</string>
+	<string id="st_name_red_smart_terrain_3_1">
+		<text>路边营地</text>
+	</string>
+	<string id="st_name_red_smart_terrain_3_2">
+		<text>矿中营房</text>
+	</string>
+	<string id="st_name_red_smart_terrain_3_3">
+		<text>吸血怪休息处</text>
+	</string>
+	<string id="st_name_red_smart_terrain_4_2">
+		<text>强盗营地</text>
+	</string>
+	<string id="st_name_red_smart_terrain_4_3">
+		<text>犬营地</text>
+	</string>
+	<string id="st_name_red_smart_terrain_4_5">
+		<text>迷人场地</text>
+	</string>
+	<string id="st_name_red_smart_terrain_5_5">
+		<text>独行者休息处</text>
+	</string>
+	<string id="st_name_red_smart_terrain_5_6">
+		<text>多雾的低洼地</text>
+	</string>
+	<string id="st_name_red_smart_terrain_6_3">
+		<text>凶恶营地</text>
+	</string>
+	<string id="st_name_red_smart_terrain_6_6">
+		<text>黑院子</text>
+	</string>
+	<string id="st_name_red_smart_terrain_bridge">
+		<text>通往利曼斯克的桥</text>
+	</string>
+	<string id="st_name_red_smart_terrain_monsters">
+		<text>声名狼藉的小路</text>
+	</string>
+	<string id="st_name_red_smart_terrain_monsters_2">
+		<text>异变怪物的巢穴</text>
+	</string>
+	<string id="st_name_red_smart_terrain_monsters_3">
+		<text>朝向森林的巢穴</text>
+	</string>
+	<string id="st_name_red_terrain_ally_smart">
+		<text>利曼斯克入口</text>
+	</string>
+	<string id="st_name_red_terrain_bandit_smart">
+		<text>土匪要塞</text>
+	</string>
+	<string id="st_name_val_smart_terrain_10_10">
+		<text>加油站旁的营地</text>
+	</string>
+	<string id="st_name_val_smart_terrain_10_9">
+		<text>屋顶台阶</text>
+	</string>
+	<string id="st_name_val_smart_terrain_1_2">
+		<text>工厂前厅</text>
+	</string>
+	<string id="st_name_val_smart_terrain_3_0">
+		<text>桥边的路障</text>
+	</string>
+	<string id="st_name_val_smart_terrain_4_0">
+		<text>农田营地</text>
+	</string>
+	<string id="st_name_val_smart_terrain_5_10">
+		<text>开阔的营地</text>
+	</string>
+	<string id="st_name_val_smart_terrain_5_7">
+		<text>末端前哨站</text>
+	</string>
+	<string id="st_name_val_smart_terrain_5_8">
+		<text>野外营地</text>
+	</string>
+	<string id="st_name_val_smart_terrain_6_4">
+		<text>不平的营地</text>
+	</string>
+	<string id="st_name_val_smart_terrain_6_5">
+		<text>谷底营地</text>
+	</string>
+	<string id="st_name_val_smart_terrain_6_6">
+		<text>低处营地</text>
+	</string>
+	<string id="st_name_val_smart_terrain_7_0">
+		<text>远郊</text>
+	</string>
+	<string id="st_name_val_smart_terrain_7_11">
+		<text>农田旁的前哨站</text>
+	</string>
+	<string id="st_name_val_smart_terrain_7_3">
+		<text>基地营火</text>
+	</string>
+	<string id="st_name_val_smart_terrain_7_4">
+		<text>雅叔的飞机库</text>
+	</string>
+	<string id="st_name_val_smart_terrain_7_5">
+		<text>自由团酒吧</text>
+	</string>
+	<string id="st_name_val_smart_terrain_7_6">
+		<text>仓库旁的前哨站</text>
+	</string>
+	<string id="st_name_val_smart_terrain_7_8">
+		<text>沼泽营地</text>
+	</string>
+	<string id="st_name_val_smart_terrain_8_6">
+		<text>北方的路障</text>
+	</string>
+	<string id="st_name_val_smart_terrain_8_7">
+		<text>候车点</text>
+	</string>
+	<string id="st_name_val_smart_terrain_8_9">
+		<text>岛</text>
+	</string>
+	<string id="st_name_val_smart_terrain_9_10">
+		<text>石头营地</text>
+	</string>
+	<string id="st_name_val_smart_terrain_9_2">
+		<text>连根拔起的树</text>
+	</string>
+	<string id="st_name_val_smart_terrain_9_4">
+		<text>调度加油站</text>
+	</string>
+	<string id="st_name_val_smart_terrain_9_5">
+		<text>山中营地</text>
+	</string>
+	<string id="st_name_val_smart_terrain_9_6">
+		<text>又小又旧的货车</text>
+	</string>
+	<string id="st_name_yan_smart_terrain_1_6">
+		<text>远方的边境</text>
+	</string>
+	<string id="st_name_yan_smart_terrain_2_4">
+		<text>工厂后院</text>
+	</string>
+	<string id="st_name_yan_smart_terrain_2_5">
+		<text>工厂入口</text>
+	</string>
+	<string id="st_name_yan_smart_terrain_3_4">
+		<text>飞机库</text>
+	</string>
+	<string id="st_name_yan_smart_terrain_3_6">
+		<text>有神器的低地</text>
+	</string>
+	<string id="st_name_yan_smart_terrain_4_2">
+		<text>连根拔起的树</text>
+	</string>
+	<string id="st_name_yan_smart_terrain_4_4">
+		<text>山顶</text>
+	</string>
+	<string id="st_name_yan_smart_terrain_4_5">
+		<text>变压器间</text>
+	</string>
+	<string id="st_name_yan_smart_terrain_5_3">
+		<text>沼泽岛</text>
+	</string>
+	<string id="st_name_yan_smart_terrain_5_5">
+		<text>过道边的营地</text>
+	</string>
+	<string id="st_name_yan_smart_terrain_5_6">
+		<text>前哨站</text>
+	</string>
+	<string id="st_name_yan_smart_terrain_6_2">
+		<text>远离沼泽的营地</text>
+	</string>
+	<string id="st_name_yan_smart_terrain_6_4">
+		<text>科学家的营地</text>
+	</string>
+	<string id="st_name_yan_smart_terrain_for_squad_levsha">
+		<text>秘密入口</text>
+	</string>
+	<string id="st_name_yan_smart_terrain_quest_saharov">
+		<text>Exit from complex</text>
+	</string>
+	<string id="st_name_yan_smart_terrain_saharov">
+		<text>后方出口</text>
+	</string>
+	<string id="st_name_yan_smart_terrain_zombi_in_sci_base1">
+		<text>露天营地</text>
+	</string>
+	<string id="st_name_yan_smart_terrain_zombi_in_sci_base3">
+		<text>山顶的塔</text>
+	</string>
+	<string id="st_name_yan_smart_terrain_zombi_in_sci_base4">
+		<text>排水管</text>
+	</string>
+	<string id="st_name_yan_smart_terrain_zombi_in_sci_base5">
+		<text>工厂角落</text>
+	</string>
+	<string id="st_name_yan_smart_terrain_zombi_in_sci_base6">
+		<text>靠近边缘的车库</text>
+	</string>
+	<string id="st_name_yan_smart_terrain_zombi_spawn">
+		<text>管道出口</text>
+	</string>
+</string_table>

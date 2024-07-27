@@ -1,0 +1,3081 @@
+﻿<?xml version="1.0" encoding="Unicode" ?>
+<string_table>
+	<string id="st_agr_stalker_leader_tip">
+		<text>佣兵，这是欧雷斯特，本地独行者的领袖。如果你想谈谈，来一楼的主建筑找我。</text>
+	</string>
+	<string id="st_gar_bandit_lager_warning">
+		<text>嘿！你！陌生人不允许通过这里，这里属于我们！再过来我们就开火了！</text>
+	</string>
+	<string id="stalker_alife_defence_actor_come_1">
+		<text>嗨！我们要给他们点颜色看看！</text>
+	</string>
+	<string id="stalker_alife_defence_actor_come_2">
+		<text>呼！… 这里应该更容易。</text>
+	</string>
+	<string id="stalker_alife_defence_actor_come_3">
+		<text>谢谢，兄弟！现在我们要狠狠的揍他们！</text>
+	</string>
+	<string id="stalker_alife_defence_actor_help_1">
+		<text>嘿，兄弟，你真的是帮了我们大忙了！有空的话到基地去领取你的报酬。</text>
+	</string>
+	<string id="stalker_alife_defence_actor_help_2">
+		<text>谢啦，哥们！到基地去吧我们会好好报答你的！</text>
+	</string>
+	<string id="stalker_alife_defence_actor_help_3">
+		<text>万分感谢！下次要是到了这里，记得到基地去领取你的报酬！</text>
+	</string>
+	<string id="stalker_alife_defence_end_defence_1">
+		<text>这样他们就尝到厉害了，不敢轻易再来捣乱了！</text>
+	</string>
+	<string id="stalker_alife_defence_end_defence_2">
+		<text>感谢上帝！我们挡住了他们。</text>
+	</string>
+	<string id="stalker_alife_defence_end_defence_3">
+		<text>他们敢来这里掠夺的话就只有死路一条！</text>
+	</string>
+	<string id="stalker_alife_defence_request_help_vs_bandit_1">
+		<text>我们被强盗包围了！请帮助我们，求你了兄弟！</text>
+	</string>
+	<string id="stalker_alife_defence_request_help_vs_csky_1">
+		<text>我们正在和晴空组织交火！请帮助我们，我们不会亏待你的！</text>
+	</string>
+	<string id="stalker_alife_defence_request_help_vs_dolg_1">
+		<text>纪律团正在对我们发动疯狂进攻！请帮助我们不然我们就死定了！</text>
+	</string>
+	<string id="stalker_alife_defence_request_help_vs_freedom_1">
+		<text>嘿，独行者！我们遭到自由团的攻击！和我们一起给他们点颜色看看怎么样？</text>
+	</string>
+	<string id="stalker_alife_defence_request_help_vs_military_1">
+		<text>救命啊，兄弟！军队正在攻击我的同伴！</text>
+	</string>
+	<string id="stalker_alife_defence_request_help_vs_mutant_1">
+		<text>我们被怪物围住了，兄弟！救命啊！</text>
+	</string>
+	<string id="stalker_alife_defence_request_help_vs_zombied_1">
+		<text>哥们！你要帮我们杀了这些丧尸！</text>
+	</string>
+	<string id="stalker_alife_defence_wait_help_1">
+		<text>他们杀死了我们的兄弟！你在哪？</text>
+	</string>
+	<string id="stalker_alife_defence_wait_help_2">
+		<text>我们挡不住了！赶快啊！</text>
+	</string>
+	<string id="stalker_alife_defence_wait_help_3">
+		<text>快来，我们支持不住了！救我们！</text>
+	</string>
+	<string id="stalker_alife_counter_attack_check_1">
+		<text>…发生什么了？进来。听到请回答？</text>
+	</string>
+	<string id="stalker_alife_counter_attack_check_2">
+		<text>…兄弟们，那边发生什么事了？</text>
+	</string>
+	<string id="stalker_alife_counter_attack_check_3">
+		<text>…还有人活着吗？请回答！</text>
+	</string>
+	<string id="stalker_alife_counter_attack_check_4">
+		<text>…你能听到我说话吗？…这个是…</text>
+	</string>
+	<string id="stalker_alife_counter_attack_counter_attack_begin_1">
+		<text>我们的小队没有回应。去他们那里看看，他们可能需要帮助。</text>
+	</string>
+	<string id="stalker_alife_counter_attack_counter_attack_begin_2">
+		<text>我们和弟兄们失去联系了，去看一下到底怎么回事。</text>
+	</string>
+	<string id="stalker_alife_counter_attack_counter_attack_begin_3">
+		<text>我们的伙伴在某处失踪了。带上一个小队去寻找他们。</text>
+	</string>
+	<string id="stalker_alife_counter_attack_reply_1">
+		<text>去看看到底发生了什么。</text>
+	</string>
+	<string id="stalker_alife_counter_attack_reply_2">
+		<text>明白！我们已经出发了！</text>
+	</string>
+	<string id="stalker_alife_counter_attack_reply_3">
+		<text>我打赌他们没事。但安全起见我们还是去看看。</text>
+	</string>
+	<string id="stalker_alife_attack_actor_in_battle_1">
+		<text>你们死定了，可怜人！</text>
+	</string>
+	<string id="stalker_alife_attack_actor_in_battle_2">
+		<text>掩护我，兄弟们，我准备进去了！</text>
+	</string>
+	<string id="stalker_alife_attack_actor_in_battle_3">
+		<text>给他们点颜色看看！</text>
+	</string>
+	<string id="stalker_alife_attack_attack_begin_1">
+		<text>都准备好了？走！</text>
+	</string>
+	<string id="stalker_alife_attack_attack_begin_2">
+		<text>来吧，现在是勇士们的时间。</text>
+	</string>
+	<string id="stalker_alife_attack_attack_begin_3">
+		<text>做好准备！移动，兄弟！</text>
+	</string>
+	<string id="stalker_alife_attack_attack_ready_1">
+		<text>准备行动！所有人都散开！</text>
+	</string>
+	<string id="stalker_alife_attack_attack_ready_2">
+		<text>散开！，兄弟们！我们出击！</text>
+	</string>
+	<string id="stalker_alife_attack_attack_ready_3">
+		<text>散开到阵地里！</text>
+	</string>
+	<string id="stalker_alife_attack_begin_reply_1">
+		<text>呃，我只是小睡一会…</text>
+	</string>
+	<string id="stalker_alife_attack_begin_reply_2">
+		<text>什么？！不，又要上了！</text>
+	</string>
+	<string id="stalker_alife_attack_begin_reply_3">
+		<text>我真不该来凑热闹的…</text>
+	</string>
+	<string id="stalker_alife_attack_begin_reply_4">
+		<text>就不能让我吃饱了再去吗？</text>
+	</string>
+	<string id="stalker_alife_attack_begin_reply_5">
+		<text>他们告诉我说要远离特异区…</text>
+	</string>
+	<string id="stalker_alife_attack_end_fight_1">
+		<text>什么，胜利了？我才刚热了个身。</text>
+	</string>
+	<string id="stalker_alife_attack_end_fight_2">
+		<text>(口哨声)，总算可以歇会了！一切都结束了！</text>
+	</string>
+	<string id="stalker_alife_attack_end_fight_3">
+		<text>我们是最棒的，兄弟们！他们已经尝到厉害了！</text>
+	</string>
+	<string id="stalker_alife_attack_found_enemy_1">
+		<text>我们要大干一场了。谁先上？</text>
+	</string>
+	<string id="stalker_alife_attack_found_enemy_2">
+		<text>遭遇敌人。战斗开始！</text>
+	</string>
+	<string id="stalker_alife_attack_found_enemy_3">
+		<text>发现敌人、准备行动…</text>
+	</string>
+	<string id="stalker_alife_attack_prepare_attack_1">
+		<text>都注意了，弟兄们。听我命令再开火！</text>
+	</string>
+	<string id="stalker_alife_attack_prepare_attack_2">
+		<text>做好准备。听我的命令开火！</text>
+	</string>
+	<string id="stalker_alife_attack_prepare_attack_3">
+		<text>稳住！等我的命令！</text>
+	</string>
+	<string id="stalker_alife_attack_see_counter_1">
+		<text>我发现了敌人…消灭他们！</text>
+	</string>
+	<string id="stalker_alife_attack_see_counter_2">
+		<text>敌人就在我们旁边！</text>
+	</string>
+	<string id="stalker_alife_attack_see_counter_3">
+		<text>我发现他们了！</text>
+	</string>
+	<string id="stalker_alife_attack_smart_captured_1">
+		<text>我们拿下了阵地！</text>
+	</string>
+	<string id="stalker_alife_attack_smart_captured_2">
+		<text>阵地已被占领</text>
+	</string>
+	<string id="stalker_alife_attack_smart_captured_3">
+		<text>一切都在控制之中。该地已被占领。</text>
+	</string>
+	<string id="stalker_alife_attack_start_fight_1">
+		<text>上，独行者！干掉他们！</text>
+	</string>
+	<string id="stalker_alife_attack_start_fight_2">
+		<text>攻击他们！</text>
+	</string>
+	<string id="stalker_alife_attack_start_fight_3">
+		<text>开火！开火！！！</text>
+	</string>
+	<string id="stalker_alife_attack_wait_again_1">
+		<text>嘿，朋友，还记得我们吗？</text>
+	</string>
+	<string id="stalker_alife_attack_wait_again_2">
+		<text>嘿，你在哪？我们在等你…</text>
+	</string>
+	<string id="stalker_alife_attack_wait_again_3">
+		<text>我们还在这里，如果还有人关心的话。</text>
+	</string>
+	<string id="stalker_alife_attack_wait_counter_1">
+		<text>我说过，没这么容易就结束的！</text>
+	</string>
+	<string id="stalker_alife_attack_wait_counter_2">
+		<text>睁大你的眼睛，敌人随时都会出现！</text>
+	</string>
+	<string id="stalker_alife_attack_wait_counter_3">
+		<text>可能多此一举…但是为了安全起见，你们最好检查一下自己的武器。</text>
+	</string>
+	<string id="stalker_alife_attack_wait_signal_1">
+		<text>我们准备好了 - 你一旦下令我们就攻击！</text>
+	</string>
+	<string id="stalker_alife_attack_wait_signal_2">
+		<text>我们全都准备好了。就等你的命令了！</text>
+	</string>
+	<string id="stalker_alife_attack_wait_signal_3">
+		<text>所有阵地都准备好了，等待你的命令！</text>
+	</string>
+	<string id="stalker_alife_attack_we_spotted_1">
+		<text>他们好像发现我们了！</text>
+	</string>
+	<string id="stalker_alife_attack_we_spotted_2">
+		<text>被发现了，再躲着也没用了。</text>
+	</string>
+	<string id="stalker_alife_attack_we_spotted_3">
+		<text>偷袭看来失败了。</text>
+	</string>
+	<string id="military_alife_patrol_run_1">
+		<text>快！</text>
+	</string>
+	<string id="military_alife_patrol_sneak_1">
+		<text>闭嘴！</text>
+	</string>
+	<string id="military_alife_patrol_walk_1">
+		<text>不许撤退！</text>
+	</string>
+	<string id="military_alife_counter_attack_check_1">
+		<text>…报告！完毕…</text>
+	</string>
+	<string id="military_alife_counter_attack_check_2">
+		<text>…还有人在吗？请回答，完毕！</text>
+	</string>
+	<string id="military_alife_counter_attack_check_3">
+		<text>…什么…回答，该死！</text>
+	</string>
+	<string id="military_alife_counter_attack_check_4">
+		<text>…该死的，你们都聋了还是怎么的？</text>
+	</string>
+	<string id="military_alife_counter_attack_counter_attack_begin_1">
+		<text>听着！我们和小队失去了联络。我们必须去弄清到底发生了什么。</text>
+	</string>
+	<string id="military_alife_counter_attack_counter_attack_begin_2">
+		<text>去那里弄清到底发生了什么。小队没有回答。</text>
+	</string>
+	<string id="military_alife_counter_attack_counter_attack_begin_3">
+		<text>快，带上一个小队去看看到底发生了什么！不知为何失去了联络。你要随时保持警觉。</text>
+	</string>
+	<string id="military_alife_counter_attack_reply_1">
+		<text>是，是的，长官！搜索该地区并尝试与小队取得联络！</text>
+	</string>
+	<string id="military_alife_counter_attack_reply_2">
+		<text>明白，长官！立即执行！</text>
+	</string>
+	<string id="military_alife_counter_attack_reply_3">
+		<text>明白！组织一支小队搜索！</text>
+	</string>
+	<string id="military_alife_attack_attack_begin_1">
+		<text>休息够了！我们出发！</text>
+	</string>
+	<string id="military_alife_attack_attack_begin_2">
+		<text>带上你一起！我们走！</text>
+	</string>
+	<string id="military_alife_attack_attack_begin_3">
+		<text>小队，夺取文件！</text>
+	</string>
+	<string id="military_alife_attack_attack_ready_1">
+		<text>注意！散开！</text>
+	</string>
+	<string id="military_alife_attack_attack_ready_2">
+		<text>小队！占领阵地！</text>
+	</string>
+	<string id="military_alife_attack_attack_ready_3">
+		<text>散开！</text>
+	</string>
+	<string id="military_alife_attack_begin_reply_1">
+		<text>该死的，别再来了…上次战斗我已经浑身是伤了</text>
+	</string>
+	<string id="military_alife_attack_begin_reply_2">
+		<text>我不行了，他们也太顽强了。</text>
+	</string>
+	<string id="military_alife_attack_begin_reply_3">
+		<text>就这样，我现在很生气！</text>
+	</string>
+	<string id="military_alife_attack_begin_reply_4">
+		<text>战斗还在继续… Cra-a-a-ptastic！</text>
+	</string>
+	<string id="military_alife_attack_begin_reply_5">
+		<text>这下麻烦了。</text>
+	</string>
+	<string id="military_alife_attack_start_fight_1">
+		<text>开火！</text>
+	</string>
+	<string id="military_alife_attack_start_fight_2">
+		<text>进攻！</text>
+	</string>
+	<string id="military_alife_attack_start_fight_3">
+		<text>走开，你这糟糕的混蛋！</text>
+	</string>
+	<string id="freedom_alife_defence_actor_come_1">
+		<text>好吧！你知道吗？你真是太够意思了。</text>
+	</string>
+	<string id="freedom_alife_defence_actor_come_2">
+		<text>该死，很高兴见到你！</text>
+	</string>
+	<string id="freedom_alife_defence_actor_come_3">
+		<text>很高兴见到你，兄弟！我们正要给他们点教训看看你来的正是时候！</text>
+	</string>
+	<string id="freedom_alife_defence_actor_help_1">
+		<text>噢，兄弟！你在我们这我们真的很骄傲！来我们的基地 - 我们很感谢你，我们能适当放松一下了。</text>
+	</string>
+	<string id="freedom_alife_defence_actor_help_2">
+		<text>如果没有你，我们就死定了。去我们的基地- 我们会给你一个小小的奖励。</text>
+	</string>
+	<string id="freedom_alife_defence_actor_help_3">
+		<text>我们总算赢得了胜利。到我们的基地去 - 我们欠你一个人情。</text>
+	</string>
+	<string id="freedom_alife_defence_end_defence_1">
+		<text>那些是谁的AK，还是藏着的。纪律团的，拿吗？</text>
+	</string>
+	<string id="freedom_alife_defence_end_defence_2">
+		<text>我不太明白他们想说什么。</text>
+	</string>
+	<string id="freedom_alife_defence_end_defence_3">
+		<text>那些可怜的家伙甚至连还手的机会都没有- 我们的战术无懈可击。</text>
+	</string>
+	<string id="freedom_alife_defence_request_help_vs_bandit_1">
+		<text>兄弟！强盗正在向我们接近 - 我们需要帮助！</text>
+	</string>
+	<string id="freedom_alife_defence_request_help_vs_csky_1">
+		<text>我们需要你的支援，朋友！这些该死的人会杀了我们。</text>
+	</string>
+	<string id="freedom_alife_defence_request_help_vs_dolg_1">
+		<text>救命，朋友！纪律团正在聚集！</text>
+	</string>
+	<string id="freedom_alife_defence_request_help_vs_military_1">
+		<text>哥们，帮我们击退那些陆战队！</text>
+	</string>
+	<string id="freedom_alife_defence_request_help_vs_mutant_1">
+		<text>嘿，独行者！我们在这里发现了一个野生动物园！没有你我们可不行。</text>
+	</string>
+	<string id="freedom_alife_defence_request_help_vs_stalker_1">
+		<text>嘿，兄弟，一些独行者试图剥夺我们的自由！帮忙啊！</text>
+	</string>
+	<string id="freedom_alife_defence_request_help_vs_zombied_1">
+		<text>哥们，帮助我们阻止这些丧尸！</text>
+	</string>
+	<string id="freedom_alife_defence_wait_help_1">
+		<text>我的朋友们快死了！快点，救救他！</text>
+	</string>
+	<string id="freedom_alife_defence_wait_help_2">
+		<text>救～命！我们迷路了！</text>
+	</string>
+	<string id="freedom_alife_defence_wait_help_3">
+		<text>你要见死不救吗？！我们要死在这里了！</text>
+	</string>
+	<string id="freedom_alife_counter_attack_check_1">
+		<text>…搞什么？这里到底发生了什么？</text>
+	</string>
+	<string id="freedom_alife_counter_attack_check_2">
+		<text>这没什么好笑的… 我不是在开玩笑…</text>
+	</string>
+	<string id="freedom_alife_counter_attack_check_3">
+		<text>…兄弟们，发生了什么？</text>
+	</string>
+	<string id="freedom_alife_counter_attack_check_4">
+		<text>…小队，回答… 该死！</text>
+	</string>
+	<string id="freedom_alife_counter_attack_counter_attack_begin_1">
+		<text>我们的兄弟没能进来！巡视该地区并保持警觉。</text>
+	</string>
+	<string id="freedom_alife_counter_attack_counter_attack_begin_2">
+		<text>该死的，不知道发生了什么事。带着我们的兄弟们去那里看看。</text>
+	</string>
+	<string id="freedom_alife_counter_attack_counter_attack_begin_3">
+		<text>不知道兄弟们怎么样了。带上一个小队去那里看看！</text>
+	</string>
+	<string id="freedom_alife_counter_attack_reply_1">
+		<text>耶，我们必须去看看我们的兄弟们在干什么。</text>
+	</string>
+	<string id="freedom_alife_counter_attack_reply_2">
+		<text>我们走，我们走。</text>
+	</string>
+	<string id="freedom_alife_counter_attack_reply_3">
+		<text>啊！希望他们没有遇到任何麻烦！</text>
+	</string>
+	<string id="freedom_alife_attack_actor_in_battle_1">
+		<text>过来帮帮忙！</text>
+	</string>
+	<string id="freedom_alife_attack_actor_in_battle_2">
+		<text>感受我们的爱吧，笨蛋们！</text>
+	</string>
+	<string id="freedom_alife_attack_actor_in_battle_3">
+		<text>我已经受够你了！</text>
+	</string>
+	<string id="freedom_alife_attack_attack_begin_1">
+		<text>每个人都做好准备！我们还有事要做！</text>
+	</string>
+	<string id="freedom_alife_attack_attack_begin_2">
+		<text>烟雾突击完毕！赶快行动！</text>
+	</string>
+	<string id="freedom_alife_attack_attack_begin_3">
+		<text>等的够久了！该我们表演了！</text>
+	</string>
+	<string id="freedom_alife_attack_attack_ready_1">
+		<text>摧毁它 - 进攻时注意保持距离。</text>
+	</string>
+	<string id="freedom_alife_attack_attack_ready_2">
+		<text>散开！每个人都准备好！</text>
+	</string>
+	<string id="freedom_alife_attack_attack_ready_3">
+		<text>各就各位，快！</text>
+	</string>
+	<string id="freedom_alife_attack_begin_reply_1">
+		<text>该死！我没弹药了…</text>
+	</string>
+	<string id="freedom_alife_attack_begin_reply_2">
+		<text>又咋了？</text>
+	</string>
+	<string id="freedom_alife_attack_begin_reply_3">
+		<text>见鬼，又是这样。</text>
+	</string>
+	<string id="freedom_alife_attack_begin_reply_4">
+		<text>哈-哈-哈！！你不能… 嘿，你没开玩笑？</text>
+	</string>
+	<string id="freedom_alife_attack_begin_reply_5">
+		<text>我们不能再等一两个小时？</text>
+	</string>
+	<string id="freedom_alife_attack_end_fight_1">
+		<text>这就是和自由图作对的下场。</text>
+	</string>
+	<string id="freedom_alife_attack_end_fight_2">
+		<text>怎么样尝到厉害了吧，嗯？不要忘了告诉你的朋友！</text>
+	</string>
+	<string id="freedom_alife_attack_end_fight_3">
+		<text>搞定了！</text>
+	</string>
+	<string id="freedom_alife_attack_found_enemy_1">
+		<text>有敌人！准备攻击！</text>
+	</string>
+	<string id="freedom_alife_attack_found_enemy_2">
+		<text>敌人在这！加入战斗 - 如果你有足够的勇气。</text>
+	</string>
+	<string id="freedom_alife_attack_found_enemy_3">
+		<text>我发现了敌人！立即开始战斗…</text>
+	</string>
+	<string id="freedom_alife_attack_prepare_attack_1">
+		<text>是哪个杂种先开的抢？只能听我的命令开火！</text>
+	</string>
+	<string id="freedom_alife_attack_prepare_attack_2">
+		<text>隐蔽！听我的命令开火！</text>
+	</string>
+	<string id="freedom_alife_attack_prepare_attack_3">
+		<text>等我的命令！瞄准！</text>
+	</string>
+	<string id="freedom_alife_attack_see_counter_1">
+		<text>他们来了！</text>
+	</string>
+	<string id="freedom_alife_attack_see_counter_2">
+		<text>有动静！做好准备！</text>
+	</string>
+	<string id="freedom_alife_attack_see_counter_3">
+		<text>发现敌军部队！</text>
+	</string>
+	<string id="freedom_alife_attack_smart_captured_1">
+		<text>把他们都打跑了，阵地现在是我们的。</text>
+	</string>
+	<string id="freedom_alife_attack_smart_captured_2">
+		<text>敌人已被击毙，守卫成功。</text>
+	</string>
+	<string id="freedom_alife_attack_smart_captured_3">
+		<text>我们的小队已经占领该阵地。</text>
+	</string>
+	<string id="freedom_alife_attack_start_fight_1">
+		<text>冲，冲，冲！</text>
+	</string>
+	<string id="freedom_alife_attack_start_fight_2">
+		<text>杀了他们！冲！</text>
+	</string>
+	<string id="freedom_alife_attack_start_fight_3">
+		<text>进攻！射击，射击！</text>
+	</string>
+	<string id="freedom_alife_attack_wait_again_1">
+		<text>哟，哥们，你加入我们还是？</text>
+	</string>
+	<string id="freedom_alife_attack_wait_again_2">
+		<text>你自己一个人开心？我们还在等什么？</text>
+	</string>
+	<string id="freedom_alife_attack_wait_again_3">
+		<text>告诉我- 你和我们一起还是留下来？</text>
+	</string>
+	<string id="freedom_alife_attack_wait_counter_1">
+		<text>直觉告诉我敌人摸上门来了。</text>
+	</string>
+	<string id="freedom_alife_attack_wait_counter_2">
+		<text>不许打盹！我打赌他们马上就要过来了！</text>
+	</string>
+	<string id="freedom_alife_attack_wait_counter_3">
+		<text>注意！敌人可能会悄悄的过来！</text>
+	</string>
+	<string id="freedom_alife_attack_wait_signal_1">
+		<text>我的人已准备就绪。我们听你的命令加入战斗！</text>
+	</string>
+	<string id="freedom_alife_attack_wait_signal_2">
+		<text>一切准备就绪 - 我们就等你下令攻击了。</text>
+	</string>
+	<string id="freedom_alife_attack_wait_signal_3">
+		<text>我们已经在阵地埋伏好了。等你下令！</text>
+	</string>
+	<string id="freedom_alife_attack_we_spotted_1">
+		<text>突袭失败- 我们搞砸了！</text>
+	</string>
+	<string id="freedom_alife_attack_we_spotted_2">
+		<text>这个计划不错，但是被发现了！</text>
+	</string>
+	<string id="freedom_alife_attack_we_spotted_3">
+		<text>不用躲了 - 我们已经被发现了！</text>
+	</string>
+	<string id="dolg_alife_defence_actor_come_1">
+		<text>最后！世界更需要多像你这样的好兄弟！</text>
+	</string>
+	<string id="dolg_alife_defence_actor_come_2">
+		<text>增援部队已抵达！现在我们给他们点颜色瞧瞧…</text>
+	</string>
+	<string id="dolg_alife_defence_actor_come_3">
+		<text>嘿！我说我们该一起上- 怎么样？</text>
+	</string>
+	<string id="dolg_alife_defence_actor_help_1">
+		<text>嘿…好险！谢谢，兄弟。来我们的基地- 纪律团不会忘记好弟兄。</text>
+	</string>
+	<string id="dolg_alife_defence_actor_help_2">
+		<text>如果不是你我们就完了。来我们的基地，我们不会亏待你的。</text>
+	</string>
+	<string id="dolg_alife_defence_actor_help_3">
+		<text>胜利真是来之不易！来我们的基地我们要好好感谢你！</text>
+	</string>
+	<string id="dolg_alife_defence_end_defence_1">
+		<text>我们把他们赶走了！谢谢各位！</text>
+	</string>
+	<string id="dolg_alife_defence_end_defence_2">
+		<text>我们守住了阵地。</text>
+	</string>
+	<string id="dolg_alife_defence_end_defence_3">
+		<text>别用刀去参加枪战，傻瓜。</text>
+	</string>
+	<string id="dolg_alife_defence_request_help_vs_stalker_1">
+		<text>嘿，佣兵！帮助纪律团击退一些独行者的败类！</text>
+	</string>
+	<string id="dolg_alife_defence_request_help_vs_bandit_1">
+		<text>帮助我们，朋友！强盗也是你的敌人！</text>
+	</string>
+	<string id="dolg_alife_defence_request_help_vs_csky_1">
+		<text>嘿，哥们！沼泽的这些蠢蛋需要你的帮助！</text>
+	</string>
+	<string id="dolg_alife_defence_request_help_vs_freedom_1">
+		<text>帮助我们摆脱那个自由团的流氓！</text>
+	</string>
+	<string id="dolg_alife_defence_request_help_vs_military_1">
+		<text>军队逼得我们走投无路！你要帮帮我们要不我们就麻烦了！</text>
+	</string>
+	<string id="dolg_alife_defence_request_help_vs_mutant_1">
+		<text>嘿，独行者！我们需要你帮我们抗击那些异变生物！</text>
+	</string>
+	<string id="dolg_alife_defence_request_help_vs_zombied_1">
+		<text>丧尸正向我们走来，我们需要你的帮助！</text>
+	</string>
+	<string id="dolg_alife_defence_wait_help_1">
+		<text>你在哪？我们需要你的帮助！</text>
+	</string>
+	<string id="dolg_alife_defence_wait_help_2">
+		<text>佣兵，你在哪？！</text>
+	</string>
+	<string id="dolg_alife_defence_wait_help_3">
+		<text>我们不能永远等你！过来！</text>
+	</string>
+	<string id="dolg_alife_counter_attack_check_1">
+		<text>…什么事？快报告！</text>
+	</string>
+	<string id="dolg_alife_counter_attack_check_2">
+		<text>…这里是基地，请立即回覆…</text>
+	</string>
+	<string id="dolg_alife_counter_attack_check_3">
+		<text>…小队！你那发生了什么？…</text>
+	</string>
+	<string id="dolg_alife_counter_attack_check_4">
+		<text>…喂！需要援助吗？</text>
+	</string>
+	<string id="dolg_alife_counter_attack_counter_attack_begin_1">
+		<text>注意！我们无法联系到我们的小队- 你去看看那里发生了什么。去吧。</text>
+	</string>
+	<string id="dolg_alife_counter_attack_counter_attack_begin_2">
+		<text>可能是设备故障了，但是直觉告诉我出事了。我们去检查一下</text>
+	</string>
+	<string id="dolg_alife_counter_attack_counter_attack_begin_3">
+		<text>好吧，带上一个小队走。我们的兄弟们没有回答。</text>
+	</string>
+	<string id="dolg_alife_counter_attack_reply_1">
+		<text>那儿到底发生了什么？我们去看看。</text>
+	</string>
+	<string id="dolg_alife_counter_attack_reply_2">
+		<text>弟兄们！收拾行装，我们出发！</text>
+	</string>
+	<string id="dolg_alife_counter_attack_reply_3">
+		<text>耶，可能发生任何事。走！</text>
+	</string>
+	<string id="dolg_alife_attack_actor_in_battle_1">
+		<text>纪律团，进攻！</text>
+	</string>
+	<string id="dolg_alife_attack_actor_in_battle_2">
+		<text>我欠你一个人情！</text>
+	</string>
+	<string id="dolg_alife_attack_actor_in_battle_3">
+		<text>打倒他们，兄弟们！</text>
+	</string>
+	<string id="dolg_alife_attack_attack_begin_1">
+		<text>注意！准备行动！</text>
+	</string>
+	<string id="dolg_alife_attack_attack_begin_2">
+		<text>给他们瞧瞧什么才是纪律团！做好准备！</text>
+	</string>
+	<string id="dolg_alife_attack_attack_begin_3">
+		<text>检查你的武器并跟着队长！</text>
+	</string>
+	<string id="dolg_alife_attack_attack_ready_1">
+		<text>散开！</text>
+	</string>
+	<string id="dolg_alife_attack_attack_ready_2">
+		<text>注意！每个人坚守阵地！</text>
+	</string>
+	<string id="dolg_alife_attack_attack_ready_3">
+		<text>散开并准备行动！</text>
+	</string>
+	<string id="dolg_alife_attack_begin_reply_1">
+		<text>总是要了结了？</text>
+	</string>
+	<string id="dolg_alife_attack_begin_reply_2">
+		<text>该响应纪律团的号召了，嗯？</text>
+	</string>
+	<string id="dolg_alife_attack_begin_reply_3">
+		<text>到处都是敌人…他们源源不断…源源不断…源源不断…</text>
+	</string>
+	<string id="dolg_alife_attack_begin_reply_4">
+		<text>我这样做是为了大家好…为了大家好…</text>
+	</string>
+	<string id="dolg_alife_attack_begin_reply_5">
+		<text>至少让我先把鞋穿好啊…</text>
+	</string>
+	<string id="dolg_alife_attack_end_fight_1">
+		<text>这个领地是我们的！</text>
+	</string>
+	<string id="dolg_alife_attack_end_fight_2">
+		<text>我们把那些杂种赶跑了！</text>
+	</string>
+	<string id="dolg_alife_attack_end_fight_3">
+		<text>消灭敌人！呀～啊！</text>
+	</string>
+	<string id="dolg_alife_attack_found_enemy_1">
+		<text>发现敌人！无论谁加入这个战斗都是一个好注意，来吧！</text>
+	</string>
+	<string id="dolg_alife_attack_found_enemy_2">
+		<text>发现敌人！准备攻击！</text>
+	</string>
+	<string id="dolg_alife_attack_found_enemy_3">
+		<text>发现敌人。准备攻击。</text>
+	</string>
+	<string id="dolg_alife_attack_prepare_attack_1">
+		<text>稳住…没有我的命令不许开火！</text>
+	</string>
+	<string id="dolg_alife_attack_prepare_attack_2">
+		<text>在我下令前谁敢开枪有他好看！</text>
+	</string>
+	<string id="dolg_alife_attack_prepare_attack_3">
+		<text>都把眼睛睁大了，听我命令再行动！</text>
+	</string>
+	<string id="dolg_alife_attack_see_counter_1">
+		<text>发现敌人！大伙都做好准备！</text>
+	</string>
+	<string id="dolg_alife_attack_see_counter_2">
+		<text>我发现了敌人！</text>
+	</string>
+	<string id="dolg_alife_attack_see_counter_3">
+		<text>发现敌人！</text>
+	</string>
+	<string id="dolg_alife_attack_smart_captured_1">
+		<text>报告：敌人被赶走。</text>
+	</string>
+	<string id="dolg_alife_attack_smart_captured_2">
+		<text>明白。这个阵地已在我们的控制之中。</text>
+	</string>
+	<string id="dolg_alife_attack_smart_captured_3">
+		<text>该地已经被占领，等待进一步指示。</text>
+	</string>
+	<string id="dolg_alife_attack_start_fight_1">
+		<text>狠狠的打！</text>
+	</string>
+	<string id="dolg_alife_attack_start_fight_2">
+		<text>开火啊！</text>
+	</string>
+	<string id="dolg_alife_attack_start_fight_3">
+		<text>开火！！！</text>
+	</string>
+	<string id="dolg_alife_attack_wait_again_1">
+		<text>佣兵，我们正在等待你的信号！完毕。</text>
+	</string>
+	<string id="dolg_alife_attack_wait_again_2">
+		<text>嘿，你那儿没出岔子吧？</text>
+	</string>
+	<string id="dolg_alife_attack_wait_again_3">
+		<text>自己多留神，没问题吧？我们的人在这里等候。</text>
+	</string>
+	<string id="dolg_alife_attack_wait_counter_1">
+		<text>我们还剩多少弹药了？我们恭候敌人上门。</text>
+	</string>
+	<string id="dolg_alife_attack_wait_counter_2">
+		<text>保持警觉！我们可能会遭遇反击！</text>
+	</string>
+	<string id="dolg_alife_attack_wait_counter_3">
+		<text>保持警觉，敌人随时都会攻过来！</text>
+	</string>
+	<string id="dolg_alife_attack_wait_signal_1">
+		<text>我们的小队已做好准备。等待你的信号！</text>
+	</string>
+	<string id="dolg_alife_attack_wait_signal_2">
+		<text>战士们各就各位了。就等信号了！</text>
+	</string>
+	<string id="dolg_alife_attack_wait_signal_3">
+		<text>一切准备就绪！你的信号什么时候开始！</text>
+	</string>
+	<string id="dolg_alife_attack_we_spotted_1">
+		<text>注意！我们已被发现！</text>
+	</string>
+	<string id="dolg_alife_attack_we_spotted_2">
+		<text>我们已被敌人发现！</text>
+	</string>
+	<string id="dolg_alife_attack_we_spotted_3">
+		<text>我们暴露了！</text>
+	</string>
+	<string id="csky_alife_defence_actor_come_1">
+		<text>好极了，给他们点教训看看！</text>
+	</string>
+	<string id="csky_alife_defence_actor_come_2">
+		<text>感谢你来了！要吃点苦头了！</text>
+	</string>
+	<string id="csky_alife_defence_actor_come_3">
+		<text>感谢你来帮助我们！让他们看看谁才是老大！</text>
+	</string>
+	<string id="csky_alife_defence_actor_help_1">
+		<text>谢谢你的帮助！来我们的基地 - 我们不会亏待你的，我保证！</text>
+	</string>
+	<string id="csky_alife_defence_actor_help_2">
+		<text>谢谢你的帮助！你有空去我们的基地 - 我们会报答你的。</text>
+	</string>
+	<string id="csky_alife_defence_actor_help_3">
+		<text>谢谢你，佣兵！你真是帮了我们大忙，到基地去我们会报答你的。</text>
+	</string>
+	<string id="csky_alife_defence_end_defence_1">
+		<text>我们险些失守！</text>
+	</string>
+	<string id="csky_alife_defence_end_defence_2">
+		<text>兄弟，这次防御战打得不错！</text>
+	</string>
+	<string id="csky_alife_defence_end_defence_3">
+		<text>另一次进攻被击退了！</text>
+	</string>
+	<string id="csky_alife_defence_request_help_vs_bandit_1">
+		<text>佣兵，帮助我们和这些强盗战斗！</text>
+	</string>
+	<string id="csky_alife_defence_request_help_vs_dolg_1">
+		<text>纪律团正在攻击我们！帮助我们打击他们，兄弟！</text>
+	</string>
+	<string id="csky_alife_defence_request_help_vs_freedom_1">
+		<text>嘿，朋友，这些自由团的战士包围了我们！救命！</text>
+	</string>
+	<string id="csky_alife_defence_request_help_vs_military_1">
+		<text>兄弟，帮助我们打击这些军人！</text>
+	</string>
+	<string id="csky_alife_defence_request_help_vs_mutant_1">
+		<text>救救我们，佣兵！怪物到处都是！</text>
+	</string>
+	<string id="csky_alife_defence_request_help_vs_stalker_1">
+		<text>嘿，兄弟！帮助我们抵挡独行者！</text>
+	</string>
+	<string id="csky_alife_defence_request_help_vs_zombied_1">
+		<text>快过来！丧尸正朝我们过来！</text>
+	</string>
+	<string id="csky_alife_defence_wait_help_1">
+		<text>快！我们正遭到攻击！</text>
+	</string>
+	<string id="csky_alife_defence_wait_help_2">
+		<text>我们坚持不了多久了！快点救我们！</text>
+	</string>
+	<string id="csky_alife_defence_wait_help_3">
+		<text>该死的！你在哪儿？</text>
+	</string>
+	<string id="csky_alife_counter_attack_check_1">
+		<text>…注意… 这里是基地… 回答我…</text>
+	</string>
+	<string id="csky_alife_counter_attack_check_2">
+		<text>…那里发生什么了？</text>
+	</string>
+	<string id="csky_alife_counter_attack_check_3">
+		<text>…你这该死的！回答，现在！</text>
+	</string>
+	<string id="csky_alife_counter_attack_check_4">
+		<text>…该死的…</text>
+	</string>
+	<string id="csky_alife_counter_attack_counter_attack_begin_1">
+		<text>去看看我们的兄弟到底出什么事了。他们没有回答。</text>
+	</string>
+	<string id="csky_alife_counter_attack_counter_attack_begin_2">
+		<text>和兄弟失去了联络。必须去看看是怎么回事。</text>
+	</string>
+	<string id="csky_alife_counter_attack_counter_attack_begin_3">
+		<text>兄弟们没有回答。肯定出事了。</text>
+	</string>
+	<string id="csky_alife_counter_attack_reply_1">
+		<text>遵命！立即执行。</text>
+	</string>
+	<string id="csky_alife_counter_attack_reply_2">
+		<text>马上过去。</text>
+	</string>
+	<string id="csky_alife_counter_attack_reply_3">
+		<text>我要知道那里到底出什么事了… 我们出发。</text>
+	</string>
+	<string id="csky_alife_attack_actor_in_battle_1">
+		<text>为我们的朋友！</text>
+	</string>
+	<string id="csky_alife_attack_actor_in_battle_2">
+		<text>吃老子的子弹吧！</text>
+	</string>
+	<string id="csky_alife_attack_actor_in_battle_3">
+		<text>尝尝这个，白痴们！</text>
+	</string>
+	<string id="csky_alife_attack_attack_begin_1">
+		<text>小队！撤离！</text>
+	</string>
+	<string id="csky_alife_attack_attack_begin_2">
+		<text>敌人可不会打盹的！做好准备！</text>
+	</string>
+	<string id="csky_alife_attack_attack_begin_3">
+		<text>小队，跟着我！</text>
+	</string>
+	<string id="csky_alife_attack_attack_ready_1">
+		<text>不要乱了阵型！做好准备！</text>
+	</string>
+	<string id="csky_alife_attack_attack_ready_2">
+		<text>集体散开。</text>
+	</string>
+	<string id="csky_alife_attack_attack_ready_3">
+		<text>小队，守住阵地！</text>
+	</string>
+	<string id="csky_alife_attack_begin_reply_1">
+		<text>我们又开始了…</text>
+	</string>
+	<string id="csky_alife_attack_begin_reply_2">
+		<text>什么时候停止？</text>
+	</string>
+	<string id="csky_alife_attack_begin_reply_3">
+		<text>兄弟，我厌烦这些计划了。</text>
+	</string>
+	<string id="csky_alife_attack_begin_reply_4">
+		<text>天啊，我就不能安稳的吃顿饭吗？！</text>
+	</string>
+	<string id="csky_alife_attack_begin_reply_5">
+		<text>我再也受不了了！</text>
+	</string>
+	<string id="csky_alife_attack_end_fight_1">
+		<text>我们打赢了…</text>
+	</string>
+	<string id="csky_alife_attack_end_fight_2">
+		<text>我们干掉了他们一批人！</text>
+	</string>
+	<string id="csky_alife_attack_end_fight_3">
+		<text>哇！漂亮的战斗，不是吗？</text>
+	</string>
+	<string id="csky_alife_attack_found_enemy_1">
+		<text>发现敌人。准备攻击。</text>
+	</string>
+	<string id="csky_alife_attack_found_enemy_2">
+		<text>发现敌人，准备攻击。</text>
+	</string>
+	<string id="csky_alife_attack_found_enemy_3">
+		<text>我们正准备攻击。想加入的话就过来吧。</text>
+	</string>
+	<string id="csky_alife_attack_prepare_attack_1">
+		<text>听我的命令再攻击！</text>
+	</string>
+	<string id="csky_alife_attack_prepare_attack_2">
+		<text>没有我的命令不许攻击！</text>
+	</string>
+	<string id="csky_alife_attack_prepare_attack_3">
+		<text>只有我下令才能射击！</text>
+	</string>
+	<string id="csky_alife_attack_see_counter_1">
+		<text>他们在这里。准备行动！</text>
+	</string>
+	<string id="csky_alife_attack_see_counter_2">
+		<text>发现敌人！</text>
+	</string>
+	<string id="csky_alife_attack_see_counter_3">
+		<text>我发现了目标！</text>
+	</string>
+	<string id="csky_alife_attack_smart_captured_1">
+		<text>基地，我们占领了当前目标。</text>
+	</string>
+	<string id="csky_alife_attack_smart_captured_2">
+		<text>已占领阵地，完毕。</text>
+	</string>
+	<string id="csky_alife_attack_smart_captured_3">
+		<text>基地，我们了弄丢了敌人。</text>
+	</string>
+	<string id="csky_alife_attack_start_fight_1">
+		<text>进攻！干掉他们！</text>
+	</string>
+	<string id="csky_alife_attack_start_fight_2">
+		<text>开火！攻击！</text>
+	</string>
+	<string id="csky_alife_attack_start_fight_3">
+		<text>消灭他们！开火！</text>
+	</string>
+	<string id="csky_alife_attack_wait_again_1">
+		<text>你醒来了？我们正在等你。</text>
+	</string>
+	<string id="csky_alife_attack_wait_again_2">
+		<text>你终于醒了？我们都在等你。</text>
+	</string>
+	<string id="csky_alife_attack_wait_again_3">
+		<text>嘿，你还活着啊？</text>
+	</string>
+	<string id="csky_alife_attack_wait_counter_1">
+		<text>做好准备！把眼睛都睁大了，敌人就要过来了。</text>
+	</string>
+	<string id="csky_alife_attack_wait_counter_2">
+		<text>留神任何动静。敌人可能正在接近我们！</text>
+	</string>
+	<string id="csky_alife_attack_wait_counter_3">
+		<text>保持警觉！我们估计有一次进攻。</text>
+	</string>
+	<string id="csky_alife_attack_wait_signal_1">
+		<text>佣兵，我们得到你的命令后正准备加入行动！</text>
+	</string>
+	<string id="csky_alife_attack_wait_signal_2">
+		<text>佣兵，我们在得你的命令后攻击！</text>
+	</string>
+	<string id="csky_alife_attack_wait_signal_3">
+		<text>佣兵，我们正在等待你的信号！</text>
+	</string>
+	<string id="csky_alife_attack_we_spotted_1">
+		<text>该死的！他们发现我们了！</text>
+	</string>
+	<string id="csky_alife_attack_we_spotted_2">
+		<text>我们不得不在开阔地发动攻击！</text>
+	</string>
+	<string id="csky_alife_attack_we_spotted_3">
+		<text>我们被发现了！我再重复一遍，我们被发现了！</text>
+	</string>
+	<string id="bandit_alife_defence_actor_come_1">
+		<text>我们，嗯… 开打的时候你要露一手哟！</text>
+	</string>
+	<string id="bandit_alife_defence_actor_come_2">
+		<text>嘿！那么，是不是应该给他们点教训？</text>
+	</string>
+	<string id="bandit_alife_defence_actor_come_3">
+		<text>噢！现在该让这些笨蛋闭嘴了！</text>
+	</string>
+	<string id="bandit_alife_defence_actor_help_1">
+		<text>哇，好久没有遇到这么艰难的情形了…有空过来- 我们会报答你的。</text>
+	</string>
+	<string id="bandit_alife_defence_actor_help_2">
+		<text>谢谢！一分钟前我还以为我们要见上帝了呢… 有空过来我们不会亏待你的。</text>
+	</string>
+	<string id="bandit_alife_defence_actor_help_3">
+		<text>我还以为我们死定了呢，但是，嘿，我们还活着。你真该到我们的基地来看看我们不会亏待你的。</text>
+	</string>
+	<string id="bandit_alife_defence_end_defence_1">
+		<text>他来了，他看着真令人讨厌！啊-哈-哈！</text>
+	</string>
+	<string id="bandit_alife_defence_end_defence_2">
+		<text>我们狠狠的教训了他们一下！</text>
+	</string>
+	<string id="bandit_alife_defence_end_defence_3">
+		<text>考虑到这个早餐；还敢这么干的家伙 和前面那个一样的下场！</text>
+	</string>
+	<string id="bandit_alife_defence_request_help_vs_csky_1">
+		<text>哟，兄弟！帮助我们给晴空组织点颜色看看！</text>
+	</string>
+	<string id="bandit_alife_defence_request_help_vs_dolg_1">
+		<text>你去帮助我们，兄弟！这帮混蛋欺人太甚了！</text>
+	</string>
+	<string id="bandit_alife_defence_request_help_vs_freedom_1">
+		<text>这些自由图的混蛋不停的攻击我们 - 救命！</text>
+	</string>
+	<string id="bandit_alife_defence_request_help_vs_military_1">
+		<text>帮助我们离开，兄弟！我们要给那些军人点厉害瞧瞧！</text>
+	</string>
+	<string id="bandit_alife_defence_request_help_vs_mutant_1">
+		<text>哟，兄弟！我们需要你帮助赶走butt-ugly野兽！</text>
+	</string>
+	<string id="bandit_alife_defence_request_help_vs_stalker_1">
+		<text>我们需要你，兄弟！一些混蛋正在追赶我们！</text>
+	</string>
+	<string id="bandit_alife_defence_request_help_vs_zombied_1">
+		<text>来我们这里，快点！丧尸正在这里屠杀！</text>
+	</string>
+	<string id="bandit_alife_defence_wait_help_1">
+		<text>我们这里马上要遭到攻击了！你是男子汉吗？</text>
+	</string>
+	<string id="bandit_alife_defence_wait_help_2">
+		<text>我们现在有麻烦了，兄弟！过来！</text>
+	</string>
+	<string id="bandit_alife_defence_wait_help_3">
+		<text>你究竟在哪？我们正在屠杀！</text>
+	</string>
+	<string id="bandit_alife_counter_attack_check_1">
+		<text>哟…兄弟们，听好了…</text>
+	</string>
+	<string id="bandit_alife_counter_attack_check_2">
+		<text>…我们不会有事的，是吧？</text>
+	</string>
+	<string id="bandit_alife_counter_attack_check_3">
+		<text>…好了，都做好准备…</text>
+	</string>
+	<string id="bandit_alife_counter_attack_check_4">
+		<text>…嘿，兄弟… 我们无法确认到底发生了什么…</text>
+	</string>
+	<string id="bandit_alife_counter_attack_counter_attack_begin_1">
+		<text>我们的兄弟联系不上了。去看看到底发生了什么。</text>
+	</string>
+	<string id="bandit_alife_counter_attack_counter_attack_begin_2">
+		<text>我们的兄弟们可能遇到麻烦了。赶快过去看看到底发生什么事情了。</text>
+	</string>
+	<string id="bandit_alife_counter_attack_counter_attack_begin_3">
+		<text>我们的兄弟不见了。去查看一下到底发生了什么。</text>
+	</string>
+	<string id="bandit_alife_counter_attack_reply_1">
+		<text>别担心！我们会收拾他们的！</text>
+	</string>
+	<string id="bandit_alife_counter_attack_reply_2">
+		<text>放心吧，老大，我们走。</text>
+	</string>
+	<string id="bandit_alife_counter_attack_reply_3">
+		<text>耶，耶，我们马上去办。</text>
+	</string>
+	<string id="bandit_alife_attack_actor_in_battle_1">
+		<text>这里，抓住这个！</text>
+	</string>
+	<string id="bandit_alife_attack_actor_in_battle_2">
+		<text>保持队型，混蛋！</text>
+	</string>
+	<string id="bandit_alife_attack_actor_in_battle_3">
+		<text>用力把他们赶出来，兄弟们！</text>
+	</string>
+	<string id="bandit_alife_attack_attack_begin_1">
+		<text>快起来跟我上！</text>
+	</string>
+	<string id="bandit_alife_attack_attack_begin_2">
+		<text>别掉队跟上！</text>
+	</string>
+	<string id="bandit_alife_attack_attack_begin_3">
+		<text>最后时刻了，做好准备！</text>
+	</string>
+	<string id="bandit_alife_attack_attack_ready_1">
+		<text>别手拉手了姑娘们！快跑吧！</text>
+	</string>
+	<string id="bandit_alife_attack_attack_ready_2">
+		<text>立刻抓住他们！散开，快！</text>
+	</string>
+	<string id="bandit_alife_attack_attack_ready_3">
+		<text>别象牛一样挤在一起！我们把他们赶出去！</text>
+	</string>
+	<string id="bandit_alife_attack_begin_reply_1">
+		<text>他们搞得我有点紧张！</text>
+	</string>
+	<string id="bandit_alife_attack_begin_reply_2">
+		<text>什么…？！我都有点着急了！</text>
+	</string>
+	<string id="bandit_alife_attack_begin_reply_3">
+		<text>啊，该死的，现在怎么办？</text>
+	</string>
+	<string id="bandit_alife_attack_begin_reply_4">
+		<text>我去把他们都解决了！</text>
+	</string>
+	<string id="bandit_alife_attack_begin_reply_5">
+		<text>这就和训练一样，对吗？</text>
+	</string>
+	<string id="bandit_alife_attack_end_fight_1">
+		<text>我们胜利了！太棒了！</text>
+	</string>
+	<string id="bandit_alife_attack_end_fight_2">
+		<text>这些傻瓜都挂了！检查他们的口袋，兄弟！</text>
+	</string>
+	<string id="bandit_alife_attack_end_fight_3">
+		<text>真是送上门的大餐，嗯？</text>
+	</string>
+	<string id="bandit_alife_attack_found_enemy_1">
+		<text>快看，这帮混蛋总算出现了！来给他们点颜色瞧瞧？</text>
+	</string>
+	<string id="bandit_alife_attack_found_enemy_2">
+		<text>哟， 我们发现了一些攻击的活靶子。过来享受吧！</text>
+	</string>
+	<string id="bandit_alife_attack_found_enemy_3">
+		<text>哟，联合起来废了他们！</text>
+	</string>
+	<string id="bandit_alife_attack_prepare_attack_1">
+		<text>当我说“跳”你就跳，当我说“射击”你就射击，明白了吗？</text>
+	</string>
+	<string id="bandit_alife_attack_prepare_attack_2">
+		<text>当我下令的时候你们就开枪！听到了嘛？</text>
+	</string>
+	<string id="bandit_alife_attack_prepare_attack_3">
+		<text>听到我的命令才能射击！</text>
+	</string>
+	<string id="bandit_alife_attack_see_counter_1">
+		<text>哇！又找到一个挨杀的肥羊！</text>
+	</string>
+	<string id="bandit_alife_attack_see_counter_2">
+		<text>注意，兄弟们！我们有客人了！</text>
+	</string>
+	<string id="bandit_alife_attack_see_counter_3">
+		<text>很好，相见不如偶遇！来亲我的PP，叫我大爷啊！</text>
+	</string>
+	<string id="bandit_alife_attack_smart_captured_1">
+		<text>敌人被干掉了，我们占领了目标点。</text>
+	</string>
+	<string id="bandit_alife_attack_smart_captured_2">
+		<text>我们消灭了那些杂种。这地方现在是我们的了。</text>
+	</string>
+	<string id="bandit_alife_attack_smart_captured_3">
+		<text>我靠，我们成功了！周围除了尸体什么也没有。</text>
+	</string>
+	<string id="bandit_alife_attack_start_fight_1">
+		<text>给他们点苦头尝尝！</text>
+	</string>
+	<string id="bandit_alife_attack_start_fight_2">
+		<text>够了，白痴！冲，冲，冲！</text>
+	</string>
+	<string id="bandit_alife_attack_start_fight_3">
+		<text>吃我颗子弹，婊子！</text>
+	</string>
+	<string id="bandit_alife_attack_wait_again_1">
+		<text>快点啊，兄弟。一切都准备好了，就等你了。</text>
+	</string>
+	<string id="bandit_alife_attack_wait_again_2">
+		<text>我们还在等什么？该发动进攻了！</text>
+	</string>
+	<string id="bandit_alife_attack_wait_again_3">
+		<text>哟，你很低调？我们什么时候开打，嗯？</text>
+	</string>
+	<string id="bandit_alife_attack_wait_counter_1">
+		<text>打足精神，提高警觉！</text>
+	</string>
+	<string id="bandit_alife_attack_wait_counter_2">
+		<text>还不到庆功的时候呢！他们又回来了！</text>
+	</string>
+	<string id="bandit_alife_attack_wait_counter_3">
+		<text>都给我严肃点！保持警觉！</text>
+	</string>
+	<string id="bandit_alife_attack_wait_signal_1">
+		<text>一切就绪。就等信号了！</text>
+	</string>
+	<string id="bandit_alife_attack_wait_signal_2">
+		<text>我们已经就位。在等待命令</text>
+	</string>
+	<string id="bandit_alife_attack_wait_signal_3">
+		<text>我们已就绪。给我信号，好吗？</text>
+	</string>
+	<string id="bandit_alife_attack_we_spotted_1">
+		<text>我靠！我们暴露了！</text>
+	</string>
+	<string id="bandit_alife_attack_we_spotted_2">
+		<text>该死的，我们被出卖了！</text>
+	</string>
+	<string id="bandit_alife_attack_we_spotted_3">
+		<text>该死！他们攻击我们了…</text>
+	</string>
+	<string id="scenario_marsh_bloodsucker_comander_to_squad_1">
+		<text>别紧张，守住阵地！</text>
+	</string>
+	<string id="scenario_marsh_bloodsucker_comander_to_squad_2">
+		<text>别慌！</text>
+	</string>
+	<string id="scenario_marsh_bloodsucker_fear_1">
+		<text>见鬼！这是什么？</text>
+	</string>
+	<string id="scenario_marsh_bloodsucker_fear_2">
+		<text>你听到了吗？！</text>
+	</string>
+	<string id="scenario_marsh_bloodsucker_fear_3">
+		<text>那是什么？</text>
+	</string>
+	<string id="scenario_marsh_bloodsucker_fear_after_1">
+		<text>一个要命的吸血怪！！！</text>
+	</string>
+	<string id="scenario_marsh_bloodsucker_fear_after_2">
+		<text>该死的变异怪…</text>
+	</string>
+	<string id="scenario_marsh_bloodsucker_fear_after_3">
+		<text>那该死的杂种！</text>
+	</string>
+	<string id="scenario_marsh_bloodsucker_fear_after_4">
+		<text>噢，见鬼，那到底是什么？？</text>
+	</string>
+	<string id="scenario_marsh_bloodsucker_fear_after_5">
+		<text>睁大你的眼睛！</text>
+	</string>
+	<string id="scenario_marsh_bloodsucker_fear_after_6">
+		<text>兄弟们，保持警觉…</text>
+	</string>
+	<string id="scenario_marsh_bloodsucker_fear_fire_1">
+		<text>去死吧你这个吸血怪混蛋！</text>
+	</string>
+	<string id="scenario_marsh_bloodsucker_fear_fire_2">
+		<text>它在那里！</text>
+	</string>
+	<string id="scenario_marsh_bloodsucker_squad_fear_1">
+		<text>别再来了！</text>
+	</string>
+	<string id="scenario_marsh_bloodsucker_squad_fear_2">
+		<text>上帝保佑。</text>
+	</string>
+	<string id="scenario_marsh_bloodsucker_squad_fear_3">
+		<text>我好像听到一些什么…</text>
+	</string>
+	<string id="scenario_agroprom_bloodsucker_comander_to_squad_1">
+		<text>别跑，守住阵地。</text>
+	</string>
+	<string id="scenario_agroprom_bloodsucker_comander_to_squad_2">
+		<text>别慌！</text>
+	</string>
+	<string id="scenario_agroprom_bloodsucker_fear_1">
+		<text>见鬼！那是什么？</text>
+	</string>
+	<string id="scenario_agroprom_bloodsucker_fear_2">
+		<text>你听到了吗？！</text>
+	</string>
+	<string id="scenario_agroprom_bloodsucker_fear_3">
+		<text>那是什么？</text>
+	</string>
+	<string id="scenario_agroprom_bloodsucker_fear_after_1">
+		<text>要命的吸血怪！！！</text>
+	</string>
+	<string id="scenario_agroprom_bloodsucker_fear_after_2">
+		<text>该死的变异怪…</text>
+	</string>
+	<string id="scenario_agroprom_bloodsucker_fear_after_3">
+		<text>那该死的杂种！</text>
+	</string>
+	<string id="scenario_agroprom_bloodsucker_fear_after_4">
+		<text>噢，见鬼，这到底是什么？？</text>
+	</string>
+	<string id="scenario_agroprom_bloodsucker_fear_after_5">
+		<text>睁大你的眼睛！</text>
+	</string>
+	<string id="scenario_agroprom_bloodsucker_fear_after_6">
+		<text>兄弟们，保持警觉…</text>
+	</string>
+	<string id="scenario_agroprom_bloodsucker_fear_fire_1">
+		<text>去死吧你这个吸血怪！</text>
+	</string>
+	<string id="scenario_agroprom_bloodsucker_fear_fire_2">
+		<text>它在那里！</text>
+	</string>
+	<string id="scenario_agroprom_bloodsucker_squad_fear_1">
+		<text>别再来了！</text>
+	</string>
+	<string id="scenario_agroprom_bloodsucker_squad_fear_2">
+		<text>让我们祈祷我们能成功！</text>
+	</string>
+	<string id="scenario_agroprom_bloodsucker_squad_fear_3">
+		<text>也许什么也没有？</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_give_orders_2">
+		<text>你们两个守住开关，你们两个跟我走！佣兵，你去机库顶层掩护这两个小队。</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_squad1_ready">
+		<text>我们在开关这里准备好了，你下令我们就开始。</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_squad2_ready">
+		<text>开关已被固定好了。启动！</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_building_wave">
+		<text>注意，丧尸在建筑物左侧！</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_truck_wave">
+		<text>注意，丧尸在卡车那里！</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_alarm_roof">
+		<text>它们在屋顶上！</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_alarm_hangar">
+		<text>丧尸在机库里！</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_wave_repealed_1">
+		<text>我们做得很好！继续！</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_wave_repealed_2">
+		<text>坚持下去！</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_wave_repealed_3">
+		<text>又一个倒下了！</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_freezer_fixed">
+		<text>很好！冷却站又启动了。PSY地区稳定了。我们是时候离开这了…</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_psy_reduced">
+		<text>你做到了！我们的传感器显示PSY-辐射等级正在下降！这意味着冷却站稳定了。我们非常希望这里成为一个太平的地方！</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_psy_reduced_reply">
+		<text>好消息，教授！我们正从地下掩体回来。</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_go_red_forest">
+		<text>谢谢你，佣兵。顺便说一句，我收到了史特列洛克的信号。看起来他离你不远，直接去红森林吧。</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_squad_assemble">
+		<text>我们走！</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_go_to_roof">
+		<text>佣兵，你去屋顶跟着独行者！</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_not_go_to_roof">
+		<text>别浪费时间，佣兵。跟着我！</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_actor_on_roof">
+		<text>很好，你已到达指定位置了。现在原地待命。</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_prikritie">
+		<text>我掩护你！</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_roof_ready">
+		<text>我们进去。屋顶已清空。去固定开关。</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_wave1_go">
+		<text>该死！丧尸从各个方向围过来了！</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_wave_naval">
+		<text>它们到底有多少啊？到处都是！啊～～～～！</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_roof_nores_stalker3">
+		<text>啊～～～！它们太多了！救命！</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_roof_nores_stalker4">
+		<text>我们需要援助 - 需要火力压制！</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_roof_nores_stalker5">
+		<text>啊～～～！它们到处都是！我们要死在这了！</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_wave_clear_roof">
+		<text>丧尸试图闯入飞机棚！它们太多了！</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_wave_naval_roof2">
+		<text>它们正在屠杀我们！</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_wave_naval_roof1">
+		<text>呸，我们要把它们赶走… 在这应该更容易…</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_group_in_angar">
+		<text>我们在飞机棚里！固定开关。</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_naprnik_roof_1">
+		<text>尝尝这个，你们这些丧尸！</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_naprnik_roof_2">
+		<text>喜欢这个吗？</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_naprnik_roof_3">
+		<text>你怎么喜欢那个该死的工作？</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_naprnik_roof_4">
+		<text>我要给你一些子弹尝尝！</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_naprnik_roof_5">
+		<text>我正在抵挡它们！</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_naprnik_angar_begin">
+		<text>该死的！他们正在靠近我们！</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_naprnik_angar_1">
+		<text>难道就这样结束了吗？！</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_naprnik_angar_2">
+		<text>尝尝这个，混蛋！</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_help_base_sci">
+		<text>科学家的掩体遭到攻击！如果你听到了我们的求救 - 请来帮助我们！</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_levwa_perimetr_before_attack">
+		<text>谢谢你来帮我们，佣兵！占领阵位射击吧！</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_levwa_perimetr_after_attack">
+		<text>谢谢你的帮助，雇佣兵！丧尸最近的进攻加剧了。如果你想和科学家们谈谈，他们就在掩体里。</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_levsha_hello_actor">
+		<text>你好，佣兵。行动的时候你要听我的，明白吗？</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_levsha_right_1">
+		<text>敌人在右边！</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_levsha_left_1">
+		<text>另一个在左边！</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_levsha_right_2">
+		<text>右边的敌人倒下了！</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_levsha_left_2">
+		<text>左边的敌人倒下了！</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_levsha_take_position">
+		<text>占领阵地并注意背后！你们两个，让他们下地狱去！</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_levsha_clear">
+		<text>安全了，我们走！</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_professor_about_actor">
+		<text>亲爱的列夫提。我们拿到了一些新数据。看来我们应该可以稳定PSY-辐射。一个年轻的兄弟正在路上，请等他来再进行下一步计划。</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_professr_reply_actor">
+		<text>是的，教授。正在等候你的指示。</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_professor_about_switcher">
+		<text>列夫提，根据我的数据，PSY- 辐射是由一个工厂下方的不明装置发出的，由于装置的冷却系统发生故障从而导致PSY- 力场变得不稳定。你的目标就是要重新启动冷却系统。我已将你需要的所有数据发送到你的PDA上了。图表里显示了2 个开关是启动该系统所必须的。你必须激活那2个开关。赶快行动当PSY辐射降低到安全级别后我会通知你的。</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_levsha_reply_switcher">
+		<text>教授，你下达指令我们就准备开始。</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_professor_start_operation">
+		<text>列夫提，PSY-地区的辐射等级目前是最低的。请开始行动！我会为你们祈祷！祝你好运！</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_squad_diary">
+		<text>啊～～～～，我的头… 我的头要炸了，我不敢相信！… 伊万… 我们所有人都被突然袭击了… 啊～～～… 我脑子里有声音，该死的PSY-辐射… 不过我们得到了文件… 我们要把他们送到萨哈罗夫那里… 糟糕，野狗过来了…不要…不…啊，上帝！</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_give_orders_1">
+		<text>我们马上就要到了。我再重复一遍：我们的目标是重启二个在冷却站里的开关。</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_scientist_start_frase_1">
+		<text>我马上到！</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_scientist_start_frase_2">
+		<text>等一会！</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_levsha_check_actor_position_1">
+		<text>佣兵，回来。我们正像苍蝇一样掉下来！</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_levsha_check_actor_position_2">
+		<text>我们失去了小队。装置失控了。辐射正在扩大！啊…！</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_first_scene_talk_1">
+		<text>很高兴见到你，佣兵。我们完成了不可能的任务 - 我们一路战斗到了特异区中心地带的发电站，真是太感谢你了。</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_first_scene_talk_2">
+		<text>帕特兰库，扫描史特列洛克的PDA频率。</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_first_scene_petrenko_talk_1">
+		<text>指挥官，史特列洛克就在附近。</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_first_scene_scout_talk_1">
+		<text>列别捷夫，这里是侦查队。我们发现了史特列洛克。</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_first_scene_objective_talk_1">
+		<text>佣兵，爬上蒸汽管并截住史特列洛克。我们在地面上支援你。</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_first_scene_objective_talk_2">
+		<text>佣兵，这是一个电磁枪的原型。用它你可以破坏史特列洛克的PSY-保护从而阻止他。没有了保护后史特列洛克就不能长时间暴露在辐射中了。我们的防护服也只能勉强防护而已。快找到史特列洛克并破坏他的PSY-保护。</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_strelok_kill_reminder_1">
+		<text>用电磁枪攻击史特列洛克并削弱他的PSY-防护。</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_strelok_kill_reminder_2">
+		<text>别浪费时间，再向史特列洛克多开几枪。</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_strelok_kill_reminder_3">
+		<text>佣兵，你的目标是史特列洛克。过去解除他的武装。</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_strelok_kill_reminder_4">
+		<text>佣兵，追捕史特列洛克，否则他要逃跑了。</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_strelok_kill_reminder_5">
+		<text>史特列洛克正在逃跑。别傻站着啊！</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_strelok_kill_reminder_6">
+		<text>史特列洛克的PSY-保护已经降到几乎为0。佣兵，PSY-保护将被彻底关闭。</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_1">
+		<text>注意！转移黑石组织成员的注意力！</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_2">
+		<text>嘿，兄弟！掩护我！</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_3">
+		<text>痛击这些该死的丧尸头！</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_4">
+		<text>混蛋！杀了他们！</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_5">
+		<text>别让他们包抄我们的侧翼！</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_6">
+		<text>敌人在我们的左翼！</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_7">
+		<text>各单位注意，快速射击！</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_8">
+		<text>尝尝这个，混球！</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_9">
+		<text>噢，妈妈，不要等我了，我在海底会有个新家！</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_10">
+		<text>彼得洛维奇，掩护我们离开，怎么样？</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_11">
+		<text>真男人就是要坚强！</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_12">
+		<text>一个人只能死一次，兄弟！</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_13">
+		<text>他们正在靠近我们的右侧！无论谁在这，提供火力支援！</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_14">
+		<text>弹药告急！弹药告急！撤退至变异点！</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_15">
+		<text>伙计，我们开始行动 - 别让他们抓到！</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_16">
+		<text>见鬼！兄弟，我真不中用！</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_17">
+		<text>我恨你！</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_18">
+		<text>我会教你的！</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_19">
+		<text>这是它，伙计们！我的时间到了！再见！</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_20">
+		<text>杀死这些该死的黑石组织成员！</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_21">
+		<text>必须有人干掉那个该死的狙击手！</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_22">
+		<text>在左边，小心！</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_23">
+		<text>前进，冲 冲 冲！</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_24">
+		<text>我尝试去他们的侧面！</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_25">
+		<text>我击中了，该死的，我击中了！</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_26">
+		<text>我要死在这了！</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_27">
+		<text>没有更多的蚊子了！接受命令！</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_28">
+		<text>捡起来，伙计们！让我们杀了这些死人！</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_29">
+		<text>他们在剥夺我们的生命！攻击！</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_30">
+		<text>看起来我像是完了… 原谅我，兄弟们！</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_31">
+		<text>我的队伍还有人活着吗？不要…啊！</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_32">
+		<text>亚历克斯，你在那吗？进来，该死的！</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_33">
+		<text>压制住他们，艾格尔！</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_34">
+		<text>给他吃颗手雷，保利！</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_35">
+		<text>在那里！这个笨蛋躲在上面的！</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_background_battle_snd_36">
+		<text>他们都从哪来？</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_final_scene_after_kill_strelok_1">
+		<text>史特列洛克的PSY-防护已被关闭 - 我们阻止了他。看看会发生什么…</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_final_scene_after_kill_strelok_2">
+		<text>读数是多少？异常活动等级有没有下降？</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_final_scene_after_kill_strelok_3">
+		<text>该死的，我没有料到这个！顶部有异常活动！</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_final_scene_after_kill_strelok_4">
+		<text>但是特异区好像静下来了！</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_final_scene_after_kill_strelok_5">
+		<text>啊～～～～… 发生了什么… 我的头快爆炸了… 啊～～～～～～…</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_final_scene_after_lost_strelok_1">
+		<text>我们让史特列洛克给逃了！他已经在核电站里了。</text>
+	</string>
+	<string id="characters_voice_scenario_stancia_stc_final_scene_after_lost_strelok_2">
+		<text>大风暴正席扫而来… 测量仪的读数已经爆了… 所有人都寻找掩护… 啊～～～～～～！</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_pursuit_locate_strelok">
+		<text>佣兵，快点！你已经非常接近史特列洛克了！</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_pursuit_bounty_hunters_attack">
+		<text>那就是他！放倒他！</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_pursuit_defend_tunel_1">
+		<text>别让他进入隧道！</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_pursuit_defend_tunel_2">
+		<text>看着史特列洛克，直到他从隧道出来！</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_pursuit_strelok_spich">
+		<text>佣兵，我炸毁了隧道。你阻止不了我的。我要不惜一切力量到达特异区中心。</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_pursuit_camfly_1">
+		<text>史特列洛克的信号消失。我们把他给弄丢了。</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_pursuit_camfly_2">
+		<text>他进入天线了，到了那里就离特异区中心地带不远了。而我们呢，如果没有科学家的样本想穿过天线无疑于自杀！</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_pursuit_camfly_3">
+		<text>我们唯一的希望是去利曼斯克赶上史特列洛克。我知道那里的一个隧道 - 不过要在另一边启动铁桥…</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_pursuit_camfly_4">
+		<text>这是我们所知唯一到达利曼斯克的方法。铁桥只能在另一边降下，但是那是强盗的地盘。</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_pursuit_camfly_5">
+		<text>该死的… 必须想一个办法过去！也许有另一条路去对面… 好吧，如果有一个人能帮我们去利曼斯克，那么他就是弗雷斯特。他们说这个老前辈能找到安全的路线通过，但他从不进去。他的老屋就在红森林旁。佣兵，寻找弗雷斯特。</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_forester_greet_1">
+		<text>你好，佣兵。是什么把你带到这来了？</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_actor_hail">
+		<text>佣兵，来这，快！列史伊的小队差不多就在这！</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_actor_come">
+		<text>列史伊的小队正在接近。我们的任务就是支援他们以及让他们到达铁桥。去塔楼2 层准备做好准备！</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_leshiy_start">
+		<text>…这里是列史伊。我们的小队正在接近铁桥。</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_leshiy_reply">
+		<text>列史伊，列别捷夫在在这。我们期待你的表现！</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_clear_path">
+		<text>全体战士注意！让我们为列史伊清出一条血路。开火！</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_assault_start">
+		<text>这里是列史伊，我们已经安全抵达铁桥旁的位置。</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_start_lower">
+		<text>我们正降下铁桥。指挥官，掩护我们。</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_go_lever_1">
+		<text>士兵，去操作铁桥控制器，现在！</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_go_lever_2">
+		<text>士兵，快去操作铁桥控制器！</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_go_lever_3">
+		<text>士兵，快去操作铁桥控制器！</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_attention_control">
+		<text>列别捷夫，掩护我控制器旁的兄弟！强盗想攻击他！</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_lever_killed_first">
+		<text>该死的！他们有狙击手掩护控制器！没有无法在他们活着的时候降下铁桥。</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_lever_killed_1">
+		<text>该死的！山上有狙击手！干掉他！</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_lever_killed_2">
+		<text>你到底在干什么？干掉那个狙击手，就现在！</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_sniper_1">
+		<text>有狙击手在山上！</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_sniper_2">
+		<text>干掉那个狙击手！</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_sniper_3">
+		<text>杀死狙击手！</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_bandits_1">
+		<text>强盗太多了 - 我们无法过去！</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_bandits_2">
+		<text>强盗在压制我们！尽量提供火力支援。</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_bandits_3">
+		<text>列别捷夫，干倒那些强盗 - 他们不让我们过去！</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_actor_flee">
+		<text>佣兵，夺回阵地！我们必须降下铁桥！！！</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_actor_fail">
+		<text>各单位注意。另一阵核辐射正过来。看起来史特列洛克已经到达了特异区 的中心。我们没能阻止他，现在！冲，冲，冲！</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_lowered">
+		<text>铁桥降下了！攻击！</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_thanks_leshiy">
+		<text>谢谢你，列史伊！我们欠你个人情！</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_thanks_leshiy_reply1">
+		<text>感谢佣兵。如果不是他的话我们要永远停在这沸血池了。</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_thanks_leshiy_reply2">
+		<text>无论如何，我欠你个人情。</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_thanks_leshiy_reply3">
+		<text>我始终坚信这点！祝你好运！</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_thanks_leshiy_reply4">
+		<text>这是个交易！</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_finished">
+		<text>晴空的战士们，我们已经完成了光辉的任务！去往利曼斯克的道路已经畅通了。先头小队：进入利曼斯克寻找安全通过城市的路。其他所有人：守住铁桥并等待主力部队。</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_actor_last_call">
+		<text>佣兵，立刻夺回阵地。列史伊的小队勉强才守住。如果你掩护铁桥降下 - 我们将会失败。</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_task_for_player">
+		<text>佣兵，跟着高级小队进入城市 - 你的任务是为主部队寻找安全通过利曼斯克的路。小心点：一个真正的战斗会在城市里爆发。</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_pursuit_strelok_threat">
+		<text>别追了，佣兵… 否则你会死的。</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_lebedev_about_red_forest">
+		<text>佣兵，我没有任何关于通过红森林的信息。有很多关于森林的传言，但我们没有其他任何选择- 我们必须找到一个方法通过红森林以及寻找弗雷斯特。</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_lebedev_about_red_forest_2">
+		<text>我们做到了，佣兵- 你通过红森林后弗雷斯特的老屋就非常近了。</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_stalker_greeting">
+<text>这是一个有怪物出没的森林。好吧，快来吧，兄弟 - 让我们谈谈。</text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_rnd_radio_1">
+		<text>…救命。救命啊… 有没有谁听到了我们的求救…</text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_rnd_radio_2">
+		<text>…我们无法摆脱84信号波段… (信号扭曲声音)… 回来</text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_rnd_radio_3">
+		<text>…基地，回答… 基地… 回答…</text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_rnd_radio_6">
+		<text>…我们离开这…</text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_rnd_radio_7">
+		<text>…收到放射性辐射后… 我们失去了方位…</text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_rnd_radio_8">
+		<text>…就像个迷宫…</text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_enter_first_1">
+		<text>经过了那么长时间，所有人都通过了红森林！佣兵，来这，我会告诉你的。</text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_bs_dead">
+		<text>哇！我从来不知道你可以干掉这吸血怪！</text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_stalker_radio_1">
+		<text>如果你能听到… 我们被困在一个异常现象里… 我们无法出去… 它就像是扭曲的空间… 我们无论如何… 都出不去… 设备也停在轨道上… 只能看到一个小镇在地平线上… 我们的坐标是… 51… 10… 3… 1… 2… 有没有人听到我们的求救？</text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_hog_to_freedom_1">
+		<text>佣兵，我是弗雷斯特。我已经作了一个小图来说讲明如何离开沸血池。我发送坐标给你后。小队离开沸血池是完全没有问题的。</text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_hog_greetings">
+		<text>如果你想谈谈，你最好收起武器，然后慢慢地过来。</text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_hog_to_freedom_2">
+		<text>斯科楚克，我是肥猪。还记得我吗？你还不错吧，我还保护过你几周哟。</text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_hog_to_freedom_3">
+		<text>是的，肥猪，我能为你做些什么？</text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_hog_to_freedom_4">
+		<text>斯科楚克，我虚拟要帮助这个兄弟军事基地的天线那里。你在那里，是吗？</text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_hog_to_freedom_5">
+		<text>没错，我们正尝试占领仓库。过来这里和我们一起踢那些军人的屁股。</text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_hog_to_freedom_6">
+		<text>现在不行，斯科楚克，对不起，我们不能被军人发现。我只能给你一个人。</text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_hog_to_freedom_7">
+		<text>多一个是一个… 我们等他来。</text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_hog_to_actor">
+		<text>佣兵，和斯科楚克碰头；他可以帮助你到达发送器那里。</text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_freedom_com_task">
+		<text>佣兵，我们在基地被困！这些军人全都埋伏在那里 - 我们一步也无法移动！帮助我们占领基地！</text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_freedom_com_finish_task">
+		<text>进攻！干掉这些混蛋军人！</text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_freedom_com_radio">
+		<text>非常好，军事基地现在是我们的了！自由团将关闭所有的屏障并就地建立基地！谢谢你的帮助，佣兵。去吧，发射器都是你的了。</text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_hires_in_bubble_thanks_1">
+		<text>我们已经收到坐标，我们尝试离开沸血池… 好的，离开这… 60只脚，这边走… 耶！我们自由了！你听到了吗？我们离开异变点了！现在我们正前往利曼斯克！</text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_meet_4n_com_task">
+		<text>我是列别捷夫。我们已到达铁桥，随时等待从强盗营地过来的佣兵。到铁桥这儿来- 我们需要你。这里马上就要开战了。</text>
+	</string>
+	<string id="characters_voice_scenario_military_esc_forester_pda_talk">
+		<text>佣兵，截获了很多通讯。来我的老屋- 我有了一个让佣兵走出沸血池的办法。</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tower_captured">
+		<text>目标完成！大楼已在我们的控制之中。现在我们只需要守住它！</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tower_captured_to_actor">
+		<text>佣兵，到达高塔并保持警觉！</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_defend_tower">
+		<text>发现了废弃教堂里的敌人。做好准备！</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_capture_plant">
+		<text>我们有个高塔，现在我们可以开始清理工厂的路了。打开你的PDA并见机行事。</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_helicopter_scan">
+		<text>基地，这里是 "代号噢-1-2"。我发现佣兵在沼泽里。请请示，完毕？</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_helicopter_base_attack">
+		<text>"代号噢-1-2"，这里是基地，干掉他！</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_helicopter_attack_confirm">
+		<text>好的，基地。行动。</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_helicopter_lost">
+		<text>该死的！这混蛋躲在荒草里！除非我们把荒草全部烧掉，否则我们找不到他！</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_helicopter_base_moveout">
+		<text>"代号噢-1-2"，这里是基地。继续巡逻。</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_helicopter_moveout_confirm">
+		<text>收到，基地。</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_boars_killed">
+		<text>漂亮！去工厂的路已经畅通。走。</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_plant_captured">
+		<text>干得好，兄弟！沼泽中部已回到我们的控制之中。</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_leader_to_barman_0">
+		<text>冷风，离那个佣兵远点，别老说你的下流笑话，我必须见见他。</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_barman_reply_0">
+		<text>好吧兄弟，列别捷夫说要见你，那我们就不要讨论了。去吧… 我们呆会见。</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_leader_to_trader_0">
+		<text>商人，提供给这名战士任务所需的所有装备，他必须去完成个任务。</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_trader_reply_0">
+		<text>收到。</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_leader_hurry_player_0">
+		<text>快点，佣兵。</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_hide_in_tower_0">
+		<text>快去高塔，怪物们不会让你呆在这的！</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_player_in_tower_0">
+		<text>哇，你来的正是时候，兄弟！我的弹药不够了，所以我们一起合作干掉那些野兽吧。</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_leader_starting_surge_0">
+		<text>各单位注意！风暴即将来袭！马上寻找掩护！</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_forpost_sos">
+		<text>这里是第二前哨，我们受到了攻击，我再重复一遍：我们受到了攻击，请求支援…</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_commander_tutorial_anomalies">
+		<text>佣兵，前面那里是异变点。小心点！记住，向前方扔出一个螺栓之后看没有情况你再移动。</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_commander_tutorial_artefacts">
+		<text>噢，对了。有时你可以在异变点附近找到神器。虽然你看不见它们，但探测器能发现它们。如果你靠的够近的话，你的探测器就能显示神器位置。那时你就只需捡起它- 非常容易。记住，你现在的探测器不是最好的：它只能提示你和神器之间的距离。</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_expansion_0_up">
+		<text>干得好，兄弟！我们已经加强了在沼泽的防守，足以给反叛者们迎头痛击！我们的下个目标就是他们的主基地！</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_expansion_1_up">
+		<text>我们已经占领了反叛者的巢穴。现在我们要做的就是控制沼泽所有的道路。</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_expansion_1_down">
+		<text>该死！反叛者比我们更强！我们必须做些什么，否则我们要输了！</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_expansion_2_up">
+		<text>沼泽现在在我们的控制之下！干得好，兄弟，你做到了！所有小队 - 等待下一步指示！</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_expansion_2_down">
+		<text>反叛者们想要夺回他们的巢穴！我们不能让那些混蛋在我们的家门口活着，我们要用子弹把他们赶回他们的基地，不惜一切代价！</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_expansion_3_down">
+		<text>注意，我们失去了沼泽通路的控制。如果我们不夺回来，沼泽将会成为人渣的聚集地！</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tactic_pda_tutorial_00">
+		<text>你的主线提示是目标章节。</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tactic_pda_tutorial_01">
+		<text>你的主线目标显示在这里…</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tactic_pda_tutorial_02">
+		<text>在下面的是可选的支线目标。</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tactic_pda_tutorial_03">
+		<text>可以有多个支线目标，你可以通过这些按钮来查看。</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tactic_pda_tutorial_04">
+		<text>绝大多数目标是会在地图上显示的，但是有少数任务是不显示目标的</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tactic_pda_tutorial_05">
+		<text>我们需要你的帮助并不仅仅是消灭敌人。还有占领关键性的营地。如果你帮助我们消灭敌人或者占领营地，我们的战士会非常感激你。顺便一提，不要忽视求救信号 - 我们兄弟的生命也许正受到威胁。</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tactic_pda_tutorial_06">
+		<text>上面显示的是支线任务的信息。</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tactic_pda_tutorial_07">
+		<text>除了你的目标以外，友好和敌对单位都会显示在地图上。</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tactic_pda_tutorial_08">
+		<text>好了，我敢肯定你明白了，我们的主要目标是建立沼泽的控制权，这意味着一场和侵略者之间的战斗。</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tactic_pda_tutorial_09">
+		<text>这个章节说的是在任何时候都可以确认你作战的战术信息。</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tactic_pda_tutorial_10">
+		<text>你所在的当前势力将显示在左边。也就是我们，晴空。</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tactic_pda_tutorial_11">
+		<text>右边显示的是敌对势力的信息。</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tactic_pda_tutorial_12">
+		<text>这里显示的是我们大概的战斗力。</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tactic_pda_tutorial_13">
+		<text>这里显示的是我们有多少战士。</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tactic_pda_tutorial_14">
+		<text>还有这里是装备供应。</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tactic_pda_tutorial_15">
+		<text>在右下角你会找到我们作战装备上独特的势力标志。</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tactic_pda_tutorial_16">
+		<text>像这样的标示显示的是我们的敌人。</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tactic_pda_tutorial_17">
+		<text>最后，这里可以让你看到当前的战略任务，必须完成它，以实现我们的战略目标。</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tactic_pda_tutorial_18">
+		<text>完成的战略任务将会显示在下面。</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tactic_pda_tutorial_19">
+		<text>最后一个标签显示的是你目前的关系网以及各个势力的战斗力。</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tactic_pda_tutorial_20">
+		<text>你的个人统计也显示在这里。</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_tactic_pda_tutorial_21">
+		<text>差不多就这些了。</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_pathfinder_go_out_1">
+		<text>我们到了，可以把眼罩拿下来了。别妄想跟踪我们，那不会有好果子吃的！如果你还想回来那么可以在小渔村找到向导。</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_pathfinder_go_in_1">
+		<text>家，温暖而甜蜜的家！拿掉眼罩走吧。当你还想去沼泽的时候就来这儿找我。</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_arrive_on_open_marsh_1">
+		<text>佣兵，看来你进入沼泽地了。留神点，拿出你的PDA - 那上面有我们营地的具体位置。你最好想办法赶到小村庄- 在那儿你能找到向导。</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_limansk_intro">
+		<text>好的，佣兵- 你来到了利曼斯克。这儿马上就要打仗了，所以要多留点神。去帮助前面的小队找条穿越城市的安全通路。</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_stalker_request_help">
+		<text>见鬼！我们遭到攻击而且有人受伤了！我们需要帮忙，快！</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_stalker_spich">
+		<text>雇佣兵，过来- 我有话对你说。不要抬头！</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_stalker_hint">
+		<text>老兄，这回我遇到麻烦了。这儿正在进行激烈的巷战。这个大楼左边的阳台儿面隐蔽着一个机枪阵地。它守在那儿- 我们完全无法动弹。如果能干掉机枪手我们就轻松了。一会儿我来吸引他的注意力你进去端掉他。注意我给你信号。</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_stalker_oreder_1">
+		<text>上，佣兵，快上！</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_stalker_oreder_2">
+		<text>快点，快点上啊！</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_stalker_oreder_3">
+		<text>你他妈的还在等什么？快点！</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_storm_troop_leader_clear_street">
+		<text>我是Serov上尉，晴空小队的队长。我们正在赶往交叉路口。别开枪，佣兵，我们不是来找茬的。</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_storm_troop_leader_to_actor1">
+		<text>敌人被击毙！佣兵，到这儿来，我告诉你些情况。</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_storm_troop_leader_to_actor2">
+		<text>我们要向城市内部挺进。我们的人被广场旁边的运河阻挡住了，我们现在去帮助他们。 你好像挺能干的嘛- 和我们一起吧，这样对咱们都好？</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_storm_troop_leader_order1">
+		<text>搞定了。我们出发！</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_storm_troop_leader_order2">
+		<text>我们被围攻了！赶快占领防御阵地！</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_storm_troop_leader_nerves">
+		<text>该死，他们到底有多少人啊？！</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_storm_troop_leader_stay1">
+		<text>见鬼，真他妈的人多？ 敌人到处都是！雇佣兵，向运河前进，我们来拖住敌人！ </text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_storm_troop_leader_stay2">
+		<text>雇佣兵！快离开这儿，快走！别浪费弹药了。</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_storm_troop2_parley1">
+		<text>A小队，守住你们的阵地！</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_storm_troop2_parley2">
+		<text>指挥官，我们遭到攻击！请求增援。</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_storm_troop2_leader_order1">
+		<text>不要散开，集中火力！送他们回老家去！</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_storm_troop2_leader_to_actor1">
+		<text>这可是你难得的表演机会啊，雇佣兵。我们现在的处境糟透了。敌人藏在河边的房子里，而我们束手无策！列别捷夫命令我们夺取桥梁。所以不管花多大代价，我们都必须清除房子里的敌人！</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_storm_troop2_leader_to_actor2">
+		<text>敌人就藏在对面的房子里面。我们束手无策 -没办法攻过去，难道就这样坐以待毙了。</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_storm_troop2_leader_to_actor3">
+		<text>我们将吸引敌人的注意力这样你就可以寻找掩体靠近那座房子。一旦你就位了就大开杀戒吧- 干掉那狗娘养的机枪手！这帮混蛋可让我们吃够了苦头了。</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_storm_troop2_leader_to_actor4">
+		<text>雇佣兵- 继续努力。听我命令隐蔽前进！</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_storm_troop2_leader_order2">
+		<text>小队，火力掩护雇佣兵！开火！</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_military_1">
+		<text>他娘的，他进去了！</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_storm_troop2_leader_order3">
+		<text>敌人的阵地哑火了！我们上！</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_storm_troop2_leader_to_actor5">
+		<text>占领房子里面的阵位。这个阵地可真是无与伦比啊。</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_storm_troop2_leader_to_actor6">
+		<text>感谢你的援助，雇佣兵！我们将在这里防守直到主力大队到来。你该继续赶路了。地图显示，我们离列曼斯克不远了。坐标已经标在你的PDA上了。</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_reconnaissance_squad_alert">
+		<text>嘿，雇佣兵！</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_reconnaissance_squad_clear">
+		<text>你还好吧。</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_reconnaissance_squad_to_actor">
+		<text>列曼斯克的出口就在前面，不过我们还得加倍小心警戒。</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_reconnaissance_squad_sniper_alert">
+		<text>塔楼里面有狙击手！隐蔽！</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_reconnaissance_squad_order1">
+		<text>Vasilenko，靠过去用烟把那家伙熏出来！去吧！</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_reconnaissance_squad_electro_fence">
+		<text>该死，他们设了电网，还通了强电流！</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_reconnaissance_squad_confused">
+		<text>塔楼并没有电源供给装置。所以附近肯定有个发电机来为电网供电。</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_reconnaissance_squad_destroy_generator">
+		<text>这些缆绳可以通道建筑物的右边。雇佣兵，我们来吸引狙击手的注意而你伺机进入研究院关掉发电机！</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_reconnaissance_squad_electricity_off">
+		<text>好的，电源被切断了。前进。</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_report1">
+		<text>列别捷夫，敌人已被消灭！原地待命！</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_report2">
+		<text>列别捷夫，我们占领了大桥。希望敌人可别再来捣蛋了。</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_report3">
+		<text>Serov上尉报告！击退了敌人的进攻。道路已经安全了。</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_leader_next_task">
+		<text>干的漂亮！主力部队已经做好了穿越列曼斯克的准备。前锋小队：你们的任务是寻找Pripyat地下入口。入口就在列曼斯克边缘的旧医院里。坐标已标在你的PDA上了。</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_enter_squad_attention">
+		<text>继续前进。注意警戒，伙计们。</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_enter_squad_see_target">
+		<text>目标在11点方向。</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_enter_squad_check">
+		<text>我们过去看看。</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_bandit_wounded_help">
+		<text>救命！救命！</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_enter_squad_fire1">
+		<text>真没想到在这儿会碰到强盗。干掉他们。</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_bandit_wounded_dont_shoot">
+		<text>别开枪！我可以告诉你们强盗的伏击地点。</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_enter_squad_threat1">
+		<text>老实交代，或许我们会放你一条生路。</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_bandit_wounded_medkit1">
+		<text>给我同伴一个急救箱。</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_enter_squad_threat2">
+		<text>少废话。给你一分钟。说出强盗的伏击地点，要不然我就崩了你。</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_bandit_wounded_medkit2">
+		<text>给我急救箱！</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_enter_squad_fire2">
+		<text>干了他。</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_bandit_wounded_senks">
+		<text>谢谢你的急救箱，佣兵。</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_bandit_wounded_about_ambush">
+		<text>埋伏就在前头。过来，我帮你把它标在PDA上。</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_enter_squad_bandit_free">
+		<text>算你运气好，但别再让我碰到你。</text>
+	</string>
+	<string id="characters_voice_scenario_intro_mar_intro_1">
+		<text>…在没有找到答案前，我要说我从未见过如此匪夷所思的事。大脑摄影图表明神经系统受到了严重损伤，另一个指示器也好不到哪去。太让人惊讶了！</text>
+	</string>
+	<string id="characters_voice_scenario_intro_mar_intro_2">
+		<text>难道是放射物的关系？</text>
+	</string>
+	<string id="characters_voice_scenario_intro_mar_intro_3">
+		<text>应该是这样！尽管目前我还无法对这一反常现象作出合理解释。</text>
+	</string>
+	<string id="characters_voice_scenario_intro_mar_intro_4">
+		<text>快看，他醒过来了！</text>
+	</string>
+	<string id="characters_voice_scenario_intro_mar_intro_5">
+		<text>你没事吧？太好了。</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_about_hall">
+		<text>谢天谢地总算有人听到了！注意，一名狙击手和一名机枪手躲在对面的大楼里。我们目前寸步难行！</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_about_sniper">
+		<text>见鬼，又有人中枪了… 佣兵，快去干掉那个狙击手！我们负责吸引那个机枪手，你趁机靠过去！</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_arrived">
+		<text>干的漂亮，兄弟，你成功了！现在他们撤退了！</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_badly_1">
+		<text>你还在等什么？！我们会再次压制他们的火力！</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_badly_2">
+		<text>快点行动！我们不能再拖了。</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_badly_3">
+		<text>嘿… 真是在浪费时间！</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_badly_pda_1">
+		<text>你他娘的还等什么？！我们会再次压制他们的火力- 准备好！</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_badly_pda_2">
+		<text>快点行动！我们不能再拖了。</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_badly_pda_3">
+		<text>嘿… 真是在浪费时间！</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_block_1">
+		<text>干掉一个！还有一个，上啊！</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_block_2">
+		<text>都干掉了！两个都挂了！</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_cover_us">
+		<text>独行者，掩护我们！</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_danger">
+		<text>一楼有一挺机枪封锁了道路。听我口令再行动！</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_go">
+		<text>上！</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_go_pda">
+		<text>上！</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_gunner_killed">
+		<text>机枪解决了！通道安全！</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_hold_on">
+		<text>等等！我们出发！</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_kill_dot">
+		<text>彼得，解决楼下的碉堡！</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_kill_gunner">
+		<text>尝尝我的手雷吧，混蛋们！</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_kill_sniper">
+		<text>成功了！你现在可以从后面靠近狙击手了。干掉他！</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_kill_sniper_now_1">
+		<text>快点杀了他，不然我们都得死在这儿！</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_kill_sniper_now_2">
+		<text>干掉狙击手！快！</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_request_help">
+		<text>快来增援，我们被困在入口处动弹不得！</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_runner_killed">
+		<text>啊啊啊…</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_start_block">
+		<text>炸掉走廊，这样敌人的增援部队就上不来了。</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_start_raid">
+		<text>好的，狙击手完了。道路安全了。现在我们上去炸掉那个碉堡。</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_suicide">
+		<text>掩护我！我来干掉他！</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_thanks_actor">
+		<text>继续努力！我们会挡住敌人的！</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_victory">
+		<text>呼叫基地，我们已到达墓穴入口！等待命令！</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_victory_reply">
+		<text>好极了！各就各位守住墓穴入口。主力部队马上就到！</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_wait">
+		<text>听我的命令！</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_wait_pda">
+		<text>听我的命令！</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_clear_sky_well">
+		<text>干的漂亮！继续努力！</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_enemy_see_helicopter">
+		<text>见鬼… 是军队的直升机！干了它！瞄准驾驶舱！</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_helicopter_kill_order">
+		<text>大鸟号，把他们都干掉！</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_helicopter_killed">
+		<text>该…死！我们中弹了，我们中弹了！拉起来，拉起来！</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_helicopter_see_enemy">
+		<text>呼叫基地，我是大鸟号。发现一支敌人小队和一名身份不明的独行者，等待命令。</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_helicopter_start_attack">
+		<text>收到，基地。开始攻击！</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_hospital_kill_actor">
+		<text>他想穿过去！</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_hospital_kill_actor_intercept">
+		<text>阻止他！</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_hospital_z3_csky_com_apply">
+		<text>明白。马上进攻。</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_hospital_z3_csky_com_order">
+		<text>雇佣兵，我们来挡住黑石战士，你进入墓穴。</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_dead_digger_leader_rec">
+		<text>我把在储藏处发现的部件给了方。但他还是说个没完，还说不找到其他部件就别想拿钱。我们讨论了一番，就派维萨亚去和他谈判。维萨亚能说会道，希望他能说服方至少先付一部分钱。希望他在路上别遇到麻烦… </text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_digger_messenger_warning">
+		<text>嗨，兄弟，当心！这儿附近有群疯狗！爬到石头上来，快！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_digger_messenger_shout_1">
+		<text>快，滚开！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_digger_messenger_shout_2">
+		<text>别过来，妈的！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_digger_messenger_shout_3">
+		<text>给我滚远点，你们这群杂种狗。</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_digger_messenger_thanks">
+		<text>谢谢你兄弟，你救了我的命！我叫瓦斯言。看看这张照片：我正在向西追赶这家伙，满脑子想的都是这事，这些野兽无处不在！我向它们打完了三个弹夹，但它们还是不要命的追了过来，害得我到处乱跑！现在我追不上那家伙了- 此时此刻他肯定已经进入黑暗山谷了！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_digger_messenger_pda_rec">
+		<text>我被一群野狗纠缠，结果没追上方。估计他是向东走进入黑暗山谷了。</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_ambush_talk_1">
+		<text>这地方真他妈的绝了。看看这帮独行者在这里忙活着。我想知道他们在找什么…</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_ambush_talk_2">
+		<text>啊，靠，让那个笨蛋逃了！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_ambush_talk_3">
+		<text>让他去死吧！他把事情搞得一团糟，情况就是这样。</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_ambush_talk_4">
+		<text>太好了，赶紧把东西拿走然后离开这儿…</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_fang_pda_rec">
+		<text>方，情况有变。有人知道了我们曾去过中心地区并且在找我们。我们要赶快走，越快越好。详细的计划我放在了我们的隐藏处。我改了密码。</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_find_fang_pda">
+		<text>你还是我们这边儿的吧，雇佣兵？很好，很好。方的PDA就在你旁边，去找吧！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_csky_leader_goto_agroprom">
+		<text>佣兵，我是列别捷夫。方的PDA上显示的信息证实了我的猜测。一群身份不明的独行者进入了中心区…不知道他们是怎样进去的，但他们却从大风暴中活了下来，要是他们死了就好了，因为特异区将一直处于活跃状态，直到通往中心的道路再次消失。现在只有两种情况会发生：要么我们阻止这队独行者，要么特异区释放出大量的辐射，最终摧毁里面的一切…可能外面的世界也要遭殃！听明白了吗，我们还是亲自出手解决好些，即使成功的希望很小，我们也要立刻行动。方的PDA里面有他们藏身处的坐标- 我敢肯定在那里能找到有关他们行动计划的重要信息…</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_return_1">
+		<text>嘿，你说了算…随便去做吧！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_return_2">
+		<text>没种的，请你转头过来看着我！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_return_3">
+		<text>嗨，小子。别给我添乱，知道吗？</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_come_here_1">
+		<text>嘿，哥们，把枪放下过来 - 我们谈谈。</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_come_here_2">
+		<text>你为什么不把枪放下过来呢，老家伙？</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_come_here_3">
+		<text>听着，我们谈谈。但你得先把枪放下。</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_stop_1">
+		<text>站那儿别动，兄弟！把手放到我能看到的地方！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_stop_2">
+		<text>别动！别想掏枪，想都别想。</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_stop_3">
+		<text>不许动，老家伙！把枪口对着地面，然后老老实实的站着。</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_stand_still_1">
+		<text>嗨兄弟，站那儿别动。</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_stand_still_2">
+		<text>很好，很好… 别刷小花招！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_stand_still_3">
+		<text>站在那儿，老家伙！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_see_actor_1">
+		<text>听着，哥们- 要想从此过留下买路财。过来我们谈谈。</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_see_actor_2">
+		<text>别傻站着，赶紧过来！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_after_pay_1">
+		<text>快点，见鬼，快点！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_after_pay_2">
+		<text>你是听不见还是怎么着的？滚开！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_after_pay_3">
+		<text>听好了，小子，在我一枪打烂你的屁股之前赶快穿好你的装备！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_after_pay_4">
+		<text>很好，你愿意成交… 放他走，弟兄们！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_after_reject_1">
+		<text>听好了，赶紧从我面前消失！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_after_reject_2">
+		<text>看来你没听明白，兄弟。滚蛋！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_after_reject_3">
+		<text>随你便… ！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_kill_actor_1">
+		<text>干掉他！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_kill_actor_2">
+		<text>干掉他！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_last_warning_move_1">
+		<text>他妈的别动！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_last_warning_move_2">
+		<text>别动，杂种！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_last_warning_weap_1">
+		<text>把枪放下，白痴！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_last_warning_weap_2">
+		<text>嗨，哥们，你最好把枪收起来！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_digger_traitor_attack">
+		<text>做了他，小伙子们 - 他把钱拿跑了！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_digger_leader_traitor">
+		<text>这是走私犯的PDA？把最新的信息发给我。啊哈！这不是武器藏匿点的坐标嘛。我会派我的手下马上过去！过来… 我们有些生意要面谈。</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_digger_captive_leader_reward">
+		<text>老兄，我还以为这次我死定了呢！我… 我真不知道该怎样感谢你… 等下！我知道该怎么谢你了。在我被俘以前，有一个地方是我和我兄弟们用来藏匿掠夺物资的，我把坐标传给你。我的兄弟们现在不再需要这些了，他们可能已经安息了，而我也要马上离开这儿了。这儿简直不是人待的地方…</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_digger_quester_creature_attack">
+		<text>佣兵，我们的人在离你不远处遭到攻击。如果得不到增援他们就危险了！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_digger_quester_creature_gone">
+		<text>见鬼！他们死了。而杀死他们的家伙跑掉了，你要为他们报仇啊… 老兄，生命有时真是如此弱小…</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_digger_quester_creature_killed">
+		<text>老兄，你简直是我们的英雄！你为我们的小伙子们报仇了，他们可以闭眼了…单单一句“谢谢”是无法报答你的，到跳蚤市场来见我- 你会得到你的报酬的。</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_conc_camp_go_away">
+		<text>快离开这儿，老家伙。我们在这儿都有点神经质了，最好小心点否则你会挨枪子的…</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_conc_camp_blockpost">
+		<text>听着，白痴。这是我们的地盘，你还是滚远点免得吃子弹？</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_comment_win_1">
+		<text>这才是真正的男子汉！让人敬畏！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_comment_win_2">
+		<text>喔，老弟… 你枪法真准。</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_comment_win_3">
+		<text>真见鬼，你们看到了吗？简直了不起！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_comment_lose_1">
+		<text>你的枪法还不行，废柴！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_comment_lose_2">
+		<text>糟透了！省省吧练好枪法下次再来吧…</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_comment_lose_3">
+		<text>枪法这么差，肯定是昨晚喝多了啊…</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_comment_shooting_1">
+		<text>瞄准，开枪！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_comment_shooting_2">
+		<text>把靶子打倒！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_comment_shooting_3">
+		<text>你知道该怎么用吧？</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_comment_shooting_4">
+		<text>快点老弟，我绝对相信你！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_comment_shooting_5">
+		<text>打翅膀，翅膀！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_comment_prepare_1">
+		<text>喔好吧，我要试试运气。我在那小子身上压50块…</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_comment_prepare_2">
+		<text>不可能我在他身上可没少压钱！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_comment_prepare_3">
+		<text>这会儿可以一饱眼福了！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_comment_prepare_response_1">
+		<text>我们先看看他能不能把枪给端平咯。</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_comment_prepare_response_2">
+		<text>哈哈！这混蛋输定了！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_comment_prepare_response_3">
+		<text>似乎还行，你看…</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_man_win_first">
+		<text>喔，你破了我的记录！真不可思议… 过来，拿着…</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_man_win_player">
+		<text>小子，你破记录了。给你报酬。</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_man_win_npc">
+		<text>小兄弟，你是新的冠军了！为胜利者欢呼！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_man_lose_1">
+		<text>你运气不好，再试一把。</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_man_lose_2">
+		<text>再试一次，哥们。这次你肯定行。</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_man_lose_3">
+		<text>又输了。再试一遍。</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_man_gone_1">
+		<text>嘿，小子，要去哪儿？不想再玩玩其他游戏？</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_man_gone_2">
+		<text>嘿，哥们，干嘛要走！你玩的不错啊！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_man_gone_3">
+		<text>别走，你的好运来了，我是说真的！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_digger_leader_ambush">
+		<text>什么？阿瓦斯卡引你中了埋伏？嗯… 这狗杂种会后悔的！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_digger_leader_traitor_dead">
+		<text>该死的贱人，嗯？你该去搜搜他看有没有值钱的东西。</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_leader_join_message">
+		<text>嘿兄弟，我叫尤加！我看你不像坏人。你下次要是到了我们的地盘！我会让你入伙的。</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_leader_destroy_flea_market_done">
+		<text>那么，你把跳蚤市场的那帮贱民都解决了？你可真够厉害的，兄弟，你搞定尤加交代的事儿了！击掌祝贺吧！利牙要给你好东西的。</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_leader_kill_digger_traitor_done_a">
+		<text>根据PDA的信号判断，阿瓦斯卡已经死了。很好。你可以到商人利牙那里领取你的报酬。从现在开始我会给你些高难度的任务的。</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_leader_kill_digger_traitor_done_b">
+		<text>听着，佣兵，我的手下刚废了阿瓦斯卡，因为他正试图逃离废弃区。看来他吓坏了，然后决定一走了之。所以这并不是你的错，我给你另外一份替代工作，如何？</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_leader_kill_digger_traitor_done">
+		<text>阿瓦斯卡一直给我提供着关于“鼹鼠”的情报。后来他们总算觉察到了，所以最近他也没能提供啥有价值的情报。不过最近的一些消息还是相当不错的，很显然，“鼹鼠”们正在和废弃区北方的一些家伙们接触购买武器。一个不留，不管是那帮大胆的混蛋家伙还是“鼹鼠”们，全部杀掉。他们碰头地点的坐标已经发到你的PDA上了。</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_leader_kill_digger_traitor_call">
+		<text>阿瓦斯卡？别说了！你为什么不直接去车站？我派个人跟着你到那儿把事情了结了！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_leader_kill_smuggler_done">
+		<text>他们都被抓到了？好极了！到利牙那儿领取你的报酬。啊，还有，你晋升了。我现在任命你指挥我的5 个手下。我要那些“鼹鼠”们彻底放弃武装反抗的念头，所以你和小伙子们要过去给他们点颜色看看，让他们知道这里谁说了算。目标就是跳蚤市场，一旦解决了他们，命令兄弟们守住那里别让任何人进入。你的小队已经准备就绪了，没有你的命令他们不会轻举妄动的。</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_expansion_0_up">
+		<text>干得漂亮，小伙子们！好日子马上就要来了！现在去夺取通往废弃区所有道路的控制权- 如果这帮混蛋还想把神器运出去就得付钱了。</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_expansion_1_up">
+		<text>哈哈，废弃区现在是尤加的地盘了！我们要榨乾那些独行者的钱！这些笨蛋在封锁线还有个基地，所以，我看我们该去拜访他们一下，以便帮他们认识一下自己到底有几斤几两。</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_expansion_1_down">
+		<text>小伙子们，我们要进攻了。坚强起来给他们点颜色看看！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_expansion_2_up">
+		<text>小伙子们，我们胜利了，这是真的！封锁线是我们的了，现在来到这儿的独行者们都要给我们“纳税”了！我们要使劲压榨他们，让他们不能有所作为。</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_expansion_2_down">
+		<text>你们这些该死的低能儿，到底在干什么？独行者们已经掌握了通往封锁线道路的控制权。你们难道要眼睁睁的看着他们把神器从这儿运出去吗？我现在命令你们回去把那条该死的路给我夺回来！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_expansion_3_up">
+		<text>就是这样，小伙子们你们让我感到骄傲！我们已经把那些蟑螂赶到了墙角- 现在我们要做的就是压碎他们，准备进攻！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_expansion_3_down">
+		<text>该死！我们的人被从封锁线赶出来了。我听到有一大队独行者们正在集结，要给他们点颜色看看，让他们知道这里谁说了算。</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_expansion_4_up">
+		<text>我们就要得手了，弟兄们！我们可以随意敲诈那些独行者们，而他们却无能为力！我们先聚些钱，然后对特异区说拜拜，把钱扔向空中吧！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_expansion_4_down">
+		<text>妈的！这些独行者们太自以为是了！他们竟然敢在基地附近伏击我的手下！如果你在那儿附近，给他们点颜色看看，让他们知道和我们做对的下场！</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_expansion_5_down">
+		<text>弟兄们，独行者们正在攻击我们！他们消灭了我们在封锁线附近的同伴， 还在那里建立了据点，你现在赶过去告诉他们谁才是老大！</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_start_pda">
+		<text>我已经很久没有看到有人从沼泽地过来了。你要过的路就在军队前哨站的旁边。一个独行者走在那里的唯一下场就是吃到一颗子弹，所以如果我是你，我会很小心的。</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_mil_target_detected">
+		<text>警报！发现独行者！开火！</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_mil_target_lost">
+		<text>目标逃掉了！军官，带领你的人肃清这片区域。</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_wolf_call">
+		<text>嘿，佣兵。你为何而来？来我们谈谈。</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_call">
+		<text>你从军队手里跑出来的？真他妈的走运啊你！对你来此的目的我好像有些眉目了。如果你想随时可以来见我。</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_greet_first">
+		<text>嗨，见到你很高兴！那么… 我们来谈谈生意吧？</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_greet_habar">
+		<text>你找到它了！我就知道你靠得住的！</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_habar_greet_1">
+		<text>有什么新消息我们可以交流的吗？</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_habar_greet_2">
+		<text>帮我找到那个箱子了？</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_habar_greet_3">
+		<text>箱子的事情处理的怎么样了？</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_bye_habar_1">
+		<text>赶快去处理那件事情，好吗？</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_bye_habar_2">
+		<text>找到箱子赶快给我拿过来。</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_bye_habar_3">
+		<text>记住，我还需要那个箱子。</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_bye_1">
+		<text>祝你好运。</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_driver_treat">
+		<text>别开枪，求你了…</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_patrol_help_1">
+		<text>呼叫基地，我们需要帮助！我们遭到军队的伏击！</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_patrol_help_2">
+		<text>兄弟，救救我们！我们顶不了多久了！</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_railroadpost_yes_1">
+		<text>快，快点！商人有话对你说…</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_railroadpost_yes_2">
+		<text>过来，快！他们在基地等你呢。</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_railroadpost_yes_3">
+		<text>别傻站在那儿动一动。去基地。</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_railroadpost_no_1">
+		<text>退后，雇佣兵！这是独行者的地盘！</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_railroadpost_no_2">
+		<text>不要再靠近了，否则我们开枪了！</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_railroadpost_no_3">
+		<text>这儿不欢迎你，佣兵！</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_assemble_1_1">
+		<text>大人物，我是瓦尔严！你这几天跑哪去了？我们遇到麻烦了，需要所有能动的人手！</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_assemble_1_2">
+		<text>糟糕，我们过不去！变异点封锁了道路我们要想办法绕过去。</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_assemble_2_1">
+		<text>瓦西里，别忘了你答应给我一批军火？</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_assemble_2_2">
+		<text>现在情况有变，瓦尔严！你想想看：军队要是知道我把武器卖给独行者…</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_assemble_2_3">
+		<text>你也好好考虑下，瓦西里：如果我们不给那些军人们点压力，他们肯定会杀光我们！</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_assemble_2_4">
+		<text>好吧，瓦尔严。明天我的人会过来，带着我所有的家伙。</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_assemble_3_1">
+		<text>瓦尔严，我是贝利！听说你在集合独行者，是真的吗？</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_assemble_3_2">
+		<text>没错，是这样的。军队来真的了。他们竟敢派盗贼来跟踪我们。我们可不想坐以待毙。</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_assemble_3_3">
+		<text>算我一个！我也有笔帐要和他们算算… 我明天到，我还会带3个小伙子一起来。</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_assemble_3_4">
+		<text>太好了，谢谢。明天见。</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_assemble_4_1">
+		<text>嘿，哥布林！那边有什么消息？</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_assemble_4_2">
+		<text>刚才军人用机枪扫射什么东西来着。他们只在基地附近活动貌似他们感到很害怕。</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_assemble_4_3">
+		<text>好的，保持联系。</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalkerbase_guard_redirect">
+		<text>老弟，我们已经等你很久了。去见首领吧，来！</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_mill_complete_reply">
+		<text>干得好！军队被解决掉了。在仓库又发现了第二支小队。佣兵，赶快过去吧。</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_dead_military_pda_request">
+		<text>好样的！克哈列特斯基的手下都被干掉了，他将知道我们不是好欺负的。现在，这些军队垃圾再也不敢小看我们了，没错！佣兵，回基地来。</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_jail_monologue">
+		<text>你真是顽固透顶，你的手下都死了，而你还呆在这儿- 没人会来救你了。说，你把箱子藏哪儿了！</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_habar_location_1">
+		<text>…好吧，我说… 混蛋… 藏在老磨房的屋顶下面。</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_habar_location_2">
+		<text>…好吧，我说… 混蛋… 藏在隧道翻过来的汽车里。</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_habar_location_3">
+		<text>…好吧，我说… 混蛋… 藏在离这儿不远的一座房子里的阁楼里面。</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_habar_founded">
+		<text>你瞧，这狗杂种彻底软了！隐藏点坐标已经标在你的PDA上了。带上你找到的东西去见西德洛维奇 - 他在等你。</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_habar_request">
+		<text>好吧，雇佣兵 - 我在这儿等你。</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_bye_2">
+		<text>希望能…再见。</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_bye_3">
+		<text>啊，当心。</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_bye_give_habar">
+		<text>嘿！你要去哪儿？把箱子给我！</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_can_join_stalker_1">
+		<text>雇佣兵，我是瓦尔严。独行者的大门为你敞开。如果你还想加入我们，那么可以在基地找到我。</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_expansion_0_up">
+		<text>太好了！我们现在自保已经没问题了。听着，我们要占领通往封锁线的道路。一旦占领了道路，那些强盗垃圾就再也别想靠近我们的基地了。</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_expansion_1_up">
+		<text>哈，现在强盗再想靠近封锁线就没那么容易了。但这儿还不能完全阻止他们。我们要立刻动身前往废弃区。去给那帮混蛋上一课让他们知道厉害！</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_expansion_1_down">
+		<text>见鬼，强盗的实力比我们强大！如果我们不能想点办法平衡实力，我们将在这里束手待毙了。</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_expansion_2_up">
+		<text>别松劲，我们成功的守住了车厂！重复一遍：通往废弃区的道路已经安全了，出入那里不用在付买路财了。接下来要向他们的老巢挺进，让他们知道这儿谁说了算！</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_expansion_2_down">
+		<text>注意！强盗在封锁线设置了哨所！如果我们不能夺回那里，那儿将立刻成为强盗发财致富的好地方！</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_expansion_3_up">
+		<text>好消息！我们已经将强盗基地的唯一出口封锁了。准备好发动总攻！</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_expansion_3_down">
+		<text>该死，废弃区失守了，不过也没什么大不了的，兄弟们！集合起来去给他们点颜色看看！</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_expansion_4_up">
+		<text>随着我们在对抗强盗的战斗中取得胜利，那些不堪回首的日子将不复存在了。不用贿赂，也不用再付买路财了！独行者，向你致敬！</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_expansion_4_down">
+		<text>注意！强盗们已经开始动手了，他们袭击了我们在他们基地附近的人。我们要去守住他们基地的出口，这样他们就无法展开行动了！</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_stalker_expansion_5_down">
+		<text>注意独行者们，瓦尔严正在讲话！强盗们再次占领了废弃区。真不晓得他们是从哪里冒出来的，不过他们确实得手了。保持警觉！</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_blockpost_enter">
+		<text>不许动！黑暗山谷处于隔离状态！把武器收起来，然后慢慢的走过来。别玩花招！我只是想和你谈谈…</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_blockpost_wait_1">
+		<text>到这儿来 。放松点，我们不会伤害你的！</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_blockpost_wait_2">
+		<text>嗨你，过来。快点！我们要对你进行检查。</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_blockpost_wait_3">
+		<text>站那儿干吗，过来啊！</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_blockpost_robbery_stop">
+		<text>不许动！收起武器原地别动。敢动一下就要你的命！</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_blockpost_robbery_return">
+		<text>到这儿来。放轻松，我们不会伤害你的！</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_blockpost_robbery_stand_still">
+		<text>站着别动，兄弟。我们不会伤害你的。</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_blockpost_robbery_kill_actor">
+		<text>把头趴下！</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_blockpost_robbery_after_pay">
+		<text>解散。</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_blockpost_reply_sos_done">
+		<text>看来一切正常。</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_blockpost_reply_sos_1">
+		<text>D组，A组呼叫。那边的枪声是怎么回事啊？那边发生什么事了？</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_blockpost_reply_sos">
+		<text>见鬼，再组织一次进攻！雇佣兵，看一下前锋部队的伤亡情况！</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_dead_squad_1">
+		<text>嗨！那边到底怎么了？回答！</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_dead_squad_2">
+		<text>回答，三角洲巡逻队！</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_dead_squad_3">
+		<text>回答，该死！</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_base_enter">
+		<text>独行者，你已踏入自由团的领地在这里要按我们的规矩行事。有什么问题的话可以找我谈谈。</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_comendant_come_back">
+		<text>嗨，朋友！你见过那些异变怪物了！快回来吧，还有更多的指令！</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_leader_help">
+		<text>佣兵，我是契科夫。前锋刚刚遭到了袭击…目前他们的生死未卜，不过其中一人的PDA处于激活状态。那里面应该有些有用的信息。找到它，把它带来给我。</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_attack_help">
+		<text>自由团所有单位注意！我们在旧农场那里遭遇了一些佣兵。他们火力很猛，我们需要增援！再重复一遍：我们需要立刻增援！</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_leader_pda_come_back">
+		<text>我们那可怜的指挥官应该没跑多远！他的新朋友给他找了个好去处- 树顶上。 好了，去把那混蛋的PDA给我拿来。</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_antenna_control">
+		<text>好了！我们已经控制了第一座和第二座天线！现在要占领第三座！</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_antenna_finish">
+		<text>干得漂亮，天线全部被在我们掌控之下了。开始扫描。</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_antenna_good">
+		<text>我们搞到了隧道的坐标- 就在废工厂附近。那些雇佣兵就是通过隧道进入黑暗山谷的。所有单位注意！找到并摧毁隧道！</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_zavod_help">
+		<text>我们已到达废工厂。该死，这地方到处都是佣兵！帮忙！</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_zavod_task">
+		<text>谢天谢地你来了，雇佣兵！我们被困在院子里了 - 他们隐蔽的很好。帮我们干掉楼顶的佣兵！</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_quest_finish">
+		<text>杀害我们很多兄弟的混蛋们终于被干掉了，自由团再次证明了自己置生死而不顾的决心！特异区重获自由的日子马上就要到来！佣兵，有空的话来拿你的报酬。</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_megafon_1">
+		<text>嘿，哥们。你果然是个狠角色！如果你想得到重用和家人般的对待，自由图将是你的首选！在这里不用做家务，也不会遭到洗脑，也不用早起训练！如果你是个向往自由，喜欢和兄弟们豪饮的独行者，那赶快加入吧！我们已经做好接风洗尘的准备了！</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_megafon_2">
+		<text>独行者！你的人生给了你在自由图结交真正兄弟的机会！只有在我们这里大家才会同生共死，有福同享有难同当。</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_megafon_3">
+		<text>各位同志们！如果你向往自由并希望结交同道中人- 加入我们吧！自由图欢迎一切在特异区中行走的同志。</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_megafon_4">
+		<text>你想赢得独行者们的尊重吗？你想结交在你为难时期能给你搭把手的好兄弟吗？你想痛击纪律团吗？ 所有这些，都不再是梦想只要你加入我们！</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_megafon_5">
+		<text>现在是你加入特异区最棒独行者团体的好机会！你还等什么呢？别让自由从指间溜走 -加入我们！</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_megafon_6">
+		<text>特异区是为独行者而生，而独行者是为自由而活。做独行者就应该：加入自由阵营！</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_megafon_7">
+		<text>加入自由图！图结一心，来拯救特异区- 这里才是为自由人着想的地方！</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_false_attack_a_1">
+		<text>嗨，哥们，你们在喊什么呢？回答我！</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_false_attack_a_2">
+		<text>那边发生什么事了，伙计？完毕！</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_false_attack_a_3">
+		<text>你在那儿干什么呢，啊？</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_false_attack_a_4">
+		<text>需要援助，听到了吗？完毕。</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_false_attack_b_1">
+		<text>…回答，回答！回答我！</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_false_attack_b_2">
+		<text>…回话，回答！</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_false_attack_b_3">
+		<text>…为什么不回答？回答，兄弟们！</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_false_attack_b_4">
+		<text>…那里到底怎么了？回答！</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_false_attack_c_1">
+		<text>…见鬼，没有信号… 到底怎么了？</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_false_attack_c_2">
+		<text>…没有人回答。我们该怎么办？</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_false_attack_c_3">
+		<text>…回答，该死的！回答！</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_false_attack_c_4">
+		<text>…这他妈的到底是什么？</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_false_attack_d_1">
+		<text>所有单位注意：我们又损失了一支小队。提高警觉！</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_false_attack_d_2">
+		<text>又一支小队失去了联系。到底发生什么事情了？</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_false_attack_d_3">
+		<text>我们和巡逻队失去了联系。所有单位：任何时刻都不要放松警觉。</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_false_attack_d_4">
+		<text>注意，士兵们。又一支小队失去了联系。他们可能今晚回不来了。保持警觉才是活命之道！切记：敌人可能潜伏在任何地方！</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_ambush_in_yard">
+		<text>他们从四面八方涌过来了，佣兵。我们把他们拖在院子里，而你就趁机进入大楼。</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_leader_join_freedom">
+		<text>佣兵，我是契科夫。如果你还想加入我们，到自由图的基地找我。自由图已做好了接纳你的准备。</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_expansion_0_up">
+		<text>好消息，小伙子们！我们已经夺取了峡谷所有道路的控制权！我们准备去给纪律团点颜色看看，我们要向废弃区挺进！你要加入我们吗。</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_expansion_1_up">
+		<text>好样的，小伙子们。我们夺取了废弃区，现在向农业研究所进发！不要招惹中立的独行者！</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_expansion_1_down">
+		<text>敌人正试图进入黑暗山谷！加油，伙计们，保卫自由团啊！</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_expansion_2_up">
+		<text>现在我们谈谈！我们的小队已经占据了农业研究所路旁的阵位！接下来我们就要对自由图发动进攻了！</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_expansion_2_down">
+		<text>弟兄们，废弃区的队伍被敌人消灭了。现在通向黑暗山谷的道路不再安全了！</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_expansion_3_up">
+		<text>农业研究所是我们自由团的了！干得漂亮！现在是和那些纪律团混蛋算总账的时候了！</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_expansion_3_down">
+		<text>坏消息，兄弟们。守卫农业研究所的弟兄们被干掉了。我们要把道路夺回来- 不管花多大代价！</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_expansion_4_up">
+		<text>太好了！我们已摧毁了纪律团的基地！他们再也别想恢复元气了！我们终于可以松口气好好享受自由了，哈哈！</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_expansion_4_down">
+		<text>看来纪律团组织了一次进攻夺回了农业研究所。这可不是好兆头，弟兄们！如果继续这样发展下去，这仗就没法儿打了！</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_expansion_5_down">
+		<text>所以，谁想持续开战啊？我听说纪律团回来了！他们坐在直升机里回来了，并重新夺回了他们的基地，还干掉了在农业研究所的所有能移动的生物。</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_zavod_task_sniper_dead">
+		<text>屋顶已被清除，开始行动。</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_underground_agru_leader_dolg_pda">
+		<text>我是克雷洛夫将军。注意，你们要保持警戒- 地下到处都是怪物。地图显示，抽水站控制器就在你的上层。我把坐标发给你了，小心… 祝你好运。</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_underground_agru_leader_clear_sky_pda">
+		<text>佣兵，我是列别捷夫。在隐蔽点找到的信件很有价值。我们现在知道史特列洛克的小队曾经到过中心区。而他们现在计划再次前往那里，一群白痴！如果让他们到达那里，就会触发第二次大风暴- 强大的放射波足以将特异区中的一切生物化为乌有，而特异区本身也会变得极不稳定。不能让它发生！史特列洛克刚刚到过杨塔胡，你离那里最近- 去截住他，我们会对付方和鬼魂的。</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_blokpost_shout_1">
+		<text>嗨，佣兵！你来这儿干什么？赶快逃命去吧- 怪物随时都会出现！</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_blokpost_dialog">
+		<text>你都看到了吗？你的装备呢，朋友？这里可是险象环生 - 没有件好衣服和件趁手的武器你将寸步难行。怪物们最近极具攻击性，因此对于你能给我们的援助我们将感激不尽。如果你想挣点外快，到基地去和将军谈谈。我们的一支小分队也正好要前往那里。和他们一起去会省你不少劲。</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_squad_snorks_attack_1">
+		<text>尝尝这个，变态们！</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_squad_snorks_attack_2">
+		<text>是史洛克！干掉它们，兄弟们！</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_squad_snorks_attack_3">
+		<text>保持冷静！靠近了再打！</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_base_dolg_megafon_1">
+		<text>切尔诺贝利的老战士们，加入纪律团吧！我们肩负着一个伟大的使命。如果我们不能保护世界不受急速扩张的特异区的影响，谁又能呢？</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_base_dolg_megafon_2">
+		<text>独行者们，久经沙场的老战士们还有猎人们- 加入纪律团！保护世界不受特异区蔓延的侵害是我们所有人的职责！</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_base_dolg_megafon_3">
+		<text>独行者，加入纪律团！为世界不受特异区的侵害而贡献一份力量！</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_base_dolg_megafon_4">
+		<text>世界正受到不断扩张的特异区的侵袭，加入纪律团保护那些无辜的人们 。</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_base_dolg_megafon_5">
+		<text>致命的野兽、危险的异种，神器还有强盗，都无法阻挡自由图保卫这个星球和人们，并最终获胜的步伐。</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_base_dolg_megafon_6">
+		<text>所有加入自由团的新人都将获得精良的装备。更重要的是，和怪物战斗将使你获得荣誉并名垂青史！</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_base_dolg_megafon_7">
+		<text>我们坚信胜利是属于我们的！特异区中的垃圾将被彻底清除！</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_base_kpp_dolg_1">
+		<text>嘿，士兵！</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_base_kpp_dolg_2">
+		<text>真高兴你还活着！</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_base_kpp_dolg_3">
+		<text>欢迎你回来！</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_base_kpp_nodolg_1">
+		<text>嘿，小子！来加入纪律团吧！</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_base_kpp_nodolg_2">
+		<text>嘿，独行者！在纪律团的地盘上不许胡来，听懂了吗？</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_base_kpp_nodolg_3">
+		<text>遵守规则你将畅通无阻。</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_base_commander_1">
+		<text>你好！别不好意思-过来。</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_base_commander_2">
+		<text>别站着啊，过来！</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_base_commander_3">
+		<text>士兵！快去，快！</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_base_leader_sergant_1">
+		<text>切尔索夫中士，我派了名佣兵到你那去。他将进入地道，你放他进去吧。</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_base_leader_sergant_2">
+		<text>将军，手不是有人受命进入地下通道？</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_base_leader_sergant_3">
+		<text>没错。让他多拿点弹药。</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_base_leader_sergant_4">
+		<text>Yes，Sir！</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_base_leader_sergant_5">
+		<text>嗯…祝你好运。中士会带你去拿装备并会给你些建议。我已经把巢穴的坐标发给你了。</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_hole_wait_1">
+		<text>快点走，弟兄们！他们随时都可能出来！</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_hole_wait_2">
+		<text>集中注意力！眼睛给我放亮点！</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_hole_wait_3">
+		<text>当心，弟兄们！</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_hole_attack_1">
+		<text>他们来了！开火！！</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_base_commander_reward_pda">
+		<text>好样的，独行者！现在可以松口气了。隧道进水了，我们欠你一次情，兄弟！到我这儿来拿你的报酬。</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_stalker_tir_hello_1">
+		<text>嗯。让我们看看你有多厉害！</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_stalker_tir_win_1">
+		<text>还不错，这是你的报酬。</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_stalker_tir_lose_1">
+		<text>下次会走运些的。来我们谈谈。</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_stalker_tir_bye_1">
+		<text>当你手痒的时候记得再来看看。</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_dolg_expansion_0_up">
+		<text>所有单位注意，我们已经占领了农业研究所。一支攻击自由团的志愿者正在组建中。下一个目标是攻占废弃区并在那里建立一个据点。</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_dolg_expansion_1_up">
+		<text>我们现在在废弃区建立了一个立足点。下一步就是打通通往黑暗山谷的道路。不要攻击中立的独行者。</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_dolg_expansion_1_down">
+		<text>敌人的部队渗透进了农业研究所。必须确保基地安全后，才能发动对自由团的攻击！消灭敌人确保所有通往农业研究所的道路安全。</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_dolg_expansion_2_up">
+		<text>我们已做好进攻黑暗山谷的准备。所有单位，做好打大仗的准备。</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_dolg_expansion_2_down">
+		<text>所有单位注意！废弃区已被敌人攻陷。拥有它我们才能发动对自由团基地的攻击- 去把它重新夺回来！</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_dolg_expansion_3_up">
+		<text>好消息！我们的先头部队已经攻占了黑暗山谷的要塞！现在已经没有什么能阻挡我们去攻占自由团的基地了！</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_dolg_expansion_3_down">
+		<text>所有单位注意，敌人攻击了我们留驻废弃区的部队 。目前我们已失去对黑暗山谷的控制权。</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_dolg_expansion_4_up">
+		<text>所有单位注意，我们已经占领了自由团的基地！无政府主义者已经被击败以后不会再对我们构成威胁了。为那些为胜利而战斗的勇士们欢呼！</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_dolg_expansion_4_down">
+		<text>我们在黑暗山谷的部队被击退到了废弃区。我们需要在黑暗山谷建立一个根据地，以便进攻自由团的基地！</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_agr_dolg_expansion_5_down">
+		<text>所有单位请注意！侦察队报告说，一大队自由团战士攻占了基地并控制了黑暗山谷，我们现在出击把他们赶回老家。</text>
+	</string>
+</string_table>

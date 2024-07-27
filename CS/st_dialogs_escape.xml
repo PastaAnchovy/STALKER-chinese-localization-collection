@@ -1,0 +1,792 @@
+﻿<?xml version="1.0" encoding="Unicode" ?>
+<string_table>
+	<string id="esc_comm_talk_11">
+		<text>你盯着我干嘛？臭小子</text>
+	</string>
+	<string id="esc_comm_talk_1111">
+		<text>真是可笑！如果你是来找那个被我藏起来的箱子，还有里面的宝贝的话，你恐怕要失望了。滚回你亲爱的特异区里去吧！我的人很快就会过来收拾掉你们这些可怜的家伙！然后把你们的首领挂在桥上，让所有人都知道跟军队斗争的下场！</text>
+	</string>
+	<string id="esc_comm_talk_111111">
+		<text>啊？真的吗？嗯…让我想想，你愿意为我们出多少力呢？比如帮我的兄弟们解决路堤旁边的狙击手怎么样？</text>
+	</string>
+	<string id="esc_leader_what_happens_1">
+		<text>我该怎么给你说呢…独行者曾与军队相安无事。他们提供武器，我们提供钞票，大家都很开心。有时他们甚至会告诉我们，哪儿又出现新异变点群了。但有时他们的指挥官显得过于贪婪。他竟然向强盗们出卖我们行踪的信息。起初我们以为这只是巧合，但很快我们就发现了他们与军队的肮脏交易。于是我们便考虑给他们点颜色看看。</text>
+	</string>
+	<string id="esc_leader_talk_11">
+		<text>您好，佣兵！难得看见你… 是什么风把你吹来了？</text>
+	</string>
+	<string id="esc_leader_talk_22">
+		<text>嗯，你有没有打听到有用的东西？</text>
+	</string>
+	<string id="esc_leader_talk_33">
+		<text>哇，总算有个不错的收场！现在军队只能老老实实的躲在哨站后面了！</text>
+	</string>
+	<string id="esc_leader_talk_44">
+		<text>佣兵，你得想办法解决掉那个指挥官的手下。</text>
+	</string>
+	<string id="esc_leader_talk_55">
+		<text>我们能对那该死的指挥官做些什么？</text>
+	</string>
+	<string id="esc_leader_talk_1111">
+		<text>从西德洛维奇那儿，你的意思是…  你也了解有关指挥官的事情？好吧，我就跟你直说了。过去我们曾和军方合作过，他们允许我们携带货物自由进出，并给我们一些有用的信息。而我们则为他们提供服务。但后来我们发现，他们的一个指挥官在同时替两边干活。他将我们的行踪出卖给强盗，之后又将我们的2个兄弟当劳工卖了，而那也是我们的最后一次来往。</text>
+	</string>
+	<string id="esc_leader_talk_111111">
+		<text>确实，我想我们现在有些困惑…想不出下面该做什么。我们俘获了他们的指挥官。将其做为人质，这样军队就不敢用直升机把我们的基地轰上天。我们不能杀他，但也不能放他走… 这个狡猾的杂种显然知道我们不会杀他，所以他一点也不肯让步。而且，只有他才知道东西藏在哪儿。如果我们不能将物品交还给西德洛维奇的话，老西是不会再和我们做生意的。相信我，如果我们能让军队跟着我们的步调走，事情就会简单多了。</text>
+	</string>
+	<string id="esc_leader_talk_2222">
+		<text>毫无疑问他们会来救他的。这家伙欠他们一大笔钱。他在那些行动种肯定没少得好处，而且这些钱肯定给他藏在某个地方。听着，我有一个主意，这家伙有2个心腹，在前哨站你可以找到他们。他们跟指挥官之间有着一笔交易。所以他们会尽一切可能营救他。如果我们能除掉他们，这个杂种的退路就少一条。他很快就会崩溃的，然后我们就能知道他的东西藏在哪儿。我们分掉钱，然后把箱子还给西德洛维奇，你觉得怎么样？</text>
+	</string>
+	<string id="esc_leader_talk_222222">
+		<text>我有预感我们不用自己去找他们。克哈列特斯基的人正在我们的附近游荡，伺机进攻我们。我们已发现一小队军人出现在仓库那儿，帮我们消灭他们。</text>
+	</string>
+	<string id="esc_trader_meet_11">
+		<text>你好，佣兵。告诉我，是什么风把你吹来了？</text>
+	</string>
+	<string id="esc_trader_meet_22">
+		<text> 谢谢你把箱子还了回来，佣兵。现在我可以给客户一个交代了。我之所以能在特异区里生存下来，靠的就是“谨慎”二字。如果你不小心说错了话，把客户的关系给弄糟了，很可能第二天你就横尸街头。换句话说，这不是件有趣的事情…至于你要找的那个独行者，他曾在这里出现过，他的名字叫方，他曾在这附近搜索放大器和一些电子垃圾…我不知道他要干嘛，这里也没有他要找的东西。于是我告诉他去废弃区碰碰运气，最近有独行者在那儿挖出了老旧的仪器，那里到处都有各种老旧的材料。去那里找他吧。记住，如果你想买卖东西，我会为你服务的。</text>
+	</string>
+	<string id="esc_trader_meet_44">
+		<text>嘿，佣兵，我还在等那个提箱呢。我建议你最好把这事放在心上。 </text>
+	</string>
+	<string id="esc_trader_meet_55">
+		<text>那么，你在跟随着什么？</text>
+	</string>
+	<string id="esc_trader_meet_2222">
+		<text>如果你还需要别的啥尽管直说。你帮我解决了军队的问题，以后你来买东西我都给你打折。</text>
+	</string>
+	<string id="esc_trader_meet_1111">
+		<text>嗯…独行者我见多了，要记住他们真是很不容易。你得给我个能让我尽力去记住的理由吧？</text>
+	</string>
+	<string id="esc_trader_meet_111111">
+		<text>我们来谈谈生意的事吧。我在这儿呆的很久了，生意也是越做越好，在这里我有自己的客户，而人们也很信任我。但我最近的一单生意碰到麻烦了，而下单的客户又是个头面人物，他要的东西可是独一无二的！开始一切进展顺利- 独行者们要进入特异区拿东西，而军队也保证他们安全通过了封锁线。但现在情况变了，这2个势力之间产生了巨大冲突，事情也变得疯狂了！独行者们已跟军队发生了激烈交火，而我们也不知道东西究竟在哪，但我必须要交付它。所以，帮我找到那个东西，我会提供给你关于你在寻找的独行者信息。成交？</text>
+	</string>
+	<string id="esc_trader_meet_11111111">
+		<text>去见见在铁堤那儿的独行者们。他们在那儿有个基地，军方的指挥官克哈列特斯基被他们关在那里。我并不介意你对那个基地做些什么，我也不介意你是否会去终结他们见义勇为的行为，我只在乎那个提箱和里面的货物。对于新手来说，你最好去找找独行者的领袖，瓦尔严。我会告诉他们你要前往的。</text>
+	</string>
+	<string id="esc_comm_about_life_in_zone_1">
+		<text>我欠你个人情，伙计。让我来告诉你吧，我知道独行者们都在竭尽全力试图到达特异区的中心。我看过一些好老的军方地图，特异区的中心应该就是切尔诺贝利核电站所在的地方。这可能是个巧合，但我觉得你最好把这个情报放在心上。问题是，即便是军方的卫星都无法完整的探测那个区域。它们甚至不会从那上空飞过，以避开过强的干扰源并避免损坏卫星。这些都是最高机密，是我的一个在导弹基地的兄弟告诉我的，如果你想听听我的建议的话，我觉得你最好还是离那里远点。</text>
+	</string>
+	<string id="esc_comm_about_prisoner_1">
+		<text>你觉得很有趣吗？伙计，假如我们在另一个环境下讨论的话，或许我会给你个不同的答案…我已经受够这一切了，兄弟…和我一起入伍的那些家伙们现在都已经功成名就了。你认为我是吃饱了没事儿干，跑到这里来找你们的麻烦？我已经受够了这个狗屎一样的特异区，该死的独行者，还有那个杂种西德洛维奇…啊，还有那些该死的怪物…我们拼尽全力想要干掉它们，可它们却还是源源不绝。而这里的每个家伙都只知道“我们得从那些怪物的手中拯救这个世界”还有“我们不能让那种事情发生”…一群笨蛋…多少次了，军队只会一遍一遍的扫荡这个地区，在这危险的地区小心前进，嗯？这群狗杂种就只会把一整天的时间花在追踪独行者上面？他们只会在捅出乱子后再用军队这个大塞子去堵住那个洞！</text>
+	</string>
+	<string id="esc_comm_about_prisoner_111">
+		<text>假如我给他们携带货物通过封锁线，并收点小钱会怎么样呢？我们大家都能继续过下去？你知道我拿公家的钱是干什么的吗？混蛋。很显然，你们在试图以此为生！然后什么都不会给我，还想让感到那点恶心的荣誉感…那些老板们正在特异区的外面指挥着一场屠杀，就跟别人一样，为什么我就不能呢？我会按照指示去做，而且我也能活下来。那么，我就要尽可能的活下来。诅咒这个鬼地方还有里面的所有该死的东西…我都快弄不清楚是该把他们轰上天还是把我自己的脑袋轰上天了。</text>
+	</string>
+	<string id="esc_comm_about_prisoner_11111">
+		<text>欺骗？那又怎么样？你们什么也不会得到的。你们根本就不应该出现在这里。你们最好一踏进特异区就被射死。最好是由我来指挥。问题是，从尸体上你啥也得不到，而我还得作出补偿。军队们是不会买账的，我只能自己来解决。至于你们的内部冲突，我当然不会视而不见，你们愿意互相残杀，却不肯花点时间听我说几句。</text>
+	</string>
+	<string id="esc_comm_talk_33">
+		<text>独行者，我的藏货被你们拿走了，而我的伙伴多半也死了。但我还留了一小部分，你一定想知道我把东西藏在哪儿了，对吧！</text>
+	</string>
+	<string id="esc_comm_talk_3333">
+		<text>帮我离开这里，独行者！给我一把手枪就足够了，假如有人发现了我，我自己就能解决掉他。</text>
+	</string>
+	<string id="esc_comm_talk_333333">
+		<text>我不会骗你的，我的东西藏在一根管子里，在异常区附近。</text>
+	</string>
+	<string id="esc_comm_talk_44">
+		<text>感谢你给了我武器。</text>
+	</string>
+	<string id="esc_comm_talk_5555">
+		<text>你还想要什么？</text>
+	</string>
+	<string id="esc_leader_about_home_1">
+		<text>差不多吧，你说呢？这里过日子很好！但是要付出代价的。那些狗日的大兵一刻不停地在逼我们，他们对我们搞突然袭击，用直升机对我们的兄弟们扫射。 \n他们控制着所有的交易，假如你携带什么东西给他们发现的话，唯一的可能是你的东西被没收。同时，为他们干活也很难能维持生计，他们付的报酬少的可怜，而且一分钱也不肯多付。但是公正总会来的，即使是特异区里也一样！当克哈列特斯基将我们出卖给强盗的时候我们就决定了，我们抓住了他并将他作为人质，而其他的军队终于老实了，他们再没有来打扰我们，因为他们的指挥官在我们手里。 \n所以，我们总算是为自己在特异区里找了个不错的位置！你得感谢我们所做的这一切努力：我们建立了一个基地并牢牢控制了封锁线。而且情况正在变得越来越好，你完全可以抱着很大的希望。</text>
+	</string>
+	<string id="esc_leader_about_home_111">
+		<text>我的朋友，现在我们比初始时有了更多的计划！首先我们得建完我们的基地，这是我们的首要任务。之后我们还需要招更多的人…当然是他们自愿的，你会明白的！人们明白我们战斗只是为了一个目的！当我们最终建立起一只部队之后，我们会让那些强盗们知道，惹恼我们是什么结局。我们已经受够他们的鸟气了，不会再让他们在特异区里横行霸道！而之后，我相信我们深入特异区的那一天终会到来。我们甚至能到达中心- 这是每个独行者的梦想！我们的前途一片光明，正如我告诉你的那样！</text>
+	</string>
+	<string id="esc_leader_about_home_11111">
+		<text>如你所见，我们现在有很多事情要做…但是我相信如果你乐于接受现有的一切，你就能获益更多！我们已经有了一个开始，这是最重要的事情！我们已经有了一名工程师，还有了一个商人。他们都是好人，任何时候他们都会愿意帮你解决问题。等到我们有了足够的人之后我们就可以踢开一切挡路石了！我相信我可以领导他们向伟大的目标前进！记住，这只是个开始！</text>
+	</string>
+	<string id="esc_leader_about_prisoner_1">
+		<text>他逃走了！这杂种干掉了两个守卫然后逃进了树林！我们找不到他！真不知道他从哪儿弄到的武器。</text>
+	</string>
+	<string id="esc_trader_about_other_1">
+		<text>我再解释一遍，你把军队跟独行者们争夺的东西给我带来，我解答你的所有疑问，懂了么？</text>
+	</string>
+	<string id="esc_comm_about_info_0">
+		<text>我能为你做点什么？</text>
+	</string>
+	<string id="esc_comm_about_info_1">
+		<text>我会为有价值的情报买单，你都知道些什么？</text>
+	</string>
+	<string id="esc_comm_about_info_11">
+		<text>什么也没有。</text>
+	</string>
+	<string id="esc_comm_about_info_2">
+		<text>我杀死了一个军队的指挥官并拿走了他的PDA，我想用这个来交换货物。</text>
+	</string>
+	<string id="esc_comm_about_info_22">
+		<text>我现在没有任何你想要的情报。</text>
+	</string>
+	<string id="esc_comm_about_info_3">
+		<text>这个PDA对我来说有相当的价值，我买了。</text>
+	</string>
+	<string id="esc_comm_about_info_4">
+		<text>卖出。</text>
+	</string>
+	<string id="esc_comm_about_info_5">
+		<text>我改变主意了。</text>
+	</string>
+	<string id="esc_comm_about_life_in_zone_0">
+		<text>最近你听到什么有趣的传闻没？</text>
+	</string>
+	<string id="esc_comm_about_prisoner_0">
+		<text>你是怎么被关进独行者监狱的？</text>
+	</string>
+	<string id="esc_comm_about_prisoner_11">
+		<text>好吧，如果你真的那么讨厌独行者的话，为什么你对我们的所作所为无动于衷呢？</text>
+	</string>
+	<string id="esc_comm_about_prisoner_1111">
+		<text>如果你是个有原则的人，你就不应该向强盗们出卖我们的信息。看来你在骗我…</text>
+	</string>
+	<string id="esc_comm_talk_111">
+		<text>哈，看到一个军队的指挥官出现在这里真是有趣的事情。</text>
+	</string>
+	<string id="esc_comm_talk_11111">
+		<text>他不是我的老板，我只是个佣兵而已。</text>
+	</string>
+	<string id="esc_comm_talk_1111111">
+		<text>对于你这种等级的人来说这个价钱太高了点。</text>
+	</string>
+	<string id="esc_comm_talk_11111122">
+		<text>该死的…我打赌那是西德洛维奇在捣鬼！我知道他一直背着我在做一些见不得人的事情。选在这个时候下手真是个不错的决定！…嗯，很好，这个世界总是不公平的。听着，两股军方的部队随时有可能进攻，一支在汽车站附近，另一支在仓库那儿。他们的指挥官索克诺夫就在汽车站指挥。去让他知道这些家伙是无法杀死我的。告诉他让他开始进攻吧。</text>
+	</string>
+	<string id="esc_comm_talk_111121">
+		<text>该死的…我打赌那是西德洛维奇在捣鬼！我知道他一直背着我在做一些见不得人的事情。选在这个时候下手真是个不错的决定！…嗯，很好，这个世界总是不公平的。听着，两股军方的部队随时有可能进攻，一支在汽车站附近，另一支在仓库那儿。他们的指挥官索克诺夫就在汽车站指挥。去让他知道这些家伙是无法杀死我的。告诉他让他开始进攻吧。</text>
+	</string>
+	<string id="esc_comm_talk_21">
+		<text>毫无疑问，我的人对我绝对的忠诚。他们甚至不需要思考就会愿意为我卖命。</text>
+	</string>
+	<string id="esc_comm_talk_333">
+		<text>成交，那你需要什么作为回报呢？</text>
+	</string>
+	<string id="esc_comm_talk_33333">
+		<text>这儿有把手枪，如果你被抓住了可以试着用这个来逃脱，当然这一切最好别发生。</text>
+	</string>
+	<string id="esc_comm_talk_3333333">
+		<text>我希望你没有骗我。</text>
+	</string>
+	<string id="esc_comm_talk_33334">
+		<text>哈，别做梦了，我不会把我的枪给你的。</text>
+	</string>
+	<string id="esc_comm_talk_334">
+		<text>我才不想知道你那肮脏的藏东西处。你只是个过街老鼠而已，我不会帮你的。</text>
+	</string>
+	<string id="esc_comm_talk_444">
+		<text>没问题。</text>
+	</string>
+	<string id="esc_comm_talk_55">
+		<text>现在你需要什么？</text>
+	</string>
+	<string id="esc_comm_talk_555">
+		<text>嗯…</text>
+	</string>
+	<string id="esc_comm_talk_6666">
+		<text>你想要什么？</text>
+	</string>
+	<string id="esc_driver_about_you_0">
+		<text>你怎么结束特异区之旅的？</text>
+	</string>
+	<string id="esc_driver_about_you_1">
+		<text>我怎么结束在这里的日子的？跟平时一样，我是被分派来的。我以为他们会派我到一个离我所在的小镇不远的单位，但他们却把我派进了特异区。在这里你会忘记写信或是度假什么的。在这里每天都是典型的一天：命令，游行，敬礼…但是当夜晚来临的时候你最好开始祈祷，因为那些东西实在是太恐怖了。尤其是他们派你在晚上出去巡逻的时候，你一直都能听到低声的嚎叫…越来越近。有时候你甚至能看到那个野兽。这里简直不是人呆的地方…还有那些老兵，真是一群混蛋，他们会在夜里把你弄醒，然后叫你去给他们弄伏特加。我根本不在乎他们会不会杀了我，就是不在夜晚出去…维克，那个跟我一起来这里的家伙，他听了他们的话出去了，结果第二天早上就发现了他的尸体，他的眼睛瞪的像装甲车的车轮一样大…估计是太害怕了以至于心脏停止了跳动。</text>
+	</string>
+	<string id="esc_driver_fear_0">
+		<text>别杀我！</text>
+	</string>
+	<string id="esc_driver_fear_11">
+		<text>一切都是有原因的，指挥官和我在侦查设施的时候遭到了攻击。守卫都被杀死了，指挥官被捉去做了人质，我差点就能救他出来了…</text>
+	</string>
+	<string id="esc_driver_fear_111">
+		<text>你为什么不回到你的队伍中去，士兵？</text>
+	</string>
+	<string id="esc_driver_fear_1111">
+		<text>我怎么可能回去？他们会因为抛弃自己的长官将我推上法庭的！</text>
+	</string>
+	<string id="esc_driver_quest_0">
+		<text>我能帮你做点什么？</text>
+	</string>
+	<string id="esc_driver_quest_1">
+		<text>我的一个朋友从独行者那逃了出来并打算藏在通道里。他成功的进去，却没能再出来，并且最后被渴死了。我尝试过给他带一些水，但是没用。那个地方相当的奇怪——我看到就在我的眼前可是我却不能到达他那里。你可以帮我找到他的东西么？我希望能留下些他曾经活着的证据。但是我不知道如何到达那，所以你最好去问问独行者们——他们对特异区的了解比我们这些当兵的多得多。</text>
+	</string>
+	<string id="esc_driver_quest_11">
+		<text>不，还是算了。</text>
+	</string>
+	<string id="esc_driver_quest_2">
+		<text>好吧我试试看。</text>
+	</string>
+	<string id="esc_driver_quest_22">
+		<text>我没空做那个事情。</text>
+	</string>
+	<string id="esc_driver_quest_complete_0">
+		<text>我是来弄工作的事情的。</text>
+	</string>
+	<string id="esc_driver_quest_complete_1">
+		<text>那么，之后它怎么样了？</text>
+	</string>
+	<string id="esc_driver_quest_complete_2">
+		<text>我把他的PDA给你带来了，他身上只剩这个了。</text>
+	</string>
+	<string id="esc_driver_quest_complete_22">
+		<text>没别的了。</text>
+	</string>
+	<string id="esc_driver_quest_complete_222">
+		<text>那真可惜。记住，我现在只能靠你了。</text>
+	</string>
+	<string id="esc_driver_quest_complete_3">
+		<text>谢谢你，佣兵！这是给你的一点小回报。</text>
+	</string>
+	<string id="esc_driver_who_are_you_0">
+		<text>你是谁？</text>
+	</string>
+	<string id="esc_driver_who_are_you_1">
+		<text>Semyon… private… Lambee… 我是我们的指挥官的司机，克哈列特斯基。他希望我能带他去见独行者们。我们到达了他们的地方，但他刚打算和独行者们交谈他们就把他捆了起来，然后我就跑了。</text>
+	</string>
+	<string id="esc_driver_who_are_you_2">
+		<text>那么你接下来要做什么？</text>
+	</string>
+	<string id="esc_driver_who_are_you_3">
+		<text>我怎么可能回去？他们会因为抛弃自己的长官将我推上法庭的！</text>
+	</string>
+	<string id="esc_driver_who_are_you_4">
+		<text>跟我来。我们干掉那些独行者，救出克哈列特斯基然后分享那些宝贝。</text>
+	</string>
+	<string id="esc_driver_who_are_you_44">
+		<text>了解了。</text>
+	</string>
+	<string id="esc_driver_who_are_you_5">
+		<text>不错的主意，不过我手头没有武器，给我一把手枪，我就能跟你一起行动了。</text>
+	</string>
+	<string id="esc_driver_who_are_you_6">
+		<text>这儿，拿着这个，没有枪你帮不了我多大忙。</text>
+	</string>
+	<string id="esc_driver_who_are_you_66">
+		<text>我可不这么想，我不希望被别人发现身后中枪。</text>
+	</string>
+	<string id="esc_leader_about_home_0">
+		<text>我想你肯定要永远呆在这儿。</text>
+	</string>
+	<string id="esc_leader_about_home_11">
+		<text>我感到很高兴，我不是军队的崇拜者，不过你对未来有什么打算呢？</text>
+	</string>
+	<string id="esc_leader_about_home_1111">
+		<text>告诉我有关你们基地的事情吧。</text>
+	</string>
+	<string id="esc_leader_about_prisoner_0">
+		<text>你们把克哈列特斯基少校关在哪儿了？</text>
+	</string>
+	<string id="esc_leader_about_you_0">
+		<text>你做独行者多久了？</text>
+	</string>
+	<string id="esc_leader_about_you_1">
+		<text>我在这儿已经有段时间了。从2000年开始，我和我的兄弟们就在这里了，我们收集些金属垃圾并回收利用。之后特异区出现了。刚开始时我们感到很恐惧，但我们又希望能找到些有价值的东西。我们不停的寻找，直到我们找到了第一个有价值的东西。而后，它竟然被卖了个黄金市场价。想想看，即使是今天，这些玩意儿也不是很多，更何况在那个时候。那次交易后我们赚了一大笔钱，甚至我现在想起来都会流口水！但是，一切都变了…</text>
+	</string>
+	<string id="esc_leader_about_you_11">
+		<text>你在封锁线干的如何？</text>
+	</string>
+	<string id="esc_leader_about_you_111">
+		<text>干的不错啊！封锁线是特异区的前门。我们独行者常来常往，这儿是个不错的地方，能放松自己、补充弹药，买卖货物。如果你需要同伴的话，封锁线通常聚集着一大群新手，对他们而言，我们就是传奇般的存在。</text>
+	</string>
+	<string id="esc_leader_about_zone_0">
+		<text>告诉我特异区的事情。</text>
+	</string>
+	<string id="esc_leader_about_zone_1">
+		<text>你问我那个？你怎么不去问问那些有学问的家伙呢- 他们通过望远镜和X光观察着这里。我？我并不知道太多的事情…对于我来说，这里只是赚钱的地方。我唯一希望的就是几年后我能买一座靠海边的屋子来安度余生。</text>
+	</string>
+	<string id="esc_leader_first_join_0">
+		<text>我如何才能加入你们？</text>
+	</string>
+	<string id="esc_leader_first_join_1">
+		<text>我会让事情变得简单的！向我展示你的忠诚，我会很乐意成为你的兄弟。不过你也知道患难之交见真情这句话吧？很好，我们现在遇到了点小麻烦，帮我们脱离困境，我们就算你入伙。</text>
+	</string>
+	<string id="esc_leader_first_join_11">
+		<text>了解了。</text>
+	</string>
+	<string id="esc_leader_good_job_0">
+		<text>还有什么别的我能帮上独行者们的吗？</text>
+	</string>
+	<string id="esc_leader_good_job_1">
+		<text>一小股军队聚集在补给站附近，封锁线的代理指挥官指挥着他们。他的PDA上有着很多的价值连城的信息。</text>
+	</string>
+	<string id="esc_leader_good_job_11">
+		<text>好的。</text>
+	</string>
+	<string id="esc_leader_good_job_12">
+		<text>暂时没什么了。</text>
+	</string>
+	<string id="esc_leader_good_job_2">
+		<text>我杀死了军队的指挥官，这是他的PDA，或许可以作为交易的筹码？</text>
+	</string>
+	<string id="esc_leader_good_job_3">
+		<text>太棒了，独行者！这个PDA里有着许多有用的资料，这里是你的酬劳。</text>
+	</string>
+	<string id="esc_leader_good_job_4">
+		<text>谢谢你！</text>
+	</string>
+	<string id="esc_leader_join_stalker_0">
+		<text>我可以加入你们吗？这能否证明我对你们的忠诚？</text>
+	</string>
+	<string id="esc_leader_join_stalker_1">
+		<text>你帮了我们很多了，毫无疑问，但是…我们是独行者，你应该能理解的。深入特异区吧，在你进去之后，我会解决跟军队的小矛盾并立刻通知你的！</text>
+	</string>
+	<string id="esc_leader_join_stalker_2">
+		<text>伙计，我们眼前的问题还没解决呢…现在就考虑那件事是不是太早了点。让我们先来解决眼下的问题如何？</text>
+	</string>
+	<string id="esc_leader_join_stalker_3">
+		<text>你在纪律团内，对么？你应该了解到我们和你们的指挥官有点小的…过节…对特异区的不同看法。假如你真的想要加入我们的话，你就得先离开纪律团。懂了么？</text>
+	</string>
+	<string id="esc_leader_join_stalker_33">
+		<text>当然，没什么能比做一个自由的独行者更好了，不是吗？</text>
+	</string>
+	<string id="esc_leader_join_stalker_333">
+		<text>呵呵，那坐在海边的沙滩上喝上一杯冰啤酒如何？呃，别介意，我希望你能尽快熟悉独行者的暗号。</text>
+	</string>
+	<string id="esc_leader_join_stalker_3333">
+		<text>在这种情况下我希望你能告诉我。</text>
+	</string>
+	<string id="esc_leader_join_stalker_33333">
+		<text>嗯，这很简单。做一个独行者和做人一样。在你的朋友遇到困难时，你要帮助他们，别在背后阴别人，和他们分享你的急救包和军粮，帮助他们防御薄弱之处，在同一个火堆旁休息。当前我们主要的敌人是强盗- 他们是我们身上的寄生虫。我们的目标就是要把这帮人渣从特异区里清除掉，那样大家都会很高兴的。</text>
+	</string>
+	<string id="esc_leader_join_stalker_333333">
+		<text>了解了。</text>
+	</string>
+	<string id="esc_leader_join_stalker_3333333">
+		<text>好极了。恭喜你成为了我们组织的新成员！愿你能远离怪物和异变点，独行者！我在你的PDA上激活了一个频率，这样你就可以从别的独行者那儿获取信息，也可以从战术菜单上查看我们跟强盗的战况。再一次祝贺你！</text>
+	</string>
+	<string id="esc_leader_join_stalker_33333333">
+		<text>知道了，如果你没别的事的话，我就回去做一个独行者该做的事情了。</text>
+	</string>
+	<string id="esc_leader_join_stalker_33334">
+		<text>当然。我曾在特异区里呆过很长一段时间。</text>
+	</string>
+	<string id="esc_leader_join_stalker_3334">
+		<text>我会考虑的</text>
+	</string>
+	<string id="esc_leader_join_stalker_4">
+		<text>好吧，好吧。在自由团里的生活并不是那么的自由？你想要体验一个自由的独行者的生活么？没问题，但是记住，我们在自由团里都有朋友，而且我们都扮演着我们的小小的角色。如果你想要加入我们，你就得先离开他们的圈子。明白吗？</text>
+	</string>
+	<string id="esc_leader_join_stalker_5">
+		<text>当然！我很愿意拉你入伙。不过我相信你也能理解，我们得先测试你一番！在你办完事之后，你就是我们的人了，意下如何呢？</text>
+	</string>
+	<string id="esc_leader_talk_111">
+		<text>西德洛维奇派我来的。</text>
+	</string>
+	<string id="esc_leader_talk_11111">
+		<text>你和军队撕破脸皮了？</text>
+	</string>
+	<string id="esc_leader_talk_1111111">
+		<text>我去和指挥官聊聊。或许他会告诉我那个宝贝提箱在哪儿。</text>
+	</string>
+	<string id="esc_leader_talk_222">
+		<text>他是个顽固的家伙。- 啥也没说，就在那儿瞎扯了一大堆他手下的事情，他们肯定会来救他之类的。</text>
+	</string>
+	<string id="esc_leader_talk_22222">
+		<text>这是另一个方法，你知道在哪儿能找到克哈列特斯基的朋友？</text>
+	</string>
+	<string id="esc_leader_talk_2222222">
+		<text>我尽我所能。</text>
+	</string>
+	<string id="esc_leader_talk_66">
+		<text>好吧，去和指挥官谈谈然后…</text>
+	</string>
+	<string id="esc_leader_what_happens_0">
+		<text>这里发生什么事了？</text>
+	</string>
+	<string id="esc_stalker_about_prisoner_0">
+		<text>你想要什么？</text>
+	</string>
+	<string id="esc_stalker_about_prisoner_1">
+		<text>克哈列特斯基少校在哪？那个人质呢，他好像失踪了。</text>
+	</string>
+	<string id="esc_stalker_about_prisoner_11">
+		<text>他跑了。</text>
+	</string>
+	<string id="esc_stalker_about_prisoner_111">
+		<text>哇啊。怎么回事？</text>
+	</string>
+	<string id="esc_stalker_about_prisoner_1111">
+		<text>嗯，我在这里看守他，时间久了我感到有点累，于是就闭眼睡了会儿。等我睁开眼一看，靠！他怎么不见了。</text>
+	</string>
+	<string id="esc_stalker_bridge_talk_0">
+		<text>让我一个人呆着，我现在有任务在身。</text>
+	</string>
+	<string id="esc_stalker_bridge_talk_1">
+		<text>只有一个问题：你在这里守卫什么东西？</text>
+	</string>
+	<string id="esc_stalker_bridge_talk_11">
+		<text>我们正在守卫独行者的新领地。</text>
+	</string>
+	<string id="esc_stalker_bridge_talk_111">
+		<text>新的？你可以解释下吗？</text>
+	</string>
+	<string id="esc_stalker_bridge_talk_1111">
+		<text>去我们的基地问吧，我现在忙着呢。</text>
+	</string>
+	<string id="esc_stalker_bridge_talk_2">
+		<text>足够了。</text>
+	</string>
+	<string id="esc_stalker_bridge_talk_3">
+		<text>铁桥上那个“黑洞”是什么？</text>
+	</string>
+	<string id="esc_stalker_bridge_talk_33">
+		<text>伙计，我们不清楚，它应该是个传送点之类的吧。我们为了保护环境，经常会把垃圾扔到那儿去。然后就看见垃圾跑到另条通道里的异变点里了。特异区里发生的事情总是很诡异。这太疯狂了！</text>
+	</string>
+	<string id="esc_stalker_mechanic_about_you_0">
+		<text>跟我说说你自己吧。</text>
+	</string>
+	<string id="esc_stalker_mechanic_about_you_1">
+		<text>我喜欢一个人干活，这就是为什么我总是一个人行动。但当我听到独行者跟军方交恶并建立了自己的基地之后，我毫不迟疑就去了那里。你知道的，我在特异区里见过各色人物，而在他们之中我最喜欢的就是独行者们。他们真的很不错，没有任何狗屎暗号，规则而且一切都和别的派系差不多。我觉得只有独行者们才配得上进入特异区。如果是那种情况的话，弄钱就会容易多了。不管怎么说，这就是我帮助这些家伙的原因。</text>
+	</string>
+	<string id="esc_stalker_mechanic_about_you_11">
+		<text>技术员在特异区内可是相当的罕见，跟我说说你都能做些什么。</text>
+	</string>
+	<string id="esc_stalker_mechanic_about_you_111">
+		<text>别指望我会给你什么新奇的玩意或是什么复杂的装置。但你不得不承认我的娴熟的技术。如果哪天我救了你的命的话你也不必太惊讶。大多数时间我会帮你维修武器与护甲，当然给我合适的零件我也能升级你的枪械和装备。如果你想知道我都能干些什么的话，仔细看看升级说明吧。</text>
+	</string>
+	<string id="esc_stalker_mechanic_about_you_1111">
+		<text>我听说你在特异区里看到了不少东西。你有没有发现什么不同寻常的东西？</text>
+	</string>
+	<string id="esc_stalker_mechanic_about_you_11111">
+		<text>不同寻常？在那次毁灭性的冲击波之后，我在从农业研究所来的路上看到了许多诡异的东西。一块曾经正常的土地，变得扭曲了，错位了。我的辐射探测仪也变的很不稳定，而我甚至还没有想要靠近。之后他们告诉我说那是最可怕的异变点之一。从那个地方涌出的能量足够供给一个城市的电力需求持续几个星期！这个鬼地方像地狱一样危险，但是你却能在那找到很多稀有的东西。不论如何，假如你不得已要穿越这个地方，请务必小心。</text>
+	</string>
+	<string id="esc_stalker_support_attack_atp_0">
+		<text>听着，伙计，我们刚刚看到军队们把一大箱子武器和弹药搬进了仓库。这对我们没什么用，不过你或许会感兴趣。</text>
+	</string>
+	<string id="esc_stalker_support_attack_atp_1">
+		<text>那有不少巡逻的家伙，这些弹药真的值这么多么？</text>
+	</string>
+	<string id="esc_stalker_support_attack_atp_2">
+		<text>好的，仔细想想吧。本地的是不会有普通的5。45口径的但要的，这是一个巨大的商机，我的意思是，我知道一个人干不来这个活，而我和我的伙计们只要一点点报酬就能为你干活，比如500卢布？你付钱，我们出力，成交？</text>
+	</string>
+	<string id="esc_stalker_support_attack_atp_3">
+		<text>好吧，那么我就告诉你吧，一般情况下都是我拿钱。</text>
+	</string>
+	<string id="esc_stalker_support_attack_atp_33">
+		<text>不，我会自己解决的，谢谢你的提醒。</text>
+	</string>
+	<string id="esc_stalker_support_attack_atp_4">
+		<text>不必担心，我曾经也是个佣兵。时间久了自然就适应了，懂了么？</text>
+	</string>
+	<string id="esc_stalker_trader_about_you_0">
+		<text>说说你自己吧。</text>
+	</string>
+	<string id="esc_stalker_trader_about_you_1">
+		<text>我是个商人，来这里没多久。你看，我们刚刚到这里。瓦尔严就承诺我们可以做任何我们想做的事，于是我决定做一个商人。为什么不呢？我有经商技巧，而且我认识西德洛维奇。嘿，我以前只是在学校卖漫画书给学生。呃，那时过的还真是不错。不管怎样，我天生就是当商人的料，所以我在这里努力的工作。我刚从西德洛维奇那里买了些好东西，而且价格不错，同时我这里还有一些会吸引你的东西，一些货物，那是我们的人刚从突袭行动中带回来的。</text>
+	</string>
+	<string id="esc_stalker_trader_about_you_111">
+		<text>哈，我的兄弟，我们就快要过上好日子啦。军队将不再骚扰我们，独行者们的利益将获得保障。我们将能够从封锁线获得最好品质的货物，而装备的品质也将提高一个台阶。最好的是，我们将能从货物中获取一大笔的收入而不是被军方欺压。只要你愿意再等待一下，我们还有更有趣的事情要做。如能让他们的车子在晚上哑火，那可真是太有趣了，哈哈？不管怎么说，一切都和往日不同了。</text>
+	</string>
+	<string id="esc_stalker_trader_about_you_2">
+		<text>你觉得在封锁线的生活会改变吗？</text>
+	</string>
+	<string id="esc_stalker_trader_about_you_3">
+		<text>哈，我的兄弟，我们就快要过上好日子啦。军队将不再骚扰我们，独行者们的利益将获得保障。我们将能够从封锁线获得最好品质的货物，而装备的品质也将提高一个台阶。最好的是，我们将能从货物中获取一大笔的收入而不是被军方欺压。只要你愿意再等待一下，我们还有更有趣的事情要做。如能让他们的车子在晚上哑火，那可真是太有趣了，哈哈？不管怎么说，一切都和往日不同了。</text>
+	</string>
+	<string id="esc_stalker_trader_quest_0">
+		<text>可以帮上什么忙么？</text>
+	</string>
+	<string id="esc_stalker_trader_quest_1">
+		<text>帮忙？或许你可以帮上忙。你看，我们的基地才刚刚建立，可我们还没来得及加固防御设施，强盗们就已像苍蝇一样在我们四周绕来绕去了。每当有独行者准备给我带货物来时，他们就一拥而上抢之。如果这种情况继续下去的话，我很快就要破产了。有一个强盗小队就在我们基地附近游荡。你去给他们一点教训吧。</text>
+	</string>
+	<string id="esc_stalker_trader_quest_11">
+		<text>现在没什么需要你帮我做的。</text>
+	</string>
+	<string id="esc_stalker_trader_quest_2">
+		<text>没问题！我会好好的教训他们一顿，让他们终身难忘！</text>
+	</string>
+	<string id="esc_stalker_trader_quest_22">
+		<text>下一次吧。</text>
+	</string>
+	<string id="esc_stalker_trader_quest_complete_0">
+		<text>我来这里是因为那些强盗的事情的。</text>
+	</string>
+	<string id="esc_stalker_trader_quest_complete_1">
+		<text>那么，之后怎么样了呢？</text>
+	</string>
+	<string id="esc_stalker_trader_quest_complete_2">
+		<text>我解决了那些强盗。</text>
+	</string>
+	<string id="esc_stalker_trader_quest_complete_22">
+		<text>暂时还没有。</text>
+	</string>
+	<string id="esc_stalker_trader_quest_complete_222">
+		<text>嗯，时间就是金钱，佣兵。</text>
+	</string>
+	<string id="esc_stalker_trader_quest_complete_3">
+		<text>谢谢！这里是你的酬劳！</text>
+	</string>
+	<string id="esc_trader_about_other_0">
+		<text>你可以告诉我一些有趣的事情么？</text>
+	</string>
+	<string id="esc_trader_about_questions_0">
+		<text>你愿意回答我的问题么？</text>
+	</string>
+	<string id="esc_trader_about_questions_1">
+		<text>嗯，看起来你是认真的，好吧，我并不介意回答一个认真的家伙的问题，问吧！</text>
+	</string>
+	<string id="esc_trader_about_questions_11">
+		<text>你来这里很久了？</text>
+	</string>
+	<string id="esc_trader_about_questions_111">
+		<text>很久很久以前。我是第一批进入Zone的人。在那个时候我们还没有任何检测辐射或是防护服，随时都有可能丧命。这就是为什么我从来都不会去某些地方。那些事情不应当由我来做。我的角色跟你所想象的不同：我倾向于做一个类似润滑剂的角色，没有我的话人们恐怕早已开战了。但当我在的时候，大家都很开心。尽管特异区内是一个充满了奇迹的地方，但对于这种奇迹的需求却远远大过它本身，政府，特殊组织，个人机构甚至无聊的收藏家。而我则是他们和这个地方的联系，我为Zone内部和外部的交易牵线搭桥。我知道所有的客户，并且我只需要坐在这里就可以解决一切，这个角色很适合我。</text>
+	</string>
+	<string id="esc_trader_about_questions_22">
+		<text>为什么你会选择这里作为你的家？</text>
+	</string>
+	<string id="esc_trader_about_questions_222">
+		<text>我为什么会在这里？好吧，我喜欢这里的天气还有这里的风景。哈哈！事实上，我的年纪太大了不能继续在特异区历险了。而且只要是一次有威胁的遭遇就能让我丧命。而这附近很安宁，这是最主要的原因。不管我在哪，需要我的人们都可以轻易的找到我。假如有人急切的需要高品质的货物的话，唯有我能给他们提供。有些时候他们甚至要排队才能拿到东西，为什么？因为除了我没有人能从封锁线里弄出东西来。</text>
+	</string>
+	<string id="esc_trader_about_questions_33">
+		<text>跟我说说特异区的事情。</text>
+	</string>
+	<string id="esc_trader_about_questions_333">
+		<text>特异区现在可不太平。几天前一股风暴扫荡了整个特异区，在这之前我只见过一次能有如此规模的风暴，那就是特异区出现的时候。军队动用了一大批人试图进入特异区中心以解决这个问题。当他们到达中心时又一股风暴击中了他们，坦克给炸上了天，就好像是小孩的玩具一般。绝大多数人都死了，而那些生还者也只能面临被遗弃在特异区中心的事实。他们一直在通过无线电求援…但是那些军官们并没有派出另一只救援队的打算。生还者们很快便死了，在那个没有任何防护的环境下。\n我不知道为什么会发生这种事情。或许特异区被某个人激怒了？肯定不是军队，因为自从那事之后他们就没离开过封锁线。唯一的可能就是独行者，但是特异区似乎从来没有关心过他们的事…但事实摆在我们的面前：一次又一次的风暴，并且一次比一次强烈。我觉得整个事情显得有些不太妙。</text>
+	</string>
+	<string id="esc_trader_about_questions_44">
+		<text>你听过有关特异区内部的有趣传闻吗？</text>
+	</string>
+	<string id="esc_trader_about_questions_444">
+		<text>总是会有那么一两个有趣的传言。许多独行者都欠我个人情所以他们会时常给我带来一些有用的情报。最大的一个就是通向特异区新区的道路已经开放，这几年来没有听说过这些地方，甚至没有人曾经踏足。这些地方之前被致命的异常现象隔断了，但现在已经几乎没有了。但想穿越仍然是十分困难的，但可以肯定是可能呢。你知道那意味着什么么？新的区域，意味着新的，闻所未闻的新东西，有了那些，谁还会在意那已经被我们看腻了的货色呢？没错，就是那个。</text>
+	</string>
+	<string id="esc_trader_about_situation_0">
+		<text>这里发生什么了？</text>
+	</string>
+	<string id="esc_trader_about_situation_1">
+		<text>用一个词来概括：混乱。独行者们在跟军队交火。他们之间曾有个协议。军方控制了这个地区，没收人们携带的货物后再放他们离开。这使得独行者们的日子很不好过，但也只是仅此而已。不过，这些协定已经不存在了。呃，因为独行者们自己提升了他们的地位，现在他们已经控制了封锁线。这群穷鬼不会让出他们一英寸的土地的。而且这并不是事情的结束。毫无疑问，军队的人没脸向他们的总部回报这些事，因为这样一来。他们的所有劣行就要暴露了，但迟早他们也会被发现的，而一切都会被公之于众。之后…我们都知道会发生什么，一次特殊的军事行动，相信我，但凡见过Spetsnaz部队的人没一个活着回来的。当然，前哨站的每一个人都会被换掉，这也就意味着我会失去我的所有线人，那样的话我的生意就没法做了对么？只有去找独行者们和他们的头儿了。</text>
+	</string>
+	<string id="esc_trader_about_you_0">
+		<text>说说你自己吧。</text>
+	</string>
+	<string id="esc_trader_about_you_1">
+		<text>我还有什么能告诉你的？我只是个虚弱的老东西，在这里做点小生意，卖点急救包。只是救急用，多了可没有。当然有总比没有要好的多，这是肯定的。</text>
+	</string>
+	<string id="esc_trader_about_you_11">
+		<text>我想你过于谦虚了。其他人可不这么看你。</text>
+	</string>
+	<string id="esc_trader_about_you_111">
+		<text>嗯，他们说了很多，当然大多数都是骗人的。嘿，我还不知道你是谁呢，让我们来做个小交易吧 - 用你的行动来证明你自己，然后堵上我的嘴。你意下如何？</text>
+	</string>
+	<string id="esc_trader_about_zone_1">
+		<text>你想知道独行者们的历险经历吗？尽管问吧。</text>
+	</string>
+	<string id="esc_trader_about_zone_111">
+		<text>伙计，这就是放射风暴的效果…比我记忆种的任何一次都要强，毫无疑问。我们这里的瓶子甚至自己爆裂了，而这还是只是在该死的特异区边缘！我不知道为什么会发生这种事情，但这里肯定发生了一些异变，我们发现了一条通往古老的利曼斯克的道路。这太诡异了！独行者们花了几年的时间在寻找穿过围墙的道路，可它竟然就出现在我们的眼前。甚至连辐射都没有，要知道我们之前只能乘坐军方的直升机才有可能到达那里，而这些天你甚至可以步行进入，如果你不怕弄湿你的脚的话。</text>
+	</string>
+	<string id="esc_trader_about_zone_121">
+		<text>战争？战争在哪都一样，即使是特异区里也一样。毫无疑问，他们总能找到开战的理由，为了资源或是信仰，当然一切都有人来组织，一切都仅仅有条。但是一切都不同了，在放射线爆发之后…当纪律团和自由团这两条恶狼正在利曼斯克附近血战时，强盗们就好像是条敏锐的猎犬一样，开始掠夺他们的一切，并让独行者们的日子越来越艰难…</text>
+	</string>
+	<string id="esc_trader_about_zone_131">
+		<text>特异区的中心？哈！无数的人试图到达特异区中心，不过没有人能活着回来。唯一的通路将会经过致命的焦脑器地区，而且没有人直到如何绕过那里！该死的，就算有人能找到的话，他们也不会告诉任何人的！设想你找到了阿拉丁的宝藏，你会四处奔走然后告诉每一个人它在哪里？我和我的一些伙计们已经花了很长时间试图找出那条该死的路了，可是我们失望的发现我们并没有任何的进展！</text>
+	</string>
+	<string id="esc_trader_about_zone_13111">
+		<text>鬼知道那是什么…那就是独行者们说的军方库房的北边，可怕的森林地带。听说你的脑子会被烧掉，任何一个正常的人都不会存活超过10分钟。我们会给任何提供有关那里的有效信息的独行者一笔可观的酬劳，但直到现在都没有人能找到什么有价值的东西。我们的伙计们一次又一次的在那失踪，通常我们会轻易的找到他们的尸体，或是变成丧尸的他们…</text>
+	</string>
+	<string id="esc_trader_community_0">
+		<text>我跟独行者已经断绝来往了，你别想再从我这里弄到东西了！</text>
+	</string>
+	<string id="esc_trader_community_1">
+		<text>你怎么能让那种事情发生，佣兵？！好吧，我可以帮你用钱摆平一切。</text>
+	</string>
+	<string id="esc_trader_community_2">
+		<text>我同意，这儿，带着这些钱。</text>
+	</string>
+	<string id="esc_trader_community_22">
+		<text>不，我会自己解决的。</text>
+	</string>
+	<string id="esc_trader_community_222">
+		<text>我现在没有那么多钱。</text>
+	</string>
+	<string id="esc_trader_community_3">
+		<text>独行者们现在原谅你了，别再干傻事了，好吗？</text>
+	</string>
+	<string id="esc_trader_community_33">
+		<text>那将是你的葬礼，伙计。</text>
+	</string>
+	<string id="esc_trader_community_333">
+		<text>等你弄到足够的钱再来吧。</text>
+	</string>
+	<string id="esc_trader_meet_111">
+		<text>他们说最近这里来了个独行者，搜索稀有的原料，你记得他吗？</text>
+	</string>
+	<string id="esc_trader_meet_11111">
+		<text>有什么可以帮忙理清你的思路呢？</text>
+	</string>
+	<string id="esc_trader_meet_1111111">
+		<text>是的，确切的说你需要什么吗？</text>
+	</string>
+	<string id="esc_trader_meet_111111111">
+		<text>成交。</text>
+	</string>
+	<string id="esc_trader_meet_222">
+		<text>感谢你的情报。</text>
+	</string>
+	<string id="esc_wolf_about_around_0">
+		<text>附近有什么有趣的事情？</text>
+	</string>
+	<string id="esc_wolf_about_around_1">
+		<text>这里是新手村，在村子的边缘你可以找到西德洛维奇的货仓。在那边远处的是军方的哨站。在你到达那的时候你会很轻易的发现的。而哨站所在的路的另一端则通向特异区的深处。</text>
+	</string>
+	<string id="esc_wolf_about_around_11">
+		<text>告诉我有关新手村的事情。</text>
+	</string>
+	<string id="esc_wolf_about_around_111">
+		<text>好吧，我就说说新手村的事情把。聪明的家伙们在去别的地方之前总是会在西德洛维奇的货场里把自己给装满。你可以在这找到不错的东西，而也不是太危险。并且他们可以在这里积累到一些经验。而那些留在后方的…嗯，是一群笨蛋。你在这里也能看到一些家伙，他们只是单纯的嬉皮士，想要开始一番冒险事业，但他们除了一杆望远镜外什么也没有了，这种人通常坚持不了多久的。好吧，有些时候我们能看到一两个有经验的独行者给西德洛维奇带些有价值的东西并呆上一两天。</text>
+	</string>
+	<string id="esc_wolf_about_around_1111">
+		<text>你把这儿弄的不错，当兵的没来骚扰你吧？</text>
+	</string>
+	<string id="esc_wolf_about_around_11111">
+		<text>嗯，军方并没让我们太难看 - 我们恐怕是他们唯一惦记着的东西了。我甚至听到他们说，“为什么在独行者身上浪费子弹，他们都会死在异变点里的”。当然我们也不想自找麻烦- 如果我们知道他们想找什么，我们是不会挡他们的路的。每当他们进行扫荡或是地毯式搜索时，我们就老老实实的躲在我们的基地里，我们并不想惹麻烦，你懂吗？</text>
+	</string>
+	<string id="esc_wolf_about_around_22">
+		<text>告诉我关于西德洛维奇的事儿。</text>
+	</string>
+	<string id="esc_wolf_about_around_222">
+		<text>你这个问题真是很奇怪。这不是你来特异区的第一天，而你却问我关于西德洛维奇的事？搞错没，每个人都知道西德洛维奇！他是这个区里最受尊重的商人！如果他不能满足你的购物要求，就没人可以做到。</text>
+	</string>
+	<string id="esc_wolf_about_you_0">
+		<text>告诉我关于你的事。</text>
+	</string>
+	<string id="esc_wolf_about_you_1">
+		<text>我是这里的头儿。我正在教这些菜鸟和笨蛋，如何在他们的第一次特异区之旅时远离突发状况。你知道吗？这并不简单。我在特异区度过了大半辈子，有时候我曾试着离开这里，上帝知道我在封锁线呆的太久… 但是，有时就好像这里不想让我离开一样。这不是军事入侵，也不是另一个出发点或者有利可图的工作… 每一次我都在想：“好了，就这一次然后我就离开这里，”但是，我却一直在这儿。</text>
+	</string>
+	<string id="esc_wolf_about_zone_0">
+		<text>跟我说说这个地方</text>
+	</string>
+	<string id="esc_wolf_about_zone_1">
+		<text>我们在封锁线。走出这里就是另外一个世界了。你能看到特异区另外的一面，可能让你这样想会很困难。这里的异变点和神器都非常稀少，甚至怪物都难得一见。但这里很安静，比特异区其他地方都安静。不管怎样，军方一直尝试让一切都在他们的控制下。</text>
+	</string>
+	<string id="esc_wolf_about_zone_111">
+		<text>这儿是新手村，在村子边上你会找到西德洛维奇的商店。前哨站侧面的路会带你走向更深处。</text>
+	</string>
+	<string id="esc_wolf_brother_0">
+		<text>沃夫让我来找你的，你是他兄弟，对吧？</text>
+	</string>
+	<string id="esc_wolf_brother_1">
+		<text>对，我是他兄弟。我觉得我必须离开这个地方，越快越好。还有，我没有枪一类的东西，给我些，可以吗？</text>
+	</string>
+	<string id="esc_wolf_brother_2">
+		<text>给，拿着手枪。</text>
+	</string>
+	<string id="esc_wolf_brother_22">
+		<text>给，拿着机枪。</text>
+	</string>
+	<string id="esc_wolf_brother_222">
+		<text>给，拿着突击步枪。</text>
+	</string>
+	<string id="esc_wolf_brother_2222">
+		<text>我什么都没有。</text>
+	</string>
+	<string id="esc_wolf_brother_55">
+		<text>text in default</text>
+	</string>
+	<string id="esc_wolf_brother_complete_0">
+		<text>我把你兄弟救出来了！</text>
+	</string>
+	<string id="esc_wolf_brother_complete_1">
+		<text>太好了！这是你应得的报酬。</text>
+	</string>
+	<string id="esc_wolf_novice_complete_0">
+		<text>如你所愿，我把那家伙带回来了。</text>
+	</string>
+	<string id="esc_wolf_novice_complete_1">
+		<text>干的好，独行者。我希望那样可以教会他谦虚。</text>
+	</string>
+	<string id="esc_wolf_novice_fail_0">
+		<text>对不起，我没保护好他，他死了。</text>
+	</string>
+	<string id="esc_wolf_novice_fail_1">
+		<text>该死！我应该亲自去的，他可能会因此心烦，但至少他能活下来。老兄，我们失去了一个很有前途的独行者…</text>
+	</string>
+	<string id="esc_wolf_novice_thank_you_0">
+		<text>感谢你救了我，独行者。我以为我会死在那个鬼地方，被那些野狗撕成碎片。我再也不会自己一个人去那儿了。</text>
+	</string>
+	<string id="esc_wolf_other_works_0">
+		<text>有什么任务给我嘛？</text>
+	</string>
+	<string id="esc_wolf_other_works_1">
+		<text>有。一群强盗将我的兄弟当作了人质。他们还索要一笔巨额赎金。打死我们也拿不出那笔现金，并且还要在这么短时间内找这么多钱。我们这儿都是新手，就算我们真的按照他们说的做了，谁又敢保证他们不会在我们交了赎金后杀掉我的兄弟？</text>
+	</string>
+	<string id="esc_wolf_other_works_11">
+		<text>没有</text>
+	</string>
+	<string id="esc_wolf_other_works_111">
+		<text>我手下有个菜鸟不能容忍别人说他是个新手。所以他决定去干掉一些恶狗来赢得尊重。他是个机灵的小伙，也取得了一些成效。不过他还年轻。我很担心他，你能帮帮他么？</text>
+	</string>
+	<string id="esc_wolf_other_works_1111">
+		<text>我们先自己设法去做。你呆会一定要回来，我们可能还需要你的帮助。</text>
+	</string>
+	<string id="esc_wolf_other_works_11111">
+		<text>不。</text>
+	</string>
+	<string id="esc_wolf_other_works_1112">
+		<text>没问题。我在哪儿能找到他？</text>
+	</string>
+	<string id="esc_wolf_other_works_11121">
+		<text>这里是坐标。</text>
+	</string>
+	<string id="esc_wolf_other_works_1113">
+		<text>不好意思，现在不行</text>
+	</string>
+	<string id="esc_wolf_other_works_11131">
+		<text>你这个佣兵也一样！你根本就不关心任何人！</text>
+	</string>
+	<string id="esc_wolf_other_works_2">
+		<text>我会尽力帮你兄弟活着回来。</text>
+	</string>
+	<string id="esc_wolf_other_works_22">
+		<text>谢谢你佣兵，我就知道你会帮助我的。这是他们营地的坐标。小心点儿！祝你好运。</text>
+	</string>
+	<string id="esc_wolf_other_works_3">
+		<text>非常抱歉，我不能帮助你。</text>
+	</string>
+	<string id="esc_wolf_other_works_4">
+		<text>这不是我的问题。</text>
+	</string>
+	<string id="esc_wolf_other_works_44">
+		<text>那就滚开吧。</text>
+	</string>
+	<string id="esc_wolf_stalker_novice_0">
+		<text>怎么样？头脑发热的家伙，还想充当蓝博嘛？</text>
+	</string>
+	<string id="esc_wolf_stalker_novice_11">
+		<text>走开，我自己能解决这些难事！我会证明给他们看的，不会再有人叫我菜鸟了！</text>
+	</string>
+	<string id="esc_wolf_stalker_novice_1112">
+		<text>我被吓到了！</text>
+	</string>
+	<string id="esc_wolf_stalker_novice_112">
+		<text>拿上手枪。</text>
+	</string>
+	<string id="esc_wolf_stalker_novice_1122">
+		<text>拿上机枪。</text>
+	</string>
+	<string id="esc_wolf_stalker_novice_11222">
+		<text>拿上突击步枪。</text>
+	</string>
+	<string id="esc_wolf_stalker_novice_112222">
+		<text>我来解决他们。</text>
+	</string>
+	<string id="esc_wolf_talk_0">
+		<text>这儿是新手村，不是惟利是图的佣兵营，兄弟！</text>
+	</string>
+	<string id="esc_wolf_talk_1">
+		<text>我想见西德洛维奇</text>
+	</string>
+	<string id="esc_wolf_talk_11">
+		<text>他在我们村外的地窖里。</text>
+	</string>
+	<string id="esc_wolf_talk_111">
+		<text>谢了，我马上去找他。</text>
+	</string>
+	<string id="esc_wolf_talk_2">
+		<text>我从西德洛维奇那儿得到一份工作 - 我需要拜访独行者营地。</text>
+	</string>
+	<string id="esc_wolf_talk_22">
+		<text>嗯，就在铁路路堤的外面，那里可是个独行者的天堂！</text>
+	</string>
+	<string id="esc_wolf_talk_222">
+		<text>谢谢。</text>
+	</string>
+</string_table>

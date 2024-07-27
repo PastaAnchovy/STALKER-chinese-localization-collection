@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="Unicode" ?>
+<string_table>
+	<string id="st_antirad">
+		<text>抗辐射药　</text>
+	</string>
+	<string id="st_antirad_descr">
+		<text>一种能降低辐射的药物。</text>
+	</string>
+	<string id="st_bread">
+		<text>面包　</text>
+	</string>
+	<string id="st_bread_descr">
+		<text>很难说出是谁在特异区烤出了这些面包，但这些面包没有受过污染并能被食用。好吧，至少没有潜行者在抱怨。</text>
+	</string>
+	<string id="st_conserva">
+		<text>罐头食品　</text>
+	</string>
+	<string id="st_conserva_descr">
+		<text>潜行者从军方仓库里抢来的罐头食物，都还没过保质期。</text>
+	</string>
+	<string id="st_kolbasa">
+		<text>香肠　</text>
+	</string>
+	<string id="st_kolbasa_descr">
+		<text>由鸡肉和大豆混制而成的一种常见"瘦身"香肠，在没有什么选择的情况下，通常被潜行者当成早餐、午餐或是晚餐。</text>
+	</string>
+	<string id="st_medkit">
+		<text>医药箱　</text>
+	</string>
+	<string id="st_medkit_descr">
+		<text>普通的医药箱，可用来治疗数种不同类型的伤害--创伤、烧伤、中毒等等。</text>
+	</string>
+	<string id="st_medkit_army">
+		<text>军用急救箱　</text>
+	</string>
+	<string id="st_medkit_army_descr">
+		<text>一个专门的医药组合，用来对抗实体伤害和失血。在里面包含有止血用具、抗生素、免疫素、还有止痛剂。</text>
+	</string>
+	<string id="st_medkit_science">
+		<text>科学家急救箱　</text>
+	</string>
+	<string id="st_medkit_science_descr">
+		<text>医药组合，特别设计用在特异区中。这个组合包含了治疗实体伤害和消除人体中的辐射，先期预防电波疾病和降低辐射的堆积的药物。</text>
+	</string>
+	<string id="st_vodka">
+		<text>哥萨克伏特加酒　</text>
+	</string>
+	<string id="st_vodka_descr">
+		<text>由GSC公司制造的伏特加。入口顺畅，能明显降低辐射的影响。不过为了大家都知道的原因，服用最好不要过量。</text>
+	</string>
+	<string id="st_bandage">
+		<text>绷带　</text>
+	</string>
+	<string id="st_bandage_descr">
+		<text>常用的医疗用品，可以帮助止血。</text>
+	</string>
+	<string id="st_energy_drink">
+		<text>活力饮料　</text>
+	</string>
+	<string id="st_energy_drink_descr">
+		<text>这种含有咖啡因、牛磺酸、以及包含了回复精神的维他命的超棒饮料，能在你疲劳时让你重新恢复活力！</text>
+	</string>
+	<string id="st_detector1">
+		<text>"回声" 探测器　</text>
+	</string>
+	<string id="st_detector1_descr">
+		<text>这种异常活动探测器带有内置的盖革计数器，当接近异常点会报警。它也可以侦测到最近的神器。当接近时，只显示辐射能和变异点情况。转换到神器探测模式后，能将神器显露出来。</text>
+	</string>
+	<string id="st_detector2">
+		<text>"熊式" 探测器　</text>
+	</string>
+	<string id="st_detector2_descr">
+		<text>这种异常活动探测器带有内置的盖革计数器，还可以用来指示神器的位置。它能显示离神器的距离并能指示方向。当接近时，只显示辐射能和异常点情况。转换到神器探测模式，能将神器显露出来。</text>
+	</string>
+	<string id="st_detector3">
+		<text>"维利" 探测器　</text>
+	</string>
+	<string id="st_detector3_descr">
+		<text>专为定位神器设计的新一代探测器。会显示神器位置以便寻找。自带的盖革计数器可以发现异常点。当接近时，只显示辐射能和异常点情况。转换到神器探测模式，神器就会显露出来。</text>
+	</string>
+	<string id="st_cordon_case">
+		<text>银箱　</text>
+	</string>
+	<string id="st_cordon_case_descr">
+		<text>一种小密码箱。包含大量关于把神器交给商人保管的有用资讯。</text>
+	</string>
+	<string id="st_fang_pda">
+		<text>方的PDA　</text>
+	</string>
+	<string id="st_fang_pda_descr">
+		<text>口袋式电脑。在这里用起来就像笔记本，负责导航，通讯和声音记录。每个PDA都有自己独特的名称代码。</text>
+	</string>
+	<string id="st_shukin_pda">
+		<text>史楚金的PDA　</text>
+	</string>
+	<string id="st_shukin_pda_descr">
+		<text>口袋式电脑。在这里用起来就像笔记本，负责导航，通讯和声音记录。每个PDA都有自己独一无二的密码。</text>
+	</string>
+	<string id="st_recorder">
+		<text>指令设备　</text>
+	</string>
+	<string id="st_cooler_docs">
+		<text>冷却站说明　</text>
+	</string>
+	<string id="st_cooler_docs_descr">
+		<text>这个资料夹里面有详细的冷却站说明和故障排除介绍，它就在工厂里面。</text>
+	</string>
+	<string id="st_compass">
+		<text>"指南针"　</text>
+	</string>
+	<string id="st_compass_descr">
+		<text>一种稀有的神器，好几年才能找到一个。这个神器在异常地区的裂缝里，裂缝就像指南针一样引导着你。我们相信它可以使人免受异常区的伤害。但是，只有很少的人知道如何使用。</text>
+	</string>
+	<string id="st_guitar_descr">
+		<text>能舒展心情，排解烦恼的乐器！</text>
+	</string>
+	<string id="st_guitar_name">
+		<text>吉他　</text>
+	</string>
+</string_table>

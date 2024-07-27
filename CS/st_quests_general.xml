@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="Unicode" ?>
+<string_table>
+	<string id="hide_from_surge_name">
+		<text>躲避放射风暴</text>
+	</string>
+	<string id="hide_from_surge_name2">
+		<text>等待风暴完结</text>
+	</string>
+	<string id="hide_from_surge_text">
+		<text>奔跑至最近的掩体后躲避风暴</text>
+	</string>
+	<string id="hide_from_surge_text1">
+		<text>注意！放射风暴接近中！！！风暴到达的估算时间为：</text>
+	</string>
+	<string id="hide_from_surge_text2">
+		<text>秒。</text>
+	</string>
+	<string id="sim_bring_item">
+		<text>上交物品。</text>
+	</string>
+	<string id="sim_bring_item_text">
+		<text>将你取得的物品汇总交给小队指挥官</text>
+	</string>
+	<string id="sim_capture_smart">
+		<text>夺取</text>
+	</string>
+	<string id="sim_capture_smart_text">
+		<text>你需要夺取并坚守它。</text>
+	</string>
+	<string id="sim_capture_wait_smart">
+		<text>在增援抵达前固守</text>
+	</string>
+	<string id="sim_defend_smart">
+		<text>保卫营地</text>
+	</string>
+	<string id="sim_defend_smart_delay">
+		<text>增援</text>
+	</string>
+	<string id="sim_defend_smart_delay_text">
+		<text>区域内发现敌人。攻势迫近中。</text>
+	</string>
+	<string id="sim_defend_smart_text">
+		<text>小队遭到敌人攻击。协助小队击退敌人的攻击</text>
+	</string>
+	<string id="sim_eliminate_smart">
+		<text>消灭敌人</text>
+	</string>
+	<string id="sim_eliminate_smart_text">
+		<text>消灭控制点处的敌人</text>
+	</string>
+	<string id="sim_find_upgrade">
+		<text>发现升级</text>
+	</string>
+	<string id="sim_find_upgrade_consent">
+		<text>同意？</text>
+	</string>
+	<string id="sim_recover_item">
+		<text>送还物品：</text>
+	</string>
+	<string id="sim_repeal_counterattack">
+		<text>击退敌人的反攻。</text>
+	</string>
+	<string id="sim_take_reward">
+		<text>领取奖励</text>
+	</string>
+	<string id="sim_take_reward_text">
+		<text>你能从派系商人处获得奖励。</text>
+	</string>
+	<string id="st_sim_eliminate_path_smart">
+		<text>道路畅通</text>
+	</string>
+	<string id="st_sim_eliminate_path_text">
+		<text>协助友队通过。</text>
+	</string>
+	<string id="st_sim_eliminate_resource_smart">
+		<text>消灭敌人</text>
+	</string>
+	<string id="st_sim_eliminate_resource_text">
+		<text>追击区域外的敌人。削弱他们。</text>
+	</string>
+	<string id="test_storyline_task_text">
+		<text>接近桶</text>
+	</string>
+	<string id="tm_random_task_bring_item">
+		<text>text in default</text>
+	</string>
+	<string id="stc_kill_gunslinger_name">
+		<text>破坏史特列洛克的电磁辐射保护</text>
+	</string>
+	<string id="stc_kill_gunslinger_text">
+		<text>驻地的电磁辐射场强度超出标准，但是史特列洛克在电磁辐射线下受防电磁辐射耳机原型保护。破坏它能阻止史特列洛克。一把电磁枪能破坏原型内的电子- 向史特列洛克开火并破坏原型</text>
+	</string>
+	<string id="stc_kill_monolith_name">
+		<text>找到前往热网管道的传送点</text>
+	</string>
+	<string id="stc_kill_monolith_text">
+		<text>通过传送点渗入驻地周围。持续向史特列洛克开火，你需要回到热网管道。找到能回去的传送点</text>
+	</string>
+</string_table>

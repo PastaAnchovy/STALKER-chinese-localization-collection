@@ -1,0 +1,597 @@
+﻿<?xml version="1.0" encoding="Unicode" ?>
+<string_table>
+	<string id="actor_break_dialog_0">
+		<text>再见！</text>
+	</string>
+	<string id="actor_help_wounded_0">
+		<text>你没事吧？</text>
+	</string>
+	<string id="actor_help_wounded_1">
+		<text>该死，我受伤了，你没看见吗？我需要医药箱，或者是一段绷带。</text>
+	</string>
+	<string id="actor_help_wounded_11">
+		<text>来，给你医药箱。</text>
+	</string>
+	<string id="actor_help_wounded_111">
+		<text>谢了兄弟，我不会忘记的。</text>
+	</string>
+	<string id="actor_help_wounded_12">
+		<text>来，给你绷带。</text>
+	</string>
+	<string id="actor_help_wounded_13">
+		<text>抱歉，我什么都没有。</text>
+	</string>
+	<string id="actor_help_wounded_131">
+		<text>那你是怎么在变异区存活下来的？你受伤了怎么办？你甚至没办法治疗你自己！</text>
+	</string>
+	<string id="actor_help_wounded_14">
+		<text>抱歉兄弟。如果我把我的给了你，我自己就什么都没有了。</text>
+	</string>
+	<string id="actor_help_wounded_141">
+		<text>那是你的事儿，但这对你没有任何好处。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_all_targets_phrase_part_1">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_all_targets_phrase_part_2">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_all_targets_phrase_part_3">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_count_on_time_phrase_part_1">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_count_on_time_phrase_part_3">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_count_phrase_part_1">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_count_phrase_part_2">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_count_phrase_part_3">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_count_phrase_part_4">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_p_or_c_answer_bad">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_p_or_c_answer_good">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_points_phrase_part_1">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_points_phrase_part_2">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_points_phrase_part_3">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_training_answer_bad_part_1">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_training_answer_bad_part_2">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_training_answer_good_part_1">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_training_answer_good_part_2">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_training_phrase_part_1">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_training_phrase_part_2">
+		<text>text in default</text>
+	</string>
+	<string id="bring_item_task_0">
+		<text>这儿，我带来了你想要的东西。</text>
+	</string>
+	<string id="bring_item_task_1">
+		<text>谢谢。</text>
+	</string>
+	<string id="crowkiller_dialog_100">
+		<text>嘿，你好吗？你喜欢射乌鸦？我敢打赌你是不会打破我的记录的！</text>
+	</string>
+	<string id="crowkiller_dialog_200">
+		<text>哈，怎么是你？</text>
+	</string>
+	<string id="crowkiller_dialog_210">
+		<text>还想再次尝试打破我的记录吗？</text>
+	</string>
+	<string id="crowkiller_dialog_211">
+		<text>先告诉我规则。</text>
+	</string>
+	<string id="crowkiller_dialog_2110">
+		<text>规则很简单，你要在1分钟之内，用自己的武器射杀尽可能多的乌鸦，只要你别射偏了，那样是不会计入总分的。</text>
+	</string>
+	<string id="crowkiller_dialog_212">
+		<text>现在的记录是多少？</text>
+	</string>
+	<string id="crowkiller_dialog_2120">
+		<text>记录为 0</text>
+	</string>
+	<string id="crowkiller_dialog_213">
+		<text>让我们开始射击吧。</text>
+	</string>
+	<string id="crowkiller_dialog_214">
+		<text>哈，谢谢。我准备走了。</text>
+	</string>
+	<string id="crowkiller_dialog_220">
+		<text>我告诉你别射偏了，那是不计分的。</text>
+	</string>
+	<string id="crowkiller_dialog_230">
+		<text>时间到。</text>
+	</string>
+	<string id="crowkiller_dialog_231">
+		<text>祝贺你，你打破了记录。</text>
+	</string>
+	<string id="crowkiller_dialog_232">
+		<text>很不幸，你失败了。</text>
+	</string>
+	<string id="crowkiller_dialog_300">
+		<text>别浪费时间了。</text>
+	</string>
+	<string id="crowkiller_dialog_crows_per_minute">
+		<text>我想想</text>
+	</string>
+	<string id="crowkiller_dialog_money_stake">
+		<text>好，那就下注：</text>
+	</string>
+	<string id="crowkiller_dialog_record_crows">
+		<text>哈，这才是真男人的选择。在1分钟之内你要尽可能多的击落乌鸦。当前记录是：</text>
+	</string>
+	<string id="crowkiller_dialog_record_stake">
+		<text>好，看看记录，赌注是：</text>
+	</string>
+	<string id="crowkiller_game_get_ready">
+		<text>准备！</text>
+	</string>
+	<string id="crowkiller_game_runned_out">
+		<text>你离开指定范围了！</text>
+	</string>
+	<string id="crowkiller_game_time_is_out">
+		<text>时间到！</text>
+	</string>
+	<string id="crowkiller_game_crows_killed">
+		<text>打死乌鸦：</text>
+	</string>
+	<string id="default_robbery_dialog_0">
+		<text>兄弟，来大方一回还是离开这儿？</text>
+	</string>
+	<string id="default_robbery_dialog_1">
+		<text>没问题，给你钱。</text>
+	</string>
+	<string id="default_robbery_dialog_11">
+		<text>好的，你可以过去了。但请你保持安静，否则我们会把你打得脑袋开花！</text>
+	</string>
+	<string id="default_robbery_dialog_111">
+		<text>好的。</text>
+	</string>
+	<string id="dm_hello_general">
+		<text>喂！</text>
+	</string>
+	<string id="dm_information_general">
+		<text>最近这片区域没什么新情况吧？</text>
+	</string>
+	<string id="dm_information_no_more">
+		<text>我一无所知。</text>
+	</string>
+	<string id="dm_occupation_general">
+		<text>你在这儿干嘛？</text>
+	</string>
+	<string id="dm_occupation_no_more">
+		<text>我和你没什么可说的。</text>
+	</string>
+	<string id="dm_place_general">
+		<text>告诉我这个地方的情况。</text>
+	</string>
+	<string id="dm_place_no_more">
+		<text>我不知道任何事儿。</text>
+	</string>
+	<string id="dm_wounded_bandage">
+		<text>给你绷带。</text>
+	</string>
+	<string id="dm_wounded_general">
+		<text>救命！</text>
+	</string>
+	<string id="dm_wounded_medkit">
+		<text>给你医药箱。</text>
+	</string>
+	<string id="dm_wounded_sorry">
+		<text>抱歉，我这儿没有。 </text>
+	</string>
+	<string id="dm_wounded_thanks">
+		<text>非常感谢。</text>
+	</string>
+	<string id="exchange_flash_card_0">
+		<text>我有升级的信息，要看吗？</text>
+	</string>
+	<string id="exchange_flash_card_1">
+		<text>当然，开个价我给你钱，我要信息：</text>
+	</string>
+	<string id="exchange_flash_card_11">
+		<text>闪存1</text>
+	</string>
+	<string id="exchange_flash_card_12">
+		<text>闪存2</text>
+	</string>
+	<string id="exchange_flash_card_13">
+		<text>闪存3</text>
+	</string>
+	<string id="exchange_flash_card_14">
+		<text>闪存4</text>
+	</string>
+	<string id="exchange_flash_card_15">
+		<text>再见。</text>
+	</string>
+	<string id="exchange_flash_card_21">
+		<text>好极了，给你钱。现在我可以进行新的升级工作了。</text>
+	</string>
+	<string id="exchange_flash_card_22">
+		<text>好极了，给你钱。现在我可以进行新的升级工作了。</text>
+	</string>
+	<string id="exchange_flash_card_23">
+		<text>好极了，给你钱。现在我可以进行新的升级工作了。</text>
+	</string>
+	<string id="exchange_flash_card_24">
+		<text>好极了，给你钱。现在我可以进行新的升级工作了。</text>
+	</string>
+	<string id="find_upgrade_task_0">
+		<text>我发现了你在寻找的关于升级方面的信息。</text>
+	</string>
+	<string id="find_upgrade_task_1">
+		<text>谢谢你的帮忙。现在我可以进行新的升级工作了。</text>
+	</string>
+	<string id="hello_dialog_2">
+		<text>嘿！</text>
+	</string>
+	<string id="hello_dialog_3">
+		<text>听着兄弟，帮帮我！</text>
+	</string>
+	<string id="recover_item_task_0">
+		<text>我带着你要的东西回来了。</text>
+	</string>
+	<string id="recover_item_task_1">
+		<text>谢谢。</text>
+	</string>
+	<string id="shooting_dialog_0">
+		<text>你想怎么样？</text>
+	</string>
+	<string id="shooting_dialog_1">
+		<text>我要接受训练！</text>
+	</string>
+	<string id="shooting_dialog_2">
+		<text>射击！</text>
+	</string>
+	<string id="shooting_dialog_3">
+		<text>我要玩计分游戏！</text>
+	</string>
+	<string id="shooting_dialog_31">
+		<text>多少分？</text>
+	</string>
+	<string id="shooting_dialog_311">
+		<text>到50。</text>
+	</string>
+	<string id="shooting_dialog_312">
+		<text>到75。</text>
+	</string>
+	<string id="shooting_dialog_313">
+		<text>到100。</text>
+	</string>
+	<string id="shooting_dialog_4">
+		<text>我要玩射靶游戏！</text>
+	</string>
+	<string id="shooting_dialog_41">
+		<text>多少靶子？</text>
+	</string>
+	<string id="shooting_dialog_411">
+		<text>5个。</text>
+	</string>
+	<string id="shooting_dialog_4111">
+		<text>距离多远？</text>
+	</string>
+	<string id="shooting_dialog_41111">
+		<text>5米。</text>
+	</string>
+	<string id="shooting_dialog_411111">
+		<text>选择你的武器：手枪还是突击步枪？</text>
+	</string>
+	<string id="shooting_dialog_4111111">
+		<text>手枪。</text>
+	</string>
+	<string id="shooting_dialog_4111112">
+		<text>突击步枪。</text>
+	</string>
+	<string id="shooting_dialog_41112">
+		<text>7米。</text>
+	</string>
+	<string id="shooting_dialog_41113">
+		<text>10米。</text>
+	</string>
+	<string id="shooting_dialog_412">
+		<text>7个。</text>
+	</string>
+	<string id="shooting_dialog_413">
+		<text>10个。</text>
+	</string>
+	<string id="shooting_dialog_5">
+		<text>啊？</text>
+	</string>
+	<string id="shooting_dialog_51">
+		<text>无</text>
+	</string>
+	<string id="shooting_dialog_5111">
+		<text>无</text>
+	</string>
+	<string id="shooting_dialog_511111">
+		<text>继续？</text>
+	</string>
+	<string id="shooting_dialog_52">
+		<text>无</text>
+	</string>
+	<string id="shooting_dialog_5211">
+		<text>无</text>
+	</string>
+	<string id="shooting_dialog_53">
+		<text>无</text>
+	</string>
+	<string id="shooting_dialog_5311">
+		<text>无</text>
+	</string>
+	<string id="shooting_dialog_6">
+		<text>再见</text>
+	</string>
+	<string id="shooting_dialog_71">
+		<text>嘿？</text>
+	</string>
+	<string id="test_dialog_0">
+		<text>嘿</text>
+	</string>
+	<string id="test_dialog_1">
+		<text>是</text>
+	</string>
+	<string id="test_dialog_3">
+		<text>不知道</text>
+	</string>
+	<string id="tm_mechanic_task_0">
+		<text>你能升级哪种武器？</text>
+	</string>
+	<string id="tm_random_task_0">
+		<text>我能帮你什么吗？</text>
+	</string>
+	<string id="tm_random_task_1">
+		<text>我需要你帮我：</text>
+	</string>
+	<string id="tm_random_task_11">
+		<text>夺取目标：</text>
+	</string>
+	<string id="tm_random_task_12">
+		<text>获得2</text>
+	</string>
+	<string id="tm_random_task_13">
+		<text>送还物品</text>
+	</string>
+	<string id="tm_random_task_14">
+		<text>交给物品</text>
+	</string>
+	<string id="tm_random_task_15">
+		<text>不，我改变主意了。</text>
+	</string>
+	<string id="tm_random_task_2">
+		<text>不用。</text>
+	</string>
+	<string id="tm_random_task_21">
+		<text>好。</text>
+	</string>
+	<string id="tm_random_task_22">
+		<text>好。</text>
+	</string>
+	<string id="tm_random_task_23">
+		<text>你确定你能做这事儿？</text>
+	</string>
+	<string id="tm_random_task_24">
+		<text>好。</text>
+	</string>
+	<string id="tm_random_task_33">
+		<text>是。</text>
+	</string>
+	<string id="tm_random_task_34">
+		<text>否。</text>
+	</string>
+	<string id="tm_random_task_43">
+		<text>好。</text>
+	</string>
+	<string id="tm_reward_task_0">
+		<text>你能给我些报酬吗？</text>
+	</string>
+	<string id="tm_reward_task_1">
+		<text>哈，你帮我解决了难题，老兄。给你报酬。</text>
+	</string>
+	<string id="tm_reward_task_2">
+		<text>抱歉，你还不能得到你的报酬。</text>
+	</string>
+	<string id="tm_upgr_task_0">
+		<text>我能帮你做点什么事吗？</text>
+	</string>
+	<string id="tm_upgr_task_1">
+		<text>我需要关于升级方面的信息。</text>
+	</string>
+	<string id="tm_upgr_task_11">
+		<text>武器和护甲。</text>
+	</string>
+	<string id="tm_upgr_task_21">
+		<text>我已经花了很长时间来寻找一些升级方面的图表。如果你在某处找到了它们，请将它们带回来给我。这儿是我要寻找的东西名单：</text>
+	</string>
+	<string id="tm_upgr_task_31">
+		<text>任务1</text>
+	</string>
+	<string id="tm_upgr_task_32">
+		<text>任务2</text>
+	</string>
+	<string id="tm_upgr_task_33">
+		<text>任务3</text>
+	</string>
+	<string id="tm_upgr_task_34">
+		<text>任务4</text>
+	</string>
+	<string id="tm_upgr_task_35">
+		<text>任务5</text>
+	</string>
+	<string id="tm_upgr_task_41">
+		<text>行吗？</text>
+	</string>
+	<string id="tm_upgr_task_42">
+		<text>行吗？</text>
+	</string>
+	<string id="tm_upgr_task_43">
+		<text>行吗？</text>
+	</string>
+	<string id="tm_upgr_task_44">
+		<text>行吗？</text>
+	</string>
+	<string id="tm_upgr_task_45">
+		<text>行吗？</text>
+	</string>
+	<string id="tm_upgr_task_51">
+		<text>好的，我会给你带来我找到的东西。</text>
+	</string>
+	<string id="tm_upgr_task_52">
+		<text>是。</text>
+	</string>
+	<string id="tm_upgr_task_53">
+		<text>是。</text>
+	</string>
+	<string id="tm_upgr_task_54">
+		<text>是。</text>
+	</string>
+	<string id="tm_upgr_task_55">
+		<text>是。</text>
+	</string>
+	<string id="tm_upgr_task_56">
+		<text>下一次吧。</text>
+	</string>
+	<string id="tm_upgr_task_61">
+		<text>祝你好运。</text>
+	</string>
+	<string id="tm_upgr_task_62">
+		<text>text in default</text>
+	</string>
+	<string id="tm_upgr_task_63">
+		<text>text in default</text>
+	</string>
+	<string id="tm_upgr_task_64">
+		<text>text in default</text>
+	</string>
+	<string id="tm_upgr_task_65">
+		<text>text in default</text>
+	</string>
+	<string id="tm_weapon_up_task_0">
+		<text>有什么特殊工作吗？</text>
+	</string>
+	<string id="tm_weapon_up_task_1">
+		<text>我有某些东西：</text>
+	</string>
+	<string id="tm_weapon_up_task_11">
+		<text>手枪。</text>
+	</string>
+	<string id="tm_weapon_up_task_111">
+		<text>好。</text>
+	</string>
+	<string id="tm_weapon_up_task_12">
+		<text>突击步枪。</text>
+	</string>
+	<string id="tm_weapon_up_task_121">
+		<text>是。</text>
+	</string>
+	<string id="tm_weapon_up_task_13">
+		<text>步枪。</text>
+	</string>
+	<string id="tm_weapon_up_task_131">
+		<text>好。</text>
+	</string>
+	<string id="tm_weapon_up_task_14">
+		<text>散弹枪。</text>
+	</string>
+	<string id="tm_weapon_up_task_141">
+		<text>好。</text>
+	</string>
+	<string id="tm_weapon_up_task_2">
+		<text>不。</text>
+	</string>
+	<string id="treasure_dialog_0">
+		<text>你能给我提供点什么信息？</text>
+	</string>
+	<string id="treasure_dialog_11">
+		<text>多少钱？</text>
+	</string>
+	<string id="treasure_dialog_1111">
+		<text>在那儿有啥东西？</text>
+	</string>
+	<string id="treasure_dialog_11111">
+		<text>好，这儿是坐标。</text>
+	</string>
+	<string id="treasure_dialog_1112">
+		<text>行。</text>
+	</string>
+	<string id="treasure_dialog_11121">
+		<text>好，等你钱够多时就回来吧。</text>
+	</string>
+	<string id="treasure_dialog_1113">
+		<text>你疯了吗？我没那么多钱。</text>
+	</string>
+	<string id="treasure_dialog_11131">
+		<text>不知道。</text>
+	</string>
+	<string id="treasure_dialog_1114">
+		<text>不，我没什么兴趣。</text>
+	</string>
+	<string id="treasure_dialog_12">
+		<text>不，谢谢</text>
+	</string>
+	<string id="treasure_dialog_121">
+		<text>随你便。</text>
+	</string>
+	<string id="treasure_dialog_131">
+		<text>text in default</text>
+	</string>
+	<string id="treasure_dialog_2">
+		<text>不，没什么感兴趣的东西。</text>
+	</string>
+	<string id="actor_break_dialog_1">
+		<text>好，再见。</text>
+	</string>
+	<string id="actor_break_dialog_2">
+		<text>回见。</text>
+	</string>
+	<string id="actor_break_dialog_3">
+		<text>好的，再见</text>
+	</string>
+	<string id="st_tm_guide_0">
+		<text>你可以带我到哪儿？</text>
+	</string>
+	<string id="st_tm_guide_1">
+		<text>没有地方可去。</text>
+	</string>
+	<string id="st_tm_guide_2">
+		<text>几个地方。但你要记住 - 我可以带你安全的到达一个地方，但那是要收费的，以距离长短来收取费用。告诉我- 你想到哪儿去？</text>
+	</string>
+	<string id="st_tm_guide_21">
+		<text>准备离开？</text>
+	</string>
+	<string id="st_tm_guide_211">
+		<text>好，出发吧。</text>
+	</string>
+	<string id="st_tm_guide_212">
+		<text>晚些时候。</text>
+	</string>
+	<string id="st_tm_guide_3">
+		<text>空的</text>
+	</string>
+</string_table>

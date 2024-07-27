@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="Unicode" ?>
+<string_table>
+	<string id="agr_additional_quest_1_name">
+		<text>寻找死去的独行者的战利品</text>
+	</string>
+	<string id="agr_additional_quest_1_text">
+		<text>寻找死去的独行者的战利品</text>
+	</string>
+	<string id="agr_additional_quest_3_name">
+		<text>寻找迷路的独行者</text>
+	</string>
+	<string id="agr_additional_quest_3_text">
+		<text>寻找迷路的独行者</text>
+	</string>
+	<string id="agr_at_blokpost_name">
+		<text>和纪律团的头儿谈谈</text>
+	</string>
+	<string id="agr_at_blokpost_text">
+		<text>和纪律团的头头谈谈。克雷洛夫将军可能知道农业研究所地下入口的位置。 那就是这些独行者在特异区中心存放东西的小金库。</text>
+	</string>
+	<string id="agr_attack_bandits_group_1_name">
+		<text>摧毁强盗营地。</text>
+	</string>
+	<string id="agr_attack_bandits_group_1_text">
+		<text>这些强盗的营地在隧道里，必须摧毁它。强盗利用它加强了对独行者营地的攻击。</text>
+	</string>
+	<string id="agr_attack_bandits_group_2_name">
+		<text>干掉强盗小队</text>
+	</string>
+	<string id="agr_attack_bandits_group_2_text">
+		<text>这队强盗守卫着地下入口，而且经常接应他们地面上的人。这群强盗必须被干掉。</text>
+	</string>
+	<string id="agr_attack_bandits_group_3_name">
+		<text>摧毁变异生物的巢穴</text>
+	</string>
+	<string id="agr_attack_bandits_group_3_text">
+		<text>那片充满各式各样怪物的荒野就在独行者基地的前面 - 那片地区非常荒凉并充满危险。变异生物的巢穴必须被摧毁。</text>
+	</string>
+	<string id="agr_defend_duty_base_1_name">
+		<text>保护纪律团营地</text>
+	</string>
+	<string id="agr_defend_duty_base_1_text">
+		<text>纪律团营地受到攻击。帮助我们击退这波攻击你将获得重酬。</text>
+	</string>
+	<string id="agr_defend_stalkers_base_1_name">
+		<text>保护独行者营地。</text>
+	</string>
+	<string id="agr_defend_stalkers_base_1_text">
+		<text>独行者营地处于危险中。帮助独行者们抵御这波攻击你将得到报酬。</text>
+	</string>
+	<string id="agr_go_in_hole_name">
+		<text>进入农业研究所地下。</text>
+	</string>
+	<string id="agr_go_in_hole_text">
+		<text>你需要进入农业研究所地下。只有通过异变怪物的洞穴这一条路可到地下。 </text>
+	</string>
+	<string id="agr_go_out_hole_name">
+		<text>和萨哈罗夫谈谈</text>
+	</string>
+	<string id="agr_go_out_hole_text">
+		<text>史特列洛克小队的消息在地底的隐藏点被弄清楚了。史特列洛克去扬塔拜访科学家了，到达扬塔和萨哈罗夫教授谈谈，他也许知道到哪里去找史特列洛克</text>
+	</string>
+	<string id="agr_go_to_hole_name">
+		<text>到洞里去。</text>
+	</string>
+	<string id="agr_go_to_hole_text">
+		<text>纪律团的士兵封锁，关闭了所有的进入地下的入口和出口。唯一进去地下的路就是那些怪物爬出地面时挖出的洞，你必须到那个洞里去。</text>
+	</string>
+	<string id="agr_mechanic_pda_1_name">
+		<text>找到PDA</text>
+	</string>
+	<string id="agr_mechanic_pda_1_text">
+		<text>找到PDA</text>
+	</string>
+	<string id="agr_mechanic_pda_2_name">
+		<text>交出PDA</text>
+	</string>
+	<string id="agr_mechanic_pda_2_text">
+		<text>交出PDA</text>
+	</string>
+	<string id="agr_mechanic_pda_for_secret_trader_1_name">
+		<text>寻找PDA</text>
+	</string>
+	<string id="agr_mechanic_pda_for_secret_trader_1_text">
+		<text>寻找PDA</text>
+	</string>
+	<string id="agr_mechanic_pda_for_secret_trader_2_name">
+		<text>交出PDA</text>
+	</string>
+	<string id="agr_mechanic_pda_for_secret_trader_2_text">
+		<text>交出 PDA</text>
+	</string>
+	<string id="agr_no_task_name">
+		<text>找到独行者小队的藏匿物。</text>
+	</string>
+	<string id="agr_no_task_text">
+		<text>方的PDA 记录了他们一伙独行者在特异区中心区藏匿物的坐标，并提示了特异区的一场灾难，这是个重大发现，因为这里面包含了一则重要的信息。你需要在藏匿处找到那个PDA。</text>
+	</string>
+	<string id="agr_pda_map_animals_1_name">
+		<text>寻找迁移图</text>
+	</string>
+	<string id="agr_pda_map_animals_1_text">
+		<text>找到描绘特异区内稀有怪物的迁移模式的图。</text>
+	</string>
+	<string id="agr_pda_map_animals_2_name">
+		<text>交出迁移图</text>
+	</string>
+	<string id="agr_pda_map_animals_2_text">
+		<text>把迁移图交给审问者</text>
+	</string>
+	<string id="agr_stalker_scientist_quest_1_name">
+		<text>帮助独行者</text>
+	</string>
+	<string id="agr_stalker_scientist_quest_1_text">
+		<text>一群独行者试图穿过沼泽到达扬塔的科学家那里，帮助他们活着走过那里</text>
+	</string>
+	<string id="agr_stalker_scientist_quest_2_name">
+		<text>领取你的报酬</text>
+	</string>
+	<string id="agr_stalker_scientist_quest_2_text">
+		<text>向普拉托诺夫领取你的报酬</text>
+	</string>
+	<string id="agr_start_name">
+		<text>谈谈前哨站的情况</text>
+	</string>
+	<string id="agr_start_text">
+		<text>询问关于在农业研究所的前哨站的情况</text>
+	</string>
+	<string id="agr_take_reward_name">
+		<text>向克雷洛夫领取你的报酬</text>
+	</string>
+	<string id="agr_take_reward_text">
+		<text>地下设施已经彻底进水了，怪物们对纪律团的攻势也暂告一段落。通常在你完成这个任务后，克雷洛夫都会给你丰厚的报酬。向克雷洛夫领取你的报酬</text>
+	</string>
+	<string id="st_agr_find_flesh_up_ab_pkm_name">
+		<text>寻找关于平衡自动化机枪的资料</text>
+	</string>
+	<string id="st_agr_find_flesh_up_ab_pkm_text">
+		<text>技术员沙德沃夫在寻找一种通过平衡自动机来提高射速的办法。他愿意为这样的资料慷慨的支付酬金。</text>
+	</string>
+	<string id="st_agr_find_flesh_up_abcd_pkm_name">
+		<text>寻找关于改善机枪导气系统的资料。</text>
+	</string>
+	<string id="st_agr_find_flesh_up_abcd_pkm_text">
+		<text>沙德沃夫非常致力于完善机枪的参数规格表。他需要全部的空闲时间和有关导气系统的确凿的技术数据。</text>
+	</string>
+	<string id="st_agr_find_flesh_up_ac_desert_eagle_name">
+		<text>寻找关于手枪枪口制退器的资料</text>
+	</string>
+	<string id="st_agr_find_flesh_up_ac_desert_eagle_text">
+		<text>这个独行者技术员在农业研究所寻找一种关于大威力的大口径手枪枪口制退器的资料。</text>	
+	</string>
+	<string id="st_agr_find_flesh_up_ac_spas12_name">
+		<text>寻找关于战斗猎枪的气动机械的资料</text>
+	</string>
+	<string id="st_agr_find_flesh_up_ac_spas12_text">
+		<text>这个独行者技术员在农业研究所寻找一种关于战斗猎枪的气动机械的资料</text>
+	</string>
+	<string id="st_agr_find_flesh_up_bd_desert_eagle_name">
+		<text>寻找关于手枪枪管改良的资料</text>
+	</string>
+	<string id="st_agr_find_flesh_up_bd_desert_eagle_text">
+		<text>这个独行者技术员没有改造大威力手枪所需要的经验，他愿意为这样的资料支付酬金。</text>
+	</string>
+	<string id="st_agr_find_flesh_up_cd_pkm_name">
+		<text>寻找机枪枪口制退器资料</text>
+	</string>
+	<string id="st_agr_find_flesh_up_cd_pkm_text">
+		<text>纪律团的技师致力于改良机枪的枪口制退器，但他缺少一些资料。</text>
+	</string>
+	<string id="agr_attack_monster_group_name">
+		<text>摧毁异变怪物的巢穴</text>
+	</string>
+	<string id="agr_attack_monster_group_text">
+		<text>有时会有一小群怪物攻击工厂的独行者。在位于南边的怪物老巢干掉它们，以便能够阻止它们对工厂的攻击。</text>
+	</string>
+	<string id="agr_recover_item_1_name">
+		<text>交还散弹枪给纪律团</text>
+	</string>
+	<string id="agr_recover_item_1_text">
+		<text>前几天我们来过这儿，来执行清理异变怪物的任务。战斗至少持续了一个小时，我们都快打光弹药了，但那些野兽还没有死。我下令撤退并留在后面阻击怪物，帮助战士们撤离。我打光了所有子弹，然后把散弹枪笔直的扔向那些杂种。猜猜看，下面会发生什么？这群混蛋居然不理我，倒跑去咬枪去了。带回我的散弹枪，它救了我的命。</text>
+	</string>
+	<string id="agr_recover_item_2_name">
+		<text>交还含有机密资讯的PDA</text>
+	</string>
+	<string id="agr_recover_item_2_text">
+		<text>佣兵，我在废弃区被强盗抢劫了。他们拿走了现金，武器，弹药还有我的医疗补给。最糟的是，他们抢走了存有废弃区强盗信息的PDA。如果我不把它交给克雷洛夫，我会没命的。救救我吧。</text>
+	</string>
+	<string id="agr_recover_item_3_name">
+		<text>交还纪律团成员的箱子</text>
+	</string>
+	<string id="agr_recover_item_3_text">
+		<text>佣兵，当变异生物开始在地下出现时，我们就开始放弃阵地和撤退了。我被迫丢弃了装有武器，弹药和我的设备的箱子。我没时间想这个，我不得不靠我自己。帮我取回那个箱子吧。</text>
+	</string>
+	<string id="agr_recover_item_4_name">
+		<text>交换纪律团成员的突击步枪</text>
+	</string>
+	<string id="agr_recover_item_4_text">
+		<text>我对向导有意见，他到现在还没带我去见独行者！他说他不想再见到我，我也不想自己在这里转来转去。上周我去见独行者时把枪落在了那里。我们中的一个家伙得到晋升了，我们用一份烈酒来庆祝，我也有幸得到了回兵营的任务，但他们忘记了我没枪。请帮我取回它，士兵不能没有枪。</text>
+	</string>
+</string_table>

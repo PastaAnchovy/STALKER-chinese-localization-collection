@@ -1,0 +1,597 @@
+﻿<?xml version="1.0" encoding="Unicode" ?>
+<string_table>
+	<string id="mar_csky_leader_intro_dialog_0">
+		<text>欢迎重回人间，独行者。你的感觉如何？</text>
+	</string>
+	<string id="mar_csky_leader_intro_dialog_2">
+		<text>你还记得发生在你身上的事情吗？</text>
+	</string>
+	<string id="mar_csky_leader_intro_dialog_4">
+		<text>心情放松点，嗯？那表示你重获新生了。我是列别捷夫，这个团队的领袖。我负责这里的每一个人…那也包括你，如果你留在这里。我们称自己为晴空组织，你目前可以留在我们基地。我们只能在这充满废气的沼泽地里接待你…</text>
+	</string>
+	<string id="mar_csky_leader_intro_dialog_6">
+		<text>幸运？嗯…我对此表示怀疑。事实上是这样：你在特异区域幸存了下来，那是我无法解释的第一件事情。第二件事情就是我们的巡逻队在充满泥浆和流沙的沼泽地里发现了你，而第三件事是，在你快要被一群变异犬撕成碎片的时候，我们的兄弟及时的救了你。这一连串的事件告诉我这不仅仅靠的是运气…无论如何，我必须完成我现在的工作，所以让我们稍后再继续这谈话。</text>
+	</string>
+	<string id="mar_csky_barman_intro_dialog_0">
+		<text>你好，雇佣兵！算你走运，你现在变成了传奇式人物- 我听说过一些即使是你也无法相信的传闻…嘿！不管怎样，幸运的是这里还有些免费的饮料！它能消除你的疲劳。告诉我你的冒险经历，都怪我那该死的好奇心！</text>
+	</string>
+	<string id="mar_csky_barman_intro_dialog_2">
+		<text>好吧，在你喝饮料的时候，我会告诉你一些这里的事儿。这里曾经美丽而宁静- 那时我们在这附近工作，用各种方法探测整个区域。当然，沼泽地带的资源完全被破坏了。啊，还不算太糟，直到最近爆发了大风暴为止。现在我们的队员在离开基地之前，都要祈求上帝保佑他们，正是这种精神让他们奇迹般的生还！为了我们共同的利益，战士们团结一心，他们正在为此而战斗…</text>
+	</string>
+	<string id="mar_csky_barman_intro_dialog_4">
+		<text>过的好啊！你看我堆瓶子，一个接着一个，他们安排我在这里…哈- 哈！我开玩笑的，老兄！事实上是：我没有地方可去，也没人愿意收留我。最后，我来到了这里…我先到了特异区然后来到晴空组织。这里的人对我很好，我要呆在这儿。当他们完成任务回来后，我给他们倒上一杯酒，再说几段笑话这就是我的工作- 简单，但很有效。顺便说一句，他们让我少管这附近的事。</text>
+	</string>
+	<string id="mar_csky_barman_intro_dialog_6">
+		<text>在我们的晴空基地里。出了基地，你会看到在漫无边际的沼泽中还有些小农庄和建筑物。我无法告诉你在这儿如何生存，但是你在特异区里会遇见一些能值得你信任的人：也会碰到背后阴人的家伙。如果不使用医药包及时治疗你自己，就会因流血过多而死亡。</text>
+	</string>
+	<string id="mar_csky_barman_intro_dialog_8">
+		<text>知道你为何从未听说过？因为有太多的人想要知道，但知道的人只有少数！列别捷夫是我们的领袖- 是我见过最棒的铁血战士。用他的凝聚力把我们紧紧的团结在一起。那儿还有卡南查教授。他就像一本活的百科全书和计算器的结合体 - 想知道更多关于特异区的事情…好吧，不管怎样…我们的技师叫诺维科夫，他通过改装可以让你的步枪使用不同的弹药。除了这些他还可以利用一些零部件…最后是我们的苏斯洛夫。他是一名贸易商人，他和其他贸易商的不同之处在于他不会设法欺骗或者伤害你- 他知道只有尊重独行者的人才能得到他们的战利品。</text>
+	</string>
+	<string id="mar_csky_doctor_about_me_1">
+		<text>你已经了解了一些基本情况，然而有些事情必须要详细解释下。这个令人费解的事实是你经历了两次风暴却活了下来。显然，如果你是正常人的话，在风暴中你是会马上丧命的，但你却啥事没有。那个地方到底发生过什么。</text>
+	</string>
+	<string id="mar_csky_doctor_about_me_3">
+		<text>看来这是真的：电磁辐射正在为你的身体提供能量，它能迅速改善你的体力，反应力和耐力；但这种力量只是暂时性的。紧随而来的是造成你身体健康的急剧下降。最后，我要告诉你一些你目前的身体状况：风暴的影响已经破坏了你的神经系统，如果它再次发生你就会没命…更糟糕的是，你有可能会变成一个十足的“白痴”。</text>
+	</string>
+	<string id="mar_csky_doctor_about_me_5">
+		<text>我很抱歉，现在能为你做的只是尽我所能减少风暴对你造成的影响。在得到列别捷夫的许可后，我会结束目前的测试，然后我将会实施必要的方法。不过，我要再次强调这并不能解决所有的问题，而是在你的神经系统衰竭以前多为你争取点时间而已。</text>
+	</string>
+	<string id="mar_csky_doctor_about_me_7">
+		<text>唉，全部在那里了。我唯一能做的事就是解答你的任何疑问。</text>
+	</string>
+	<string id="mar_csky_doctor_about_people_1">
+		<text>人们总是错误的认为他们对特异区域已经真正的了解了。有些人认为它一无是处，还有些人觉得不可思议，而另外一些人把它当作财富的来源…然而他们全都错了。以人类现有的能力还无法了解特异区真正的奥秘；而且人们在很早以前就已经尝试过。所以，政府和独行者双方对特异区的探测行为是不明智的举动，我很担心由此产生的后果…确实是变化莫测的。当然，这代表了一种可怕的危险…</text>
+	</string>
+	<string id="mar_csky_doctor_about_zone_1">
+		<text>年轻人，如果我有这个问题的答案…我们正在对特异区进行非常仔细的研究！其结果是…由于人们在特异区内错误的探测行为，导致我们无法让它回到初始状态。而特异区域由于其自身的特性，它既不会被摧毁，也不会自动消失。我们晴空组织相信要在特异区内生存只有一个方法那就是：和平共处。</text>
+	</string>
+	<string id="mar_csky_doctor_about_zone_3">
+		<text>我该怎么说呢？我们把它当作是这样的：自然界中任何结构复杂的事物，包括特异区在内，在没有外界干扰的情况下，它会自动维持一种均衡状态。特异区在近几年来一直处于稳定状态，并没有多大变化，但现在呢？…我们看到的是被严重污染了的特异区。它变得极不稳定，扭曲，还出现了各种问题。大量的放射性污染物已经充斥在特异区域的每个角落，以至于我传感器上的读数在以令人难以置信的速度持续振荡！除非我们找到扭转这种事态的方法，否则还会发生比1986年那场浩劫更可怕的灾难。我们需要反思的是，造成这些后果的不是自然因素，而是我们人类的“杰作”…</text>
+	</string>
+	<string id="mar_csky_doctor_about_zone_5">
+		<text>我们正试图查明，或者能知道是谁打乱了特异区的平衡，这样我们就有机会免于灾难。</text>
+	</string>
+	<string id="mar_csky_doctor_about_zone_7">
+		<text>可能有人知道这糟糕环境的前因后果，他应该能解决这些问题。无论怎样，我希望这是真的…</text>
+	</string>
+	<string id="mar_csky_doctor_about_zone_9">
+		<text>我恐怕无法回答这个问题。你可以去问问列别捷夫。</text>
+	</string>
+	<string id="mar_csky_doctor_hello_dialog_0">
+		<text>很高兴见到你，年轻人。你看起来还不错。</text>
+	</string>
+	<string id="mar_csky_leader_choose_dialog_1">
+		<text>那么，你愿意帮助我们吗？</text>
+	</string>
+	<string id="mar_csky_leader_intro2_dialog_0">
+		<text>多呼吸些新鲜空气，你看起来很好，真的。我来告诉你现在的方位，你现在在晴空组织的基地里。你可能没见过也没听说过我们。我们的任务是探测特异区。我们认为只有亲自去了解和探测过特异区以后你才知道如何去面对它。关键是你要考虑如何与它和平共处。特异区最奇妙的现象可以比美人类历史！</text>
+	</string>
+	<string id="mar_csky_leader_intro2_dialog_10">
+		<text>我们最近在这里遇到些难题。由于风暴在沼泽区的急剧减少，致使很多强盗和一些异变怪物已经到达这个地区。 如果我们不采取行动的话，他们就会在我们的基地附近安家了！ 问题是由于我们的战斗力实在太弱，已经让我们失去了很多地盘。当我一看到你我就知道你是个高手！以你的身手肯定能拯救这里很多孩子的生命。</text>
+	</string>
+	<string id="mar_csky_leader_intro2_dialog_2">
+		<text>只因为我们是研究员，正试图弄清楚特异区的本质，确定它以什么方式存在和造成它出现的原因。我们不为金钱，也不为搜寻神器，对其他派系的战争更不感兴趣。所以我们隐藏在沼泽地里专注于我们的研究。我们没有什么战斗经验，有的只是在特异区研究多年积累的丰富知识。我们比独行者知道更多的政府内幕，直到一次大风暴的前几天，我们终于顺利的把研究成果制作成清晰，连续的地图…</text>
+	</string>
+	<string id="mar_csky_leader_intro2_dialog_4">
+		<text>不，那次的大风暴威力异乎强大。它像一阵狂风席扫了整个特异区域，原来已知的安全地区变得充满了高度放射污染和异变怪物，但现在你能进入特异区内之前数年都不能到达的那些地方。即使是最强的独行者也不知道，会有什么东西在他们曾走过的路上等着他们。风暴改变了包括人在内的许多事物，也破坏了很多派系间微弱的平衡，他们正在为领土而战…换言之，在我还没有完全弄清楚这改变时，就已经发生了许多奇怪的事情，而这一切变化就在风暴过后几天而已。依我说，最怪异的事是你怎么活下来的。</text>
+	</string>
+	<string id="mar_csky_leader_intro2_dialog_6">
+		<text>我明白了。我怎样才能帮助你？</text>
+	</string>
+	<string id="mar_csky_leader_intro2_dialog_8">
+		<text>想离开这里不容易，绝对没有希望。沼泽地带是一个真正的迷阵，这里充满了荒草和带有辐射的流沙，以及恐怖的怪物和人渣…我不知道哪些更糟糕。我们只有一个向导可以带你安全的离开这里，可惜的是没这么简单。如果我让你离开，那我们在这里驻军的秘密就会暴露出去。</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_0">
+		<text>你再次在风暴后幸存！我实在是太惊讶啦！当风暴平息一点的时候，我们的人在塔楼附近救了你。你知道，卡南查说的是对的：你无视科学法则。他相信你获得了一些…“特异功能”，这些能力让你的身体产生不规则的原子裂变而使你存活下来。并且，你体内各个地方看起来像有某些事物呈现递增状态，我们的监控仪器失灵了。等等，等等，不要太激动。事情总是会美中不足：每次风暴都会损害你的神经系统，如果这种情况持续下去你就会丧命的。</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_10">
+		<text>你是对的，但我们确实知道在风暴停止后该如何避免灾难。而且那意味着某些…</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_12">
+		<text>我们必须找出谁在特异区的中心，并且不惜任何代价阻止他们。</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_14">
+		<text>你和特异区之间有个奇异的连接点。一方面，每发生一次新的放射风暴你离死亡就近一点。另一方面，在其他人无法立足的地方你却能够存活下来。我的直觉告诉我，你的能力是我们的礼物，你的诅咒，该怎么称呼它呢？这意味着你可以通过其他人连做梦都不敢去的地方。那么现在我们必须立刻采取行动。</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_16">
+		<text>我知道你会问这个问题。答案很简单：如果放射风暴没被停止，你就会因神经系统衰竭而死亡。帮助我们你就能拯救你自己。我知道你不愿意听，但你没得选择。</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_2">
+		<text>你可以这样理解风暴：当能量在特异区内累积到一定程度后就会产生正常的放射风暴。但是现在发现它是完全不正常的！依我看来，特异区的规律性正在遭受某种递增物的严重威胁，有点类似人类的免疫系统。很难合理解释人类和特异区之间的共存关系。我们能进入特异区内的某些区域而有些地区却无法进入。无论是远方的焦脑器还是靠近特异区的中心地带都禁止我们进入- 也是独行者无法进入的地区。我认为最近在特异区内发生的事件和有人去过焦脑器有关。</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_4">
+		<text>这很难说。我需要知道在特异区的中央地带有些什么才能解释这个问题。有些人说是黑石，其他人说是许愿石…许多人梦想得到很多神器，我当时在发电厂工作，我不知道现在那里还有什么。我只能说焦脑器的出现是有原因的。它阻止所有的生物到达特异区的中央地带，人们根本无法越过焦脑器。</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_6">
+		<text>我没想到会发生如此大的风暴，真该死，没人会料到。不过，你可以把放射风暴看作是它的防御性反应，那么答案很明显：有人在这个过程中通过了焦脑器。而且风暴到现在没有停止过，不管他是谁他仍然还活着。特异区会毁灭试图靠近它的每样东西，他要在这过程中活下来。</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_8">
+		<text>我知道关于特异区的很多事情，但我无法告诉你一切。在有些事情上你必须要相信我。一个体系，任何体系必定会保持平衡状态。特异区目前正变得不稳定，这种状况还在加剧。如果放射风暴还不能停止下来，变得极不稳定的特异区将会引发一场新的灾难。我们晴空组织能做些什么- 我们正设法阻止灾难发生。</text>
+	</string>
+	<string id="mar_csky_leader_tutorial_dialog_0">
+		<text>我们先别聊了！敌人再次攻击了我们的前哨站…帮助我们击退他！现在出发吧，去救出那儿的战士。你该还记得如何在特异区内生存吧？</text>
+	</string>
+	<string id="mar_csky_leader_tutorial_dialog_21">
+		<text>好极了！去找贸易商人吧，他会提供给你些基本装备。然后你一直前进抵达前哨站。一旦你走出基地的范围，要听我的忠告- 我将设法引导你前进。</text>
+	</string>
+	<string id="mar_csky_tehnik_about_dialog_1">
+		<text>试试不就知道了嘛。诺，这儿几乎没有任何设备- 这就是核爆后的生活！如果我们没把握的去做某件事，那就注定要失败。这附近没有能用的零配件，我不得不把我能找到的物尽所能…上个星期吧，我要制个无线电接收机。你猜我用的什么零件？一台该死的电冰箱！哈哈。我不知道是该笑还是哭…</text>
+	</string>
+	<string id="mar_csky_tehnik_about_dialog_3">
+		<text>耶，这算不了啥。我对废弃区很是无爱…但听说有人找到了前苏联的藏匿物！在切尔诺贝利核电站意外事故发生后，政府将大量受污染的车辆和设备，还有其他杂七杂八的玩意儿都丢在那儿了…他们认为有放射性的东西都是垃圾！但现在，谁还在乎有没有辐射，因此，那里出现了一股掘金热潮。成群结队的独行者聚集在那儿到处掠夺…</text>
+	</string>
+	<string id="mar_csky_tehnik_about_dialog_5">
+		<text>没什么特别的。我维修并且升级武器和防具…基本上，不论什么我都能完成。如果你需要定做什么物品- 我可以推荐。嗯，如果我能得到一些零备件我可以为伙计们制造一些真正精密的玩意！武器，防具，装备- 我会让它们从整体上达到一个新的水准！记住，如果你碰到有用的东西，把它带来这里我能让它变为精品-这是对你的承诺。</text>
+	</string>
+	<string id="mar_csky_trader_intro2_dialog_0">
+		<text>欢迎，来自外面的客人！你为什么来这里？是为了发笔横财还是想体验下异国情调？</text>
+	</string>
+	<string id="mar_csky_trader_intro2_dialog_10">
+		<text>耶，我知道。不管怎样，我已经告诉你太多的事情了。因为时间就是金钱，如果你想交易的话，那么来吧。要不，我先带你参观一下。</text>
+	</string>
+	<string id="mar_csky_trader_intro2_dialog_2">
+		<text>是的，我听过关于你的传说。我认为最重要的是你还活着…要替换这很简单， 特异区不会永远对你这么仁慈…所以我们去交易。你是否对我还有些怀疑？</text>
+	</string>
+	<string id="mar_csky_trader_intro2_dialog_4">
+		<text>我们就是这种人！你无法在临死的时候从商店买到增加15分钟生命的装备，但是各处都需要我们贸易商人。即使在特异区，沼泽地，甚至在地下秘密组织。特异区会被大批军队严加看管或一直封锁，那是种假象。想想看，在特异区发现的神器和贵重之物被带到世界各地，你和你的独行者伙伴从未缺少的罐头食品，伏特加，弹药和装备- 谁该为这一切负责，对吗？很好，那是我们进来的地方。这里不像是你在外面卖盗版光碟而被警察判罪的年代！这周围的环境很简单：外界很关注特异区，反之亦然。但这儿有个规矩，禁止在这里胡说八道！那是我们为什么在这里的原因…我们满足每个人的愿望，让所有人感觉愉快。在贸易商人中有个笑话，如果有人拿枪指着你，你最好的方法是买下那把枪！</text>
+	</string>
+	<string id="mar_csky_trader_intro2_dialog_6">
+		<text>让我们不要讨论它！你不知道我买这些装饰品有多累！在那边有大量普通的神器，但是最好吃点东西再通过这地方。我没有这些物品，我的商店离这儿太远了。</text>
+	</string>
+	<string id="mar_csky_trader_intro2_dialog_8">
+		<text>谁知道？也许独行者已经找到那里能被发现的一切东西。到达焦脑器是每个人的梦想。我听说得到神器能让你享用一生…如果你没有立即丧命。我们贸易商人应该同心协力找到一种方法扭转这种状况。</text>
+	</string>
+	<string id="mar_csky_trader_intro_dialog_0">
+		<text>终于好了！给，拿着这套组合装备- 它是专为巡逻任务准备的。</text>
+	</string>
+	<string id="mar_csky_trader_intro_dialog_2">
+		<text>我得到命令要给你些装备，没时间考虑了，那些战士需要你的帮助！</text>
+	</string>
+	<string id="mar_csky_leader_choose_dialog_111">
+		<text>仔细听好。我们在特异区内利用我们所有的联络方式，终于了解到，有个独行者向封锁线的西德洛维奇打听一些很奇怪的零部件。我们目前就知道这些，但它是个线索。</text>
+	</string>
+	<string id="mar_csky_leader_choose_dialog_11111">
+		<text>当然要通过沼泽地。怎么啦？但是记住我所说的- 风暴后有一整支部队和各种败类出现在该区域。现在他们差不多控制了整个地区，并包围了我们。所以我们必须先恢复对沼泽地的控制，然后才能帮你抵达封锁线，我想在你的帮助下我们能够做到。</text>
+	</string>
+	<string id="mar_csky_leader_choose_dialog_211">
+		<text>好吧，你还有不多的时间去考虑。当你准备好了就回来。</text>
+	</string>
+	<string id="mar_csky_leader_hello_dialog_11">
+		<text>你先到酒保那儿呆会儿，喝杯好酒再回来。现在和你谈话没用- 你好像还有点神志不清。</text>
+	</string>
+	<string id="mar_csky_leader_hello_dialog_21">
+		<text>你还在这里干嘛？立即到苏斯洛夫那儿拿你的装备！</text>
+	</string>
+	<string id="mar_csky_leader_hello_dialog_31">
+		<text>拿到装备了？那就抓紧时间，跑步到达前哨站！</text>
+	</string>
+	<string id="mar_csky_leader_hello_dialog_41">
+		<text>帮助我们是你的自愿。当然，你也可以无为的渡过你的余生。</text>
+	</string>
+	<string id="mar_csky_leader_hello_dialog_91">
+		<text>来说说，伙计。</text>
+	</string>
+	<string id="mar_csky_barman_hello_dialog_11">
+		<text>我建议你去见列别捷夫- 他不需要没用处的人。</text>
+	</string>
+	<string id="mar_csky_barman_hello_dialog_21">
+		<text>现在不是聊天的时候，伙计。你听到没有？第二个前哨站正受到攻击。你准备怎么帮助他们，嗯？</text>
+	</string>
+	<string id="mar_csky_barman_hello_dialog_31">
+		<text>你好先生。两次风暴后我还在这儿！我觉得列别捷夫想要和你谈谈。在第三次风暴击中你之前何不去见见他？哈哈！</text>
+	</string>
+	<string id="mar_csky_barman_hello_dialog_41">
+		<text>有什么新闻，兄弟？</text>
+	</string>
+	<string id="mar_csky_tehnik_hello_dialog_11">
+		<text>见鬼，伙计，你看起来像快要死了！你需要呼吸点新鲜空气或吃点什么。瞧，我们已经在这里准备好了一个露天酒吧。</text>
+	</string>
+	<string id="mar_csky_tehnik_hello_dialog_21">
+		<text>我想列别捷夫正在到处找你。我认为你该去和他谈谈。当你去时，我还得像往常一样利用那该死的废料，修理这几把破枪。</text>
+	</string>
+	<string id="mar_csky_tehnik_hello_dialog_31">
+		<text>第二前哨站发出了“救命”信号，你必须去帮助他们！</text>
+	</string>
+	<string id="mar_csky_tehnik_hello_dialog_41">
+		<text>嗨，神奇的特异区！我听说列别捷夫想知道你所向无敌的秘密！去见他。</text>
+	</string>
+	<string id="mar_csky_tehnik_hello_dialog_91">
+		<text>有什么事吗？</text>
+	</string>
+	<string id="mar_csky_trader_hello_dialog_11">
+		<text>我的天啊！你脸色惨白的像吸血鬼一样！你需要去酒吧休息一会儿！</text>
+	</string>
+	<string id="mar_csky_trader_hello_dialog_21">
+		<text>你看起来相当好…不管怎样没什么人能在大风暴后活下来。你真没什么想要和坐在火炉边的列别捷夫说…</text>
+	</string>
+	<string id="mar_csky_trader_hello_dialog_31">
+		<text>我们等一会再谈。你现在必须要去前哨站！</text>
+	</string>
+	<string id="mar_csky_trader_hello_dialog_41">
+		<text>天啊！你应该去见列别捷夫…不要在喝酒后这么做。</text>
+	</string>
+	<string id="mar_csky_trader_hello_dialog_91">
+		<text>要交易吗？</text>
+	</string>
+	<string id="mar_csky_barman_hello_dialog_111">
+		<text>明白你的意思。</text>
+	</string>
+	<string id="mar_csky_barman_hello_dialog_211">
+		<text>这正是我要做的。</text>
+	</string>
+	<string id="mar_csky_barman_hello_dialog_311">
+		<text>那是个讨厌的笑话…不！</text>
+	</string>
+	<string id="mar_csky_barman_intro_dialog_1">
+		<text>没什么能告诉你的。我在带领一队科学家经过沼泽地的时候被风暴击中。我只记得一些无关紧要的事…我正在想法恢复我的记忆。那么，现在你能告诉我发生了什么事情。</text>
+	</string>
+	<string id="mar_csky_barman_intro_dialog_3">
+		<text>你在这里过的如何啊？</text>
+	</string>
+	<string id="mar_csky_barman_intro_dialog_5">
+		<text>嗯，就谈到这儿吧…你能告诉我，现在我们在哪里？</text>
+	</string>
+	<string id="mar_csky_barman_intro_dialog_7">
+		<text>我对特异区并不陌生，但我没听过晴空组织的事。情况是怎样的？</text>
+	</string>
+	<string id="mar_csky_barman_intro_dialog_9">
+		<text>…</text>
+	</string>
+	<string id="mar_csky_doctor_about_me_0">
+		<text>我发生了什么事情？</text>
+	</string>
+	<string id="mar_csky_doctor_about_me_2">
+		<text>是的，我感觉不太好…</text>
+	</string>
+	<string id="mar_csky_doctor_about_me_4">
+		<text>你能阻止我的神经系统被破坏吗？</text>
+	</string>
+	<string id="mar_csky_doctor_about_me_6">
+		<text>你能为我做点其它事情吗？</text>
+	</string>
+	<string id="mar_csky_doctor_about_people_0">
+		<text>我在特异区见过各种类型的人。有些人来这里追逐他们的梦想，有些人在寻求特异区的神秘之处，还有些人只是为了掠夺。为什么只有晴空组织研究特异区？</text>
+	</string>
+	<string id="mar_csky_doctor_about_zone_0">
+		<text>那么，什么是特异区？</text>
+	</string>
+	<string id="mar_csky_doctor_about_zone_2">
+		<text>特异区为什么会有震动？知道关于它的事情吗？</text>
+	</string>
+	<string id="mar_csky_doctor_about_zone_4">
+		<text>但愿我知道谁在捣鬼…</text>
+	</string>
+	<string id="mar_csky_doctor_about_zone_6">
+		<text>这是人力能做到的吗？</text>
+	</string>
+	<string id="mar_csky_doctor_about_zone_8">
+		<text>用什么方法比较好？“营救计划”的重点是什么？</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_11">
+		<text>你必须停止在这儿闲逛，伙计。和列别捷夫谈谈，照他说的去做。</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_111">
+		<text>我会和他谈的，谢谢。</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_21">
+		<text>那么，你做好去前哨站的准备了？</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_211">
+		<text>我准备好了。</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_2111">
+		<text>那好。我要遮住你的眼睛，直到我们到达那里。你应该明白，我这么做是因为我们必须要保持路线的秘密。</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_21111">
+		<text>好的。</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_212">
+		<text>还没有。</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_2121">
+		<text>那么快点。</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_21211">
+		<text>好。</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_31">
+		<text>我不会引导你通过沼泽。列别捷夫的命令。</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_311">
+		<text>我明白了。</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_41">
+		<text>因此，希望我引导你通过巨大的沼泽地？</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_411">
+		<text>是的。</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_4111">
+		<text>你知道规矩- 你会被遮住眼睛。扶好我的肩膀不要放开，你会平安无事的。</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_41111">
+		<text>好的。</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_412">
+		<text>还没有。</text>
+	</string>
+	<string id="mar_csky_guide_at_marsh_dialog_11">
+		<text>好极了。你是否要我引导你到我们的基地？</text>
+	</string>
+	<string id="mar_csky_guide_at_marsh_dialog_111">
+		<text>是的。</text>
+	</string>
+	<string id="mar_csky_guide_at_marsh_dialog_1111">
+		<text>不错，然后把眼罩放在你的眼睛上，不要放开我的肩膀，直到我说可以为。</text>
+	</string>
+	<string id="mar_csky_guide_at_marsh_dialog_11111">
+		<text>我们走吧。</text>
+	</string>
+	<string id="mar_csky_guide_at_marsh_dialog_112">
+		<text>还没有。</text>
+	</string>
+	<string id="mar_csky_leader_choose_dialog_0">
+		<text>看起来我没别的路可选了。</text>
+	</string>
+	<string id="mar_csky_leader_choose_dialog_11">
+		<text>是的。</text>
+	</string>
+	<string id="mar_csky_leader_choose_dialog_1111">
+		<text>那很好。我要如何到达封锁线？</text>
+	</string>
+	<string id="mar_csky_leader_choose_dialog_111111">
+		<text>已经了解。</text>
+	</string>
+	<string id="mar_csky_leader_choose_dialog_21">
+		<text>不，我需要一些时间仔细考虑下。</text>
+	</string>
+	<string id="mar_csky_leader_choose_dialog_2111">
+		<text>就那么办。</text>
+	</string>
+	<string id="mar_csky_leader_hello_dialog_111">
+		<text>我明白。</text>
+	</string>
+	<string id="mar_csky_leader_hello_dialog_211">
+		<text>好的。</text>
+	</string>
+	<string id="mar_csky_leader_hello_dialog_311">
+		<text>是的。</text>
+	</string>
+	<string id="mar_csky_leader_hello_dialog_911">
+		<text>我只是回来待一会儿，我应该上路了。</text>
+	</string>
+	<string id="mar_csky_leader_intro2_dialog_1">
+		<text>你们为什么隐藏了起来？</text>
+	</string>
+	<string id="mar_csky_leader_intro2_dialog_11">
+		<text>…</text>
+	</string>
+	<string id="mar_csky_leader_intro2_dialog_3">
+		<text>为何如此反常呢？我们之前也遇过风暴…</text>
+	</string>
+	<string id="mar_csky_leader_intro2_dialog_5">
+		<text>如果我知道我是怎么活下来的，我会立刻告诉你。但是我不记得如何事情了…</text>
+	</string>
+	<string id="mar_csky_leader_intro2_dialog_7">
+		<text>我最好还是离开这。我被打败了，但我仍然可以走路而且拿着枪。我怎么才能离开这里？</text>
+	</string>
+	<string id="mar_csky_leader_intro2_dialog_9">
+		<text>你还想说什么？</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_1">
+		<text>这里为什么经常发生风暴？</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_11">
+		<text>你有很大信心要达到目的。所以，有什么打算？</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_13">
+		<text>有那么多人，为啥你只告诉了我？</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_15">
+		<text>嗯…我不想在形势最激烈的时刻马上加入进来。为何我必须参与其中呢？</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_3">
+		<text>有人去过焦脑器？这会给特异区带来什么风险？</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_5">
+		<text>有没有真正的方法可以通过焦脑器？即使是个假设的机会？</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_7">
+		<text>如此频繁发生风暴的危险是什么？</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_9">
+		<text>阻止灾难？即使你不够强壮也足以击退强盗。</text>
+	</string>
+	<string id="mar_csky_leader_intro_dialog_1">
+		<text>我头痛的要裂开了…站立不稳…不过，我现在状态良好。</text>
+	</string>
+	<string id="mar_csky_leader_intro_dialog_3">
+		<text>好的…我记得带领一队科学家探测并通过沼泽。然后…风暴…就是这样。我在哪里，这是天堂吗？为什么它看起来那么像特异区？</text>
+	</string>
+	<string id="mar_csky_leader_intro_dialog_5">
+		<text>嗯。我猜想我当时真够幸运…</text>
+	</string>
+	<string id="mar_csky_leader_tutorial_dialog_111">
+		<text>好的。</text>
+	</string>
+	<string id="mar_csky_leader_tutorial_dialog_2">
+		<text>我只记得一些零碎的事情。</text>
+	</string>
+	<string id="mar_csky_tactic_about_me_dialog_0">
+		<text>你在这做什么？</text>
+	</string>
+	<string id="mar_csky_tactic_about_me_dialog_1">
+		<text>尽量多休息。伙计们收集了部分情报带给我，和我们的英勇领袖商议。你瞧，我们充当着晴空组织在沼泽里的眼睛和耳朵。</text>
+	</string>
+	<string id="mar_csky_tactic_hello_dialog_11">
+		<text>老兄，我有三天没睡觉了…还是四天？我想睡觉了。</text>
+	</string>
+	<string id="mar_csky_tactic_hello_dialog_111">
+		<text>好吧。</text>
+	</string>
+	<string id="mar_csky_tactic_hello_dialog_21">
+		<text>老兄，请…</text>
+	</string>
+	<string id="mar_csky_tactic_hello_dialog_211">
+		<text>好吧，好吧，去睡觉。</text>
+	</string>
+	<string id="mar_csky_tactic_hello_dialog_31">
+		<text>等一下。要到沼泽很容易- 我们的向导会带你们过来的。如果你想要在哪里生存下去，你必须从你的PDA上获取新的信息，并了解当前的作战形势。所以如果你还有问题的话，请提出来。</text>
+	</string>
+	<string id="mar_csky_tactic_hello_dialog_41">
+		<text>沼泽地带几乎到处都是强盗和异变怪物。我们可能随时会被攻击。</text>
+	</string>
+	<string id="mar_csky_tactic_hello_dialog_51">
+		<text>当然，我们在沼泽地已经有了稳固的立足点，但是它并不完善。我向你保证它不是最成功的阵地。</text>
+	</string>
+	<string id="mar_csky_tactic_hello_dialog_61">
+		<text>沼泽地带相对来说还是比较安全的。然而，不能不说的是它也有通往外界的路线。</text>
+	</string>
+	<string id="mar_csky_tactic_hello_dialog_71">
+		<text>你真是个有点固执的人，对吧？我们都记得你呢，甚至向导也是。如果你要前往封锁线，我们当中的一个会在沼泽东南方的村庄里面等你。</text>
+	</string>
+	<string id="mar_csky_tactic_hello_dialog_81">
+		<text>事情都办好了？我要回去打个盹…</text>
+	</string>
+	<string id="mar_csky_tactic_situation_dialog_0">
+		<text>现在的战事如何？</text>
+	</string>
+	<string id="mar_csky_tactic_situation_dialog_1">
+		<text>很槽糕，麻烦很大。我们在沼泽的战士难以支撑下去- 他们被强盗和异变怪物不断的推回原处。敌人在人数上远远超过我们。</text>
+	</string>
+	<string id="mar_csky_tactic_situation_dialog_2">
+		<text>我们要让沼泽感觉到我们的存在，但是强盗仍然在骚扰我们。他们从东北方向的农庄不断的对我们发动突然袭击，说的客气点…那是相当的麻烦。</text>
+	</string>
+	<string id="mar_csky_tactic_situation_dialog_3">
+		<text>沼泽是可以拯救我们的少数区域。不幸的是，从这里通往外界的路线被敌人控制着。</text>
+	</string>
+	<string id="mar_csky_tactic_situation_dialog_4">
+		<text>总之，很棒。虽然强盗和异变怪物时常的骚扰使我们困扰，但相对以前来言，沼泽简直就是个天堂。</text>
+	</string>
+	<string id="mar_csky_tactic_task_dialog_0">
+		<text>要怎么做才能控制沼泽地？</text>
+	</string>
+	<string id="mar_csky_tactic_task_dialog_1">
+		<text>简单的说，要尽可能多的消灭敌人，减少他们的人数。如果我们不这么做，我们的战士将没有机会保护沼泽的安全。</text>
+	</string>
+	<string id="mar_csky_tactic_task_dialog_2">
+		<text>占领东北边的农庄。强盗经常在那里休息。</text>
+	</string>
+	<string id="mar_csky_tactic_task_dialog_3">
+		<text>控制有利位置，监视通往封锁线和农业研究所的道路。没有它我们和外界的联络会被切断。</text>
+	</string>
+	<string id="mar_csky_tactic_task_dialog_4">
+		<text>去休息一会？睡醒后，沼泽就是我们的了。</text>
+	</string>
+	<string id="mar_csky_tactic_tutorial_dialog_0">
+		<text>告诉我关于我的PDA的新功能。</text>
+	</string>
+	<string id="mar_csky_tehnik_about_dialog_0">
+		<text>嘿！你好。会修东西吗？</text>
+	</string>
+	<string id="mar_csky_tehnik_about_dialog_2">
+		<text>哇，你真够牛的。</text>
+	</string>
+	<string id="mar_csky_tehnik_about_dialog_4">
+		<text>嗯，你擅长做啥工作？</text>
+	</string>
+	<string id="mar_csky_tehnik_hello_dialog_111">
+		<text>我知道你什么意思。</text>
+	</string>
+	<string id="mar_csky_tehnik_hello_dialog_211">
+		<text>我知道。</text>
+	</string>
+	<string id="mar_csky_tehnik_hello_dialog_311">
+		<text>是。</text>
+	</string>
+	<string id="mar_csky_tehnik_hello_dialog_411">
+		<text>不错。</text>
+	</string>
+	<string id="mar_csky_trader_hello_dialog_111">
+		<text>聪明极了。</text>
+	</string>
+	<string id="mar_csky_trader_hello_dialog_211">
+		<text>好主意。</text>
+	</string>
+	<string id="mar_csky_trader_hello_dialog_311">
+		<text>我知道。</text>
+	</string>
+	<string id="mar_csky_trader_hello_dialog_411">
+		<text>是，感谢你的建议。</text>
+	</string>
+	<string id="mar_csky_trader_intro2_dialog_1">
+		<text>都不是，很不幸。我被放射风暴击中后勉强活下来。现在感觉很空虚。风暴好像把我所有的好东西散落在沼泽地的各处…</text>
+	</string>
+	<string id="mar_csky_trader_intro2_dialog_101">
+		<text>回见。</text>
+	</string>
+	<string id="mar_csky_trader_intro2_dialog_3">
+		<text>是啊，是啊…即使在沼泽，在一个极秘密的地点，那地方有个贸易商人。知道了吗？</text>
+	</string>
+	<string id="mar_csky_trader_intro2_dialog_5">
+		<text>我知道了。 好像除我之外你的生意也不是太好。</text>
+	</string>
+	<string id="mar_csky_trader_intro2_dialog_7">
+		<text>为什么选择有限制？</text>
+	</string>
+	<string id="mar_csky_trader_intro2_dialog_9">
+		<text>你不是唯一在想解决方法的人。</text>
+	</string>
+	<string id="mar_csky_trader_intro_dialog_1">
+		<text>谢谢。嘿，这里总是这么紧张嘛？</text>
+	</string>
+	<string id="mar_csky_trader_intro_dialog_3">
+		<text>耶。我走了。</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_51">
+		<text>嗨！你去哪里，要我带你去吗？</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_511">
+		<text>我去封锁线。</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_5111">
+		<text>是的，兄弟，在你帮助我们的兄弟时我会给你支持的。我已经忘了在平安的沼泽地散步是什么感觉…至少在特异区边缘范围的湿地也是安全的。好吧，让我们言回正传。我们可以走了吗？</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_51111">
+		<text>是的。</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_511111">
+		<text>这次我们不会盲走了。如果你走进一些流沙，睁大你的眼睛去感受那种垂死的乐趣…跟你开玩笑呢！时刻保持警觉并记住通过沼泽的方法- 下次你得自己靠自己了。</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_5111111">
+		<text>明白你的意思。</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_51112">
+		<text>不，我有一些生意在这里完成。</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_5112">
+		<text>嗯，那好吧，从这里过去有很远的路程。有好一阵子，快点，赶快？</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_512">
+		<text>到你的基地。</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_5121">
+		<text>好的。带上你的眼罩不要放开我的肩膀。</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_51211">
+		<text>我们走吧。</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_513">
+		<text>到捕鱼的小村庄。</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_514">
+		<text>到废墟的村庄。</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_515">
+		<text>到燃烧的农庄及其建筑物。</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_516">
+		<text>到南方的农庄及其建筑物。</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_517">
+		<text>不想去那些地方。待会见。</text>
+	</string>
+	<string id="mar_csky_leader_intro_dialog_7">
+		<text>…</text>
+	</string>
+</string_table>

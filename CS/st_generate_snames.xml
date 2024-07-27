@@ -1,0 +1,4839 @@
+﻿<?xml version="1.0" encoding="Unicode" ?>
+<string_table>
+	<string id="Osoznanie">
+		<text>C-意识的代表</text>
+	</string>
+	<string id="lname_bandit_0">
+		<text>葛雷</text>
+	</string>
+	<string id="lname_bandit_1">
+		<text>狂汉</text>
+	</string>
+	<string id="lname_bandit_10">
+		<text>烂人</text>
+	</string>
+	<string id="lname_bandit_100">
+		<text>外科医师</text>
+	</string>
+	<string id="lname_bandit_101">
+		<text>间谍</text>
+	</string>
+	<string id="lname_bandit_102">
+		<text>野牛</text>
+	</string>
+	<string id="lname_bandit_103">
+		<text>海狸</text>
+	</string>
+	<string id="lname_bandit_104">
+		<text>牛头犬</text>
+	</string>
+	<string id="lname_bandit_105">
+		<text>公牛</text>
+	</string>
+	<string id="lname_bandit_106">
+		<text>麻雀</text>
+	</string>
+	<string id="lname_bandit_107">
+		<text>啄木鸟</text>
+	</string>
+	<string id="lname_bandit_108">
+		<text>野兽</text>
+	</string>
+	<string id="lname_bandit_109">
+		<text>毒蛇</text>
+	</string>
+	<string id="lname_bandit_11">
+		<text>驼背</text>
+	</string>
+	<string id="lname_bandit_110">
+		<text>野猪</text>
+	</string>
+	<string id="lname_bandit_111">
+		<text>鲤鱼</text>
+	</string>
+	<string id="lname_bandit_112">
+		<text>金丝雀</text>
+	</string>
+	<string id="lname_bandit_113">
+		<text>臭虫</text>
+	</string>
+	<string id="lname_bandit_114">
+		<text>公猪</text>
+	</string>
+	<string id="lname_bandit_115">
+		<text>麋鹿</text>
+	</string>
+	<string id="lname_bandit_116">
+		<text>帕苏克</text>
+	</string>
+	<string id="lname_bandit_117">
+		<text>蟒蛇</text>
+	</string>
+	<string id="lname_bandit_118">
+		<text>短棍</text>
+	</string>
+	<string id="lname_bandit_119">
+		<text>打手</text>
+	</string>
+	<string id="lname_bandit_12">
+		<text>长个儿</text>
+	</string>
+	<string id="lname_bandit_120">
+		<text>伤害犯</text>
+	</string>
+	<string id="lname_bandit_121">
+		<text>螺栓</text>
+	</string>
+	<string id="lname_bandit_122">
+		<text>剃刀</text>
+	</string>
+	<string id="lname_bandit_123">
+		<text>野鸽</text>
+	</string>
+	<string id="lname_bandit_124">
+		<text>杰克</text>
+	</string>
+	<string id="lname_bandit_125">
+		<text>钻头</text>
+	</string>
+	<string id="lname_bandit_126">
+		<text>炸药</text>
+	</string>
+	<string id="lname_bandit_127">
+		<text>王牌</text>
+	</string>
+	<string id="lname_bandit_128">
+		<text>纳可</text>
+	</string>
+	<string id="lname_bandit_129">
+		<text>大麻烟</text>
+	</string>
+	<string id="lname_bandit_13">
+		<text>斯人</text>
+	</string>
+	<string id="lname_bandit_130">
+		<text>圣人</text>
+	</string>
+	<string id="lname_bandit_131">
+		<text>勾子</text>
+	</string>
+	<string id="lname_bandit_132">
+		<text>讨厌鬼</text>
+	</string>
+	<string id="lname_bandit_133">
+		<text>铁橇</text>
+	</string>
+	<string id="lname_bandit_134">
+		<text>感冒药</text>
+	</string>
+	<string id="lname_bandit_135">
+		<text>羽毛</text>
+	</string>
+	<string id="lname_bandit_136">
+		<text>活塞</text>
+	</string>
+	<string id="lname_bandit_137">
+		<text>硬币</text>
+	</string>
+	<string id="lname_bandit_138">
+		<text>屁股</text>
+	</string>
+	<string id="lname_bandit_139">
+		<text>死神</text>
+	</string>
+	<string id="lname_bandit_14">
+		<text>立人</text>
+	</string>
+	<string id="lname_bandit_140">
+		<text>研磨器</text>
+	</string>
+	<string id="lname_bandit_141">
+		<text>高手</text>
+	</string>
+	<string id="lname_bandit_142">
+		<text>凿子</text>
+	</string>
+	<string id="lname_bandit_143">
+		<text>白痴</text>
+	</string>
+	<string id="lname_bandit_144">
+		<text>钻子</text>
+	</string>
+	<string id="lname_bandit_145">
+		<text>绳结</text>
+	</string>
+	<string id="lname_bandit_146">
+		<text>转轴</text>
+	</string>
+	<string id="lname_bandit_147">
+		<text>沙蚤</text>
+	</string>
+	<string id="lname_bandit_148">
+		<text>拳头</text>
+	</string>
+	<string id="lname_bandit_149">
+		<text>虫子</text>
+	</string>
+	<string id="lname_bandit_15">
+		<text>帽架子</text>
+	</string>
+	<string id="lname_bandit_150">
+		<text>巴马力</text>
+	</string>
+	<string id="lname_bandit_151">
+		<text>贝弟</text>
+	</string>
+	<string id="lname_bandit_152">
+		<text>卡斯奇</text>
+	</string>
+	<string id="lname_bandit_153">
+		<text>蓝波</text>
+	</string>
+	<string id="lname_bandit_154">
+		<text>苏沙宁</text>
+	</string>
+	<string id="lname_bandit_155">
+		<text>终结者</text>
+	</string>
+	<string id="lname_bandit_156">
+		<text>沙狐球</text>
+	</string>
+	<string id="lname_bandit_157">
+		<text>成吉思</text>
+	</string>
+	<string id="lname_bandit_158">
+		<text>香蕉</text>
+	</string>
+	<string id="lname_bandit_159">
+		<text>短棍</text>
+	</string>
+	<string id="lname_bandit_16">
+		<text>洞人</text>
+	</string>
+	<string id="lname_bandit_160">
+		<text>土老头</text>
+	</string>
+	<string id="lname_bandit_161">
+		<text>手风琴</text>
+	</string>
+	<string id="lname_bandit_162">
+		<text>泥土</text>
+	</string>
+	<string id="lname_bandit_163">
+		<text>坏疽</text>
+	</string>
+	<string id="lname_bandit_164">
+		<text>毛病</text>
+	</string>
+	<string id="lname_bandit_165">
+		<text>毕业生</text>
+	</string>
+	<string id="lname_bandit_166">
+		<text>烟雾</text>
+	</string>
+	<string id="lname_bandit_167">
+		<text>落榜人</text>
+	</string>
+	<string id="lname_bandit_168">
+		<text>废弃人</text>
+	</string>
+	<string id="lname_bandit_169">
+		<text>纳可</text>
+	</string>
+	<string id="lname_bandit_17">
+		<text>烫伤</text>
+	</string>
+	<string id="lname_bandit_170">
+		<text>小号</text>
+	</string>
+	<string id="lname_bandit_171">
+		<text>大麻烟</text>
+	</string>
+	<string id="lname_bandit_172">
+		<text>讨厌鬼</text>
+	</string>
+	<string id="lname_bandit_173">
+		<text>累嘘</text>
+	</string>
+	<string id="lname_bandit_174">
+		<text>回教徒</text>
+	</string>
+	<string id="lname_bandit_175">
+		<text>没事</text>
+	</string>
+	<string id="lname_bandit_176">
+		<text>无赖</text>
+	</string>
+	<string id="lname_bandit_177">
+		<text>布丁</text>
+	</string>
+	<string id="lname_bandit_178">
+		<text>胡椒</text>
+	</string>
+	<string id="lname_bandit_179">
+		<text>磨碎器</text>
+	</string>
+	<string id="lname_bandit_18">
+		<text>气球</text>
+	</string>
+	<string id="lname_bandit_180">
+		<text>饼乾</text>
+	</string>
+	<string id="lname_bandit_181">
+		<text>盗墓者</text>
+	</string>
+	<string id="lname_bandit_19">
+		<text>妒忌鬼</text>
+	</string>
+	<string id="lname_bandit_2">
+		<text>打手</text>
+	</string>
+	<string id="lname_bandit_20">
+		<text>吝啬鬼</text>
+	</string>
+	<string id="lname_bandit_21">
+		<text>辱马</text>
+	</string>
+	<string id="lname_bandit_22">
+		<text>怪物</text>
+	</string>
+	<string id="lname_bandit_23">
+		<text>跛子</text>
+	</string>
+	<string id="lname_bandit_24">
+		<text>冷面人</text>
+	</string>
+	<string id="lname_bandit_25">
+		<text>要角</text>
+	</string>
+	<string id="lname_bandit_26">
+		<text>独眼龙</text>
+	</string>
+	<string id="lname_bandit_27">
+		<text>切角机</text>
+	</string>
+	<string id="lname_bandit_28">
+		<text>波弟</text>
+	</string>
+	<string id="lname_bandit_29">
+		<text>斗士</text>
+	</string>
+	<string id="lname_bandit_3">
+		<text>恶棍</text>
+	</string>
+	<string id="lname_bandit_30">
+		<text>本地人</text>
+	</string>
+	<string id="lname_bandit_31">
+		<text>泥人</text>
+	</string>
+	<string id="lname_bandit_32">
+		<text>皱纹</text>
+	</string>
+	<string id="lname_bandit_33">
+		<text>单眼</text>
+	</string>
+	<string id="lname_bandit_34">
+		<text>鸨</text>
+	</string>
+	<string id="lname_bandit_35">
+		<text>寄生虫</text>
+	</string>
+	<string id="lname_bandit_36">
+		<text>帅哥</text>
+	</string>
+	<string id="lname_bandit_37">
+		<text>豺狼</text>
+	</string>
+	<string id="lname_bandit_38">
+		<text>颓废</text>
+	</string>
+	<string id="lname_bandit_39">
+		<text>疯子</text>
+	</string>
+	<string id="lname_bandit_4">
+		<text>压客</text>
+	</string>
+	<string id="lname_bandit_40">
+		<text>破烂</text>
+	</string>
+	<string id="lname_bandit_41">
+		<text>掠夺者</text>
+	</string>
+	<string id="lname_bandit_42">
+		<text>瞎子</text>
+	</string>
+	<string id="lname_bandit_43">
+		<text>鼻涕</text>
+	</string>
+	<string id="lname_bandit_44">
+		<text>泰迪</text>
+	</string>
+	<string id="lname_bandit_45">
+		<text>资本家</text>
+	</string>
+	<string id="lname_bandit_46">
+		<text>肉罐头</text>
+	</string>
+	<string id="lname_bandit_47">
+		<text>恐怖片</text>
+	</string>
+	<string id="lname_bandit_48">
+		<text>耳朵</text>
+	</string>
+	<string id="lname_bandit_49">
+		<text>小丑</text>
+	</string>
+	<string id="lname_bandit_5">
+		<text>刺人</text>
+	</string>
+	<string id="lname_bandit_50">
+		<text>瘸子</text>
+	</string>
+	<string id="lname_bandit_51">
+		<text>病号</text>
+	</string>
+	<string id="lname_bandit_52">
+		<text>好动者</text>
+	</string>
+	<string id="lname_bandit_53">
+		<text>唯美主义者</text>
+	</string>
+	<string id="lname_bandit_54">
+		<text>胖子</text>
+	</string>
+	<string id="lname_bandit_55">
+		<text>律师</text>
+	</string>
+	<string id="lname_bandit_56">
+		<text>杜立德 </text>
+	</string>
+	<string id="lname_bandit_57">
+		<text>艺术家</text>
+	</string>
+	<string id="lname_bandit_58">
+		<text>骗子</text>
+	</string>
+	<string id="lname_bandit_59">
+		<text>银行家</text>
+	</string>
+	<string id="lname_bandit_6">
+		<text>流浪者</text>
+	</string>
+	<string id="lname_bandit_60">
+		<text>男爵</text>
+	</string>
+	<string id="lname_bandit_61">
+		<text>毒贩</text>
+	</string>
+	<string id="lname_bandit_62">
+		<text>异教徒</text>
+	</string>
+	<string id="lname_bandit_63">
+		<text>乞丐</text>
+	</string>
+	<string id="lname_bandit_64">
+		<text>水手长</text>
+	</string>
+	<string id="lname_bandit_65">
+		<text>浪子</text>
+	</string>
+	<string id="lname_bandit_66">
+		<text>波本</text>
+	</string>
+	<string id="lname_bandit_67">
+		<text>有钱人</text>
+	</string>
+	<string id="lname_bandit_68">
+		<text>送货人</text>
+	</string>
+	<string id="lname_bandit_69">
+		<text>小贼</text>
+	</string>
+	<string id="lname_bandit_7">
+		<text>无毛</text>
+	</string>
+	<string id="lname_bandit_70">
+		<text>喜剧演员</text>
+	</string>
+	<string id="lname_bandit_71">
+		<text>信差</text>
+	</string>
+	<string id="lname_bandit_72">
+		<text>图表</text>
+	</string>
+	<string id="lname_bandit_73">
+		<text>暴君</text>
+	</string>
+	<string id="lname_bandit_74">
+		<text>山顶洞人</text>
+	</string>
+	<string id="lname_bandit_75">
+		<text>窒息</text>
+	</string>
+	<string id="lname_bandit_76">
+		<text>法学家</text>
+	</string>
+	<string id="lname_bandit_77">
+		<text>玩家</text>
+	</string>
+	<string id="lname_bandit_78">
+		<text>车床</text>
+	</string>
+	<string id="lname_bandit_79">
+		<text>教父</text>
+	</string>
+	<string id="lname_bandit_8">
+		<text>利里</text>
+	</string>
+	<string id="lname_bandit_80">
+		<text>车夫</text>
+	</string>
+	<string id="lname_bandit_81">
+		<text>少校</text>
+	</string>
+	<string id="lname_bandit_82">
+		<text>疯子</text>
+	</string>
+	<string id="lname_bandit_83">
+		<text>掘墓人</text>
+	</string>
+	<string id="lname_bandit_84">
+		<text>涂夫</text>
+	</string>
+	<string id="lname_bandit_85">
+		<text>忍者</text>
+	</string>
+	<string id="lname_bandit_86">
+		<text>刽子手</text>
+	</string>
+	<string id="lname_bandit_87">
+		<text>庞克</text>
+	</string>
+	<string id="lname_bandit_88">
+		<text>党棍</text>
+	</string>
+	<string id="lname_bandit_89">
+		<text>和平主义者</text>
+	</string>
+	<string id="lname_bandit_9">
+		<text>布拉克</text>
+	</string>
+	<string id="lname_bandit_90">
+		<text>海盗</text>
+	</string>
+	<string id="lname_bandit_91">
+		<text>纵火犯</text>
+	</string>
+	<string id="lname_bandit_92">
+		<text>王子</text>
+	</string>
+	<string id="lname_bandit_93">
+		<text>土匪</text>
+	</string>
+	<string id="lname_bandit_94">
+		<text>波普</text>
+	</string>
+	<string id="lname_bandit_95">
+		<text>拉皮条</text>
+	</string>
+	<string id="lname_bandit_96">
+		<text>地拉那</text>
+	</string>
+	<string id="lname_bandit_97">
+		<text>杀手</text>
+	</string>
+	<string id="lname_bandit_98">
+		<text>祭司</text>
+	</string>
+	<string id="lname_bandit_99">
+		<text>化学家</text>
+	</string>
+	<string id="lname_captain_0">
+		<text>亚杜曼诺夫</text>
+	</string>
+	<string id="lname_captain_1">
+		<text>雅提尼克</text>
+	</string>
+	<string id="lname_captain_10">
+		<text>巴萨克</text>
+	</string>
+	<string id="lname_captain_100">
+		<text>基里耶夫</text>
+	</string>
+	<string id="lname_captain_101">
+		<text>柯里曼钦科</text>
+	</string>
+	<string id="lname_captain_102">
+		<text>柯瓦查克</text>
+	</string>
+	<string id="lname_captain_103">
+		<text>柯耶夫</text>
+	</string>
+	<string id="lname_captain_104">
+		<text>柯罗夫</text>
+	</string>
+	<string id="lname_captain_105">
+		<text>柯隆塔瑞夫</text>
+	</string>
+	<string id="lname_captain_106">
+		<text>柯隆塔</text>
+	</string>
+	<string id="lname_captain_107">
+		<text>康德瑞天科</text>
+	</string>
+	<string id="lname_captain_108">
+		<text>柯尔金</text>
+	</string>
+	<string id="lname_captain_109">
+		<text>柯内耶夫</text>
+	</string>
+	<string id="lname_captain_11">
+		<text>包尔</text>
+	</string>
+	<string id="lname_captain_110">
+		<text>克雷夫钦科</text>
+	</string>
+	<string id="lname_captain_111">
+		<text>克里夫达</text>
+	</string>
+	<string id="lname_captain_112">
+		<text>克里夫哈斯基</text>
+	</string>
+	<string id="lname_captain_113">
+		<text>库聂索夫</text>
+	</string>
+	<string id="lname_captain_114">
+		<text>库兹米其</text>
+	</string>
+	<string id="lname_captain_115">
+		<text>库亚钦</text>
+	</string>
+	<string id="lname_captain_116">
+		<text>柯其斯基</text>
+	</string>
+	<string id="lname_captain_117">
+		<text>肯赛夫</text>
+	</string>
+	<string id="lname_captain_118">
+		<text>柯维兹</text>
+	</string>
+	<string id="lname_captain_119">
+		<text>库其鲁克</text>
+	</string>
+	<string id="lname_captain_12">
+		<text>巴夏科夫</text>
+	</string>
+	<string id="lname_captain_120">
+		<text>库许纳尤夫</text>
+	</string>
+	<string id="lname_captain_121">
+		<text>柯哈拉德兹</text>
+	</string>
+	<string id="lname_captain_122">
+		<text>拉维克</text>
+	</string>
+	<string id="lname_captain_123">
+		<text>拉罗夫</text>
+	</string>
+	<string id="lname_captain_124">
+		<text>利夫希茨</text>
+	</string>
+	<string id="lname_captain_125">
+		<text>利希张斯基</text>
+	</string>
+	<string id="lname_captain_126">
+		<text>利特温</text>
+	</string>
+	<string id="lname_captain_127">
+		<text>利马连科</text>
+	</string>
+	<string id="lname_captain_128">
+		<text>梅兹帕</text>
+	</string>
+	<string id="lname_captain_129">
+		<text>马卡连科</text>
+	</string>
+	<string id="lname_captain_13">
+		<text>贝西马柯夫</text>
+	</string>
+	<string id="lname_captain_130">
+		<text>莫赛夫</text>
+	</string>
+	<string id="lname_captain_131">
+		<text>马码耶夫</text>
+	</string>
+	<string id="lname_captain_132">
+		<text>马列雅耶夫</text>
+	</string>
+	<string id="lname_captain_133">
+		<text>米尔钦科</text>
+	</string>
+	<string id="lname_captain_134">
+		<text>米罗尤克</text>
+	</string>
+	<string id="lname_captain_135">
+		<text>莫瑞</text>
+	</string>
+	<string id="lname_captain_136">
+		<text>莫洛索夫</text>
+	</string>
+	<string id="lname_captain_137">
+		<text>摩司特弗依</text>
+	</string>
+	<string id="lname_captain_138">
+		<text>曼特扬</text>
+	</string>
+	<string id="lname_captain_139">
+		<text>幕哈梅德夫</text>
+	</string>
+	<string id="lname_captain_14">
+		<text>贝雪夫里</text>
+	</string>
+	<string id="lname_captain_140">
+		<text>米斯科夫</text>
+	</string>
+	<string id="lname_captain_141">
+		<text>纳夫罗斯基</text>
+	</string>
+	<string id="lname_captain_142">
+		<text>内普里斯基</text>
+	</string>
+	<string id="lname_captain_143">
+		<text>尼坎诺罗夫</text>
+	</string>
+	<string id="lname_captain_144">
+		<text>尼基辛</text>
+	</string>
+	<string id="lname_captain_145">
+		<text>尼库林</text>
+	</string>
+	<string id="lname_captain_146">
+		<text>诺维可夫</text>
+	</string>
+	<string id="lname_captain_147">
+		<text>诺迪耶夫</text>
+	</string>
+	<string id="lname_captain_148">
+		<text>诺山</text>
+	</string>
+	<string id="lname_captain_149">
+		<text>欧波列夫</text>
+	</string>
+	<string id="lname_captain_15">
+		<text>比诺耶夫</text>
+	</string>
+	<string id="lname_captain_150">
+		<text>欧烈维奇</text>
+	</string>
+	<string id="lname_captain_151">
+		<text>欧罗夫</text>
+	</string>
+	<string id="lname_captain_152">
+		<text>佩克维奇</text>
+	</string>
+	<string id="lname_captain_153">
+		<text>彼得连科</text>
+	</string>
+	<string id="lname_captain_154">
+		<text>彼得罗夫</text>
+	</string>
+	<string id="lname_captain_155">
+		<text>波罗汉科</text>
+	</string>
+	<string id="lname_captain_156">
+		<text>波亚奇夫</text>
+	</string>
+	<string id="lname_captain_157">
+		<text>波里安宁</text>
+	</string>
+	<string id="lname_captain_158">
+		<text>波雷夫斯基</text>
+	</string>
+	<string id="lname_captain_159">
+		<text>波波夫</text>
+	</string>
+	<string id="lname_captain_16">
+		<text>布林诺夫</text>
+	</string>
+	<string id="lname_captain_160">
+		<text>波特耐</text>
+	</string>
+	<string id="lname_captain_161">
+		<text>布拉所罗夫</text>
+	</string>
+	<string id="lname_captain_162">
+		<text>波罗克边科</text>
+	</string>
+	<string id="lname_captain_163">
+		<text>波罗斯库宁</text>
+	</string>
+	<string id="lname_captain_164">
+		<text>波罗先科</text>
+	</string>
+	<string id="lname_captain_165">
+		<text>布鲁多夫</text>
+	</string>
+	<string id="lname_captain_166">
+		<text>布多瓦</text>
+	</string>
+	<string id="lname_captain_167">
+		<text>布查克</text>
+	</string>
+	<string id="lname_captain_168">
+		<text>雷比诺维奇</text>
+	</string>
+	<string id="lname_captain_169">
+		<text>雷克维奇</text>
+	</string>
+	<string id="lname_captain_17">
+		<text>巴波罗夫</text>
+	</string>
+	<string id="lname_captain_170">
+		<text>雷伦</text>
+	</string>
+	<string id="lname_captain_171">
+		<text>罗哥萨</text>
+	</string>
+	<string id="lname_captain_172">
+		<text>罗尼扬斯基</text>
+	</string>
+	<string id="lname_captain_173">
+		<text>罗坦</text>
+	</string>
+	<string id="lname_captain_174">
+		<text>陆布雷夫</text>
+	</string>
+	<string id="lname_captain_175">
+		<text>陆迪克</text>
+	</string>
+	<string id="lname_captain_176">
+		<text>陆沙诺瓦</text>
+	</string>
+	<string id="lname_captain_177">
+		<text>李查基斯基</text>
+	</string>
+	<string id="lname_captain_178">
+		<text>萨钦科</text>
+	</string>
+	<string id="lname_captain_179">
+		<text>萨查克</text>
+	</string>
+	<string id="lname_captain_18">
+		<text>波丹诺夫</text>
+	</string>
+	<string id="lname_captain_180">
+		<text>萨基多夫</text>
+	</string>
+	<string id="lname_captain_181">
+		<text>斯维李多夫</text>
+	</string>
+	<string id="lname_captain_182">
+		<text>赛迪</text>
+	</string>
+	<string id="lname_captain_183">
+		<text>赛瑞达</text>
+	</string>
+	<string id="lname_captain_184">
+		<text>西多连科</text>
+	</string>
+	<string id="lname_captain_185">
+		<text>西多罗夫</text>
+	</string>
+	<string id="lname_captain_186">
+		<text>西里</text>
+	</string>
+	<string id="lname_captain_187">
+		<text>西里辛</text>
+	</string>
+	<string id="lname_captain_188">
+		<text>斯卡梅卡</text>
+	</string>
+	<string id="lname_captain_189">
+		<text>史列斯基</text>
+	</string>
+	<string id="lname_captain_19">
+		<text>波依科</text>
+	</string>
+	<string id="lname_captain_190">
+		<text>斯米罗夫</text>
+	</string>
+	<string id="lname_captain_191">
+		<text>斯摩里</text>
+	</string>
+	<string id="lname_captain_192">
+		<text>所罗金</text>
+	</string>
+	<string id="lname_captain_193">
+		<text>斯塔尤拉</text>
+	</string>
+	<string id="lname_captain_194">
+		<text>斯帖钦</text>
+	</string>
+	<string id="lname_captain_195">
+		<text>史提钦斯基</text>
+	</string>
+	<string id="lname_captain_196">
+		<text>西库拉</text>
+	</string>
+	<string id="lname_captain_197">
+		<text>坦纳夫斯基</text>
+	</string>
+	<string id="lname_captain_198">
+		<text>塔塔查克</text>
+	</string>
+	<string id="lname_captain_199">
+		<text>丁查克</text>
+	</string>
+	<string id="lname_captain_2">
+		<text>安得列查克</text>
+	</string>
+	<string id="lname_captain_20">
+		<text>伯钦科</text>
+	</string>
+	<string id="lname_captain_21">
+		<text>伯斯库尔</text>
+	</string>
+	<string id="lname_captain_22">
+		<text>邦达雷夫</text>
+	</string>
+	<string id="lname_captain_23">
+		<text>波里索夫</text>
+	</string>
+	<string id="lname_captain_24">
+		<text>布里奇</text>
+	</string>
+	<string id="lname_captain_25">
+		<text>布朗斯坦</text>
+	</string>
+	<string id="lname_captain_26">
+		<text>伯亚克</text>
+	</string>
+	<string id="lname_captain_27">
+		<text>布图宁</text>
+	</string>
+	<string id="lname_captain_28">
+		<text>比雅洛</text>
+	</string>
+	<string id="lname_captain_29">
+		<text>瓦伦提诺</text>
+	</string>
+	<string id="lname_captain_3">
+		<text>安德鲁萨钦科</text>
+	</string>
+	<string id="lname_captain_30">
+		<text>瓦西里夫</text>
+	</string>
+	<string id="lname_captain_31">
+		<text>维赛罗夫</text>
+	</string>
+	<string id="lname_captain_32">
+		<text>维诺葛洛多夫</text>
+	</string>
+	<string id="lname_captain_33">
+		<text>弗聂科</text>
+	</string>
+	<string id="lname_captain_34">
+		<text>弗连查克</text>
+	</string>
+	<string id="lname_captain_35">
+		<text>弗罗达</text>
+	</string>
+	<string id="lname_captain_36">
+		<text>弗罗辛</text>
+	</string>
+	<string id="lname_captain_37">
+		<text>弗罗特索夫</text>
+	</string>
+	<string id="lname_captain_38">
+		<text>夫罗哈耶夫</text>
+	</string>
+	<string id="lname_captain_39">
+		<text>弗尤辛斯基</text>
+	</string>
+	<string id="lname_captain_4">
+		<text>亚尼赛耶夫</text>
+	</string>
+	<string id="lname_captain_40">
+		<text>葛尔钦</text>
+	</string>
+	<string id="lname_captain_41">
+		<text>刚尤克</text>
+	</string>
+	<string id="lname_captain_42">
+		<text>加克泛科</text>
+	</string>
+	<string id="lname_captain_43">
+		<text>加库夏</text>
+	</string>
+	<string id="lname_captain_44">
+		<text>乔治佛</text>
+	</string>
+	<string id="lname_captain_45">
+		<text>葛雷波斯基</text>
+	</string>
+	<string id="lname_captain_46">
+		<text>葛纳尤克</text>
+	</string>
+	<string id="lname_captain_47">
+		<text>刚查连科</text>
+	</string>
+	<string id="lname_captain_48">
+		<text>哥迪扬科</text>
+	</string>
+	<string id="lname_captain_49">
+		<text>葛蕾佛依</text>
+	</string>
+	<string id="lname_captain_5">
+		<text>阿达雪夫</text>
+	</string>
+	<string id="lname_captain_50">
+		<text>葛洛辛</text>
+	</string>
+	<string id="lname_captain_51">
+		<text>葛尤诺夫</text>
+	</string>
+	<string id="lname_captain_52">
+		<text>葛雷班尤克</text>
+	</string>
+	<string id="lname_captain_53">
+		<text>葛里萨延科</text>
+	</string>
+	<string id="lname_captain_54">
+		<text>葛里赛</text>
+	</string>
+	<string id="lname_captain_55">
+		<text>葛里先科</text>
+	</string>
+	<string id="lname_captain_56">
+		<text>葛里沙契夫</text>
+	</string>
+	<string id="lname_captain_57">
+		<text>葛里斯查克</text>
+	</string>
+	<string id="lname_captain_58">
+		<text>葛巴</text>
+	</string>
+	<string id="lname_captain_59">
+		<text>刚克</text>
+	</string>
+	<string id="lname_captain_6">
+		<text>贝比奇</text>
+	</string>
+	<string id="lname_captain_60">
+		<text>葛雷维奇</text>
+	</string>
+	<string id="lname_captain_61">
+		<text>丹尼先科</text>
+	</string>
+	<string id="lname_captain_62">
+		<text>多夫葛尤克</text>
+	</string>
+	<string id="lname_captain_63">
+		<text>当布里克</text>
+	</string>
+	<string id="lname_captain_64">
+		<text>多特先科</text>
+	</string>
+	<string id="lname_captain_65">
+		<text>多罗达许</text>
+	</string>
+	<string id="lname_captain_66">
+		<text>杜本查克</text>
+	</string>
+	<string id="lname_captain_67">
+		<text>杜多罗夫</text>
+	</string>
+	<string id="lname_captain_68">
+		<text>杜卡</text>
+	</string>
+	<string id="lname_captain_69">
+		<text>但可</text>
+	</string>
+	<string id="lname_captain_7">
+		<text>巴连</text>
+	</string>
+	<string id="lname_captain_70">
+		<text>但纳耶夫</text>
+	</string>
+	<string id="lname_captain_71">
+		<text>迪可罗夫</text>
+	</string>
+	<string id="lname_captain_72">
+		<text>依罗费耶夫</text>
+	</string>
+	<string id="lname_captain_73">
+		<text>依夫雷莫</text>
+	</string>
+	<string id="lname_captain_74">
+		<text>萨班科</text>
+	</string>
+	<string id="lname_captain_75">
+		<text>齐米耶夫</text>
+	</string>
+	<string id="lname_captain_76">
+		<text>祖拉科斯基</text>
+	</string>
+	<string id="lname_captain_77">
+		<text>萨比雅哥达</text>
+	</string>
+	<string id="lname_captain_78">
+		<text>萨哥罗纽克</text>
+	</string>
+	<string id="lname_captain_79">
+		<text>萨摩先查克</text>
+	</string>
+	<string id="lname_captain_8">
+		<text>巴拉诺夫</text>
+	</string>
+	<string id="lname_captain_80">
+		<text>萨如宾</text>
+	</string>
+	<string id="lname_captain_81">
+		<text>萨哈林</text>
+	</string>
+	<string id="lname_captain_82">
+		<text>斯佛尼斯基</text>
+	</string>
+	<string id="lname_captain_83">
+		<text>洛诺耶夫</text>
+	</string>
+	<string id="lname_captain_84">
+		<text>洛诺</text>
+	</string>
+	<string id="lname_captain_85">
+		<text>洛罗塔</text>
+	</string>
+	<string id="lname_captain_86">
+		<text>祖巴瑞夫</text>
+	</string>
+	<string id="lname_captain_87">
+		<text>祖科夫</text>
+	</string>
+	<string id="lname_captain_88">
+		<text>依凡诺夫</text>
+	</string>
+	<string id="lname_captain_89">
+		<text>依纳天科</text>
+	</string>
+	<string id="lname_captain_9">
+		<text>巴拉诺夫斯基</text>
+	</string>
+	<string id="lname_captain_90">
+		<text>依汉科</text>
+	</string>
+	<string id="lname_captain_91">
+		<text>依斯查克</text>
+	</string>
+	<string id="lname_captain_92">
+		<text>卡萨科夫</text>
+	</string>
+	<string id="lname_captain_93">
+		<text>卡萨赛夫</text>
+	</string>
+	<string id="lname_captain_94">
+		<text>卡迪巴科</text>
+	</string>
+	<string id="lname_captain_95">
+		<text>卡布卡</text>
+	</string>
+	<string id="lname_captain_96">
+		<text>卡布天科</text>
+	</string>
+	<string id="lname_captain_97">
+		<text>卡兹</text>
+	</string>
+	<string id="lname_captain_98">
+		<text>奇卡彼得</text>
+	</string>
+	<string id="lname_captain_99">
+		<text>加苏拉</text>
+	</string>
+	<string id="lname_lieutenant_0">
+		<text>阿杜曼诺夫</text>
+	</string>
+	<string id="lname_lieutenant_1">
+		<text>雅提尼克</text>
+	</string>
+	<string id="lname_lieutenant_10">
+		<text>巴萨克</text>
+	</string>
+	<string id="lname_lieutenant_100">
+		<text>基里耶夫</text>
+	</string>
+	<string id="lname_lieutenant_101">
+		<text>柯里曼钦科</text>
+	</string>
+	<string id="lname_lieutenant_102">
+		<text>柯瓦查克</text>
+	</string>
+	<string id="lname_lieutenant_103">
+		<text>柯耶夫</text>
+	</string>
+	<string id="lname_lieutenant_104">
+		<text>柯罗夫</text>
+	</string>
+	<string id="lname_lieutenant_105">
+		<text>柯隆塔瑞夫</text>
+	</string>
+	<string id="lname_lieutenant_106">
+		<text>柯隆塔</text>
+	</string>
+	<string id="lname_lieutenant_107">
+		<text>康德瑞天科</text>
+	</string>
+	<string id="lname_lieutenant_108">
+		<text>柯尔金</text>
+	</string>
+	<string id="lname_lieutenant_109">
+		<text>柯内耶夫</text>
+	</string>
+	<string id="lname_lieutenant_11">
+		<text>包尔</text>
+	</string>
+	<string id="lname_lieutenant_110">
+		<text>克雷夫钦科</text>
+	</string>
+	<string id="lname_lieutenant_111">
+		<text>克里夫达</text>
+	</string>
+	<string id="lname_lieutenant_112">
+		<text>克里夫哈斯基</text>
+	</string>
+	<string id="lname_lieutenant_113">
+		<text>库聂索夫</text>
+	</string>
+	<string id="lname_lieutenant_114">
+		<text>库兹米其</text>
+	</string>
+	<string id="lname_lieutenant_115">
+		<text>库亚钦</text>
+	</string>
+	<string id="lname_lieutenant_116">
+		<text>柯其斯基</text>
+	</string>
+	<string id="lname_lieutenant_117">
+		<text>肯赛夫</text>
+	</string>
+	<string id="lname_lieutenant_118">
+		<text>柯维兹</text>
+	</string>
+	<string id="lname_lieutenant_119">
+		<text>库其鲁克</text>
+	</string>
+	<string id="lname_lieutenant_12">
+		<text>巴夏科夫</text>
+	</string>
+	<string id="lname_lieutenant_120">
+		<text>库许纳尤夫</text>
+	</string>
+	<string id="lname_lieutenant_121">
+		<text>柯哈拉德兹</text>
+	</string>
+	<string id="lname_lieutenant_122">
+		<text>拉维克</text>
+	</string>
+	<string id="lname_lieutenant_123">
+		<text>拉罗夫</text>
+	</string>
+	<string id="lname_lieutenant_124">
+		<text>利夫希茨</text>
+	</string>
+	<string id="lname_lieutenant_125">
+		<text>利希张斯基</text>
+	</string>
+	<string id="lname_lieutenant_126">
+		<text>利特温</text>
+	</string>
+	<string id="lname_lieutenant_127">
+		<text>利马连科</text>
+	</string>
+	<string id="lname_lieutenant_128">
+		<text>梅兹帕</text>
+	</string>
+	<string id="lname_lieutenant_129">
+		<text>马卡连科</text>
+	</string>
+	<string id="lname_lieutenant_13">
+		<text>贝西马柯夫</text>
+	</string>
+	<string id="lname_lieutenant_130">
+		<text>莫赛夫</text>
+	</string>
+	<string id="lname_lieutenant_131">
+		<text>马码耶夫</text>
+	</string>
+	<string id="lname_lieutenant_132">
+		<text>马列雅耶夫</text>
+	</string>
+	<string id="lname_lieutenant_133">
+		<text>米尔钦科</text>
+	</string>
+	<string id="lname_lieutenant_134">
+		<text>米罗尤克</text>
+	</string>
+	<string id="lname_lieutenant_135">
+		<text>莫瑞</text>
+	</string>
+	<string id="lname_lieutenant_136">
+		<text>莫洛索夫</text>
+	</string>
+	<string id="lname_lieutenant_137">
+		<text>摩司特弗依</text>
+	</string>
+	<string id="lname_lieutenant_138">
+		<text>曼特扬</text>
+	</string>
+	<string id="lname_lieutenant_139">
+		<text>幕哈梅德夫</text>
+	</string>
+	<string id="lname_lieutenant_14">
+		<text>贝雪夫里</text>
+	</string>
+	<string id="lname_lieutenant_140">
+		<text>米斯科夫</text>
+	</string>
+	<string id="lname_lieutenant_141">
+		<text>纳夫罗斯基</text>
+	</string>
+	<string id="lname_lieutenant_142">
+		<text>内普里斯基</text>
+	</string>
+	<string id="lname_lieutenant_143">
+		<text>尼坎诺罗夫</text>
+	</string>
+	<string id="lname_lieutenant_144">
+		<text>尼基辛</text>
+	</string>
+	<string id="lname_lieutenant_145">
+		<text>尼库林</text>
+	</string>
+	<string id="lname_lieutenant_146">
+		<text>诺维可夫</text>
+	</string>
+	<string id="lname_lieutenant_147">
+		<text>诺迪耶夫</text>
+	</string>
+	<string id="lname_lieutenant_148">
+		<text>诺山</text>
+	</string>
+	<string id="lname_lieutenant_149">
+		<text>欧波列夫</text>
+	</string>
+	<string id="lname_lieutenant_15">
+		<text>比诺耶夫</text>
+	</string>
+	<string id="lname_lieutenant_150">
+		<text>欧烈维奇</text>
+	</string>
+	<string id="lname_lieutenant_151">
+		<text>欧罗夫</text>
+	</string>
+	<string id="lname_lieutenant_152">
+		<text>佩克维奇</text>
+	</string>
+	<string id="lname_lieutenant_153">
+		<text>彼得连科</text>
+	</string>
+	<string id="lname_lieutenant_154">
+		<text>彼得罗夫</text>
+	</string>
+	<string id="lname_lieutenant_155">
+		<text>波罗汉科</text>
+	</string>
+	<string id="lname_lieutenant_156">
+		<text>波亚奇夫</text>
+	</string>
+	<string id="lname_lieutenant_157">
+		<text>波里安宁</text>
+	</string>
+	<string id="lname_lieutenant_158">
+		<text>波雷夫斯基</text>
+	</string>
+	<string id="lname_lieutenant_159">
+		<text>波波夫</text>
+	</string>
+	<string id="lname_lieutenant_16">
+		<text>布林诺夫</text>
+	</string>
+	<string id="lname_lieutenant_160">
+		<text>波特耐</text>
+	</string>
+	<string id="lname_lieutenant_161">
+		<text>布拉所罗夫</text>
+	</string>
+	<string id="lname_lieutenant_162">
+		<text>波罗克边科</text>
+	</string>
+	<string id="lname_lieutenant_163">
+		<text>波罗斯库宁</text>
+	</string>
+	<string id="lname_lieutenant_164">
+		<text>波罗先科</text>
+	</string>
+	<string id="lname_lieutenant_165">
+		<text>布鲁多夫</text>
+	</string>
+	<string id="lname_lieutenant_166">
+		<text>布多瓦</text>
+	</string>
+	<string id="lname_lieutenant_167">
+		<text>布查克</text>
+	</string>
+	<string id="lname_lieutenant_168">
+		<text>雷比诺维奇</text>
+	</string>
+	<string id="lname_lieutenant_169">
+		<text>雷克维奇</text>
+	</string>
+	<string id="lname_lieutenant_17">
+		<text>巴波罗夫</text>
+	</string>
+	<string id="lname_lieutenant_170">
+		<text>雷伦</text>
+	</string>
+	<string id="lname_lieutenant_171">
+		<text>罗哥萨</text>
+	</string>
+	<string id="lname_lieutenant_172">
+		<text>罗尼扬斯基</text>
+	</string>
+	<string id="lname_lieutenant_173">
+		<text>罗坦</text>
+	</string>
+	<string id="lname_lieutenant_174">
+		<text>陆布雷夫</text>
+	</string>
+	<string id="lname_lieutenant_175">
+		<text>陆迪克</text>
+	</string>
+	<string id="lname_lieutenant_176">
+		<text>陆沙诺瓦</text>
+	</string>
+	<string id="lname_lieutenant_177">
+		<text>李查基斯基</text>
+	</string>
+	<string id="lname_lieutenant_178">
+		<text>萨钦科</text>
+	</string>
+	<string id="lname_lieutenant_179">
+		<text>萨查克</text>
+	</string>
+	<string id="lname_lieutenant_18">
+		<text>波丹诺夫</text>
+	</string>
+	<string id="lname_lieutenant_180">
+		<text>萨基多夫</text>
+	</string>
+	<string id="lname_lieutenant_181">
+		<text>斯维李多夫</text>
+	</string>
+	<string id="lname_lieutenant_182">
+		<text>赛迪</text>
+	</string>
+	<string id="lname_lieutenant_183">
+		<text>赛瑞达</text>
+	</string>
+	<string id="lname_lieutenant_184">
+		<text>西多连科</text>
+	</string>
+	<string id="lname_lieutenant_185">
+		<text>西多罗夫</text>
+	</string>
+	<string id="lname_lieutenant_186">
+		<text>西里</text>
+	</string>
+	<string id="lname_lieutenant_187">
+		<text>西里辛</text>
+	</string>
+	<string id="lname_lieutenant_188">
+		<text>斯卡梅卡</text>
+	</string>
+	<string id="lname_lieutenant_189">
+		<text>史列斯基</text>
+	</string>
+	<string id="lname_lieutenant_19">
+		<text>波依科</text>
+	</string>
+	<string id="lname_lieutenant_190">
+		<text>斯米罗夫</text>
+	</string>
+	<string id="lname_lieutenant_191">
+		<text>斯摩里</text>
+	</string>
+	<string id="lname_lieutenant_192">
+		<text>所罗金</text>
+	</string>
+	<string id="lname_lieutenant_193">
+		<text>斯塔尤拉</text>
+	</string>
+	<string id="lname_lieutenant_194">
+		<text>斯帖钦</text>
+	</string>
+	<string id="lname_lieutenant_195">
+		<text>史提钦斯基</text>
+	</string>
+	<string id="lname_lieutenant_196">
+		<text>西库拉</text>
+	</string>
+	<string id="lname_lieutenant_197">
+		<text>坦纳夫斯基</text>
+	</string>
+	<string id="lname_lieutenant_198">
+		<text>塔塔查克</text>
+	</string>
+	<string id="lname_lieutenant_199">
+		<text>丁查克</text>
+	</string>
+	<string id="lname_lieutenant_2">
+		<text>安得列查克</text>
+	</string>
+	<string id="lname_lieutenant_20">
+		<text>伯钦科</text>
+	</string>
+	<string id="lname_lieutenant_21">
+		<text>伯斯库尔</text>
+	</string>
+	<string id="lname_lieutenant_22">
+		<text>邦达雷夫</text>
+	</string>
+	<string id="lname_lieutenant_23">
+		<text>波里索夫</text>
+	</string>
+	<string id="lname_lieutenant_24">
+		<text>布里奇</text>
+	</string>
+	<string id="lname_lieutenant_25">
+		<text>布朗斯坦</text>
+	</string>
+	<string id="lname_lieutenant_26">
+		<text>伯亚克</text>
+	</string>
+	<string id="lname_lieutenant_27">
+		<text>布图宁</text>
+	</string>
+	<string id="lname_lieutenant_28">
+		<text>比雅洛</text>
+	</string>
+	<string id="lname_lieutenant_29">
+		<text>瓦伦提诺</text>
+	</string>
+	<string id="lname_lieutenant_3">
+		<text>安德鲁萨钦科</text>
+	</string>
+	<string id="lname_lieutenant_30">
+		<text>瓦西里夫</text>
+	</string>
+	<string id="lname_lieutenant_31">
+		<text>维赛罗夫</text>
+	</string>
+	<string id="lname_lieutenant_32">
+		<text>维诺葛洛多夫</text>
+	</string>
+	<string id="lname_lieutenant_33">
+		<text>弗聂科</text>
+	</string>
+	<string id="lname_lieutenant_34">
+		<text>弗连查克</text>
+	</string>
+	<string id="lname_lieutenant_35">
+		<text>弗罗达</text>
+	</string>
+	<string id="lname_lieutenant_36">
+		<text>弗罗辛</text>
+	</string>
+	<string id="lname_lieutenant_37">
+		<text>弗罗特索夫</text>
+	</string>
+	<string id="lname_lieutenant_38">
+		<text>夫罗哈耶夫</text>
+	</string>
+	<string id="lname_lieutenant_39">
+		<text>弗尤辛斯基</text>
+	</string>
+	<string id="lname_lieutenant_4">
+		<text>亚尼赛耶夫</text>
+	</string>
+	<string id="lname_lieutenant_40">
+		<text>葛尔钦</text>
+	</string>
+	<string id="lname_lieutenant_41">
+		<text>刚尤克</text>
+	</string>
+	<string id="lname_lieutenant_42">
+		<text>加克泛科</text>
+	</string>
+	<string id="lname_lieutenant_43">
+		<text>加库夏</text>
+	</string>
+	<string id="lname_lieutenant_44">
+		<text>乔治佛</text>
+	</string>
+	<string id="lname_lieutenant_45">
+		<text>葛雷波斯基</text>
+	</string>
+	<string id="lname_lieutenant_46">
+		<text>葛纳尤克</text>
+	</string>
+	<string id="lname_lieutenant_47">
+		<text>刚查连科</text>
+	</string>
+	<string id="lname_lieutenant_48">
+		<text>哥迪扬科</text>
+	</string>
+	<string id="lname_lieutenant_49">
+		<text>葛蕾佛依</text>
+	</string>
+	<string id="lname_lieutenant_5">
+		<text>阿达雪夫</text>
+	</string>
+	<string id="lname_lieutenant_50">
+		<text>葛洛辛</text>
+	</string>
+	<string id="lname_lieutenant_51">
+		<text>葛尤诺夫</text>
+	</string>
+	<string id="lname_lieutenant_52">
+		<text>葛雷班尤克</text>
+	</string>
+	<string id="lname_lieutenant_53">
+		<text>葛里萨延科</text>
+	</string>
+	<string id="lname_lieutenant_54">
+		<text>葛里赛</text>
+	</string>
+	<string id="lname_lieutenant_55">
+		<text>葛里先科</text>
+	</string>
+	<string id="lname_lieutenant_56">
+		<text>葛里沙契夫</text>
+	</string>
+	<string id="lname_lieutenant_57">
+		<text>葛里斯查克</text>
+	</string>
+	<string id="lname_lieutenant_58">
+		<text>葛巴</text>
+	</string>
+	<string id="lname_lieutenant_59">
+		<text>刚克</text>
+	</string>
+	<string id="lname_lieutenant_6">
+		<text>贝比奇</text>
+	</string>
+	<string id="lname_lieutenant_60">
+		<text>葛雷维奇</text>
+	</string>
+	<string id="lname_lieutenant_61">
+		<text>丹尼先科</text>
+	</string>
+	<string id="lname_lieutenant_62">
+		<text>多夫葛尤克</text>
+	</string>
+	<string id="lname_lieutenant_63">
+		<text>当布里克</text>
+	</string>
+	<string id="lname_lieutenant_64">
+		<text>多特先科</text>
+	</string>
+	<string id="lname_lieutenant_65">
+		<text>多罗达许</text>
+	</string>
+	<string id="lname_lieutenant_66">
+		<text>杜本查克</text>
+	</string>
+	<string id="lname_lieutenant_67">
+		<text>杜多罗夫</text>
+	</string>
+	<string id="lname_lieutenant_68">
+		<text>杜卡</text>
+	</string>
+	<string id="lname_lieutenant_69">
+		<text>但可</text>
+	</string>
+	<string id="lname_lieutenant_7">
+		<text>巴连</text>
+	</string>
+	<string id="lname_lieutenant_70">
+		<text>但纳耶夫</text>
+	</string>
+	<string id="lname_lieutenant_71">
+		<text>迪可罗夫</text>
+	</string>
+	<string id="lname_lieutenant_72">
+		<text>依罗费耶夫</text>
+	</string>
+	<string id="lname_lieutenant_73">
+		<text>依夫雷莫</text>
+	</string>
+	<string id="lname_lieutenant_74">
+		<text>萨班科</text>
+	</string>
+	<string id="lname_lieutenant_75">
+		<text>齐米耶夫</text>
+	</string>
+	<string id="lname_lieutenant_76">
+		<text>祖拉科斯基</text>
+	</string>
+	<string id="lname_lieutenant_77">
+		<text>萨比雅哥达</text>
+	</string>
+	<string id="lname_lieutenant_78">
+		<text>萨哥罗纽克</text>
+	</string>
+	<string id="lname_lieutenant_79">
+		<text>萨摩先查克</text>
+	</string>
+	<string id="lname_lieutenant_8">
+		<text>巴拉诺夫</text>
+	</string>
+	<string id="lname_lieutenant_80">
+		<text>萨如宾</text>
+	</string>
+	<string id="lname_lieutenant_81">
+		<text>萨哈林</text>
+	</string>
+	<string id="lname_lieutenant_82">
+		<text>斯佛尼斯基</text>
+	</string>
+	<string id="lname_lieutenant_83">
+		<text>洛诺耶夫</text>
+	</string>
+	<string id="lname_lieutenant_84">
+		<text>洛诺</text>
+	</string>
+	<string id="lname_lieutenant_85">
+		<text>洛罗塔</text>
+	</string>
+	<string id="lname_lieutenant_86">
+		<text>祖巴瑞夫</text>
+	</string>
+	<string id="lname_lieutenant_87">
+		<text>祖科夫</text>
+	</string>
+	<string id="lname_lieutenant_88">
+		<text>依凡诺夫</text>
+	</string>
+	<string id="lname_lieutenant_89">
+		<text>依纳天科</text>
+	</string>
+	<string id="lname_lieutenant_9">
+		<text>巴拉诺夫斯基</text>
+	</string>
+	<string id="lname_lieutenant_90">
+		<text>依汉科</text>
+	</string>
+	<string id="lname_lieutenant_91">
+		<text>依斯查克</text>
+	</string>
+	<string id="lname_lieutenant_92">
+		<text>卡萨科夫</text>
+	</string>
+	<string id="lname_lieutenant_93">
+		<text>卡萨赛夫</text>
+	</string>
+	<string id="lname_lieutenant_94">
+		<text>卡迪巴科</text>
+	</string>
+	<string id="lname_lieutenant_95">
+		<text>卡布卡</text>
+	</string>
+	<string id="lname_lieutenant_96">
+		<text>卡布天科</text>
+	</string>
+	<string id="lname_lieutenant_97">
+		<text>卡兹</text>
+	</string>
+	<string id="lname_lieutenant_98">
+		<text>奇卡彼得</text>
+	</string>
+	<string id="lname_lieutenant_99">
+		<text>加苏拉</text>
+	</string>
+	<string id="lname_private_0">
+		<text>阿杜曼诺夫</text>
+	</string>
+	<string id="lname_private_1">
+		<text>雅提尼克</text>
+	</string>
+	<string id="lname_private_10">
+		<text>巴萨克</text>
+	</string>
+	<string id="lname_private_100">
+		<text>基里耶夫</text>
+	</string>
+	<string id="lname_private_101">
+		<text>柯里曼钦科</text>
+	</string>
+	<string id="lname_private_102">
+		<text>柯瓦查克</text>
+	</string>
+	<string id="lname_private_103">
+		<text>柯耶夫</text>
+	</string>
+	<string id="lname_private_104">
+		<text>柯罗夫</text>
+	</string>
+	<string id="lname_private_105">
+		<text>柯隆塔瑞夫</text>
+	</string>
+	<string id="lname_private_106">
+		<text>柯隆塔</text>
+	</string>
+	<string id="lname_private_107">
+		<text>康德瑞天科</text>
+	</string>
+	<string id="lname_private_108">
+		<text>柯尔金</text>
+	</string>
+	<string id="lname_private_109">
+		<text>柯内耶夫</text>
+	</string>
+	<string id="lname_private_11">
+		<text>包尔</text>
+	</string>
+	<string id="lname_private_110">
+		<text>克雷夫钦科</text>
+	</string>
+	<string id="lname_private_111">
+		<text>克里夫达</text>
+	</string>
+	<string id="lname_private_112">
+		<text>克里夫哈斯基</text>
+	</string>
+	<string id="lname_private_113">
+		<text>库聂索夫</text>
+	</string>
+	<string id="lname_private_114">
+		<text>库兹米其</text>
+	</string>
+	<string id="lname_private_115">
+		<text>库亚钦</text>
+	</string>
+	<string id="lname_private_116">
+		<text>柯其斯基</text>
+	</string>
+	<string id="lname_private_117">
+		<text>肯赛夫</text>
+	</string>
+	<string id="lname_private_118">
+		<text>柯维兹</text>
+	</string>
+	<string id="lname_private_119">
+		<text>库其鲁克</text>
+	</string>
+	<string id="lname_private_12">
+		<text>巴夏科夫</text>
+	</string>
+	<string id="lname_private_120">
+		<text>库许纳尤夫</text>
+	</string>
+	<string id="lname_private_121">
+		<text>柯哈拉德兹</text>
+	</string>
+	<string id="lname_private_122">
+		<text>拉维克</text>
+	</string>
+	<string id="lname_private_123">
+		<text>拉罗夫</text>
+	</string>
+	<string id="lname_private_124">
+		<text>利夫希茨</text>
+	</string>
+	<string id="lname_private_125">
+		<text>利希张斯基</text>
+	</string>
+	<string id="lname_private_126">
+		<text>利特温</text>
+	</string>
+	<string id="lname_private_127">
+		<text>利马连科</text>
+	</string>
+	<string id="lname_private_128">
+		<text>梅兹帕</text>
+	</string>
+	<string id="lname_private_129">
+		<text>马卡连科</text>
+	</string>
+	<string id="lname_private_13">
+		<text>贝西马柯夫</text>
+	</string>
+	<string id="lname_private_130">
+		<text>莫赛夫</text>
+	</string>
+	<string id="lname_private_131">
+		<text>马码耶夫</text>
+	</string>
+	<string id="lname_private_132">
+		<text>马列雅耶夫</text>
+	</string>
+	<string id="lname_private_133">
+		<text>米尔钦科</text>
+	</string>
+	<string id="lname_private_134">
+		<text>米罗尤克</text>
+	</string>
+	<string id="lname_private_135">
+		<text>莫瑞</text>
+	</string>
+	<string id="lname_private_136">
+		<text>莫洛索夫</text>
+	</string>
+	<string id="lname_private_137">
+		<text>摩司特弗依</text>
+	</string>
+	<string id="lname_private_138">
+		<text>曼特扬</text>
+	</string>
+	<string id="lname_private_139">
+		<text>幕哈梅德夫</text>
+	</string>
+	<string id="lname_private_14">
+		<text>贝雪夫里</text>
+	</string>
+	<string id="lname_private_140">
+		<text>米斯科夫</text>
+	</string>
+	<string id="lname_private_141">
+		<text>纳夫罗斯基</text>
+	</string>
+	<string id="lname_private_142">
+		<text>内普里斯基</text>
+	</string>
+	<string id="lname_private_143">
+		<text>尼坎诺罗夫</text>
+	</string>
+	<string id="lname_private_144">
+		<text>尼基辛</text>
+	</string>
+	<string id="lname_private_145">
+		<text>尼库林</text>
+	</string>
+	<string id="lname_private_146">
+		<text>诺维可夫</text>
+	</string>
+	<string id="lname_private_147">
+		<text>诺迪耶夫</text>
+	</string>
+	<string id="lname_private_148">
+		<text>诺山</text>
+	</string>
+	<string id="lname_private_149">
+		<text>欧波列夫</text>
+	</string>
+	<string id="lname_private_15">
+		<text>比诺耶夫</text>
+	</string>
+	<string id="lname_private_150">
+		<text>欧烈维奇</text>
+	</string>
+	<string id="lname_private_151">
+		<text>欧罗夫</text>
+	</string>
+	<string id="lname_private_152">
+		<text>佩克维奇</text>
+	</string>
+	<string id="lname_private_153">
+		<text>彼得连科</text>
+	</string>
+	<string id="lname_private_154">
+		<text>彼得罗夫</text>
+	</string>
+	<string id="lname_private_155">
+		<text>波罗汉科</text>
+	</string>
+	<string id="lname_private_156">
+		<text>波亚奇夫</text>
+	</string>
+	<string id="lname_private_157">
+		<text>波里安宁</text>
+	</string>
+	<string id="lname_private_158">
+		<text>波雷夫斯基</text>
+	</string>
+	<string id="lname_private_159">
+		<text>波波夫</text>
+	</string>
+	<string id="lname_private_16">
+		<text>布林诺夫</text>
+	</string>
+	<string id="lname_private_160">
+		<text>波特耐</text>
+	</string>
+	<string id="lname_private_161">
+		<text>布拉所罗夫</text>
+	</string>
+	<string id="lname_private_162">
+		<text>波罗克边科</text>
+	</string>
+	<string id="lname_private_163">
+		<text>波罗斯库宁</text>
+	</string>
+	<string id="lname_private_164">
+		<text>波罗先科</text>
+	</string>
+	<string id="lname_private_165">
+		<text>布鲁多夫</text>
+	</string>
+	<string id="lname_private_166">
+		<text>布多瓦</text>
+	</string>
+	<string id="lname_private_167">
+		<text>布查克</text>
+	</string>
+	<string id="lname_private_168">
+		<text>雷比诺维奇</text>
+	</string>
+	<string id="lname_private_169">
+		<text>雷克维奇</text>
+	</string>
+	<string id="lname_private_17">
+		<text>巴波罗夫</text>
+	</string>
+	<string id="lname_private_170">
+		<text>雷伦</text>
+	</string>
+	<string id="lname_private_171">
+		<text>罗哥萨</text>
+	</string>
+	<string id="lname_private_172">
+		<text>罗尼扬斯基</text>
+	</string>
+	<string id="lname_private_173">
+		<text>罗坦</text>
+	</string>
+	<string id="lname_private_174">
+		<text>陆布雷夫</text>
+	</string>
+	<string id="lname_private_175">
+		<text>陆迪克</text>
+	</string>
+	<string id="lname_private_176">
+		<text>陆沙诺瓦</text>
+	</string>
+	<string id="lname_private_177">
+		<text>李查基斯基</text>
+	</string>
+	<string id="lname_private_178">
+		<text>萨钦科</text>
+	</string>
+	<string id="lname_private_179">
+		<text>萨查克</text>
+	</string>
+	<string id="lname_private_18">
+		<text>波丹诺夫</text>
+	</string>
+	<string id="lname_private_180">
+		<text>萨基多夫</text>
+	</string>
+	<string id="lname_private_181">
+		<text>斯维李多夫</text>
+	</string>
+	<string id="lname_private_182">
+		<text>赛迪</text>
+	</string>
+	<string id="lname_private_183">
+		<text>赛瑞达</text>
+	</string>
+	<string id="lname_private_184">
+		<text>西多连科</text>
+	</string>
+	<string id="lname_private_185">
+		<text>西多罗夫</text>
+	</string>
+	<string id="lname_private_186">
+		<text>西里</text>
+	</string>
+	<string id="lname_private_187">
+		<text>西里辛</text>
+	</string>
+	<string id="lname_private_188">
+		<text>斯卡梅卡</text>
+	</string>
+	<string id="lname_private_189">
+		<text>史列斯基</text>
+	</string>
+	<string id="lname_private_19">
+		<text>波依科</text>
+	</string>
+	<string id="lname_private_190">
+		<text>斯米罗夫</text>
+	</string>
+	<string id="lname_private_191">
+		<text>斯摩里</text>
+	</string>
+	<string id="lname_private_192">
+		<text>所罗金</text>
+	</string>
+	<string id="lname_private_193">
+		<text>斯塔尤拉</text>
+	</string>
+	<string id="lname_private_194">
+		<text>斯帖钦</text>
+	</string>
+	<string id="lname_private_195">
+		<text>史提钦斯基</text>
+	</string>
+	<string id="lname_private_196">
+		<text>西库拉</text>
+	</string>
+	<string id="lname_private_197">
+		<text>坦纳夫斯基</text>
+	</string>
+	<string id="lname_private_198">
+		<text>塔塔查克</text>
+	</string>
+	<string id="lname_private_199">
+		<text>丁查克</text>
+	</string>
+	<string id="lname_private_2">
+		<text>安得列查克</text>
+	</string>
+	<string id="lname_private_20">
+		<text>伯钦科</text>
+	</string>
+	<string id="lname_private_21">
+		<text>伯斯库尔</text>
+	</string>
+	<string id="lname_private_22">
+		<text>邦达雷夫</text>
+	</string>
+	<string id="lname_private_23">
+		<text>波里索夫</text>
+	</string>
+	<string id="lname_private_24">
+		<text>布里奇</text>
+	</string>
+	<string id="lname_private_25">
+		<text>布朗斯坦</text>
+	</string>
+	<string id="lname_private_26">
+		<text>伯亚克</text>
+	</string>
+	<string id="lname_private_27">
+		<text>布图宁</text>
+	</string>
+	<string id="lname_private_28">
+		<text>比雅洛</text>
+	</string>
+	<string id="lname_private_29">
+		<text>瓦伦提诺</text>
+	</string>
+	<string id="lname_private_3">
+		<text>安德鲁萨钦科</text>
+	</string>
+	<string id="lname_private_30">
+		<text>瓦西里夫</text>
+	</string>
+	<string id="lname_private_31">
+		<text>维赛罗夫</text>
+	</string>
+	<string id="lname_private_32">
+		<text>维诺葛洛多夫</text>
+	</string>
+	<string id="lname_private_33">
+		<text>弗聂科</text>
+	</string>
+	<string id="lname_private_34">
+		<text>弗连查克</text>
+	</string>
+	<string id="lname_private_35">
+		<text>弗罗达</text>
+	</string>
+	<string id="lname_private_36">
+		<text>弗罗辛</text>
+	</string>
+	<string id="lname_private_37">
+		<text>弗罗特索夫</text>
+	</string>
+	<string id="lname_private_38">
+		<text>夫罗哈耶夫</text>
+	</string>
+	<string id="lname_private_39">
+		<text>弗尤辛斯基</text>
+	</string>
+	<string id="lname_private_4">
+		<text>亚尼赛耶夫</text>
+	</string>
+	<string id="lname_private_40">
+		<text>葛尔钦</text>
+	</string>
+	<string id="lname_private_41">
+		<text>刚尤克</text>
+	</string>
+	<string id="lname_private_42">
+		<text>加克泛科</text>
+	</string>
+	<string id="lname_private_43">
+		<text>加库夏</text>
+	</string>
+	<string id="lname_private_44">
+		<text>乔治佛</text>
+	</string>
+	<string id="lname_private_45">
+		<text>葛雷波斯基</text>
+	</string>
+	<string id="lname_private_46">
+		<text>葛纳尤克</text>
+	</string>
+	<string id="lname_private_47">
+		<text>刚查连科</text>
+	</string>
+	<string id="lname_private_48">
+		<text>哥迪扬科</text>
+	</string>
+	<string id="lname_private_49">
+		<text>葛蕾佛依</text>
+	</string>
+	<string id="lname_private_5">
+		<text>阿达雪夫</text>
+	</string>
+	<string id="lname_private_50">
+		<text>葛洛辛</text>
+	</string>
+	<string id="lname_private_51">
+		<text>葛尤诺夫</text>
+	</string>
+	<string id="lname_private_52">
+		<text>葛雷班尤克</text>
+	</string>
+	<string id="lname_private_53">
+		<text>葛里萨延科</text>
+	</string>
+	<string id="lname_private_54">
+		<text>葛里赛</text>
+	</string>
+	<string id="lname_private_55">
+		<text>葛里先科</text>
+	</string>
+	<string id="lname_private_56">
+		<text>葛里沙契夫</text>
+	</string>
+	<string id="lname_private_57">
+		<text>葛里斯查克</text>
+	</string>
+	<string id="lname_private_58">
+		<text>葛巴</text>
+	</string>
+	<string id="lname_private_59">
+		<text>刚克</text>
+	</string>
+	<string id="lname_private_6">
+		<text>贝比奇</text>
+	</string>
+	<string id="lname_private_60">
+		<text>葛雷维奇</text>
+	</string>
+	<string id="lname_private_61">
+		<text>丹尼先科</text>
+	</string>
+	<string id="lname_private_62">
+		<text>多夫葛尤克</text>
+	</string>
+	<string id="lname_private_63">
+		<text>当布里克</text>
+	</string>
+	<string id="lname_private_64">
+		<text>多特先科</text>
+	</string>
+	<string id="lname_private_65">
+		<text>多罗达许</text>
+	</string>
+	<string id="lname_private_66">
+		<text>杜本查克</text>
+	</string>
+	<string id="lname_private_67">
+		<text>杜多罗夫</text>
+	</string>
+	<string id="lname_private_68">
+		<text>杜卡</text>
+	</string>
+	<string id="lname_private_69">
+		<text>但可</text>
+	</string>
+	<string id="lname_private_7">
+		<text>巴连</text>
+	</string>
+	<string id="lname_private_70">
+		<text>但纳耶夫</text>
+	</string>
+	<string id="lname_private_71">
+		<text>迪可罗夫</text>
+	</string>
+	<string id="lname_private_72">
+		<text>依罗费耶夫</text>
+	</string>
+	<string id="lname_private_73">
+		<text>依夫雷莫</text>
+	</string>
+	<string id="lname_private_74">
+		<text>萨班科</text>
+	</string>
+	<string id="lname_private_75">
+		<text>齐米耶夫</text>
+	</string>
+	<string id="lname_private_76">
+		<text>祖拉科斯基</text>
+	</string>
+	<string id="lname_private_77">
+		<text>萨比雅哥达</text>
+	</string>
+	<string id="lname_private_78">
+		<text>萨哥罗纽克</text>
+	</string>
+	<string id="lname_private_79">
+		<text>萨摩先查克</text>
+	</string>
+	<string id="lname_private_8">
+		<text>巴拉诺夫</text>
+	</string>
+	<string id="lname_private_80">
+		<text>萨如宾</text>
+	</string>
+	<string id="lname_private_81">
+		<text>萨哈林</text>
+	</string>
+	<string id="lname_private_82">
+		<text>斯佛尼斯基</text>
+	</string>
+	<string id="lname_private_83">
+		<text>洛诺耶夫</text>
+	</string>
+	<string id="lname_private_84">
+		<text>洛诺</text>
+	</string>
+	<string id="lname_private_85">
+		<text>洛罗塔</text>
+	</string>
+	<string id="lname_private_86">
+		<text>祖巴瑞夫</text>
+	</string>
+	<string id="lname_private_87">
+		<text>祖科夫</text>
+	</string>
+	<string id="lname_private_88">
+		<text>依凡诺夫</text>
+	</string>
+	<string id="lname_private_89">
+		<text>依纳天科</text>
+	</string>
+	<string id="lname_private_9">
+		<text>巴拉诺夫斯基</text>
+	</string>
+	<string id="lname_private_90">
+		<text>依汉科</text>
+	</string>
+	<string id="lname_private_91">
+		<text>依斯查克</text>
+	</string>
+	<string id="lname_private_92">
+		<text>卡萨科夫</text>
+	</string>
+	<string id="lname_private_93">
+		<text>卡萨赛夫</text>
+	</string>
+	<string id="lname_private_94">
+		<text>卡迪巴科</text>
+	</string>
+	<string id="lname_private_95">
+		<text>卡布卡</text>
+	</string>
+	<string id="lname_private_96">
+		<text>卡布天科</text>
+	</string>
+	<string id="lname_private_97">
+		<text>卡兹</text>
+	</string>
+	<string id="lname_private_98">
+		<text>奇卡彼得</text>
+	</string>
+	<string id="lname_private_99">
+		<text>加苏拉</text>
+	</string>
+	<string id="lname_science_0">
+		<text>西纳耶夫</text>
+	</string>
+	<string id="lname_science_1">
+		<text>费吉尔曼</text>
+	</string>
+	<string id="lname_science_10">
+		<text>连登斯托夫</text>
+	</string>
+	<string id="lname_science_11">
+		<text>阿费罗夫</text>
+	</string>
+	<string id="lname_science_12">
+		<text>安提平</text>
+	</string>
+	<string id="lname_science_13">
+		<text>布里诺夫</text>
+	</string>
+	<string id="lname_science_14">
+		<text>伯格莫罗夫</text>
+	</string>
+	<string id="lname_science_15">
+		<text>瓦西雷维奇</text>
+	</string>
+	<string id="lname_science_16">
+		<text>吉许肯宾</text>
+	</string>
+	<string id="lname_science_17">
+		<text>戴可诺夫</text>
+	</string>
+	<string id="lname_science_18">
+		<text>依若辛</text>
+	</string>
+	<string id="lname_science_19">
+		<text>萨钦</text>
+	</string>
+	<string id="lname_science_2">
+		<text>萨哈罗夫</text>
+	</string>
+	<string id="lname_science_20">
+		<text>伊夫钦科</text>
+	</string>
+	<string id="lname_science_21">
+		<text>卡巴诺夫</text>
+	</string>
+	<string id="lname_science_22">
+		<text>拉玲</text>
+	</string>
+	<string id="lname_science_23">
+		<text>曼科</text>
+	</string>
+	<string id="lname_science_24">
+		<text>米罗诺夫</text>
+	</string>
+	<string id="lname_science_25">
+		<text>史提潘科</text>
+	</string>
+	<string id="lname_science_26">
+		<text>欧聂锡安</text>
+	</string>
+	<string id="lname_science_27">
+		<text>齐诺达</text>
+	</string>
+	<string id="lname_science_28">
+		<text>徐罗夫</text>
+	</string>
+	<string id="lname_science_3">
+		<text>齐里科夫</text>
+	</string>
+	<string id="lname_science_4">
+		<text>贝雅明</text>
+	</string>
+	<string id="lname_science_5">
+		<text>费德耶夫</text>
+	</string>
+	<string id="lname_science_6">
+		<text>史特科罗夫</text>
+	</string>
+	<string id="lname_science_7">
+		<text>安得列耶夫</text>
+	</string>
+	<string id="lname_science_8">
+		<text>史匹宁</text>
+	</string>
+	<string id="lname_science_9">
+		<text>巴里斯基</text>
+	</string>
+	<string id="lname_sergeant_0">
+		<text>亚杜曼诺夫</text>
+	</string>
+	<string id="lname_sergeant_1">
+		<text>雅提尼克</text>
+	</string>
+	<string id="lname_sergeant_10">
+		<text>巴萨克</text>
+	</string>
+	<string id="lname_sergeant_100">
+		<text>基里耶夫</text>
+	</string>
+	<string id="lname_sergeant_101">
+		<text>柯里曼钦科</text>
+	</string>
+	<string id="lname_sergeant_102">
+		<text>柯瓦查克</text>
+	</string>
+	<string id="lname_sergeant_103">
+		<text>柯耶夫</text>
+	</string>
+	<string id="lname_sergeant_104">
+		<text>柯罗夫</text>
+	</string>
+	<string id="lname_sergeant_105">
+		<text>柯隆塔瑞夫</text>
+	</string>
+	<string id="lname_sergeant_106">
+		<text>柯隆塔</text>
+	</string>
+	<string id="lname_sergeant_107">
+		<text>康德瑞天科</text>
+	</string>
+	<string id="lname_sergeant_108">
+		<text>柯尔金</text>
+	</string>
+	<string id="lname_sergeant_109">
+		<text>柯内耶夫</text>
+	</string>
+	<string id="lname_sergeant_11">
+		<text>包尔</text>
+	</string>
+	<string id="lname_sergeant_110">
+		<text>克雷夫钦科</text>
+	</string>
+	<string id="lname_sergeant_111">
+		<text>克里夫达</text>
+	</string>
+	<string id="lname_sergeant_112">
+		<text>克里夫哈斯基</text>
+	</string>
+	<string id="lname_sergeant_113">
+		<text>库聂索夫</text>
+	</string>
+	<string id="lname_sergeant_114">
+		<text>库兹米其</text>
+	</string>
+	<string id="lname_sergeant_115">
+		<text>库亚钦</text>
+	</string>
+	<string id="lname_sergeant_116">
+		<text>柯其斯基</text>
+	</string>
+	<string id="lname_sergeant_117">
+		<text>肯赛夫</text>
+	</string>
+	<string id="lname_sergeant_118">
+		<text>柯维兹</text>
+	</string>
+	<string id="lname_sergeant_119">
+		<text>库其鲁克</text>
+	</string>
+	<string id="lname_sergeant_12">
+		<text>巴夏科夫</text>
+	</string>
+	<string id="lname_sergeant_120">
+		<text>库许纳尤夫</text>
+	</string>
+	<string id="lname_sergeant_121">
+		<text>柯哈拉德兹</text>
+	</string>
+	<string id="lname_sergeant_122">
+		<text>拉维克</text>
+	</string>
+	<string id="lname_sergeant_123">
+		<text>拉罗夫</text>
+	</string>
+	<string id="lname_sergeant_124">
+		<text>利夫希茨</text>
+	</string>
+	<string id="lname_sergeant_125">
+		<text>利希张斯基</text>
+	</string>
+	<string id="lname_sergeant_126">
+		<text>利特温</text>
+	</string>
+	<string id="lname_sergeant_127">
+		<text>利马连科</text>
+	</string>
+	<string id="lname_sergeant_128">
+		<text>梅兹帕</text>
+	</string>
+	<string id="lname_sergeant_129">
+		<text>马卡连科</text>
+	</string>
+	<string id="lname_sergeant_13">
+		<text>贝西马柯夫</text>
+	</string>
+	<string id="lname_sergeant_130">
+		<text>莫赛夫</text>
+	</string>
+	<string id="lname_sergeant_131">
+		<text>马码耶夫</text>
+	</string>
+	<string id="lname_sergeant_132">
+		<text>马列雅耶夫</text>
+	</string>
+	<string id="lname_sergeant_133">
+		<text>米尔钦科</text>
+	</string>
+	<string id="lname_sergeant_134">
+		<text>米罗尤克</text>
+	</string>
+	<string id="lname_sergeant_135">
+		<text>莫瑞</text>
+	</string>
+	<string id="lname_sergeant_136">
+		<text>莫洛索夫</text>
+	</string>
+	<string id="lname_sergeant_137">
+		<text>摩司特弗依</text>
+	</string>
+	<string id="lname_sergeant_138">
+		<text>曼特扬</text>
+	</string>
+	<string id="lname_sergeant_139">
+		<text>幕哈梅德夫</text>
+	</string>
+	<string id="lname_sergeant_14">
+		<text>贝雪夫里</text>
+	</string>
+	<string id="lname_sergeant_140">
+		<text>米斯科夫</text>
+	</string>
+	<string id="lname_sergeant_141">
+		<text>纳夫罗斯基</text>
+	</string>
+	<string id="lname_sergeant_142">
+		<text>内普里斯基</text>
+	</string>
+	<string id="lname_sergeant_143">
+		<text>尼坎诺罗夫</text>
+	</string>
+	<string id="lname_sergeant_144">
+		<text>尼基辛</text>
+	</string>
+	<string id="lname_sergeant_145">
+		<text>尼库林</text>
+	</string>
+	<string id="lname_sergeant_146">
+		<text>诺维可夫</text>
+	</string>
+	<string id="lname_sergeant_147">
+		<text>诺迪耶夫</text>
+	</string>
+	<string id="lname_sergeant_148">
+		<text>诺山</text>
+	</string>
+	<string id="lname_sergeant_149">
+		<text>欧波列夫</text>
+	</string>
+	<string id="lname_sergeant_15">
+		<text>比诺耶夫</text>
+	</string>
+	<string id="lname_sergeant_150">
+		<text>欧烈维奇</text>
+	</string>
+	<string id="lname_sergeant_151">
+		<text>欧罗夫</text>
+	</string>
+	<string id="lname_sergeant_152">
+		<text>佩克维奇</text>
+	</string>
+	<string id="lname_sergeant_153">
+		<text>彼得连科</text>
+	</string>
+	<string id="lname_sergeant_154">
+		<text>彼得罗夫</text>
+	</string>
+	<string id="lname_sergeant_155">
+		<text>波罗汉科</text>
+	</string>
+	<string id="lname_sergeant_156">
+		<text>波亚奇夫</text>
+	</string>
+	<string id="lname_sergeant_157">
+		<text>波里安宁</text>
+	</string>
+	<string id="lname_sergeant_158">
+		<text>波雷夫斯基</text>
+	</string>
+	<string id="lname_sergeant_159">
+		<text>波波夫</text>
+	</string>
+	<string id="lname_sergeant_16">
+		<text>布林诺夫</text>
+	</string>
+	<string id="lname_sergeant_160">
+		<text>波特耐</text>
+	</string>
+	<string id="lname_sergeant_161">
+		<text>布拉所罗夫</text>
+	</string>
+	<string id="lname_sergeant_162">
+		<text>波罗克边科</text>
+	</string>
+	<string id="lname_sergeant_163">
+		<text>波罗斯库宁</text>
+	</string>
+	<string id="lname_sergeant_164">
+		<text>波罗先科</text>
+	</string>
+	<string id="lname_sergeant_165">
+		<text>布鲁多夫</text>
+	</string>
+	<string id="lname_sergeant_166">
+		<text>布多瓦</text>
+	</string>
+	<string id="lname_sergeant_167">
+		<text>布查克</text>
+	</string>
+	<string id="lname_sergeant_168">
+		<text>雷比诺维奇</text>
+	</string>
+	<string id="lname_sergeant_169">
+		<text>雷克维奇</text>
+	</string>
+	<string id="lname_sergeant_17">
+		<text>巴波罗夫</text>
+	</string>
+	<string id="lname_sergeant_170">
+		<text>雷伦</text>
+	</string>
+	<string id="lname_sergeant_171">
+		<text>罗哥萨</text>
+	</string>
+	<string id="lname_sergeant_172">
+		<text>罗尼扬斯基</text>
+	</string>
+	<string id="lname_sergeant_173">
+		<text>罗坦</text>
+	</string>
+	<string id="lname_sergeant_174">
+		<text>陆布雷夫</text>
+	</string>
+	<string id="lname_sergeant_175">
+		<text>陆迪克</text>
+	</string>
+	<string id="lname_sergeant_176">
+		<text>陆沙诺瓦</text>
+	</string>
+	<string id="lname_sergeant_177">
+		<text>李查基斯基</text>
+	</string>
+	<string id="lname_sergeant_178">
+		<text>萨钦科</text>
+	</string>
+	<string id="lname_sergeant_179">
+		<text>萨查克</text>
+	</string>
+	<string id="lname_sergeant_18">
+		<text>波丹诺夫</text>
+	</string>
+	<string id="lname_sergeant_180">
+		<text>萨基多夫</text>
+	</string>
+	<string id="lname_sergeant_181">
+		<text>斯维李多夫</text>
+	</string>
+	<string id="lname_sergeant_182">
+		<text>赛迪</text>
+	</string>
+	<string id="lname_sergeant_183">
+		<text>赛瑞达</text>
+	</string>
+	<string id="lname_sergeant_184">
+		<text>西多连科</text>
+	</string>
+	<string id="lname_sergeant_185">
+		<text>西多罗夫</text>
+	</string>
+	<string id="lname_sergeant_186">
+		<text>西里</text>
+	</string>
+	<string id="lname_sergeant_187">
+		<text>西里辛</text>
+	</string>
+	<string id="lname_sergeant_188">
+		<text>斯卡梅卡</text>
+	</string>
+	<string id="lname_sergeant_189">
+		<text>史列斯基</text>
+	</string>
+	<string id="lname_sergeant_19">
+		<text>波依科</text>
+	</string>
+	<string id="lname_sergeant_190">
+		<text>斯米罗夫</text>
+	</string>
+	<string id="lname_sergeant_191">
+		<text>斯摩里</text>
+	</string>
+	<string id="lname_sergeant_192">
+		<text>所罗金</text>
+	</string>
+	<string id="lname_sergeant_193">
+		<text>斯塔尤拉</text>
+	</string>
+	<string id="lname_sergeant_194">
+		<text>斯帖钦</text>
+	</string>
+	<string id="lname_sergeant_195">
+		<text>史提钦斯基</text>
+	</string>
+	<string id="lname_sergeant_196">
+		<text>西库拉</text>
+	</string>
+	<string id="lname_sergeant_197">
+		<text>坦纳夫斯基</text>
+	</string>
+	<string id="lname_sergeant_198">
+		<text>塔塔查克</text>
+	</string>
+	<string id="lname_sergeant_199">
+		<text>丁查克</text>
+	</string>
+	<string id="lname_sergeant_2">
+		<text>安得列查克</text>
+	</string>
+	<string id="lname_sergeant_20">
+		<text>伯钦科</text>
+	</string>
+	<string id="lname_sergeant_21">
+		<text>伯斯库尔</text>
+	</string>
+	<string id="lname_sergeant_22">
+		<text>邦达雷夫</text>
+	</string>
+	<string id="lname_sergeant_23">
+		<text>波里索夫</text>
+	</string>
+	<string id="lname_sergeant_24">
+		<text>布里奇</text>
+	</string>
+	<string id="lname_sergeant_25">
+		<text>布朗斯坦</text>
+	</string>
+	<string id="lname_sergeant_26">
+		<text>伯亚克</text>
+	</string>
+	<string id="lname_sergeant_27">
+		<text>布图宁</text>
+	</string>
+	<string id="lname_sergeant_28">
+		<text>比雅洛</text>
+	</string>
+	<string id="lname_sergeant_29">
+		<text>瓦伦提诺</text>
+	</string>
+	<string id="lname_sergeant_3">
+		<text>安德鲁萨钦科</text>
+	</string>
+	<string id="lname_sergeant_30">
+		<text>瓦西里夫</text>
+	</string>
+	<string id="lname_sergeant_31">
+		<text>维赛罗夫</text>
+	</string>
+	<string id="lname_sergeant_32">
+		<text>维诺葛洛多夫</text>
+	</string>
+	<string id="lname_sergeant_33">
+		<text>弗聂科</text>
+	</string>
+	<string id="lname_sergeant_34">
+		<text>弗连查克</text>
+	</string>
+	<string id="lname_sergeant_35">
+		<text>弗罗达</text>
+	</string>
+	<string id="lname_sergeant_36">
+		<text>弗罗辛</text>
+	</string>
+	<string id="lname_sergeant_37">
+		<text>弗罗特索夫</text>
+	</string>
+	<string id="lname_sergeant_38">
+		<text>夫罗哈耶夫</text>
+	</string>
+	<string id="lname_sergeant_39">
+		<text>弗尤辛斯基</text>
+	</string>
+	<string id="lname_sergeant_4">
+		<text>亚尼赛耶夫</text>
+	</string>
+	<string id="lname_sergeant_40">
+		<text>葛尔钦</text>
+	</string>
+	<string id="lname_sergeant_41">
+		<text>刚尤克</text>
+	</string>
+	<string id="lname_sergeant_42">
+		<text>加克泛科</text>
+	</string>
+	<string id="lname_sergeant_43">
+		<text>加库夏</text>
+	</string>
+	<string id="lname_sergeant_44">
+		<text>乔治佛</text>
+	</string>
+	<string id="lname_sergeant_45">
+		<text>葛雷波斯基</text>
+	</string>
+	<string id="lname_sergeant_46">
+		<text>葛纳尤克</text>
+	</string>
+	<string id="lname_sergeant_47">
+		<text>刚查连科</text>
+	</string>
+	<string id="lname_sergeant_48">
+		<text>哥迪扬科</text>
+	</string>
+	<string id="lname_sergeant_49">
+		<text>葛蕾佛依</text>
+	</string>
+	<string id="lname_sergeant_5">
+		<text>阿达雪夫</text>
+	</string>
+	<string id="lname_sergeant_50">
+		<text>葛洛辛</text>
+	</string>
+	<string id="lname_sergeant_51">
+		<text>葛尤诺夫</text>
+	</string>
+	<string id="lname_sergeant_52">
+		<text>葛雷班尤克</text>
+	</string>
+	<string id="lname_sergeant_53">
+		<text>葛里萨延科</text>
+	</string>
+	<string id="lname_sergeant_54">
+		<text>葛里赛</text>
+	</string>
+	<string id="lname_sergeant_55">
+		<text>葛里先科</text>
+	</string>
+	<string id="lname_sergeant_56">
+		<text>葛里沙契夫</text>
+	</string>
+	<string id="lname_sergeant_57">
+		<text>葛里斯查克</text>
+	</string>
+	<string id="lname_sergeant_58">
+		<text>葛巴</text>
+	</string>
+	<string id="lname_sergeant_59">
+		<text>刚克</text>
+	</string>
+	<string id="lname_sergeant_6">
+		<text>贝比奇</text>
+	</string>
+	<string id="lname_sergeant_60">
+		<text>葛雷维奇</text>
+	</string>
+	<string id="lname_sergeant_61">
+		<text>丹尼先科</text>
+	</string>
+	<string id="lname_sergeant_62">
+		<text>多夫葛尤克</text>
+	</string>
+	<string id="lname_sergeant_63">
+		<text>当布里克</text>
+	</string>
+	<string id="lname_sergeant_64">
+		<text>多特先科</text>
+	</string>
+	<string id="lname_sergeant_65">
+		<text>多罗达许</text>
+	</string>
+	<string id="lname_sergeant_66">
+		<text>杜本查克</text>
+	</string>
+	<string id="lname_sergeant_67">
+		<text>杜多罗夫</text>
+	</string>
+	<string id="lname_sergeant_68">
+		<text>杜卡</text>
+	</string>
+	<string id="lname_sergeant_69">
+		<text>但可</text>
+	</string>
+	<string id="lname_sergeant_7">
+		<text>巴连</text>
+	</string>
+	<string id="lname_sergeant_70">
+		<text>但纳耶夫</text>
+	</string>
+	<string id="lname_sergeant_71">
+		<text>迪可罗夫</text>
+	</string>
+	<string id="lname_sergeant_72">
+		<text>依罗费耶夫</text>
+	</string>
+	<string id="lname_sergeant_73">
+		<text>依夫雷莫</text>
+	</string>
+	<string id="lname_sergeant_74">
+		<text>萨班科</text>
+	</string>
+	<string id="lname_sergeant_75">
+		<text>齐米耶夫</text>
+	</string>
+	<string id="lname_sergeant_76">
+		<text>祖拉科斯基</text>
+	</string>
+	<string id="lname_sergeant_77">
+		<text>萨比雅哥达</text>
+	</string>
+	<string id="lname_sergeant_78">
+		<text>萨哥罗纽克</text>
+	</string>
+	<string id="lname_sergeant_79">
+		<text>萨摩先查克</text>
+	</string>
+	<string id="lname_sergeant_8">
+		<text>巴拉诺夫</text>
+	</string>
+	<string id="lname_sergeant_80">
+		<text>萨如宾</text>
+	</string>
+	<string id="lname_sergeant_81">
+		<text>萨哈林</text>
+	</string>
+	<string id="lname_sergeant_82">
+		<text>斯佛尼斯基</text>
+	</string>
+	<string id="lname_sergeant_83">
+		<text>洛诺耶夫</text>
+	</string>
+	<string id="lname_sergeant_84">
+		<text>洛诺</text>
+	</string>
+	<string id="lname_sergeant_85">
+		<text>洛罗塔</text>
+	</string>
+	<string id="lname_sergeant_86">
+		<text>祖巴瑞夫</text>
+	</string>
+	<string id="lname_sergeant_87">
+		<text>祖科夫</text>
+	</string>
+	<string id="lname_sergeant_88">
+		<text>依凡诺夫</text>
+	</string>
+	<string id="lname_sergeant_89">
+		<text>依纳天科</text>
+	</string>
+	<string id="lname_sergeant_9">
+		<text>巴拉诺夫斯基</text>
+	</string>
+	<string id="lname_sergeant_90">
+		<text>依汉科</text>
+	</string>
+	<string id="lname_sergeant_91">
+		<text>依斯查克</text>
+	</string>
+	<string id="lname_sergeant_92">
+		<text>卡萨科夫</text>
+	</string>
+	<string id="lname_sergeant_93">
+		<text>卡萨赛夫</text>
+	</string>
+	<string id="lname_sergeant_94">
+		<text>卡迪巴科</text>
+	</string>
+	<string id="lname_sergeant_95">
+		<text>卡布卡</text>
+	</string>
+	<string id="lname_sergeant_96">
+		<text>卡布天科</text>
+	</string>
+	<string id="lname_sergeant_97">
+		<text>卡兹</text>
+	</string>
+	<string id="lname_sergeant_98">
+		<text>奇卡彼得</text>
+	</string>
+	<string id="lname_sergeant_99">
+		<text>加苏拉</text>
+	</string>
+	<string id="lname_stalker_0">
+		<text>小白</text>
+	</string>
+	<string id="lname_stalker_1">
+		<text>葛林</text>
+	</string>
+	<string id="lname_stalker_10">
+		<text>不死鬼</text>
+	</string>
+	<string id="lname_stalker_100">
+		<text>拉斯提</text>
+	</string>
+	<string id="lname_stalker_101">
+		<text>浪漫客</text>
+	</string>
+	<string id="lname_stalker_102">
+		<text>残暴王</text>
+	</string>
+	<string id="lname_stalker_103">
+		<text>肌肉男</text>
+	</string>
+	<string id="lname_stalker_104">
+		<text>梦幻</text>
+	</string>
+	<string id="lname_stalker_105">
+		<text>瞎子</text>
+	</string>
+	<string id="lname_stalker_106">
+		<text>勇士</text>
+	</string>
+	<string id="lname_stalker_107">
+		<text>鼻涕</text>
+	</string>
+	<string id="lname_stalker_108">
+		<text>蓝哥</text>
+	</string>
+	<string id="lname_stalker_109">
+		<text>老家伙</text>
+	</string>
+	<string id="lname_stalker_11">
+		<text>狂人</text>
+	</string>
+	<string id="lname_stalker_110">
+		<text>泰迪</text>
+	</string>
+	<string id="lname_stalker_111">
+		<text>资本家</text>
+	</string>
+	<string id="lname_stalker_112">
+		<text>硬汉</text>
+	</string>
+	<string id="lname_stalker_113">
+		<text>驼子</text>
+	</string>
+	<string id="lname_stalker_114">
+		<text>冷面</text>
+	</string>
+	<string id="lname_stalker_115">
+		<text>幸运儿</text>
+	</string>
+	<string id="lname_stalker_116">
+		<text>哑巴</text>
+	</string>
+	<string id="lname_stalker_117">
+		<text>肥子</text>
+	</string>
+	<string id="lname_stalker_118">
+		<text>胖子</text>
+	</string>
+	<string id="lname_stalker_119">
+		<text>肉罐头</text>
+	</string>
+	<string id="lname_stalker_12">
+		<text>打手</text>
+	</string>
+	<string id="lname_stalker_120">
+		<text>聪明人</text>
+	</string>
+	<string id="lname_stalker_121">
+		<text>疤汉</text>
+	</string>
+	<string id="lname_stalker_122">
+		<text>耳朵</text>
+	</string>
+	<string id="lname_stalker_123">
+		<text>丑角</text>
+	</string>
+	<string id="lname_stalker_124">
+		<text>小丑</text>
+	</string>
+	<string id="lname_stalker_125">
+		<text>瘸子</text>
+	</string>
+	<string id="lname_stalker_126">
+		<text>慢性病</text>
+	</string>
+	<string id="lname_stalker_127">
+		<text>瘦皮猴</text>
+	</string>
+	<string id="lname_stalker_128">
+		<text>西里科</text>
+	</string>
+	<string id="lname_stalker_129">
+		<text>巴弟</text>
+	</string>
+	<string id="lname_stalker_13">
+		<text>布雷斯</text>
+	</string>
+	<string id="lname_stalker_130">
+		<text>克蓝奇</text>
+	</string>
+	<string id="lname_stalker_131">
+		<text>德克斯克</text>
+	</string>
+	<string id="lname_stalker_132">
+		<text>唯美主义者</text>
+	</string>
+	<string id="lname_stalker_133">
+		<text>胖胖</text>
+	</string>
+	<string id="lname_stalker_134">
+		<text>葛雷德</text>
+	</string>
+	<string id="lname_stalker_135">
+		<text>奈提夫</text>
+	</string>
+	<string id="lname_stalker_136">
+		<text>飞行员</text>
+	</string>
+	<string id="lname_stalker_137">
+		<text>干员</text>
+	</string>
+	<string id="lname_stalker_138">
+		<text>律师</text>
+	</string>
+	<string id="lname_stalker_139">
+		<text>杜立德 </text>
+	</string>
+	<string id="lname_stalker_14">
+		<text>流氓</text>
+	</string>
+	<string id="lname_stalker_140">
+		<text>传教士</text>
+	</string>
+	<string id="lname_stalker_141">
+		<text>艺术家</text>
+	</string>
+	<string id="lname_stalker_142">
+		<text>苦行僧</text>
+	</string>
+	<string id="lname_stalker_143">
+		<text>骗子</text>
+	</string>
+	<string id="lname_stalker_144">
+		<text>银行家</text>
+	</string>
+	<string id="lname_stalker_145">
+		<text>吟游诗人</text>
+	</string>
+	<string id="lname_stalker_146">
+		<text>男爵</text>
+	</string>
+	<string id="lname_stalker_147">
+		<text>毒贩</text>
+	</string>
+	<string id="lname_stalker_148">
+		<text>异教徒</text>
+	</string>
+	<string id="lname_stalker_149">
+		<text>跑者</text>
+	</string>
+	<string id="lname_stalker_15">
+		<text>英雄</text>
+	</string>
+	<string id="lname_stalker_150">
+		<text>战士</text>
+	</string>
+	<string id="lname_stalker_151">
+		<text>流浪汉</text>
+	</string>
+	<string id="lname_stalker_152">
+		<text>水手长</text>
+	</string>
+	<string id="lname_stalker_153">
+		<text>浪子</text>
+	</string>
+	<string id="lname_stalker_154">
+		<text>波本</text>
+	</string>
+	<string id="lname_stalker_155">
+		<text>中产阶级</text>
+	</string>
+	<string id="lname_stalker_156">
+		<text>官僚</text>
+	</string>
+	<string id="lname_stalker_157">
+		<text>汪达尔</text>
+	</string>
+	<string id="lname_stalker_158">
+		<text>野蛮人</text>
+	</string>
+	<string id="lname_stalker_159">
+		<text>脚夫</text>
+	</string>
+	<string id="lname_stalker_16">
+		<text>冒失鬼</text>
+	</string>
+	<string id="lname_stalker_160">
+		<text>巫师</text>
+	</string>
+	<string id="lname_stalker_161">
+		<text>客人</text>
+	</string>
+	<string id="lname_stalker_162">
+		<text>维京人</text>
+	</string>
+	<string id="lname_stalker_163">
+		<text>送货人</text>
+	</string>
+	<string id="lname_stalker_164">
+		<text>潜水夫</text>
+	</string>
+	<string id="lname_stalker_165">
+		<text>首领</text>
+	</string>
+	<string id="lname_stalker_166">
+		<text>小贼</text>
+	</string>
+	<string id="lname_stalker_167">
+		<text>旅行家</text>
+	</string>
+	<string id="lname_stalker_168">
+		<text>庸医</text>
+	</string>
+	<string id="lname_stalker_169">
+		<text>骑士</text>
+	</string>
+	<string id="lname_stalker_17">
+		<text>压客</text>
+	</string>
+	<string id="lname_stalker_170">
+		<text>喜剧演员</text>
+	</string>
+	<string id="lname_stalker_171">
+		<text>地质学家</text>
+	</string>
+	<string id="lname_stalker_172">
+		<text>斗士</text>
+	</string>
+	<string id="lname_stalker_173">
+		<text>信差</text>
+	</string>
+	<string id="lname_stalker_174">
+		<text>客人</text>
+	</string>
+	<string id="lname_stalker_175">
+		<text>图表</text>
+	</string>
+	<string id="lname_stalker_176">
+		<text>装货人</text>
+	</string>
+	<string id="lname_stalker_177">
+		<text>爷爷</text>
+	</string>
+	<string id="lname_stalker_178">
+		<text>逃兵</text>
+	</string>
+	<string id="lname_stalker_179">
+		<text>贸易商人</text>
+	</string>
+	<string id="lname_stalker_18">
+		<text>普里克</text>
+	</string>
+	<string id="lname_stalker_180">
+		<text>丹迪</text>
+	</string>
+	<string id="lname_stalker_181">
+		<text>副手</text>
+	</string>
+	<string id="lname_stalker_182">
+		<text>暴君</text>
+	</string>
+	<string id="lname_stalker_183">
+		<text>山顶洞人</text>
+	</string>
+	<string id="lname_stalker_184">
+		<text>外交官</text>
+	</string>
+	<string id="lname_stalker_185">
+		<text>达克</text>
+	</string>
+	<string id="lname_stalker_186">
+		<text>博士</text>
+	</string>
+	<string id="lname_stalker_187">
+		<text>老师</text>
+	</string>
+	<string id="lname_stalker_188">
+		<text>巧客</text>
+	</string>
+	<string id="lname_stalker_189">
+		<text>游侠</text>
+	</string>
+	<string id="lname_stalker_19">
+		<text>流浪者</text>
+	</string>
+	<string id="lname_stalker_190">
+		<text>法律学家</text>
+	</string>
+	<string id="lname_stalker_191">
+		<text>AA-枪</text>
+	</string>
+	<string id="lname_stalker_192">
+		<text>庸医</text>
+	</string>
+	<string id="lname_stalker_193">
+		<text>玩家</text>
+	</string>
+	<string id="lname_stalker_194">
+		<text>印度人</text>
+	</string>
+	<string id="lname_stalker_195">
+		<text>摩霍克</text>
+	</string>
+	<string id="lname_stalker_196">
+		<text>队长</text>
+	</string>
+	<string id="lname_stalker_197">
+		<text>车床</text>
+	</string>
+	<string id="lname_stalker_198">
+		<text>丑角</text>
+	</string>
+	<string id="lname_stalker_199">
+		<text>王子</text>
+	</string>
+	<string id="lname_stalker_2">
+		<text>红人</text>
+	</string>
+	<string id="lname_stalker_20">
+		<text>无毛</text>
+	</string>
+	<string id="lname_stalker_200">
+		<text>哥萨克</text>
+	</string>
+	<string id="lname_stalker_201">
+		<text>史宾纳</text>
+	</string>
+	<string id="lname_stalker_202">
+		<text>法师</text>
+	</string>
+	<string id="lname_stalker_203">
+		<text>卡曼契</text>
+	</string>
+	<string id="lname_stalker_204">
+		<text>国王</text>
+	</string>
+	<string id="lname_stalker_205">
+		<text>教父</text>
+	</string>
+	<string id="lname_stalker_206">
+		<text>贸易商人</text>
+	</string>
+	<string id="lname_stalker_207">
+		<text>烟枪</text>
+	</string>
+	<string id="lname_stalker_208">
+		<text>向导</text>
+	</string>
+	<string id="lname_stalker_209">
+		<text>马车夫</text>
+	</string>
+	<string id="lname_stalker_21">
+		<text>利里</text>
+	</string>
+	<string id="lname_stalker_210">
+		<text>退伍军人</text>
+	</string>
+	<string id="lname_stalker_211">
+		<text>医师</text>
+	</string>
+	<string id="lname_stalker_212">
+		<text>林务官</text>
+	</string>
+	<string id="lname_stalker_213">
+		<text>大君</text>
+	</string>
+	<string id="lname_stalker_214">
+		<text>巨头</text>
+	</string>
+	<string id="lname_stalker_215">
+		<text>少校</text>
+	</string>
+	<string id="lname_stalker_216">
+		<text>疯子</text>
+	</string>
+	<string id="lname_stalker_217">
+		<text>战神</text>
+	</string>
+	<string id="lname_stalker_218">
+		<text>泥水匠</text>
+	</string>
+	<string id="lname_stalker_219">
+		<text>技工</text>
+	</string>
+	<string id="lname_stalker_22">
+		<text>重要人物</text>
+	</string>
+	<string id="lname_stalker_220">
+		<text>掘墓人</text>
+	</string>
+	<string id="lname_stalker_221">
+		<text>主持人</text>
+	</string>
+	<string id="lname_stalker_222">
+		<text>挤奶人</text>
+	</string>
+	<string id="lname_stalker_223">
+		<text>屠夫</text>
+	</string>
+	<string id="lname_stalker_224">
+		<text>受雇者</text>
+	</string>
+	<string id="lname_stalker_225">
+		<text>调音师</text>
+	</string>
+	<string id="lname_stalker_226">
+		<text>酋长</text>
+	</string>
+	<string id="lname_stalker_227">
+		<text>忍者</text>
+	</string>
+	<string id="lname_stalker_228">
+		<text>操作员</text>
+	</string>
+	<string id="lname_stalker_229">
+		<text>军械士</text>
+	</string>
+	<string id="lname_stalker_23">
+		<text>洛克斯特</text>
+	</string>
+	<string id="lname_stalker_230">
+		<text>君王</text>
+	</string>
+	<string id="lname_stalker_231">
+		<text>刽子手</text>
+	</string>
+	<string id="lname_stalker_232">
+		<text>上校</text>
+	</string>
+	<string id="lname_stalker_233">
+		<text>庞克</text>
+	</string>
+	<string id="lname_stalker_234">
+		<text>老爹</text>
+	</string>
+	<string id="lname_stalker_235">
+		<text>游击队员</text>
+	</string>
+	<string id="lname_stalker_236">
+		<text>牧师</text>
+	</string>
+	<string id="lname_stalker_237">
+		<text>牧人</text>
+	</string>
+	<string id="lname_stalker_238">
+		<text>教士</text>
+	</string>
+	<string id="lname_stalker_239">
+		<text>农夫</text>
+	</string>
+	<string id="lname_stalker_24">
+		<text>杰米</text>
+	</string>
+	<string id="lname_stalker_240">
+		<text>和平主义者</text>
+	</string>
+	<string id="lname_stalker_241">
+		<text>空母</text>
+	</string>
+	<string id="lname_stalker_242">
+		<text>钢琴师</text>
+	</string>
+	<string id="lname_stalker_243">
+		<text>驾驶</text>
+	</string>
+	<string id="lname_stalker_244">
+		<text>先锋</text>
+	</string>
+	<string id="lname_stalker_245">
+		<text>海盗</text>
+	</string>
+	<string id="lname_stalker_246">
+		<text>木匠</text>
+	</string>
+	<string id="lname_stalker_247">
+		<text>纵火狂</text>
+	</string>
+	<string id="lname_stalker_248">
+		<text>消防员</text>
+	</string>
+	<string id="lname_stalker_249">
+		<text>滑翔机</text>
+	</string>
+	<string id="lname_stalker_25">
+		<text>大家伙</text>
+	</string>
+	<string id="lname_stalker_250">
+		<text>北极探险家</text>
+	</string>
+	<string id="lname_stalker_251">
+		<text>大使</text>
+	</string>
+	<string id="lname_stalker_252">
+		<text>邮差</text>
+	</string>
+	<string id="lname_stalker_253">
+		<text>诗人</text>
+	</string>
+	<string id="lname_stalker_254">
+		<text>王子</text>
+	</string>
+	<string id="lname_stalker_255">
+		<text>先知</text>
+	</string>
+	<string id="lname_stalker_256">
+		<text>教授</text>
+	</string>
+	<string id="lname_stalker_257">
+		<text>跳跃者</text>
+	</string>
+	<string id="lname_stalker_258">
+		<text>酒保</text>
+	</string>
+	<string id="lname_stalker_259">
+		<text>普罗德</text>
+	</string>
+	<string id="lname_stalker_26">
+		<text>皇家</text>
+	</string>
+	<string id="lname_stalker_260">
+		<text>雷比</text>
+	</string>
+	<string id="lname_stalker_261">
+		<text>电报员</text>
+	</string>
+	<string id="lname_stalker_262">
+		<text>盗贼</text>
+	</string>
+	<string id="lname_stalker_263">
+		<text>拉斯特</text>
+	</string>
+	<string id="lname_stalker_264">
+		<text>战士</text>
+	</string>
+	<string id="lname_stalker_265">
+		<text>洛克</text>
+	</string>
+	<string id="lname_stalker_266">
+		<text>矿工</text>
+	</string>
+	<string id="lname_stalker_267">
+		<text>武士</text>
+	</string>
+	<string id="lname_stalker_268">
+		<text>采矿人</text>
+	</string>
+	<string id="lname_stalker_269">
+		<text>康特</text>
+	</string>
+	<string id="lname_stalker_27">
+		<text>大眼</text>
+	</string>
+	<string id="lname_stalker_270">
+		<text>神父</text>
+	</string>
+	<string id="lname_stalker_271">
+		<text>秘书</text>
+	</string>
+	<string id="lname_stalker_272">
+		<text>万人迷</text>
+	</string>
+	<string id="lname_stalker_273">
+		<text>模仿者</text>
+	</string>
+	<string id="lname_stalker_274">
+		<text>史基夫</text>
+	</string>
+	<string id="lname_stalker_275">
+		<text>先驱</text>
+	</string>
+	<string id="lname_stalker_276">
+		<text>锁匠</text>
+	</string>
+	<string id="lname_stalker_277">
+		<text>嫌疑犯</text>
+	</string>
+	<string id="lname_stalker_278">
+		<text>狗人</text>
+	</string>
+	<string id="lname_stalker_279">
+		<text>救生员</text>
+	</string>
+	<string id="lname_stalker_28">
+		<text>博拉克</text>
+	</string>
+	<string id="lname_stalker_280">
+		<text>运动员</text>
+	</string>
+	<string id="lname_stalker_281">
+		<text>陌生人</text>
+	</string>
+	<string id="lname_stalker_282">
+		<text>学生</text>
+	</string>
+	<string id="lname_stalker_283">
+		<text>法官</text>
+	</string>
+	<string id="lname_stalker_284">
+		<text>苏丹</text>
+	</string>
+	<string id="lname_stalker_285">
+		<text>男妓</text>
+	</string>
+	<string id="lname_stalker_286">
+		<text>会计师</text>
+	</string>
+	<string id="lname_stalker_287">
+		<text>油轮</text>
+	</string>
+	<string id="lname_stalker_288">
+		<text>舞者</text>
+	</string>
+	<string id="lname_stalker_289">
+		<text>地拉那</text>
+	</string>
+	<string id="lname_stalker_29">
+		<text>烂货</text>
+	</string>
+	<string id="lname_stalker_290">
+		<text>哈勒</text>
+	</string>
+	<string id="lname_stalker_291">
+		<text>清洁工</text>
+	</string>
+	<string id="lname_stalker_292">
+		<text>烟囱清洁工</text>
+	</string>
+	<string id="lname_stalker_293">
+		<text>伐木者</text>
+	</string>
+	<string id="lname_stalker_294">
+		<text>观光客</text>
+	</string>
+	<string id="lname_stalker_295">
+		<text>杀手</text>
+	</string>
+	<string id="lname_stalker_296">
+		<text>祭司</text>
+	</string>
+	<string id="lname_stalker_297">
+		<text>橄榄球员</text>
+	</string>
+	<string id="lname_stalker_298">
+		<text>狙击手</text>
+	</string>
+	<string id="lname_stalker_299">
+		<text>化学家</text>
+	</string>
+	<string id="lname_stalker_3">
+		<text>拉斯提</text>
+	</string>
+	<string id="lname_stalker_30">
+		<text>宝宝乐</text>
+	</string>
+	<string id="lname_stalker_300">
+		<text>外科医生</text>
+	</string>
+	<string id="lname_stalker_301">
+		<text>画家</text>
+	</string>
+	<string id="lname_stalker_302">
+		<text>牧羊人</text>
+	</string>
+	<string id="lname_stalker_303">
+		<text>巫医</text>
+	</string>
+	<string id="lname_stalker_304">
+		<text>开矿工</text>
+	</string>
+	<string id="lname_stalker_305">
+		<text>矿工</text>
+	</string>
+	<string id="lname_stalker_306">
+		<text>警长</text>
+	</string>
+	<string id="lname_stalker_307">
+		<text>老大</text>
+	</string>
+	<string id="lname_stalker_308">
+		<text>学者</text>
+	</string>
+	<string id="lname_stalker_309">
+		<text>司机</text>
+	</string>
+	<string id="lname_stalker_31">
+		<text>驼背</text>
+	</string>
+	<string id="lname_stalker_310">
+		<text>间谍</text>
+	</string>
+	<string id="lname_stalker_311">
+		<text>电工</text>
+	</string>
+	<string id="lname_stalker_312">
+		<text>小船员</text>
+	</string>
+	<string id="lname_stalker_313">
+		<text>异教徒</text>
+	</string>
+	<string id="lname_stalker_314">
+		<text>短吻鳄</text>
+	</string>
+	<string id="lname_stalker_315">
+		<text>大蟒蛇</text>
+	</string>
+	<string id="lname_stalker_316">
+		<text>狒狒</text>
+	</string>
+	<string id="lname_stalker_317">
+		<text>野牛</text>
+	</string>
+	<string id="lname_stalker_318">
+		<text>旅鼠</text>
+	</string>
+	<string id="lname_stalker_319">
+		<text>派提斯</text>
+	</string>
+	<string id="lname_stalker_32">
+		<text>臭屁</text>
+	</string>
+	<string id="lname_stalker_320">
+		<text>牛头犬</text>
+	</string>
+	<string id="lname_stalker_321">
+		<text>花栗鼠</text>
+	</string>
+	<string id="lname_stalker_322">
+		<text>公牛</text>
+	</string>
+	<string id="lname_stalker_323">
+		<text>阉猪</text>
+	</string>
+	<string id="lname_stalker_324">
+		<text>麻雀</text>
+	</string>
+	<string id="lname_stalker_325">
+		<text>渡鸦</text>
+	</string>
+	<string id="lname_stalker_326">
+		<text>麝鼠</text>
+	</string>
+	<string id="lname_stalker_327">
+		<text>松鸡</text>
+	</string>
+	<string id="lname_stalker_328">
+		<text>哥布林</text>
+	</string>
+	<string id="lname_stalker_329">
+		<text>白嘴鸦</text>
+	</string>
+	<string id="lname_stalker_33">
+		<text>比特</text>
+	</string>
+	<string id="lname_stalker_330">
+		<text>秃鹰</text>
+	</string>
+	<string id="lname_stalker_331">
+		<text>鹅妈妈</text>
+	</string>
+	<string id="lname_stalker_332">
+		<text>海豚</text>
+	</string>
+	<string id="lname_stalker_333">
+		<text>恐龙</text>
+	</string>
+	<string id="lname_stalker_334">
+		<text>罗宾</text>
+	</string>
+	<string id="lname_stalker_335">
+		<text>啄木鸟</text>
+	</string>
+	<string id="lname_stalker_336">
+		<text>刺猬</text>
+	</string>
+	<string id="lname_stalker_337">
+		<text>虫子</text>
+	</string>
+	<string id="lname_stalker_338">
+		<text>兔子</text>
+	</string>
+	<string id="lname_stalker_339">
+		<text>野兽</text>
+	</string>
+	<string id="lname_stalker_34">
+		<text>巨人</text>
+	</string>
+	<string id="lname_stalker_340">
+		<text>史内克</text>
+	</string>
+	<string id="lname_stalker_341">
+		<text>原牛</text>
+	</string>
+	<string id="lname_stalker_342">
+		<text>火鸡</text>
+	</string>
+	<string id="lname_stalker_343">
+		<text>野猪</text>
+	</string>
+	<string id="lname_stalker_344">
+		<text>卡普</text>
+	</string>
+	<string id="lname_stalker_345">
+		<text>金丝雀</text>
+	</string>
+	<string id="lname_stalker_346">
+		<text>臭虫</text>
+	</string>
+	<string id="lname_stalker_347">
+		<text>眼镜蛇</text>
+	</string>
+	<string id="lname_stalker_348">
+		<text>蚊子</text>
+	</string>
+	<string id="lname_stalker_349">
+		<text>好马</text>
+	</string>
+	<string id="lname_stalker_35">
+		<text>捣毁者</text>
+	</string>
+	<string id="lname_stalker_350">
+		<text>小猫</text>
+	</string>
+	<string id="lname_stalker_351">
+		<text>鳄鱼</text>
+	</string>
+	<string id="lname_stalker_352">
+		<text>蚱蜢</text>
+	</string>
+	<string id="lname_stalker_353">
+		<text>警探</text>
+	</string>
+	<string id="lname_stalker_354">
+		<text>大麋</text>
+	</string>
+	<string id="lname_stalker_355">
+		<text>玛猛</text>
+	</string>
+	<string id="lname_stalker_356">
+		<text>大熊</text>
+	</string>
+	<string id="lname_stalker_357">
+		<text>细菌</text>
+	</string>
+	<string id="lname_stalker_358">
+		<text>小虫</text>
+	</string>
+	<string id="lname_stalker_359">
+		<text>蚂蚁</text>
+	</string>
+	<string id="lname_stalker_36">
+		<text>长人</text>
+	</string>
+	<string id="lname_stalker_360">
+		<text>牛虻</text>
+	</string>
+	<string id="lname_stalker_361">
+		<text>蜘蛛</text>
+	</string>
+	<string id="lname_stalker_362">
+		<text>帕苏克</text>
+	</string>
+	<string id="lname_stalker_363">
+		<text>皮尔格林</text>
+	</string>
+	<string id="lname_stalker_364">
+		<text>皮拉哈</text>
+	</string>
+	<string id="lname_stalker_365">
+		<text>皮顿</text>
+	</string>
+	<string id="lname_stalker_366">
+		<text>野兔</text>
+	</string>
+	<string id="lname_stalker_367">
+		<text>猫头鹰</text>
+	</string>
+	<string id="lname_stalker_368">
+		<text>猎鹰</text>
+	</string>
+	<string id="lname_stalker_369">
+		<text>土拨鼠</text>
+	</string>
+	<string id="lname_stalker_37">
+		<text>娘娘腔</text>
+	</string>
+	<string id="lname_stalker_370">
+		<text>地鼠</text>
+	</string>
+	<string id="lname_stalker_371">
+		<text>角鸢</text>
+	</string>
+	<string id="lname_stalker_372">
+		<text>蟑螂</text>
+	</string>
+	<string id="lname_stalker_373">
+		<text>狼蛛</text>
+	</string>
+	<string id="lname_stalker_374">
+		<text>跳鼠</text>
+	</string>
+	<string id="lname_stalker_375">
+		<text>蟒蛇</text>
+	</string>
+	<string id="lname_stalker_376">
+		<text>雕鸮</text>
+	</string>
+	<string id="lname_stalker_377">
+		<text>雪貂</text>
+	</string>
+	<string id="lname_stalker_378">
+		<text>虫子</text>
+	</string>
+	<string id="lname_stalker_379">
+		<text>开矿工</text>
+	</string>
+	<string id="lname_stalker_38">
+		<text>死人</text>
+	</string>
+	<string id="lname_stalker_380">
+		<text>暴君</text>
+	</string>
+	<string id="lname_stalker_381">
+		<text>特异点</text>
+	</string>
+	<string id="lname_stalker_382">
+		<text>保险杆</text>
+	</string>
+	<string id="lname_stalker_383">
+		<text>巴顿</text>
+	</string>
+	<string id="lname_stalker_384">
+		<text>打手</text>
+	</string>
+	<string id="lname_stalker_385">
+		<text>伤害犯</text>
+	</string>
+	<string id="lname_stalker_386">
+		<text>火球</text>
+	</string>
+	<string id="lname_stalker_387">
+		<text>螺栓</text>
+	</string>
+	<string id="lname_stalker_388">
+		<text>剃刀</text>
+	</string>
+	<string id="lname_stalker_389">
+		<text>野鸽</text>
+	</string>
+	<string id="lname_stalker_39">
+		<text>立人</text>
+	</string>
+	<string id="lname_stalker_390">
+		<text>贝果</text>
+	</string>
+	<string id="lname_stalker_391">
+		<text>真空</text>
+	</string>
+	<string id="lname_stalker_392">
+		<text>杰克</text>
+	</string>
+	<string id="lname_stalker_393">
+		<text>大石</text>
+	</string>
+	<string id="lname_stalker_394">
+		<text>电风</text>
+	</string>
+	<string id="lname_stalker_395">
+		<text>切肉机</text>
+	</string>
+	<string id="lname_stalker_396">
+		<text>流风</text>
+	</string>
+	<string id="lname_stalker_397">
+		<text>钻子</text>
+	</string>
+	<string id="lname_stalker_398">
+		<text>项圈</text>
+	</string>
+	<string id="lname_stalker_399">
+		<text>钉子</text>
+	</string>
+	<string id="lname_stalker_4">
+		<text>红发</text>
+	</string>
+	<string id="lname_stalker_40">
+		<text>哈崔克</text>
+	</string>
+	<string id="lname_stalker_400">
+		<text>谢尔</text>
+	</string>
+	<string id="lname_stalker_401">
+		<text>葛洛伯</text>
+	</string>
+	<string id="lname_stalker_402">
+		<text>布拉克</text>
+	</string>
+	<string id="lname_stalker_403">
+		<text>手榴弹</text>
+	</string>
+	<string id="lname_stalker_404">
+		<text>鸡冠</text>
+	</string>
+	<string id="lname_stalker_405">
+		<text>棺材</text>
+	</string>
+	<string id="lname_stalker_406">
+		<text>佃农</text>
+	</string>
+	<string id="lname_stalker_407">
+		<text>克什</text>
+	</string>
+	<string id="lname_stalker_408">
+		<text>炸药</text>
+	</string>
+	<string id="lname_stalker_409">
+		<text>莫配德</text>
+	</string>
+	<string id="lname_stalker_41">
+		<text>何利</text>
+	</string>
+	<string id="lname_stalker_410">
+		<text>罗</text>
+	</string>
+	<string id="lname_stalker_411">
+		<text>拉克</text>
+	</string>
+	<string id="lname_stalker_412">
+		<text>佩德</text>
+	</string>
+	<string id="lname_stalker_413">
+		<text>同位素</text>
+	</string>
+	<string id="lname_stalker_414">
+		<text>石头</text>
+	</string>
+	<string id="lname_stalker_415">
+		<text>陷阱</text>
+	</string>
+	<string id="lname_stalker_416">
+		<text>卡丹</text>
+	</string>
+	<string id="lname_stalker_417">
+		<text>卡玛</text>
+	</string>
+	<string id="lname_stalker_418">
+		<text>砖头</text>
+	</string>
+	<string id="lname_stalker_419">
+		<text>葛鲁</text>
+	</string>
+	<string id="lname_stalker_42">
+		<text>老饕</text>
+	</string>
+	<string id="lname_stalker_420">
+		<text>钥匙</text>
+	</string>
+	<string id="lname_stalker_421">
+		<text>哨子</text>
+	</string>
+	<string id="lname_stalker_422">
+		<text>王牌</text>
+	</string>
+	<string id="lname_stalker_423">
+		<text>虎德</text>
+	</string>
+	<string id="lname_stalker_424">
+		<text>土拨鼠</text>
+	</string>
+	<string id="lname_stalker_425">
+		<text>科涅克</text>
+	</string>
+	<string id="lname_stalker_426">
+		<text>路特</text>
+	</string>
+	<string id="lname_stalker_427">
+		<text>赛斯</text>
+	</string>
+	<string id="lname_stalker_428">
+		<text>科斯摩斯</text>
+	</string>
+	<string id="lname_stalker_429">
+		<text>纳可</text>
+	</string>
+	<string id="lname_stalker_43">
+		<text>可怜虫</text>
+	</string>
+	<string id="lname_stalker_430">
+		<text>大麻烟</text>
+	</string>
+	<string id="lname_stalker_431">
+		<text>圣人</text>
+	</string>
+	<string id="lname_stalker_432">
+		<text>勾子</text>
+	</string>
+	<string id="lname_stalker_433">
+		<text>扳机</text>
+	</string>
+	<string id="lname_stalker_434">
+		<text>讨厌鬼</text>
+	</string>
+	<string id="lname_stalker_435">
+		<text>铁橇</text>
+	</string>
+	<string id="lname_stalker_436">
+		<text>机器</text>
+	</string>
+	<string id="lname_stalker_437">
+		<text>目标</text>
+	</string>
+	<string id="lname_stalker_438">
+		<text>马达</text>
+	</string>
+	<string id="lname_stalker_439">
+		<text>管子</text>
+	</string>
+	<string id="lname_stalker_44">
+		<text>铁人</text>
+	</string>
+	<string id="lname_stalker_440">
+		<text>夜人</text>
+	</string>
+	<string id="lname_stalker_441">
+		<text>短猎枪</text>
+	</string>
+	<string id="lname_stalker_442">
+		<text>潘纳多</text>
+	</string>
+	<string id="lname_stalker_443">
+		<text>降落伞</text>
+	</string>
+	<string id="lname_stalker_444">
+		<text>赞助者</text>
+	</string>
+	<string id="lname_stalker_445">
+		<text>布雷克</text>
+	</string>
+	<string id="lname_stalker_446">
+		<text>羽毛</text>
+	</string>
+	<string id="lname_stalker_447">
+		<text>活塞</text>
+	</string>
+	<string id="lname_stalker_448">
+		<text>普雷多夫</text>
+	</string>
+	<string id="lname_stalker_449">
+		<text>火药</text>
+	</string>
+	<string id="lname_stalker_45">
+		<text>高手</text>
+	</string>
+	<string id="lname_stalker_450">
+		<text>五分钱</text>
+	</string>
+	<string id="lname_stalker_451">
+		<text>火箭</text>
+	</string>
+	<string id="lname_stalker_452">
+		<text>火焰</text>
+	</string>
+	<string id="lname_stalker_453">
+		<text>反应器</text>
+	</string>
+	<string id="lname_stalker_454">
+		<text>卡特</text>
+	</string>
+	<string id="lname_stalker_455">
+		<text>大嘴巴</text>
+	</string>
+	<string id="lname_stalker_456">
+		<text>尾巴</text>
+	</string>
+	<string id="lname_stalker_457">
+		<text>机器人</text>
+	</string>
+	<string id="lname_stalker_458">
+		<text>甲虫</text>
+	</string>
+	<string id="lname_stalker_459">
+		<text>瞄准镜</text>
+	</string>
+	<string id="lname_stalker_46">
+		<text>伯恩</text>
+	</string>
+	<string id="lname_stalker_460">
+		<text>私酒</text>
+	</string>
+	<string id="lname_stalker_461">
+		<text>靴子</text>
+	</string>
+	<string id="lname_stalker_462">
+		<text>西德</text>
+	</string>
+	<string id="lname_stalker_463">
+		<text>戴斯</text>
+	</string>
+	<string id="lname_stalker_464">
+		<text>英灵</text>
+	</string>
+	<string id="lname_stalker_465">
+		<text>凿子</text>
+	</string>
+	<string id="lname_stalker_466">
+		<text>火药桶</text>
+	</string>
+	<string id="lname_stalker_467">
+		<text>切斯特</text>
+	</string>
+	<string id="lname_stalker_468">
+		<text>斧头</text>
+	</string>
+	<string id="lname_stalker_469">
+		<text>屁股</text>
+	</string>
+	<string id="lname_stalker_47">
+		<text>鸡婆</text>
+	</string>
+	<string id="lname_stalker_470">
+		<text>葛林德</text>
+	</string>
+	<string id="lname_stalker_471">
+		<text>王牌</text>
+	</string>
+	<string id="lname_stalker_472">
+		<text>邦德</text>
+	</string>
+	<string id="lname_stalker_473">
+		<text>费德</text>
+	</string>
+	<string id="lname_stalker_474">
+		<text>雷登</text>
+	</string>
+	<string id="lname_stalker_475">
+		<text>凿子</text>
+	</string>
+	<string id="lname_stalker_476">
+		<text>怪蛆</text>
+	</string>
+	<string id="lname_stalker_477">
+		<text>蒜头</text>
+	</string>
+	<string id="lname_stalker_478">
+		<text>假人</text>
+	</string>
+	<string id="lname_stalker_479">
+		<text>钱斯</text>
+	</string>
+	<string id="lname_stalker_48">
+		<text>柏林普</text>
+	</string>
+	<string id="lname_stalker_480">
+		<text>钻子</text>
+	</string>
+	<string id="lname_stalker_481">
+		<text>宋恩</text>
+	</string>
+	<string id="lname_stalker_482">
+		<text>克罗塞</text>
+	</string>
+	<string id="lname_stalker_483">
+		<text>泰</text>
+	</string>
+	<string id="lname_stalker_484">
+		<text>乔因</text>
+	</string>
+	<string id="lname_stalker_485">
+		<text>大鼻</text>
+	</string>
+	<string id="lname_stalker_486">
+		<text>刺刀</text>
+	</string>
+	<string id="lname_stalker_487">
+		<text>普林托</text>
+	</string>
+	<string id="lname_stalker_488">
+		<text>守财奴</text>
+	</string>
+	<string id="lname_stalker_489">
+		<text>沙蚤</text>
+	</string>
+	<string id="lname_stalker_49">
+		<text>葛拉吉</text>
+	</string>
+	<string id="lname_stalker_490">
+		<text>头儿</text>
+	</string>
+	<string id="lname_stalker_491">
+		<text>方</text>
+	</string>
+	<string id="lname_stalker_492">
+		<text>克罗</text>
+	</string>
+	<string id="lname_stalker_493">
+		<text>骨头</text>
+	</string>
+	<string id="lname_stalker_494">
+		<text>菲斯特</text>
+	</string>
+	<string id="lname_stalker_495">
+		<text>耐夫</text>
+	</string>
+	<string id="lname_stalker_496">
+		<text>骷髅</text>
+	</string>
+	<string id="lname_stalker_497">
+		<text>尾巴</text>
+	</string>
+	<string id="lname_stalker_498">
+		<text>汉子</text>
+	</string>
+	<string id="lname_stalker_499">
+		<text>虫子</text>
+	</string>
+	<string id="lname_stalker_5">
+		<text>老头</text>
+	</string>
+	<string id="lname_stalker_50">
+		<text>小气鬼</text>
+	</string>
+	<string id="lname_stalker_500">
+		<text>巴马利</text>
+	</string>
+	<string id="lname_stalker_501">
+		<text>贝弟</text>
+	</string>
+	<string id="lname_stalker_502">
+		<text>英雄</text>
+	</string>
+	<string id="lname_stalker_503">
+		<text>小木偶</text>
+	</string>
+	<string id="lname_stalker_504">
+		<text>巫师</text>
+	</string>
+	<string id="lname_stalker_505">
+		<text>夫蓝</text>
+	</string>
+	<string id="lname_stalker_506">
+		<text>荷马</text>
+	</string>
+	<string id="lname_stalker_507">
+		<text>哥里尼其</text>
+	</string>
+	<string id="lname_stalker_508">
+		<text>巨人</text>
+	</string>
+	<string id="lname_stalker_509">
+		<text>乔康达</text>
+	</string>
+	<string id="lname_stalker_51">
+		<text>辱马</text>
+	</string>
+	<string id="lname_stalker_510">
+		<text>度瑞玛</text>
+	</string>
+	<string id="lname_stalker_511">
+		<text>铁石</text>
+	</string>
+	<string id="lname_stalker_512">
+		<text>伊卡鲁斯</text>
+	</string>
+	<string id="lname_stalker_513">
+		<text>卡萨诺瓦</text>
+	</string>
+	<string id="lname_stalker_514">
+		<text>卡斯奇</text>
+	</string>
+	<string id="lname_stalker_515">
+		<text>凯萨</text>
+	</string>
+	<string id="lname_stalker_516">
+		<text>步兵</text>
+	</string>
+	<string id="lname_stalker_517">
+		<text>库特索夫</text>
+	</string>
+	<string id="lname_stalker_518">
+		<text>小男人</text>
+	</string>
+	<string id="lname_stalker_519">
+		<text>拿破仑</text>
+	</string>
+	<string id="lname_stalker_52">
+		<text>索特夫</text>
+	</string>
+	<string id="lname_stalker_520">
+		<text>尼尔森</text>
+	</string>
+	<string id="lname_stalker_521">
+		<text>海神</text>
+	</string>
+	<string id="lname_stalker_522">
+		<text>奥斯卡</text>
+	</string>
+	<string id="lname_stalker_523">
+		<text>普罗米修士</text>
+	</string>
+	<string id="lname_stalker_524">
+		<text>普许金</text>
+	</string>
+	<string id="lname_stalker_525">
+		<text>星期五</text>
+	</string>
+	<string id="lname_stalker_526">
+		<text>蓝波</text>
+	</string>
+	<string id="lname_stalker_527">
+		<text>洛克佛特</text>
+	</string>
+	<string id="lname_stalker_528">
+		<text>苏沙宁</text>
+	</string>
+	<string id="lname_stalker_529">
+		<text>终结者</text>
+	</string>
+	<string id="lname_stalker_53">
+		<text>伯瑞</text>
+	</string>
+	<string id="lname_stalker_530">
+		<text>弗林特</text>
+	</string>
+	<string id="lname_stalker_531">
+		<text>凯萨</text>
+	</string>
+	<string id="lname_stalker_532">
+		<text>查帕维夫</text>
+	</string>
+	<string id="lname_stalker_533">
+		<text>查佩</text>
+	</string>
+	<string id="lname_stalker_534">
+		<text>齐布</text>
+	</string>
+	<string id="lname_stalker_535">
+		<text>齐布瑞斯卡</text>
+	</string>
+	<string id="lname_stalker_536">
+		<text>齐加查克</text>
+	</string>
+	<string id="lname_stalker_537">
+		<text>金夕兹</text>
+	</string>
+	<string id="lname_stalker_538">
+		<text>斯提里兹</text>
+	</string>
+	<string id="lname_stalker_539">
+		<text>香蕉</text>
+	</string>
+	<string id="lname_stalker_54">
+		<text>鹰眼</text>
+	</string>
+	<string id="lname_stalker_540">
+		<text>巴拉巴斯卡</text>
+	</string>
+	<string id="lname_stalker_541">
+		<text>巴顿</text>
+	</string>
+	<string id="lname_stalker_542">
+		<text>加佛</text>
+	</string>
+	<string id="lname_stalker_543">
+		<text>手风琴</text>
+	</string>
+	<string id="lname_stalker_544">
+		<text>巴弟</text>
+	</string>
+	<string id="lname_stalker_545">
+		<text>布尔金</text>
+	</string>
+	<string id="lname_stalker_546">
+		<text>推土机</text>
+	</string>
+	<string id="lname_stalker_547">
+		<text>巴佛</text>
+	</string>
+	<string id="lname_stalker_548">
+		<text>拉维欧利</text>
+	</string>
+	<string id="lname_stalker_549">
+		<text>惠斯特</text>
+	</string>
+	<string id="lname_stalker_55">
+		<text>利牙</text>
+	</string>
+	<string id="lname_stalker_550">
+		<text>坏疽</text>
+	</string>
+	<string id="lname_stalker_551">
+		<text>混种</text>
+	</string>
+	<string id="lname_stalker_552">
+		<text>葛里其</text>
+	</string>
+	<string id="lname_stalker_553">
+		<text>哥布林</text>
+	</string>
+	<string id="lname_stalker_554">
+		<text>山地人</text>
+	</string>
+	<string id="lname_stalker_555">
+		<text>葛雷德</text>
+	</string>
+	<string id="lname_stalker_556">
+		<text>小精灵</text>
+	</string>
+	<string id="lname_stalker_557">
+		<text>英灵</text>
+	</string>
+	<string id="lname_stalker_558">
+		<text>度德</text>
+	</string>
+	<string id="lname_stalker_559">
+		<text>弗雷基</text>
+	</string>
+	<string id="lname_stalker_56">
+		<text>奇利</text>
+	</string>
+	<string id="lname_stalker_560">
+		<text>圈外人</text>
+	</string>
+	<string id="lname_stalker_561">
+		<text>卡哥</text>
+	</string>
+	<string id="lname_stalker_562">
+		<text>甘蓝菜</text>
+	</string>
+	<string id="lname_stalker_563">
+		<text>碳化物</text>
+	</string>
+	<string id="lname_stalker_564">
+		<text>纳可</text>
+	</string>
+	<string id="lname_stalker_565">
+		<text>王牌</text>
+	</string>
+	<string id="lname_stalker_566">
+		<text>准将</text>
+	</string>
+	<string id="lname_stalker_567">
+		<text>国王</text>
+	</string>
+	<string id="lname_stalker_568">
+		<text>大麻烟</text>
+	</string>
+	<string id="lname_stalker_569">
+		<text>讨厌鬼</text>
+	</string>
+	<string id="lname_stalker_57">
+		<text>怪物</text>
+	</string>
+	<string id="lname_stalker_570">
+		<text>艾斯</text>
+	</string>
+	<string id="lname_stalker_571">
+		<text>累嘘</text>
+	</string>
+	<string id="lname_stalker_572">
+		<text>回教徒</text>
+	</string>
+	<string id="lname_stalker_573">
+		<text>马德拉</text>
+	</string>
+	<string id="lname_stalker_574">
+		<text>义大利面</text>
+	</string>
+	<string id="lname_stalker_575">
+		<text>高手</text>
+	</string>
+	<string id="lname_stalker_576">
+		<text>异种</text>
+	</string>
+	<string id="lname_stalker_577">
+		<text>纳辛</text>
+	</string>
+	<string id="lname_stalker_578">
+		<text>无赖</text>
+	</string>
+	<string id="lname_stalker_579">
+		<text>惠普</text>
+	</string>
+	<string id="lname_stalker_58">
+		<text>智障</text>
+	</string>
+	<string id="lname_stalker_580">
+		<text>SWAT军官</text>
+	</string>
+	<string id="lname_stalker_581">
+		<text>布丁</text>
+	</string>
+	<string id="lname_stalker_582">
+		<text>胡椒</text>
+	</string>
+	<string id="lname_stalker_583">
+		<text>艾普雷特</text>
+	</string>
+	<string id="lname_stalker_584">
+		<text>甜甜圈</text>
+	</string>
+	<string id="lname_stalker_585">
+		<text>泡泡</text>
+	</string>
+	<string id="lname_stalker_586">
+		<text>葛雷特</text>
+	</string>
+	<string id="lname_stalker_587">
+		<text>布尔</text>
+	</string>
+	<string id="lname_stalker_588">
+		<text>莱萨斯基</text>
+	</string>
+	<string id="lname_stalker_589">
+		<text>私酒</text>
+	</string>
+	<string id="lname_stalker_59">
+		<text>跛子</text>
+	</string>
+	<string id="lname_stalker_590">
+		<text>虾子</text>
+	</string>
+	<string id="lname_stalker_591">
+		<text>饼乾</text>
+	</string>
+	<string id="lname_stalker_592">
+		<text>烟草</text>
+	</string>
+	<string id="lname_stalker_593">
+		<text>工时表</text>
+	</string>
+	<string id="lname_stalker_594">
+		<text>王牌</text>
+	</string>
+	<string id="lname_stalker_595">
+		<text>南瓜</text>
+	</string>
+	<string id="lname_stalker_596">
+		<text>食尸鬼</text>
+	</string>
+	<string id="lname_stalker_597">
+		<text>祭司</text>
+	</string>
+	<string id="lname_stalker_598">
+		<text>幽灵</text>
+	</string>
+	<string id="lname_stalker_599">
+		<text>特里克</text>
+	</string>
+	<string id="lname_stalker_6">
+		<text>葛雷</text>
+	</string>
+	<string id="lname_stalker_60">
+		<text>奇尔</text>
+	</string>
+	<string id="lname_stalker_61">
+		<text>卡马托斯</text>
+	</string>
+	<string id="lname_stalker_62">
+		<text>大人物</text>
+	</string>
+	<string id="lname_stalker_63">
+		<text>笨蛋</text>
+	</string>
+	<string id="lname_stalker_64">
+		<text>波尼</text>
+	</string>
+	<string id="lname_stalker_65">
+		<text>叉眼</text>
+	</string>
+	<string id="lname_stalker_66">
+		<text>O型腿</text>
+	</string>
+	<string id="lname_stalker_67">
+		<text>切角器</text>
+	</string>
+	<string id="lname_stalker_68">
+		<text>毛人</text>
+	</string>
+	<string id="lname_stalker_69">
+		<text>波弟</text>
+	</string>
+	<string id="lname_stalker_7">
+		<text>西尼</text>
+	</string>
+	<string id="lname_stalker_70">
+		<text>人人爱</text>
+	</string>
+	<string id="lname_stalker_71">
+		<text>费尔斯</text>
+	</string>
+	<string id="lname_stalker_72">
+		<text>小男人</text>
+	</string>
+	<string id="lname_stalker_73">
+		<text>尸体</text>
+	</string>
+	<string id="lname_stalker_74">
+		<text>死人</text>
+	</string>
+	<string id="lname_stalker_75">
+		<text>本地人</text>
+	</string>
+	<string id="lname_stalker_76">
+		<text>葛鲁米</text>
+	</string>
+	<string id="lname_stalker_77">
+		<text>烂泥</text>
+	</string>
+	<string id="lname_stalker_78">
+		<text>老头儿</text>
+	</string>
+	<string id="lname_stalker_79">
+		<text>水仙</text>
+	</string>
+	<string id="lname_stalker_8">
+		<text>布雷克</text>
+	</string>
+	<string id="lname_stalker_80">
+		<text>拉克斯</text>
+	</string>
+	<string id="lname_stalker_81">
+		<text>失败者</text>
+	</string>
+	<string id="lname_stalker_82">
+		<text>奶油</text>
+	</string>
+	<string id="lname_stalker_83">
+		<text>大笨蛋</text>
+	</string>
+	<string id="lname_stalker_84">
+		<text>惠纳</text>
+	</string>
+	<string id="lname_stalker_85">
+		<text>单眼</text>
+	</string>
+	<string id="lname_stalker_86">
+		<text>鸨</text>
+	</string>
+	<string id="lname_stalker_87">
+		<text>寄生虫</text>
+	</string>
+	<string id="lname_stalker_88">
+		<text>偏执狂</text>
+	</string>
+	<string id="lname_stalker_89">
+		<text>帅哥</text>
+	</string>
+	<string id="lname_stalker_9">
+		<text>无敌</text>
+	</string>
+	<string id="lname_stalker_90">
+		<text>作弊</text>
+	</string>
+	<string id="lname_stalker_91">
+		<text>豺狼</text>
+	</string>
+	<string id="lname_stalker_92">
+		<text>颓废</text>
+	</string>
+	<string id="lname_stalker_93">
+		<text>莱特斯</text>
+	</string>
+	<string id="lname_stalker_94">
+		<text>呆子</text>
+	</string>
+	<string id="lname_stalker_95">
+		<text>疯子</text>
+	</string>
+	<string id="lname_stalker_96">
+		<text>普罗德</text>
+	</string>
+	<string id="lname_stalker_97">
+		<text>破烂</text>
+	</string>
+	<string id="lname_stalker_98">
+		<text>掠夺者</text>
+	</string>
+	<string id="lname_stalker_99">
+		<text>夏普</text>
+	</string>
+</string_table>

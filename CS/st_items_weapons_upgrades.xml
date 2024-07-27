@@ -1,0 +1,567 @@
+﻿<?xml version="1.0" encoding="Unicode" ?>
+<string_table>
+	<string id="st_upg_zatvor_rpm">
+		<text>枪栓改良</text>
+	</string>
+	<string id="st_upg_zatvor_rpm_descr">
+		<text>枪栓的技术升级可以提供更高的开火速率。</text>
+	</string>
+	<string id="st_upg_zatvor_recoil">
+		<text>枪栓改良</text>
+	</string>
+	<string id="st_upg_zatvor_recoil_descr">
+		<text>仔细调节枪栓可以增加武器的精确度。</text>
+	</string>
+	<string id="st_upg_porsh_rpm">
+		<text>瓦斯杆升级</text>
+	</string>
+	<string id="st_upg_porsh_rpm_descr">
+		<text>减轻瓦斯杆重量可以在降低开火速率的前提下减轻后坐力。</text>
+	</string>
+	<string id="st_upg_porsh_recoil">
+		<text>瓦斯杆升级</text>
+	</string>
+	<string id="st_upg_porsh_recoil_descr">
+		<text>装备瓦斯杆调整器可以减轻后坐力。</text>
+	</string>
+	<string id="st_upg_barrel_weight">
+		<text>枪管升级</text>
+	</string>
+	<string id="st_upg_barrel_weight_descr">
+		<text>用轻型枪管取代标准枪管。</text>
+	</string>
+	<string id="st_upg_barrel_curved">
+		<text>枪管升级</text>
+	</string>
+	<string id="st_upg_barrel_curved_descr">
+		<text>增加枪管长度可以增加弹药初速度。</text>
+	</string>
+	<string id="st_upg_barrel_recoil">
+		<text>枪管升级</text>
+	</string>
+	<string id="st_upg_barrel_recoil_descr">
+		<text>安装制退器可以极大的减少后坐力。</text>
+	</string>
+	<string id="st_upg_barrel_rifled">
+		<text>枪管升级</text>
+	</string>
+	<string id="st_upg_barrel_rifled_descr">
+		<text>增加枪管膛线可以提高重散弹和弹标弹的有效射程。但使武器不适于一般散弹。</text>
+	</string>
+	<string id="st_upg_butt_recoil">
+		<text>面托</text>
+	</string>
+	<string id="st_upg_butt_recoil_descr">
+		<text>标准的橡胶护垫可以调节据枪高度。</text>
+	</string>
+	<string id="st_upg_butt_recoil2">
+		<text>聚合物枪托</text>
+	</string>
+	<string id="st_upg_butt_recoil2_descr">
+		<text>用聚合物枪托取代标准枪托可以减轻武器重量。</text>
+	</string>
+	<string id="st_upg_butt_recoil3_descr">
+		<text>用轻型枪托取代标准枪托。</text>
+	</string>
+	<string id="st_upg_butt_recoil4_descr">
+		<text>特殊设计的枪托可以极大减少后坐力。</text>
+	</string>
+	<string id="st_upg_auto_rpm">
+		<text>改良装置配平</text>
+	</string>
+	<string id="st_upg_auto_rpm_descr">
+		<text>拥有良好配平的机械装置工作部分，可明显提高武器的开火速率。</text>
+	</string>
+	<string id="st_upg_auto_rpm2">
+		<text>机械机构升级</text>
+	</string>
+	<string id="st_upg_auto_rpm2_descr">
+		<text>用全自动机构取代半自动机构，可显着提高开火速率。</text>
+	</string>
+	<string id="st_upg_poly_weight">
+		<text>聚合物零件</text>
+	</string>
+	<string id="st_upg_poly_weight_descr">
+		<text>使用聚合物零件可以显着减轻武器重量。</text>
+	</string>
+	<string id="st_upg_barrel_rpm">
+		<text>枪管冷却</text>
+	</string>
+	<string id="st_upg_barrel_rpm_descr">
+		<text>枪管冷却装置可以使武器维持较长时间的高开火速率，同时不必担心枪管变形。</text>
+	</string>
+	<string id="st_upg_trigger_accur">
+		<text>软扳机</text>
+	</string>
+	<string id="st_upg_trigger_accur_descr">
+		<text>平稳的扳机动作过程可以提高设计精度。</text>
+	</string>
+	<string id="st_upg_charger_assault">
+		<text>突袭型弹夹</text>
+	</string>
+	<string id="st_upg_charger_assault_descr">
+		<text>为突袭行动而设计的大容量弹夹。</text>
+	</string>
+	<string id="st_upg_charger_big">
+		<text>加长型弹夹</text>
+	</string>
+	<string id="st_upg_charger_big_descr">
+		<text>使用临时手段增加弹夹容量。</text>
+	</string>
+	<string id="st_upg_charger_small">
+		<text>轻型弹夹</text>
+	</string>
+	<string id="st_upg_charger_small_descr">
+		<text>减少弹夹的尺寸来减轻重量。使瞄准更加容易。</text>
+	</string>
+	<string id="st_upg_gas_rpm">
+		<text>导气装置升级</text>
+	</string>
+	<string id="st_upg_gas_rpm_descr">
+		<text>先进的导气装置可以提升开火速率。</text>
+	</string>
+	<string id="st_upg_gravi_accur">
+		<text>重力稳定器</text>
+	</string>
+	<string id="st_upg_gravi_accur_descr">
+		<text>用重力稳定器处理的弹药可以提高精确度。</text>
+	</string>
+	<string id="st_upg_electro_accur">
+		<text>电子稳定器</text>
+	</string>
+	<string id="st_upg_electro_accur_descr">
+		<text>自动调整子弹动量和显着提高射击精确度。</text>
+	</string>
+	<string id="st_upg_bind_grenade">
+		<text>增加附属枪管</text>
+	</string>
+	<string id="st_upg_bind_grenade_descr">
+		<text>允许安装枪榴弹发射器于武器上。</text>
+	</string>
+	<string id="st_upg_bind_optic">
+		<text>瞄准镜座</text>
+	</string>
+	<string id="st_upg_bind_optic_descr">
+		<text>允许安装各种不同的瞄准镜于武器上。</text>
+	</string>
+	<string id="st_upg_bind_silencer">
+		<text>消声器座</text>
+	</string>
+	<string id="st_upg_bind_silencer_descr">
+		<text>允许安装消声器于武器上。</text>
+	</string>
+	<string id="st_upg_handle_accur">
+		<text>握持护木</text>
+	</string>
+	<string id="st_upg_handle_accur_descr">
+		<text>高品质的橡胶护木可以提升武器握持手感。</text>
+	</string>
+	<string id="st_upg_handle_accur2">
+		<text>人体工程学护木</text>
+	</string>
+	<string id="st_upg_handle_accur2_descr">
+		<text>为您特别设计的人体工程学护木。</text>
+	</string>
+	<string id="st_upg_accel_curved">
+		<text>气动助推器</text>
+	</string>
+	<string id="st_upg_accel_curved_descr">
+		<text>装备内部气动助推器可以提高弹药初速度。</text>
+	</string>
+	<string id="st_upg_accel_curved2">
+		<text>磁性助推器</text>
+	</string>
+	<string id="st_upg_accel_curved2_descr">
+		<text>在交互磁场中提升弹药速度。</text>
+	</string>
+	<string id="st_upg_barrel_curved2">
+		<text>整体枪管</text>
+	</string>
+	<string id="st_upg_barrel_curved2_descr">
+		<text>将枪械升级至整体消声器。用整体枪管取代枪管与消声器的组合枪管。</text>
+	</string>
+	<string id="st_upg_pomp_rpm">
+		<text>改良气动装置</text>
+	</string>
+	<string id="st_upg_pomp_rpm_descr">
+		<text>调整和手工改变供弹装置。</text>
+	</string>
+	<string id="st_upg_head_misfire">
+		<text>撞针升级</text>
+	</string>
+	<string id="st_upg_head_misfire_descr">
+		<text>提升武器可靠性同时减少瞎火的几率。</text>
+	</string>
+	<string id="st_upg_mat_wear">
+		<text>耐用材料</text>
+	</string>
+	<string id="st_upg_mat_wear_descr">
+		<text>用耐用材料取代普通的武器外部材料，使武器免受物理伤害。</text>
+	</string>
+	<string id="st_upg_surf_wear">
+		<text>防护喷射机</text>
+	</string>
+	<string id="st_upg_surf_wear_descr">
+		<text>方形喷射机保护机械部分免于磨损。</text>
+	</string>
+	<string id="st_upg_group_kuchn">
+		<text>提高精确度</text>
+	</string>
+	<string id="st_upg_group_kuchn_descr">
+		<text>枪口适配器可以在射击时提高精确度。</text>
+	</string>
+	<string id="st_upg_staple_rpm">
+		<text>移去扳机护圈</text>
+	</string>
+	<string id="st_upg_staple_rpm_descr">
+		<text>一个普通而简单的改进，可提高双管散弹枪的开火速率。</text>
+	</string>
+	<string id="st_prop_ammo_size">
+		<text>弹夹尺寸</text>
+	</string>
+	<string id="st_prop_armor">
+		<text>装甲</text>
+	</string>
+	<string id="st_prop_artefact">
+		<text>神器存储箱</text>
+	</string>
+	<string id="st_prop_bullet_speed">
+		<text>弹道平直度</text>
+	</string>
+	<string id="st_prop_calibre">
+		<text>口径</text>
+	</string>
+	<string id="st_prop_damage">
+		<text>整体性</text>
+	</string>
+	<string id="st_prop_dispersion">
+		<text>精确度</text>
+	</string>
+	<string id="st_prop_durability">
+		<text>耐久性</text>
+	</string>
+	<string id="st_prop_grenade_launcher">
+		<text>下挂枪榴弹发射器</text>
+	</string>
+	<string id="st_prop_inertion">
+		<text>操作性</text>
+	</string>
+	<string id="st_prop_night_vision">
+		<text>夜视</text>
+	</string>
+	<string id="st_prop_power">
+		<text>体力恢复</text>
+	</string>
+	<string id="st_prop_psy">
+		<text>电磁辐射防护</text>
+	</string>
+	<string id="st_prop_radio_chem">
+		<text>放射保护</text>
+	</string>
+	<string id="st_prop_recoil">
+		<text>后坐力</text>
+	</string>
+	<string id="st_prop_reliability">
+		<text>可靠性</text>
+	</string>
+	<string id="st_prop_restore_bleeding">
+		<text>伤口治疗</text>
+	</string>
+	<string id="st_prop_restore_health">
+		<text>生命恢复</text>
+	</string>
+	<string id="st_prop_rpm">
+		<text>射击速率</text>
+	</string>
+	<string id="st_prop_scope_1。6x">
+		<text>光学瞄准镜</text>
+	</string>
+	<string id="st_prop_scope_4x">
+		<text>嵌入式瞄准镜</text>
+	</string>
+	<string id="st_prop_silencer">
+		<text>消声器</text>
+	</string>
+	<string id="st_prop_thermo_electro">
+		<text>热电气保护</text>
+	</string>
+	<string id="st_prop_underbarrel_slot">
+		<text>安装附加枪管</text>
+	</string>
+	<string id="st_prop_weight">
+		<text>重量</text>
+	</string>
+	<string id="st_tonnage">
+		<text>最大重量</text>
+	</string>
+	<string id="st_upg_active_filter_stalk">
+		<text>有源滤波器</text>
+	</string>
+	<string id="st_upg_active_filter_stalk_descr">
+		<text>使用更高效的过滤系统。</text>
+	</string>
+	<string id="st_upg_ammo_sysytem_rpm">
+		<text>弹药补给系统</text>
+	</string>
+	<string id="st_upg_ammo_sysytem_rpm_descr">
+		<text>加速弹膛内的弹药补给，可以非常显着的提升射击速率。</text>
+	</string>
+	<string id="st_upg_anti_gas_stalk">
+		<text>防毒面具</text>
+	</string>
+	<string id="st_upg_anti_gas_stalk_descr">
+		<text>防毒面具是个人在放射性尘埃和化学毒物中最基本的防护。</text>
+	</string>
+	<string id="st_upg_antistatic_coating_stalk">
+		<text>防护涂料</text>
+	</string>
+	<string id="st_upg_antistatic_coating_stalk_descr">
+		<text>这些防护涂料防止放射性尘埃和化学品接触人们的外套。</text>
+	</string>
+	<string id="st_upg_artefact_slot">
+		<text>神器储存器</text>
+	</string>
+	<string id="st_upg_artefact_slot_descr">
+		<text>存储额外的神器。</text>
+	</string>
+	<string id="st_upg_brigandine_suit_stalk">
+		<text>防水帆布外套</text>
+	</string>
+	<string id="st_upg_brigandine_suit_stalk_descr">
+		<text>提供令人满意的对火焰和电流的防护。</text>
+	</string>
+	<string id="st_upg_butt_recoil3">
+		<text>轻型枪托</text>
+	</string>
+	<string id="st_upg_butt_recoil4">
+		<text>气动枪托</text>
+	</string>
+	<string id="st_upg_calibre_5_45">
+		<text>5。45x39 mm子弹</text>
+	</string>
+	<string id="st_upg_calibre_5_45_descr">
+		<text>枪管将更换为新的口径。 这种更换只能进行一次。</text>
+	</string>
+	<string id="st_upg_calibre_5_56">
+		<text>5。56x45 mm子弹</text>
+	</string>
+	<string id="st_upg_calibre_5_56_descr">
+		<text>枪管将更换为新的口径。 这种更换只能进行一次。</text>
+	</string>
+	<string id="st_upg_calibre_9_18">
+		<text>9x18 mm子弹</text>
+	</string>
+	<string id="st_upg_calibre_9_18_descr">
+		<text>枪管将更换为新的口径。 这种更换只能进行一次。</text>
+	</string>
+	<string id="st_upg_calibre_9_19">
+		<text>9x19 mm子弹</text>
+	</string>
+	<string id="st_upg_calibre_9_19_descr">
+		<text>枪管将更换为新的口径。 这种更换只能进行一次。</text>
+	</string>
+	<string id="st_upg_cevlar_body_armor_battle">
+		<text>凯夫拉防弹衣</text>
+	</string>
+	<string id="st_upg_cevlar_body_armor_battle_descr">
+		<text>多层凯夫拉防弹衣材料</text>
+	</string>
+	<string id="st_upg_cevlars_armor_battle">
+		<text>凯夫拉防弹板</text>
+	</string>
+	<string id="st_upg_cevlars_armor_battle_descr">
+		<text>凯夫拉防弹板嵌入防弹衣后提供额外的防护</text>
+	</string>
+	<string id="st_upg_composite_armor_battle">
+		<text>复合防弹板</text>
+	</string>
+	<string id="st_upg_composite_armor_battle_descr">
+		<text>复合防弹板提供对小口径轻武器的最好防护。</text>
+	</string>
+	<string id="st_upg_double_layer_body_armor_battle">
+		<text>双层防弹衣</text>
+	</string>
+	<string id="st_upg_double_layer_body_armor_battle_descr">
+		<text>即使第一层装甲被破坏，第二层依然能提供足够的防护。</text>
+	</string>
+	<string id="st_upg_electro_stimulant_battle">
+		<text>电兴奋剂</text>
+	</string>
+	<string id="st_upg_electro_stimulant_battle_descr">
+		<text>兴奋剂创造微冲波 ，促进生理活动。</text>
+	</string>
+	<string id="st_upg_exsternal_filtering_sys_stalk">
+		<text>外部过滤系统</text>
+	</string>
+	<string id="st_upg_exsternal_filtering_sys_stalk_descr">
+		<text>当筛检程式被拿离防毒面具时，还有很多可供使用。</text>
+	</string>
+	<string id="st_upg_germetic_layer_stalk">
+		<text>密封保温涂料</text>
+	</string>
+	<string id="st_upg_germetic_layer_stalk_descr">
+		<text>这种特殊的密封保温涂料可以使衣服绝缘，隔热。</text>
+	</string>
+	<string id="st_upg_hard_barrel_curved">
+		<text>更换枪管</text>
+	</string>
+	<string id="st_upg_hard_barrel_curved_descr">
+		<text>这种坚固的钢铁枪管抗变形并能提升子弹的初速度。</text>
+	</string>
+	<string id="st_upg_hard_elements_battle">
+		<text>硬质合金</text>
+	</string>
+	<string id="st_upg_hard_elements_battle_descr">
+		<text>这种轻合金框架可以吸收大部分子弹能量。</text>
+	</string>
+	<string id="st_upg_health_sustaining_sys_battle">
+		<text>生命维持系统</text>
+	</string>
+	<string id="st_upg_health_sustaining_sys_battle_descr">
+		<text>这个仪器佩戴在手上，当佩戴者受伤时，会自动向身体注入抗休克药物和兴奋剂。</text>
+	</string>
+	<string id="st_upg_night_vision_battle">
+		<text>夜视仪</text>
+	</string>
+	<string id="st_upg_night_vision_battle_descr">
+		<text>第一代夜视仪</text>
+	</string>
+	<string id="st_upg_outfit_a_stalk">
+		<text>防护背心</text>
+	</string>
+	<string id="st_upg_outfit_a_stalk_descr">
+		<text>这种防护背心可以便捷的重新分配个人的负重。</text>
+	</string>
+	<string id="st_upg_outfit_b_stalk">
+		<text>防护背包</text>
+	</string>
+	<string id="st_upg_outfit_b_stalk_descr">
+		<text>特殊的背带使这种背包非常便于携带而且能承载大重量的负载。</text>
+	</string>
+	<string id="st_upg_plastic_components_battle">
+		<text>塑胶成分</text>
+	</string>
+	<string id="st_upg_plastic_components_battle_descr">
+		<text>塑胶衣物更加耐用。</text>
+	</string>
+	<string id="st_upg_polymer_coating_stalk">
+		<text>聚合物处理</text>
+	</string>
+	<string id="st_upg_polymer_coating_stalk_descr">
+		<text>经过液态聚合物材料处理的衣物对火焰和电流有更佳的抵抗力。</text>
+	</string>
+	<string id="st_upg_polymer_pillow_battle">
+		<text>增厚聚合物材料</text>
+	</string>
+	<string id="st_upg_polymer_pillow_battle_descr">
+		<text>这种增厚的织物可以有效吸收子弹能量。</text>
+	</string>
+	<string id="st_upg_polymer_suit_stalk">
+		<text>聚合物服装</text>
+	</string>
+	<string id="st_upg_polymer_suit_stalk_descr">
+		<text>聚合物材料可以提供对火焰和电流袭击的良好防护。</text>
+	</string>		
+	<string id="st_upg_powered_carcass_battle">
+		<text>增强骨架</text>
+	</string>
+	<string id="st_upg_powered_carcass_battle_descr">
+		<text>额外的骨架可以加强骨骼的力量。</text>
+	</string>
+	<string id="st_upg_powered_servo_motor_battle">
+		<text>增强伺服机</text>
+	</string>
+	<string id="st_upg_powered_servo_motor_battle_descr">
+		<text>使用高电压到伺服机来增加他们的能量。</text>
+	</string>
+	<string id="st_upg_psy_shielding_stalk">
+		<text>军用遮罩服</text>
+	</string>
+	<string id="st_upg_psy_shielding_stalk_descr">
+		<text>复杂的遮罩电缆可以提供有限的电磁防护。</text>
+	</string>
+	<string id="st_upg_recycle_breathing_sys_stalk">
+		<text>闭路回圈呼吸模组</text>
+	</string>
+	<string id="st_upg_recycle_breathing_sys_stalk_descr">
+		<text>闭路回圈呼吸模组可以净化污染的空气。</text>
+	</string>
+	<string id="st_upg_relax_suit_stalk">
+		<text>平衡负载的服装</text>
+	</string>
+	<string id="st_upg_relax_suit_stalk_descr">
+		<text>这种衣物的弹性织物可使穿戴者长时间承受负重的压力。</text>
+	</string>
+	<string id="st_upg_scope_1_6x_opt">
+		<text>安装1。6x瞄准镜</text>
+	</string>
+	<string id="st_upg_scope_1_6x_opt_descr">
+		<text>1。6x瞄准镜对射手的视野影响很小，很适合进攻行动。</text>
+	</string>
+	<string id="st_upg_scope_4x_opt">
+		<text>安装4x瞄准镜</text>
+	</string>
+	<string id="st_upg_scope_4x_opt_descr">
+		<text>使用4x 瞄准镜，任何武器都变得适合狙击。</text>
+	</string>
+	<string id="st_upg_sintetic_pillow_battle">
+		<text>增厚合成纤维</text>
+	</string>
+	<string id="st_upg_sintetic_pillow_battle_descr">
+		<text>这种增厚的织物放置在防弹衣的里面，可以有效地减少伤害。</text>
+	</string>
+	<string id="st_upg_slice_leather_battle">
+		<text>嵌入坚硬的皮革</text>
+	</string>
+	<string id="st_upg_slice_leather_battle_descr">
+		<text>稍微弱化子弹的影响。</text>
+	</string>
+	<string id="st_upg_spec_coating_stalk">
+		<text>特种服装</text>
+	</string>
+	<string id="st_upg_spec_coating_stalk_descr">
+		<text>这种服装由在这个地区找到的一种原料经特殊工艺制作而成，可以抵御变异点的火焰和电流。</text>
+	</string>
+	<string id="st_upg_spectra_body_armor_battle">
+		<text>电磁波谱防弹衣</text>
+	</string>
+	<string id="st_upg_spectra_body_armor_battle_descr">
+		<text>加强型防弹衣可以抵御步枪的射击。</text>
+	</string>
+	<string id="st_upg_upgrade_night_vision_battle">
+		<text>第二代夜视仪</text>
+	</string>
+	<string id="st_upg_upgrade_night_vision_battle_descr">
+		<text>这种第二代夜视仪可以提供清晰且干扰少的图像。</text>
+	</string>
+	<string id="st_upgr_ammunition">
+		<text>弹药</text>
+	</string>
+	<string id="st_upgr_condlist">
+		<text>缺少升级数据</text>
+	</string>
+	<string id="st_upgr_cost">
+		<text>费用</text>
+	</string>
+	<string id="st_upgr_disable">
+		<text>无法安装</text>
+	</string>
+	<string id="st_upgr_enough_money">
+		<text>资金不足：</text>
+	</string>
+	<string id="st_upgr_group">
+		<text>组件已升级</text>
+	</string>
+	<string id="st_upgr_installed">
+		<text>安装</text>
+	</string>
+	<string id="st_upgr_parents">
+		<text>其他升级需要安装此元件</text>
+	</string>
+	<string id="st_upgr_rpm_lowered">
+		<text>每分钟转速降低</text>
+	</string>
+	<string id="st_upgrade_install">
+		<text>您确定要安装：</text>
+	</string>
+</string_table>

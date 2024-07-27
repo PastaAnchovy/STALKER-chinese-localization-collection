@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="Unicode" ?>
+<string_table>
+	<string id="pda_end_tutorial">
+		<text>事实上这儿就是…</text>
+	</string>
+	<string id="pda_start_tutorial">
+		<text>一步步接受训练过程。</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_1">
+		<text>兄弟你要知道，我们的主要目标就是控制Bolotami，所以去和侵略者战斗吧！</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_10">
+		<text>最后，你能在这里看到当前的战略目标以及战术目标。为达到这些目的去完成它们吧！</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_11">
+		<text>在下面将会显示已经完成的战略目标。</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_2">
+		<text>在任何时候你都能找到有关这段军事行动过程的全部战术信息。</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_3">
+		<text>左侧显示的是你当前派系的信息，在这儿显示的是晴空，我们都是。</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_4">
+		<text>右侧是敌人的主要信息。</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_5">
+		<text>这里表示的是我们军事能力的等级。</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_6">
+		<text>这里显示的是我们战士的数量。</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_7">
+		<text>这里是我们资源规模的等级。</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_8">
+		<text>最下方的标志显示的是我们军队装备的特点。</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_9">
+		<text>类似这样的图示就是我们的敌人。</text>
+	</string>
+	<string id="pda_tutorial_pda_ranking_war_phrase_1">
+		<text>从最后的表图上你能获悉所有派系的当前关系和军事实力。</text>
+	</string>
+	<string id="pda_tutorial_pda_ranking_war_phrase_2">
+		<text>另外，这里有你个人的统计显示。</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_1">
+		<text>看，这里是你的主要向导，任务部分。</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_10">
+		<text>在你的地图上会详细显示友好部队的坐标，还有其他敌人的坐标。</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_2">
+		<text>这里显示的是您的主线任务…</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_3">
+		<text>和已选择的支线任务。</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_4">
+		<text>附加任务可能不多，你可在列表里获得导航，通过这些按钮可以滚动它。</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_5">
+		<text>多数任务也将会在地图上显示，除极少数目标无法确定的任务。</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_6">
+		<text>我们需要你的援助不仅仅是消灭敌人，还有去占领重要位置。</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_7">
+		<text>在你掩护我们的战士夺取阵地后，他们会非常感激你的。</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_8">
+		<text>顺便提下，不要忽视别人的求救：他们的命在你手上。</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_9">
+		<text>指针指向地图上的图示可获得更多的相关信息。</text>
+	</string>
+</string_table>

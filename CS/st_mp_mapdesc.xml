@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="Unicode" ?>
+<string_table>
+	<string id="ui_map_desc_mp_agroprom_large">
+		<text>奇怪的地方。这栋寂静的建筑物可能隐藏着一个和它有关的秘密，但是独行者来到这里还有另一个原因 - 大量的神器被发现在这个高风险 / 高回报的地区。快速的思考和行动，幸运将会站在你这边。</text>
+	</string>
+	<string id="ui_map_desc_mp_agroprom_short">
+		<text>奇怪的地方。这栋寂静的建筑物可能隐藏着一个和它有关的秘密，但是独行者来到这里还有另一个原因 - 大量的神器被发现在这个高风险 / 高回报的地区… </text>
+	</string>
+	<string id="ui_map_desc_mp_atp_large">
+		<text>一个位于地区入口处的巴士仓库。破烂的拖拉机，巴士，卡车等停在这里很久了…到目前为止没有发现任何神器，但是这里很受经验丰富、喜欢追捕新手并抢夺他们财产的独行者们欢迎。搜索建筑物和车辆后面，当心屋顶的敌人。</text>
+	</string>
+	<string id="ui_map_desc_mp_atp_short">
+		<text>一个位于地区入口处的巴士仓库。破烂的拖拉机，巴士，卡车等停在这里很久了… </text>
+	</string>
+	<string id="ui_map_desc_mp_bath_large">
+		<text>一个神秘且迷人的地方。这个水池为什么人或什么东西试验而建，但其确切的目的将永远是个谜。这里没有发现神器，所以这些独行者来到这只为了这里遗留下来的奇怪设备。留意屋顶并注意该地区辐射强度非常高。</text>
+	</string>
+	<string id="ui_map_desc_mp_bath_short">
+		<text>一个神秘且迷人的地方。这个水池为在什么人或什么东西上的试验而建，但其确切的目的将永远是个谜。</text>
+	</string>
+	<string id="ui_map_desc_mp_factory_large">
+		<text>这阴森荒凉的工厂是无数独行者休息的地方。大量的变异点等待着走进这里的访客，但他们还是大量的涌入这里，因为神器的价值就像磁石般吸引他们。注意辐射！ </text>
+	</string>
+	<string id="ui_map_desc_mp_factory_short">
+		<text>这阴森荒凉的工厂是无数独行者休息的地方。</text>
+	</string>
+	<string id="ui_map_desc_mp_garbage_large">
+		<text>这是一个巨大的并散发着恶臭的存放废弃物的院子的一部分，这里堆积着1986年灾难后的放射性垃圾，充满了破旧的起重机和各种设备。其它的当地建筑物包括年久失修的楼群和一个大型机库。地区入口附近的地方有着相对大量的容易收集的神器吸引独行者们前来。</text>
+	</string>
+	<string id="ui_map_desc_mp_garbage_short">
+		<text>这是一个巨大的并散发着恶臭的存放废弃物的院子的一部分，这里堆积着1986年灾难后的放射性垃圾，充满了破旧的起重机和各种设备。</text>
+	</string>
+	<string id="ui_map_desc_mp_lost_village_large">
+		<text>一个被神所抛弃的村庄坐落于该地区的深处。有一个荒芜的小湖，住宅旁散乱着大量被破坏的车辆，让你的潜意识充满了对这里现实的恐惧。当心狙击手，但是记住这里喜欢勇敢的人。</text>
+	</string>
+	<string id="ui_map_desc_mp_lost_village_short">
+		<text>一个被神所抛弃的村庄坐落于该地区的深处。有一个荒芜的小湖，住宅旁散乱着大量被破坏的车辆，让你的潜意识充满了对这里现实的恐惧。</text>
+	</string>
+	<string id="ui_map_desc_mp_military_1_large">
+		<text>一个废弃的陆军基地里面停放着一些再也无法移动的卡车和装甲运兵车，还有残破的总部和军营。看来这里一片荒芜，不过，这可能是骗人的：这是一个真正的假像，这意味着敌人可能隐藏在周围的任何一个角落。让他们看看你们是最棒的！</text>
+	</string>
+	<string id="ui_map_desc_mp_military_1_short">
+		<text>一个废弃的陆军基地里面停放着一些再也无法移动的卡车和装甲运兵车，还有残破的总部和军营。</text>
+	</string>
+	<string id="ui_map_desc_mp_military_2_large">
+		<text>这个破败的村子是一块危险之地。如果你有足够的勇气来这里，就要准备提防这里的欢迎--射向你脑袋的子弹。这里没有一处是安全的，所以最好小声点。</text>
+	</string>
+	<string id="ui_map_desc_mp_military_2_short">
+		<text>这个破败的村子是一块危险之地。如果你有足够的勇气来这里，就要准备提防这里的欢迎--射向你脑袋的子弹。</text>
+	</string>
+	<string id="ui_map_desc_mp_prypiat_large">
+		<text>皮里皮亚特是一个由核电厂员工构成的城市，或者是其他什么类似的人。真正的危险潜伏在这个破败不堪的工厂厂区，所以要拼命的注意周围。</text>
+	</string>
+	<string id="ui_map_desc_mp_prypiat_short">
+		<text>皮里皮亚特城的位置离核电厂不远，这是切尔诺贝利灾难的遗产。</text>
+	</string>
+	<string id="ui_map_desc_mp_railraod_short">
+		<text>一个小火车站位于罗什托克工厂附近。</text>
+	</string>
+	<string id="ui_map_desc_mp_railroad_large">
+		<text>一个小火车站位于罗什托克工厂附近，到处充满了停在铁轨上的生锈火车头和车厢。大量的神器吸引着来自该地区各个角落的无畏独行者。</text>
+	</string>
+	<string id="ui_map_desc_mp_rostok_large">
+		<text>工厂与淹没于水中的成堆的金属和混凝土保持着奇特的寂静。上个世纪这里一片繁忙，工人们匆忙着开始轮班，喇叭里传来苏联口号…那个时代已经不存在了，这个工厂已经死了。</text>
+	</string>
+	<string id="ui_map_desc_mp_rostok_short">
+		<text>遗弃的旧工厂，淹没于水中的成堆的金属和混凝土之间保持着奇特的寂静。</text>
+	</string>
+	<string id="ui_map_desc_mp_workshop_large">
+		<text>在纪律团到来之前这里是罗什托克工厂的边缘。一个阴森可怕的地方，但是却充满了神器。每一个空机库或是仓库都充满了危险。保持高度警觉并密切注意白塔…</text>
+	</string>
+	<string id="ui_map_desc_mp_workshop_short">
+		<text>在纪律团到来之前这里是罗什托克工厂的边缘。一个阴森可怕的地方，但是却充满了神器。</text>
+	</string>
+	<string id="ui_map_desc_mp_autostation_large">
+		<text>荒芜的仓库建筑和邻近区域。如果搜寻仔细的话，可以找到一些设备和补给。注意变异点和仓库屋顶上的射手 - 那是一个监视所有道路的绝佳位置。</text>
+	</string>
+	<string id="ui_map_desc_mp_autostation_short">
+		<text>荒芜的仓库建筑和邻近区域。注意变异点和敌人的射手…</text>
+	</string>
+	<string id="ui_map_desc_mp_firestation_large">
+		<text>消防站的全部部队在1986年被送往抢救切尔诺贝利核电站。这个塔监视附近区域的绝佳位置。不要去建筑物上层或地下室，即使它们还很完好。一段时间来该地区的各派系通过战斗争取最好的战略位置并已经占领了该地区的每一处要道。</text>
+	</string>
+	<string id="ui_map_desc_mp_firestation_short">
+		<text>消防站的全部部队在1986年被送往抢救切尔诺贝利核电站。这个塔是一个绝佳位置…</text>
+	</string>
+	<string id="ui_map_desc_mp_limansk_large">
+		<text>在神秘的利曼斯克市的一小块区域- 它位于被遗弃的公寓楼和只剩一半结构的建筑之间。几个昂贵的神器被发现于此的消息以极快的速度传遍整个地区。一条通往利曼斯克的新路被开通，从那时到现在这里的枪声就没停歇过一分钟。</text>
+	</string>
+	<string id="ui_map_desc_mp_limansk_short">
+		<text>在神秘的利曼斯克市的一小块区域- 它位于被遗弃的公寓楼和只剩一半结构的建筑之间。</text>
+	</string>
+	<string id="ui_map_desc_mp_pool_large">
+		<text>这不是泳池- 更像一个血池。子弹的呼啸，爆炸声和死亡的尖叫回荡在道路上…只有很少的独行者知道通向这里的道路，但只有极少的人知道出去的路。</text>
+	</string>
+	<string id="ui_map_desc_mp_pool_short">
+		<text>这不是泳池- 更像一个血池。子弹的呼啸，爆炸声和死亡的尖叫回荡在道路上…</text>
+	</string>
+	<string id="ui_map_desc_mp_rembasa_large">
+		<text>维修基地，在附近的一个小村庄。所有车辆都要依次提升起来消除切尔努贝利灾难的后效。同时，搜索剩余的设备作为备用零件。这个地区充满了危险，比如沼泽和被污染的杂草，在这里如果你够幸运的话就会找到一些真正有价值的东西。</text>
+	</string>
+	<string id="ui_map_desc_mp_rembasa_short">
+		<text>维修基地，在附近的一个小村庄。这个地区充满了危险，比如沼泽和被污染的杂草以及类似的东西。</text>
+	</string>
+	<string id="ui_map_desc_mp_sport_center_large">
+		<text>体育中心在有大转盘的地方位于不远处的被遗弃的学校。这里有关体育锻炼的专案自1986以来发生了巨大的变化，又有多少热衷者愿意参与。来到这里的都是些声名狼藉的为了神器的独行者，有时也就永远的留在这里了。</text>
+	</string>
+	<string id="ui_map_desc_mp_sport_center_short">
+		<text>体育中心在皮里皮亚特，位于不远处的被遗弃的学校。</text>
+	</string>
+	<string id="ui_map_desc_mp_darkvalley_large">
+		<text>所有离开这里的人都对拥有幽长街道和荒芜学校的黑暗山谷这个危险地方感兴趣。这个学院教些什么仍很难确定，但现在你在这里唯一可以学到的就是如何生存。好的！注意屋顶。</text>
+	</string>
+	<string id="ui_map_desc_mp_darkvalley_short">
+		<text>所有离开这里的人都对拥有幽长街道和荒芜学校的黑暗山谷这个危险地方感兴趣…</text>
+	</string>
+	<string id="mp_autostation">
+		<text>废弃的仓库</text>
+	</string>
+	<string id="ui_map_desc_mp_training_camp_short">
+		<text>一个奇怪的地方。重力异变点把这里的风景变的如同外星球一样…</text>
+	</string>
+	<string id="ui_map_desc_mp_training_camp_large">
+		<text>一个奇怪的地方。许多人都嘲笑声称见过那儿的独行者，但它确实存在着。重力异变点把这里的风景变的如同外星球一样。这里高高挺立着三座巨塔，残存的军事装备和浮动的小岛散乱的分布着。</text>
+	</string>
+</string_table>
+

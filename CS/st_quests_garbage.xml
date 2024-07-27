@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="Unicode" ?>
+<string_table>
+	<string id="gar_defend_bandit_base_name">
+		<text>防守强盗基地</text>
+	</string>
+	<string id="gar_defend_bandit_base_text">
+		<text>防守强盗基地</text>
+	</string>
+	<string id="gar_quest_bring_money_name">
+		<text>当天黑时带给那普两千现金</text>
+	</string>
+	<string id="gar_quest_bring_money_text">
+		<text>花2000卢布从跳蚤市场的狂野那普手中购买个医疗包。市场里这样的交易只能在晚上进行</text>
+	</string>
+	<string id="gar_quest_bring_old_pda_name">
+		<text>把旧的PDA带给那普</text>
+	</string>
+	<string id="gar_quest_bring_old_pda_text">
+		<text>将旧的PDA带给跳蚤市场的狂野那普，可在弗里西营地的工具箱里找到它。</text>
+	</string>
+	<string id="gar_quest_destroy_ambush_name">
+		<text>杀死叛徒</text>
+	</string>
+	<string id="gar_quest_destroy_ambush_text">
+		<text>杀死阿瓦斯卡引发伏兵。</text>
+	</string>
+	<string id="gar_quest_destroy_flea_market_name">
+		<text>让强盗接管跳蚤市场</text>
+	</string>
+	<string id="gar_quest_destroy_flea_market_text">
+		<text>屠杀跳蚤市场的鼹鼠来给其他人上一课，确保其中一个强盗仍然呆在那。</text>
+	</string>
+	<string id="gar_quest_get_old_pda_box_name">
+		<text>从工具箱中拿出旧PDA</text>
+	</string>
+	<string id="gar_quest_get_old_pda_box_text">
+		<text>把PDA拿去给狂野那普。PDA在工具箱里</text>
+	</string>
+	<string id="gar_quest_get_old_pda_name">
+		<text>从弗里西的营地拿走PDA</text>
+	</string>
+	<string id="gar_quest_get_old_pda_text">
+		<text>把弗里西的旧PDA拿去给狂野那普。如果弗里西人不在的话，PDA可以在工具箱里找到</text>
+	</string>
+	<string id="gar_quest_get_traitor_pda_name">
+		<text>从阿瓦斯卡的身上拿走东西</text>
+	</string>
+	<string id="gar_quest_get_traitor_pda_text">
+		<text>搜阿瓦斯卡的身并拿走所有值钱的东西。</text>
+	</string>
+	<string id="gar_quest_get_weapons_name">
+		<text>带2000给阿瓦斯卡</text>
+	</string>
+	<string id="gar_quest_get_weapons_text">
+		<text>给阿瓦斯卡带2000现金来购买一批走私武器</text>
+	</string>
+	<string id="gar_quest_kill_digger_traitor_name">
+		<text>杀死一个被称为阿瓦斯卡的人</text>
+	</string>
+	<string id="gar_quest_kill_digger_traitor_text">
+		<text>经尤加的说明后去杀死一个叫阿瓦斯卡的人</text>
+	</string>
+	<string id="gar_quest_kill_smuggler_name">
+		<text>杀死走私犯和鼹鼠。</text>
+	</string>
+	<string id="gar_quest_kill_smuggler_text">
+		<text>杀死所有想从他那儿买东西的走私犯和鼹鼠。</text>
+	</string>
+	<string id="gar_quest_killer_pseudodogs_name">
+		<text>摧毁夜猎着</text>
+	</string>
+	<string id="gar_quest_killer_pseudodogs_text">
+		<text>找出并摧毁攻击鼹鼠的生物。你可以从上次攻击的幸存者那开始。看起来他们只在晚上出没。</text>
+	</string>
+	<string id="gar_quest_liberate_conc_camp_name">
+		<text>消灭强盗集中营的守卫</text>
+	</string>
+	<string id="gar_quest_liberate_conc_camp_text">
+		<text>消灭强盗集中营的守卫后和鼹鼠一起释放俘虏</text>
+	</string>
+	<string id="gar_quest_meet_with_digger_fighters_name">
+		<text>会见鼹鼠队伍</text>
+	</string>
+	<string id="gar_quest_meet_with_digger_fighters_text">
+		<text>会见鼹鼠队伍并发起一次对强盗集中营的攻击</text>
+	</string>
+	<string id="gar_quest_speak_with_quester_name">
+		<text>和狂野那普谈谈</text>
+	</string>
+	<string id="gar_quest_speak_with_quester_text">
+		<text>找出狂野那普关于跳蚤市场想和你谈些什么</text>
+	</string>
+	<string id="gar_story_chase_digger_name">
+		<text>从鼹鼠信使那儿获取信息</text>
+	</string>
+	<string id="gar_story_chase_digger_text">
+		<text>和鼹鼠信使交谈并找出方去了哪里</text>
+	</string>
+	<string id="gar_story_chase_pda_signal_cellar_name">
+		<text>找到方</text>
+	</string>
+	<string id="gar_story_chase_pda_signal_cellar_text">
+		<text>通过跟踪PDA信号在基地里找到方</text>
+	</string>
+	<string id="gar_story_chase_pda_signal_name">
+		<text>抓住方</text>
+	</string>
+	<string id="gar_story_chase_pda_signal_text">
+		<text>通过跟踪PDA信号抓住方</text>
+	</string>
+	<string id="gar_story_find_cache_name">
+		<text>找到隐藏点</text>
+	</string>
+	<string id="gar_story_find_cache_text">
+		<text>找到方的队伍的隐藏点。</text>
+	</string>
+	<string id="gar_story_find_diggers_name">
+		<text>从鼹鼠那得到关于方的信息</text>
+	</string>
+	<string id="gar_story_find_diggers_text">
+		<text>依照商人所说，从见过方的那个鼹鼠那里获取他的下落</text>
+	</string>
+	<string id="gar_story_get_pda_name">
+		<text>捡起方的PDA</text>
+	</string>
+	<string id="gar_story_get_pda_text">
+		<text>捡起方掉落的PDA</text>
+	</string>
+	<string id="gar_story_go_to_freedom_name">
+		<text>跟着方去黑暗山谷</text>
+	</string>
+	<string id="gar_story_go_to_freedom_text">
+		<text>跟着方去黑暗山谷。</text>
+	</string>
+	<string id="gar_story_kill_dogs_name">
+		<text>杀死盲犬</text>
+	</string>
+	<string id="gar_story_kill_dogs_text">
+		<text>杀死山谷里追踪鼹鼠的盲犬</text>
+	</string>
+	<string id="gar_story_search_digger_bodies_name">
+		<text>搜索鼹鼠的尸体</text>
+	</string>
+	<string id="gar_story_search_digger_bodies_text">
+		<text>从鼹鼠的尸体上获取方的信息</text>
+	</string>
+	<string id="gar_quest_bandit_reward_name">
+		<text>从利牙那儿拿报酬</text>
+	</string>
+	<string id="gar_quest_bandit_reward_text">
+		<text>去见利牙拿取清理跳蚤市场的报酬</text>
+	</string>
+	<string id="gar_quest_bandit_secret_name">
+		<text>拿走异变点里隐藏处的枪</text>
+	</string>
+	<string id="gar_quest_bandit_secret_text">
+		<text>拿走尤加所说的那支在异变点里隐藏处的枪</text>
+	</string>
+	<string id="gar_quest_captive_reward_name">
+		<text>拿走隐藏点里的战利品</text>
+	</string>
+	<string id="gar_quest_captive_reward_text">
+		<text>拿走集中营里鼹鼠俘虏们曾用的隐藏点里的战利品</text>
+	</string>
+	<string id="gar_quest_more_reward_name">
+		<text>向尤加要报酬</text>
+	</string>
+	<string id="gar_quest_more_reward_text">
+		<text>向尤加索要清理跳蚤市场的额外报酬</text>
+	</string>
+	<string id="st_gar_find_flesh_up_aceg_scientific_outfit_name">
+		<text>找出关于强化护甲的信息</text>
+	</string>
+	<string id="st_gar_find_flesh_up_aceg_scientific_outfit_text">
+		<text>带给水晶一瓶酒以及一些关于强化装甲的信息，做为回报他可以帮你在盔甲上加装类似的部件。</text>
+	</string>
+	<string id="st_gar_find_flesh_up_bdfh_scientific_outfit_name">
+		<text>找出屏蔽护甲的信息</text>
+	</string>
+	<string id="st_gar_find_flesh_up_bdfh_scientific_outfit_text">
+		<text>水晶从没听说过心灵辐射，但如果你提供给他一切信息，他可以在盔甲上装配一个部件来抵抗这种辐射</text>
+	</string>
+	<string id="st_gar_find_flesh_up_fh_scientific_outfit_name">
+		<text>找出闭合循环呼吸模块的信息</text>
+	</string>
+	<string id="st_gar_find_flesh_up_fh_scientific_outfit_text">
+		<text>强盗技师水晶可以制造这一种模块，但他必须先了解一些关于闭合循环呼吸系统的信息。</text>
+	</string>
+	<string id="gar_quest_redemption_name">
+		<text>拿回你们的东西</text>
+	</string>
+	<string id="gar_quest_redemption_text">
+		<text>拿回被跳蚤市场附近的强盗拿走的东西</text>
+	</string>
+	<string id="gar_recover_item_1_name">
+		<text>交还解酒水 13</text>
+	</string>
+	<string id="gar_recover_item_1_text">
+		<text>好，这里有个故事：有个家伙抓住了一个可怜的“鼹鼠”并让他在一片异变点里走。在那里毒打了他，我的问题并不是这个。问题是这个家伙借走了解酒水，并留着自己用。如果你能取回它，那真是太好了。</text>
+	</string>
+	<string id="gar_recover_item_2_name">
+		<text>寻找升级武器</text>
+	</string>
+	<string id="gar_recover_item_2_text">
+		<text>你好，兄弟，这里有件事用得着你。我们在水晶的店里休整，看见他为某人做了把好枪。嗯，那个订枪的家伙和我们的头儿不和，所以尤加让我们把他做掉。我们安静漂亮的把他赶进了一片异变点里。但好枪也留在了那里。取回它，我相信利牙会给你奖赏的。</text>
+	</string>
+	<string id="gar_recover_item_3_name">
+		<text>交还一瓶哥萨克人伏特加酒</text>
+	</string>
+	<string id="gar_recover_item_3_text">
+		<text>伙计，帮我找瓶烈酒好吗？我保证，那不是那种什么人都喝得酒。我藏了几瓶，但我现在不能亲自前去取它。把它取回来，并注意不要让人发现你去过那里，好吗？ </text>
+	</string>
+	<string id="gar_recover_item_4_name">
+		<text>交还新手夹克</text>
+	</string>
+	<string id="gar_recover_item_4_text">
+		<text>前几天一群从封锁线来的家伙到了这里，他们中有一个是那种不讨人喜欢的类型。他说他的狗和魔法夹克可以挡得住任何异变点。我甚至听说强盗抓住他后，因为他不闭嘴就把他弄进集中营了。不过，这个可怜的家伙说的也对，那夹克在异变点里面毫发无伤。如果你能取回来，我就能用它了。</text>
+	</string>
+	<string id="gar_recover_item_5_name">
+		<text>交还刻字的手枪</text>
+	</string>
+	<string id="gar_recover_item_5_text">
+		<text>耶，你能帮我的忙。我有一把手枪，虽然没什么特别之处，但它是我爷爷给我的。我把它丢了…我喝多了而且还准备去恐吓强盗。当天黑下来后，我们开始接近营地并模仿怪物的叫声。结果这里没有强盗，而我们遭到了吸血怪的攻击。我侥幸逃脱，但手枪落在那里了。</text>
+	</string>
+</string_table>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="Unicode" ?>
+<string_table>
+	<string id="lim_bandit_wounded_dialog_1_11">
+		<text>帮帮我，兄弟。给我个医药箱，我同伴快挂了。</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_1_111">
+		<text>给，拿去吧。</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_1_1111">
+		<text>坚持住，让我先帮帮我的同伴。</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_1_112">
+		<text>抱歉，我没有医药箱。</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_1_1121">
+		<text>该死的家伙…</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_1_113">
+		<text>可恶，你真是一泡屎。</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_11">
+		<text>谢谢你保住了我的命。看来你要去城里，当心- 有帮家伙在街上设置了埋伏，他们在汽车之间缠上了铁丝，不要被绊倒了。沿着街道右侧前进，你就可以安然无事的通过了。</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_111">
+		<text>现在还有谁在城里？</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_1111">
+		<text>一大帮人把那儿弄得跟地狱一样混乱。纪律团和自由团都在向城市中心开赴，你必须找到一条到达中心地带的路。我们还看到有少量的直升机，所以军队肯定也到那儿了。城里还有些独行者，但他们是从中心地带的另外侧面来的。</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_112">
+		<text>怎么接近那个城市？</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_1121">
+		<text>我们的老板和他的手下从小屋下沿着马路挖了一条密道，如果你想进入城市，你就得趁着他们离开房子吸烟的空档进去。</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_113">
+		<text>不劳费心，在我改变主意向你开枪之前赶紧离开。</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_12">
+		<text>快，让我们离开这儿。</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_121">
+		<text>就是这儿，走。</text>
+	</string>
+</string_table>

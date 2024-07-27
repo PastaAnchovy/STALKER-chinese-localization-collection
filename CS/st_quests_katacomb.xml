@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="Unicode" ?>
+<string_table>
+	<string id="hospital_task_general_text">
+		<text>找到前往地下墓穴的入口</text>
+	</string>
+	<string id="hospital_task_general_title">
+		<text>找到前往地下墓穴的入口</text>
+	</string>
+	<string id="katacomb_task_3_objective_1">
+		<text>在晴空小队到达前固守</text>
+	</string>
+	<string id="katacomb_task_3_objective_2">
+		<text>协助晴空小队</text>
+	</string>
+	<string id="katacomb_task_3_text">
+		<text>依靠自己通过地下墓穴入口</text>
+	</string>
+	<string id="katacomb_task_3_title">
+		<text>依靠自己通过地下墓穴入口</text>
+	</string>
+	<string id="katacomb_task_helicopter_text">
+		<text>除掉直升机</text>
+	</string>
+	<string id="katacomb_task_helicopter_title">
+		<text>除掉直升机</text>
+	</string>
+	<string id="katacomb_task_kill_sniper_text">
+		<text>杀死狙击手</text>
+	</string>
+	<string id="katacomb_task_kill_sniper_title">
+		<text>杀死狙击手</text>
+	</string>
+	<string id="katacomb_task_sniper_back_objective_1">
+		<text>向前往地下室的阶梯移动</text>
+	</string>
+	<string id="katacomb_task_sniper_back_objective_2">
+		<text>跑过地下室</text>
+	</string>
+	<string id="katacomb_task_sniper_back_objective_3">
+		<text>到达桥</text>
+	</string>
+	<string id="katacomb_task_sniper_back_objective_4">
+		<text>通过桥</text>
+	</string>
+	<string id="katacomb_task_sniper_back_text">
+		<text>火力掩护晴空小队</text>
+	</string>
+	<string id="katacomb_task_sniper_back_title">
+		<text>悄悄接近敌人的狙击手</text>
+	</string>
+	<string id="katacomb_task_z2_exit_text">
+		<text>进入第三大厅</text>
+	</string>
+	<string id="katacomb_task_z2_exit_title">
+		<text>进入第三大厅</text>
+	</string>
+</string_table>

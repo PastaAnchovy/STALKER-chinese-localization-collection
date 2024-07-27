@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="Unicode" ?>
+<string_table>
+	<string id="cant_walk">
+		<text>体力耗尽，无法移动。</text>
+	</string>
+	<string id="cant_walk_weight">
+		<text>超过负重极限，无法移动。</text>
+	</string>
+	<string id="car_character_use">
+		<text>开门($$ACTION_USE$$)</text>
+	</string>
+	<string id="character_use">
+		<text>交谈($$ACTION_USE$$)</text>
+	</string>
+	<string id="dead_character_use">
+		<text>搜寻尸体($$ACTION_USE$$)</text>
+	</string>
+	<string id="dead_character_use_or_drag">
+		<text>搜寻尸体($$ACTION_USE$$) \n 移动尸体 (SHIFT+$$ACTION_USE$$)</text>
+	</string>
+	<string id="general_complete_task">
+		<text>任务完成：</text>
+	</string>
+	<string id="general_fail_task">
+		<text>任务失败：</text>
+	</string>
+	<string id="general_in_item">
+		<text>获得物品：</text>
+	</string>
+	<string id="general_in_money">
+		<text>获得金钱：</text>
+	</string>
+	<string id="general_new_task">
+		<text>新任务：</text>
+	</string>
+	<string id="general_out_item">
+		<text>失去物品：</text>
+	</string>
+	<string id="general_out_money">
+		<text>失去金钱：</text>
+	</string>
+	<string id="general_reverse_task">
+		<text>任务取消：</text>
+	</string>
+	<string id="general_update_task">
+		<text>任务升级：</text>
+	</string>
+	<string id="gun_jammed">
+		<text>武器卡弹，需要重新装填弹药</text>
+	</string>
+	<string id="inventory_box_use">
+		<text>搜寻物品($$ACTION_USE$$)</text>
+	</string>
+	<string id="inventory_item_use">
+		<text>拾起物品($$ACTION_USE$$)</text>
+	</string>
+	<string id="level_changer_invitation">
+		<text>你要进入另一个区域吗？</text>
+	</string>
+	<string id="physic_shell_use">
+		<text>移动物体($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_autosave">
+		<text>自动保存…</text>
+	</string>
+	<string id="st_codelock">
+		<text>密码锁($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_demo_play">
+		<text>WORK IN PROGRESS</text>
+	</string>
+	<string id="st_found_new_pda">
+		<text>查找信息：</text>
+	</string>
+	<string id="st_game_over">
+		<text>游戏结束</text>
+	</string>
+	<string id="st_game_over_press_jump">
+		<text>按($$ACTION_JUMP$$)回到主菜单</text>
+	</string>
+	<string id="st_game_paused">
+		<text>暂停</text>
+	</string>
+	<string id="st_game_saved">
+		<text>保存游戏</text>
+	</string>
+	<string id="st_helmet_countdown">
+		<text>切断保护</text>
+	</string>
+	<string id="st_psy_danger">
+		<text>危险的电磁辐射，请立刻离开危险区</text>
+	</string>
+	<string id="st_radiation_danger">
+		<text>危险的辐射，需要防护才能通过</text>
+	</string>
+	<string id="st_search_treasure">
+		<text>搜寻隐藏点($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_tip">
+		<text>消息</text>
+	</string>
+	<string id="tip_car_locked">
+		<text>被阻塞</text>
+	</string>
+	<string id="tip_car_use">
+		<text>开门($$ACTION_USE$$)</text>
+	</string>
+	<string id="tip_door_blocked">
+		<text>此门被锁</text>
+	</string>
+	<string id="tip_door_close">
+		<text>按($$ACTION_USE$$)关门</text>
+	</string>
+	<string id="tip_door_coded">
+		<text>此门需输入密码方能打开</text>
+	</string>
+	<string id="tip_door_decode">
+		<text>按($$ACTION_USE$$)来为门解码</text>
+	</string>
+	<string id="tip_door_decoding">
+		<text>解码中</text>
+	</string>
+	<string id="tip_door_locked">
+		<text>此门被锁</text>
+	</string>
+	<string id="tip_door_open">
+		<text>按($$ACTION_USE$$)来开启门</text>
+	</string>
+	<string id="tip_gate_close">
+		<text>按($$ACTION_USE$$)来关闭门</text>
+	</string>
+	<string id="tip_gate_locked">
+		<text>大门被挡住了</text>
+	</string>
+	<string id="tip_gate_open">
+		<text>按($$ACTION_USE$$)来开启大门</text>
+	</string>
+	<string id="tip_grate_blocked">
+		<text>已被锁</text>
+	</string>
+	<string id="tips_agroprom_undeground">
+		<text>入口不经允许不能通过</text>
+	</string>
+	<string id="tips_kran_press">
+		<text>打开开关($$ACTION_USE$$)</text>
+	</string>
+	<string id="tips_radio_tower">
+		<text>发送无线电报告($$ACTION_USE$$)</text>
+	</string>
+	<string id="tips_red_dynamit_undeground">
+		<text>插入雷管($$ACTION_USE$$)</text>
+	</string>
+	<string id="tips_secret_strelka">
+		<text>进入隐匿地($$ACTION_USE$$)</text>
+	</string>
+	<string id="mar_disabled_level_changer">
+		<text>没有小队您无法通过沼泽。</text>
+	</string>
+	<string id="shooting_fire">
+		<text>开火！</text>
+	</string>
+	<string id="shooting_round_over">
+		<text>交战结束并回到指挥者那里。</text>
+	</string>
+	<string id="shooting_time_left">
+		<text>时间剩余：</text>
+	</string>
+	<string id="shooting_your_count">
+		<text>击落目标：</text>
+	</string>
+	<string id="shooting_your_points">
+		<text>您的点数：</text>
+	</string>
+	<string id="shooting_your_time">
+		<text>您的时间：</text>
+	</string>
+	<string id="st_agru_warning_go_out">
+		<text>离开危险区域！</text>
+	</string>
+	<string id="st_agru_warning_time_left">
+		<text>流血时间：</text>
+	</string>
+	<string id="tips_agroprom_undeground2">
+		<text>地窖进水了</text>
+	</string>
+	<string id="level_changer_disabled">
+		<text>无法找到出口</text>
+	</string>
+	<string id="tips_tranformer_off">
+		<text>关闭发动机($$ACTION_USE$$)</text>
+	</string>
+	<string id="ui_st_mp_experience_grow">
+		<text>ESRB消息：在连线游戏时将会改变对游戏的体验！</text>
+	</string>
+	<string id="renegade">
+		<text>反叛者</text>
+	</string>
+	<string id="agru_cs_warning">
+		<text>注意！立即离开危险的区域！</text>
+	</string>
+</string_table>

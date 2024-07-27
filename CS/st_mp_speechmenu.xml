@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="Unicode" ?>
+<string_table>
+	<string id="speech_attack">
+		<text>所有人，开火！</text>
+	</string>
+	<string id="speech_covermeartifact">
+		<text>我要去拿神器！掩护我！</text>
+	</string>
+	<string id="speech_followme">
+		<text>跟着我！</text>
+	</string>
+	<string id="speech_guardartifact">
+		<text>守护神器。先不要攻击！</text>
+	</string>
+	<string id="speech_holdingpos">
+		<text>我在待命</text>
+	</string>
+	<string id="speech_holdpos">
+		<text>守住这里！</text>
+	</string>
+	<string id="speech_icoverartifact">
+		<text>去拿神器！我会掩护你</text>
+	</string>
+	<string id="speech_needhelp">
+		<text>我需要帮助</text>
+	</string>
+	<string id="speech_needmoney">
+		<text>没钱 - 买想要的装备？</text>
+	</string>
+	<string id="speech_no">
+		<text>不</text>
+	</string>
+	<string id="speech_noenemy">
+		<text>没有发现敌人</text>
+	</string>
+	<string id="speech_report">
+		<text>请立即报告！</text>
+	</string>
+	<string id="speech_retreat">
+		<text>撤退！</text>
+	</string>
+	<string id="speech_returntheartefact">
+		<text>回到神器旁！</text>
+	</string>
+	<string id="speech_roger">
+		<text>收到</text>
+	</string>
+	<string id="speech_silence">
+		<text>所有人都安静！</text>
+	</string>
+	<string id="speech_sticktogether">
+		<text>团结一致</text>
+	</string>
+	<string id="speech_takeartifact">
+		<text>快去拿神器！</text>
+	</string>
+</string_table>

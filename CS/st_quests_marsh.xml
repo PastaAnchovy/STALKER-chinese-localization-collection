@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="Unicode" ?>
+<string_table>
+	<string id="mar_capture_plant">
+		<text>夺取工厂</text>
+	</string>
+	<string id="mar_capture_plant_text">
+		<text>夺取于从沼泽底部提取异常物质的工厂。</text>
+	</string>
+	<string id="mar_capture_tower">
+		<text>夺取哨塔</text>
+	</string>
+	<string id="mar_capture_tower_text">
+		<text>协助晴空小队夺取被强盗控制的哨塔</text>
+	</string>
+	<string id="mar_defend_tower">
+		<text>在塔上击退强盗的攻击</text>
+	</string>
+	<string id="mar_defend_tower_text">
+		<text>在哨塔上击退强盗的还击。</text>
+	</string>
+	<string id="mar_story_capture_bandit_base">
+		<text>夺取东北农场</text>
+	</string>
+	<string id="mar_story_capture_bandit_base_text">
+		<text>自强盗手中夺取沼泽东北的农场。</text>
+	</string>
+	<string id="mar_story_capture_levelchangers">
+		<text>夺取前往外界的通道</text>
+	</string>
+	<string id="mar_story_capture_levelchangers_text">
+		<text>通过夺取毗邻位置固守前往封锁线和农业研究所的通道。</text>
+	</string>
+	<string id="mar_story_empower_csky">
+		<text>增援晴空所在的沼泽</text>
+	</string>
+	<string id="mar_story_empower_csky_text">
+		<text>通过消灭敌人增援晴空所在的沼泽。</text>
+	</string>
+	<string id="mar_story_go_to_escape">
+		<text>与向导前往封锁线</text>
+	</string>
+	<string id="mar_story_go_to_escape_text">
+		<text>遇见向导并和他一起去封锁线。</text>
+	</string>
+	<string id="mar_story_go_to_marsh">
+		<text>与向导去大沼泽</text>
+	</string>
+	<string id="mar_story_go_to_marsh_text">
+		<text>要求向导带你去大沼泽。</text>
+	</string>
+	<string id="mar_story_take_control_over_marsh">
+		<text>控制沼泽</text>
+	</string>
+	<string id="mar_story_take_control_over_marsh_text">
+		<text>控制沼泽为向导确保道路安全。</text>
+	</string>
+	<string id="mar_story_talk_with_barman">
+		<text>与酒保交谈</text>
+	</string>
+	<string id="mar_story_talk_with_barman_text">
+		<text>询问酒保关于晴空基地的情况。</text>
+	</string>
+	<string id="mar_story_talk_with_commander_1">
+		<text>与列别捷夫交谈</text>
+	</string>
+	<string id="mar_story_talk_with_commander_1_text">
+		<text>找出什么是列别捷夫想要的。</text>
+	</string>
+	<string id="mar_story_talk_with_commander_2">
+		<text>询问列别捷夫发生了什么</text>
+	</string>
+	<string id="mar_story_talk_with_commander_2_text">
+		<text>询问列别捷夫在第二次电磁辐射风暴之后发生了什么。</text>
+	</string>
+	<string id="mar_story_talk_with_commander_3">
+		<text>与列别捷夫达成相互合作的协议</text>
+	</string>
+	<string id="mar_story_talk_with_commander_3_text">
+		<text>与列别捷夫达成帮助你离开沼泽的协议。</text>
+	</string>
+	<string id="mar_story_talk_with_guide">
+		<text>与向导前往前哨</text>
+	</string>
+	<string id="mar_story_talk_with_guide_text">
+		<text>要求向导带你去前哨。</text>
+	</string>
+	<string id="mar_story_talk_with_sidorovych">
+		<text>与西德洛维奇交谈</text>
+	</string>
+	<string id="mar_story_talk_with_sidorovych_text">
+		<text>询问西德洛维奇 (他是个对奇特元素感兴趣的潜行者) 。晴空的地盘为何被大风暴震动的唯一线索。</text>
+	</string>
+	<string id="mar_story_talk_with_trader">
+		<text>从商人处获取装备</text>
+	</string>
+	<string id="mar_story_talk_with_trader_text">
+		<text>从商人处得到一套装备。</text>
+	</string>
+	<string id="mar_tutorial_help">
+		<text>协助前哨</text>
+	</string>
+	<string id="mar_tutorial_help_text">
+		<text>回应晴空前哨的求救信号。</text>
+	</string>
+	<string id="mar_tutorial_kill_boars">
+		<text>杀死野猪</text>
+	</string>
+	<string id="mar_tutorial_kill_boars_text">
+		<text>消灭攻击晴空前哨的野猪</text>
+	</string>
+	<string id="mar_tutorial_return_to_base">
+		<text>回到晴空基地</text>
+	</string>
+	<string id="mar_tutorial_return_to_base_text">
+		<text>在放射风暴发生前进入晴空基地。</text>
+	</string>
+	<string id="mar_tutorial_tower_top">
+		<text>登塔</text>
+	</string>
+	<string id="mar_tutorial_tower_top_text">
+		<text>登塔躲避怪物。</text>
+	</string>
+	<string id="st_bring_item_1_name">
+		<text>交送手榴弹</text>
+	</string>
+	<string id="st_bring_item_1_text">
+		<text>晴空小队需要少量手榴弹。</text>
+	</string>
+	<string id="st_bring_item_2_name">
+		<text>交送医疗物资</text>
+	</string>
+	<string id="st_bring_item_2_text">
+		<text>晴空小队迫切需要医疗物资。</text>
+	</string>
+	<string id="st_bring_item_3_name">
+		<text>交送弹药</text>
+	</string>
+	<string id="st_bring_item_3_text">
+		<text>晴空小队需要散弹枪子弹</text>
+	</string>
+	<string id="st_bring_item_4_name">
+		<text>交送弹药</text>
+	</string>
+	<string id="st_bring_item_4_text">
+		<text>晴空小队需要手枪子弹</text>
+	</string>
+	<string id="st_bring_item_5_name">
+		<text>交送弹药</text>
+	</string>
+	<string id="st_bring_item_5_text">
+		<text>晴空小队需要突击步枪子弹</text>
+	</string>
+	<string id="st_recover_item_1_name">
+		<text>取回PMm</text>
+	</string>
+	<string id="st_recover_item_1_text">
+		<text>一支晴空小队在执行夜间任务时误入了野猪穴，去救他们可能太迟了，但是小队指挥官有一把改造的PMm，这把手枪对我们有用。取回它。</text>
+	</string>
+	<string id="st_recover_item_2_name">
+		<text>取回 AK74/2u </text>
+	</string>
+	<string id="st_recover_item_2_text">
+		<text>几天前反叛者攻击了一支刚从军队购买了武器的晴空小队。大部分人被反叛者俘获，但是最好的突击步枪被藏了起来。你必须找回它。</text>
+	</string>
+	<string id="st_recover_item_3_name">
+		<text>得到神器</text>
+	</string>
+   	<string id="st_recover_item_3_text">              
+   	    <text>一个晴空小队收到一名自称寻获罕有神器，但却不知道如何离开异变区的潜行者的求救信号。小队尚未找到他，信号便消失了。你必须找到这个神器。</text>
+	</string>  
+	<string id="st_recover_item_4_name">
+		<text>取回PDA</text>
+	</string>
+	<string id="st_recover_item_4_text">
+		<text>我们最好的一名探路者在执行夜间侦察任务时失踪了，你最低限度要找回侦查员的PDA，以确保他收集的信息没有白费。</text>
+	</string>
+	<string id="st_recover_item_5_name">
+		<text>送回衣服</text>
+	</string>
+	<string id="st_recover_item_5_text">
+		<text>反叛者最近夺取了沼泽的小工厂，在那里进行一项试验。一件完全由异变胶质材质制作的衣服。取回衣服以使我们的科学家能对该项试验进行测试。</text>
+	</string>
+	<string id="st_sim_sos_name">
+		<text>帮助</text>
+	</string>
+	<string id="st_mar_find_flesh_up_a_novice_outfit_name">
+		<text>寻找凯夫拉防弹衣的信息</text>
+	</string>
+	<string id="st_mar_find_flesh_up_a_novice_outfit_text">
+		<text>要改进盔甲，诺维科夫需要凯夫拉防弹衣的信息。</text>
+	</string>
+	<string id="st_mar_find_flesh_up_ac_mp5_name">
+		<text>寻找枪口制退器的信息</text>
+	</string>
+	<string id="st_mar_find_flesh_up_ac_mp5_text">
+		<text>诺维科夫想要修复一个特殊的枪口制退器，但对如何进行却没有足够的了解。找到相关信息并告知他。</text>
+	</string>
+	<string id="st_mar_find_flesh_up_bd_mp5_name">
+		<text>寻找金属管修改的信息</text>
+	</string>
+	<string id="st_mar_find_flesh_up_bd_mp5_text">
+		<text>诺维科夫能制作一种金属管附件以改进武器特性，但是他遗失了一些数据。</text>
+	</string>
+	<string id="st_mar_leader_notify_actor">
+		<text>兄弟，集中注意力！我们的目标是控制沼泽。如果你不知如何去做，查看你PDA内激活任务的内容。</text>
+	</string>
+	<string id="st_mar_quest_scout_pda_desc">
+		<text>PDA的信息是关于沼泽的，由晴空的探路者收集。</text>
+	</string>
+	<string id="st_mar_quest_scout_pda_name">
+		<text>晴空侦查员的PDA</text>
+	</string>
+</string_table>

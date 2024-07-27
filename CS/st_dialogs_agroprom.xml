@@ -1,0 +1,961 @@
+﻿<?xml version="1.0" encoding="Unicode" ?>
+<string_table>
+	<string id="agr_leader_hello_dialog_11">
+		<text>早上好，佣兵。你需要点什么吗？</text>
+	</string>
+	<string id="agr_leader_hello_dialog_12">
+		<text>嗨，佣兵。他们都在躲藏处等你呢。</text>
+	</string>
+	<string id="agr_leader_hello_dialog_1111">
+		<text>我看过太多人想下去那里，你知道在那里你要对付的是什么嘛？</text>
+	</string>
+	<string id="agr_leader_hello_dialog_111111">
+		<text>“应该不会太危险…”- 哈！情况在我们决定封掉那条隧道之后就大大地改变了。我想我们的炸药使用有点过量了：爆炸摧毁了部分石壁，打开了一条通往新洞穴的路。兄弟们还没来得及喊出“怪物”二字，一群变态怪物就从里面跑了出来。许多人再也没能回到地面…</text>
+	</string>
+	<string id="agr_leader_hello_dialog_11111111">
+		<text>我设法关闭了所有出口，并把门也给封死了。但这也没能撑多久。这些怪物们开始挖洞，然后从地下冒了出来。完了，我们的封洞速度还赶不上它们的挖洞速度。它们好像就只有一个目标，那就是不惜任何代价消灭我们。</text>
+	</string>
+	<string id="agr_leader_hello_dialog_1111111111">
+		<text>我会帮你到地下的。但你得先帮我个忙。嗯，地图上显示地下有个用来抽出地下水的开关。如果你能关闭它并将蓄水池打开，水会很快地注满各个洞穴，那些怪物就一个也跑不掉了。</text>
+	</string>
+	<string id="agr_leader_about_dolg_1">
+		<text>我们被称为“纪律团”。 你问为什么？哈，很简单。如果我们不这么做，那谁来做？我们的职责就是与特异区及其组织的恐怖活动抗争。我们许多现役成员原本都是普通的独行者，目的就是赚点钱，但在看见了许多特异区的恐怖行为后，他们认识到是时候做点什么来阻止它了。殊死斗争总比坐以待毙，让那些怪物闯进家里要好得多！可耻的是，并不是所有独行者都能这么想。更糟的是，我们还必须和这些笨蛋战斗，来防止特异区的扩张…</text>
+	</string>
+	<string id="agr_leader_about_dolg_111">
+		<text>农业研究所处在一个很好的战略位置上，更不用说它地下的秘密设施…先不说这个，不久前我们针对特异区展开了一项研究计划。首先我们从解破学与生理学角度研究了那些异变生物。换句话说，我们在寻找更容易杀死它们的方法。这是一个漫长而又进展缓慢的过程，直到我们无意中在研究所的地下设施中发现了一些材质…我得说，那是非常有意思的材质。</text>
+	</string>
+	<string id="agr_leader_about_dolg_11111">
+		<text>你能相信吗？试图控制生物意识的秘密实验，早在苏联时代就开始了。他们的研究取得了很大的进展- 他们甚至能给动物灌输一些简单的指令。这不禁令我们怀疑，一些人或者机构能够控制那些怪物。不幸的是，所有我们掌握的资料都证实了这一点。只要我们摧毁了怪物的巢穴，它们就会派出吸血怪或异变犬进行报复性攻击。我们的行动越快，它们的反击也越快。我敢打赌这绝不是巧合…我不相信巧合会一再发生。在所有事情的背后有些什么…我能肯定。</text>
+	</string>
+	<string id="agr_dialog_go_to_leader_0">
+		<text>嗨…你想去哪儿啊？</text>
+	</string>
+	<string id="agr_dialog_go_to_leader_011">
+		<text>那继续吧。</text>
+	</string>
+	<string id="agr_dialog_go_to_leader_012">
+		<text>然后呢？</text>
+	</string>
+	<string id="agr_leader_hello_dialog_13">
+		<text>嗨，什么风把你吹来了？</text>
+	</string>
+	<string id="agr_barman_join_duty_11">
+		<text>你最好去问克雷洛夫，你可以在中央大楼的二楼找到他。即便你也会同意，将一个陌生人留在家里并对他推心置腹并不是件好事。我们领导将会试探你，看看你是否值得信任。</text>
+	</string>
+	<string id="agr_dialog_go_to_leader_01">
+		<text>我必须见见你的头儿。</text>
+	</string>
+	<string id="agr_dialog_go_to_leader_0111">
+		<text>谢谢。</text>
+	</string>
+	<string id="agr_dialog_go_to_leader_0122">
+		<text>我懂你的意思。</text>
+	</string>
+	<string id="agr_duty_barman_around_0">
+		<text>最近有什么流言？</text>
+	</string>
+	<string id="agr_duty_barman_around_1">
+		<text>流言？嗯，有一整个派系消失了。看上去并不像是被人带走或者被怪物消灭，但是就这么真真切切地突然不见了。他们这帮人也很奇怪，对特异区有一种近乎狂热的追求。他们相信特异区是有生命的，在特异区的中央有一块许愿石。他们自称是许愿石的守护者。有一天他们突然动身前往特异区的中心，是的，许愿石所在的地方。他们前往天线，穿过了关卡，之后就再没人见过他们。</text>
+	</string>
+	<string id="agr_duty_barman_jelanie_0">
+		<text>你怎么看许愿石这个东西的？</text>
+	</string>
+	<string id="agr_duty_barman_jelanie_1">
+		<text>嗯，从某个角度说，它的确存在。所以，我们应该找出一条通往它的道路。一个派系的力量应该足以做到这点。如果所有的派系集合力量，我们甚至能够穿越天线。现在的情况是，每个派系都掌握着一些情报，但他们宁死都不与其他人分享，大家各自保守着自己的秘密。因此大家与米托伊这样的智障其实没什么差别。西德诺维奇是唯一一个脚踏实地，井井有条收集信息的。但西德诺维奇说：别想着不劳而获。</text>
+	</string>
+	<string id="agr_duty_barman_you_0">
+		<text>自我介绍下吧。</text>
+	</string>
+	<string id="agr_duty_barman_you_1">
+		<text>我来自一个小城镇。高中毕业后就到部队服役。复员后- 没有找工作，也没有去读大学…长话短说吧，我在结束新兵训练后就被分到这儿来了。一开始我被安排当哨兵。有一次我们的头儿想找个稀有神器来治他的伤。由于不想雇用独行者，我们班就接了这个“工作”。但他给我们的地图是三十年前的，这个杂种…短短几小时内我的一半战友就被怪物夺走了生命。那些狗与吸血怪还不断的对我们发起攻击。到了那天晚上，就只剩下我和班长了。谢天谢地我们还有些急救品，因此我们决定爬到纪律团基地。我的腿都被弄坏了- 还好最后保住了它。然后纪律团的人带我们撤退并恢复了健康，他们还给我们指明了回去的路。他们是真正的汉子，生活简单而又充实，我在滞留期间交了许多朋友。等我服役期满之后，我带着我的东西回到了特异区，找到纪律团总部并要求加入，他们同意了。</text>
+	</string>
+	<string id="agr_duty_barman_zone_0">
+		<text>关于特异区，你能告诉我点什么吗？</text>
+	</string>
+	<string id="agr_duty_barman_zone_1">
+		<text>不太多，说实话我也不是个老兵。但我有一次与一个真正的老兵聊过- 那真是次很有意思的谈话。特异区刚开始出现的时候，人们在初次探究时毫不畏惧。接着一个人惨死于怪物之手，这警醒了其他人。科学家从那时起开始研制实验防护服与探测器。每次新的技术创新总是建立在一些人的健康甚至是生命的代价之上。有时科学家们找到一些垂死的独行者，将其治好后开始了解情况：在哪儿受的伤？怎么受伤的？之后他们根据得到的信息改进防护服，或者调节侦查器的频率。\n反复实验，老手们说着是最困难却又是最有效的方法。嗯，第一代的独行者过得很糟糕，但我们不同。现在你刚刚拿到一件完整的防护服，保持火力你就能存活。</text>
+	</string>
+	<string id="agr_duty_holeman_dialog_2">
+		<text>这么说你有勇气到地下去了，嗯？三思而后行——在这里我们已经损失了一批优秀的战士。洞里充满了各种怪物，我们不能对它们不闻不问。克雷洛夫将军已经下令封死所有的出入口。</text>
+	</string>
+	<string id="agr_duty_holeman_dialog_3">
+		<text>我会尝试下去放水引入洞穴。上帝保佑。</text>
+	</string>
+	<string id="agr_duty_holeman_dialog_4">
+		<text>好的，如果你能将它搞定，“纪律团”就欠你一份人情。正好我们这发现了一个洞，异形生物们正通过它往地面上爬。你能通过它直至地下。小心点，注意弹药量。祝你好运。</text>
+	</string>
+	<string id="agr_duty_holeman_dialog_5">
+		<text>谢谢。</text>
+	</string>
+	<string id="agr_duty_mechanic_about_many_word_0">
+		<text>你总是这个口气吗？</text>
+	</string>
+	<string id="agr_duty_mechanic_about_many_word_1">
+		<text>你总这么爱管闲事吗？好奇害死猫，你给我记住。</text>
+	</string>
+	<string id="agr_duty_mechanic_about_upgrade_0">
+		<text>升级武器是你的专长吗？</text>
+	</string>
+	<string id="agr_duty_mechanic_about_upgrade_1">
+		<text>当然，几乎所有的武器我都能升级。“纪律团”的技师在整个特异区中是最棒的，懂么？我可以将你的武器与防弹衣升级成独一无二的。记住，我对我的业务很精通。</text>
+	</string>
+	<string id="agr_duty_mechanic_like_parametrs_0">
+		<text>你建议我怎么升级这枝枪呢？</text>
+	</string>
+	<string id="agr_duty_mechanic_like_parametrs_1">
+		<text>顾客是上帝。我会按您的吩咐做。我可以为你做一把更好的冲锋枪。或者做更好的狙击枪，虽然没有冲锋枪做得出色。您也可以就保持它原来的样子不作改变。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_1">
+		<text>嗨，为什么不呢？规则是什么？</text>
+	</string>
+	<string id="agr_duty_tir_dialog_100">
+		<text>嗨，佣兵。想知道你的射术有多高超吗？</text>
+	</string>
+	<string id="agr_duty_tir_dialog_11">
+		<text>你有三个选择：练习，得分挑战，或者精确度挑战。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_111">
+		<text>告诉我怎样练习吧。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_1111">
+		<text>没有更简单的事了。首先，选择你要使用的武器，再确定目标的距离。你的目标是在有限的回合内尽可能多的得分。当然，在练习模式中你不会获得任何奖励，但是你可以创造并保持得分纪录。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_11111">
+		<text>知道了。告诉我其他项目的规则吧。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_112">
+		<text>请告诉我关于得分挑战的规则。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_1121">
+		<text>首先，选择你要使用的武器，再确定目标的距离。你必须在有限的回合内达到任务所要求的分数。这个项目我们玩钱。你下个赌注。如果你达到了目标的分数，我付钱；如果达不到——这钱就是我的了。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_113">
+		<text>请告诉我关于精确度挑战的规则。\n</text>
+	</string>
+	<string id="agr_duty_tir_dialog_1131">
+		<text>首先，选择你要使用的武器。目标将被随机出现。你要在有限的回合里准确地击中每个目标。这是最困难的挑战，好好努力别失败了这一样有赌注。你命中全部目标——我付钱；做不到——钱就是我的了。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_2">
+		<text>说得够多了。我们开始吧。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_200">
+		<text>完成了？干的漂亮！</text>
+	</string>
+	<string id="agr_duty_tir_dialog_21">
+		<text>这是另一回事。 离开之前将你的枪留下。我不会让你吃亏的——你可以使用我的枪。别着急——在你完成任务后就可以完好无损地拿回你的枪。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_211">
+		<text>我想实践一下。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_2111">
+		<text>很不错的选择。你记得规则，对吧？</text>
+	</string>
+	<string id="agr_duty_tir_dialog_21110">
+		<text>default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_211101">
+		<text>好耶。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_2111011">
+		<text>好的，打断了一条腿！</text>
+	</string>
+	<string id="agr_duty_tir_dialog_211102">
+		<text>真不幸，我没这么多钱。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_2111021">
+		<text>没问题。准备好后就回这儿来。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_211103">
+		<text>不。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_21111">
+		<text>不。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_21112">
+		<text>好的，我们出发吧。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_211121">
+		<text>选择一把武器。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_2111211">
+		<text>PMm。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_21112111">
+		<text>选择你的目标距离。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_211121111">
+		<text>30 米。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_211121112">
+		<text>40 米。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_211121113">
+		<text>50 米。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_211121114">
+		<text>60 米。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_211121115">
+		<text>70 米。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_2111212">
+		<text>Martha。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_2111213">
+		<text>Akm 74/2U。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_2111214">
+		<text>Viper 5。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_2111215">
+		<text>Akm 74/2。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_2111216">
+		<text>TRs 301。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_212">
+		<text>我要参加得分挑战。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_213">
+		<text>我要参加精确度挑战。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_3">
+		<text>没时间玩了。我一会儿后再试试。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_300">
+		<text>别拖拖拉拉的！射击完就回来</text>
+	</string>
+	<string id="agr_duty_tir_dialog_3000">
+		<text>好的。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_4">
+		<text>我得了多少分？</text>
+	</string>
+	<string id="agr_duty_tir_dialog_41">
+		<text>default2</text>
+	</string>
+	<string id="agr_duty_trader_about_fight_0">
+		<text>要不要我踢你的屁股- 这样你才能学会礼让？</text>
+	</string>
+	<string id="agr_duty_trader_about_fight_1">
+		<text>如果我把兄弟们全喊过来- 你会吓的把屎拉在裤子里。我的意思是说，你要这样下去，我们兄弟就能好好乐乐了。你在这儿举目无情，完全抓瞎！我是说，你会烂到完全感觉不到自己的关节到屁股这一块。你会看上去好的就跟个丧尸一样。狗屎，你以为我整天在你们这些人渣里跑来跑去是只凭运气好？你们这些屁眼都不如的家伙总是想毁掉我一整天…没点本事，我还真不敢出来混呢。像你这种屁股都没长全的家伙我都干掉100来个了！！</text>
+	</string>
+	<string id="agr_duty_trader_about_freetime_0">
+		<text>这儿的人平时有什么娱乐吗？</text>
+	</string>
+	<string id="agr_duty_trader_about_freetime_1">
+		<text>就如你所看到的，我很忙。我也想有点时间去找乐子，更不用说与你这样的人闲聊。我一天只有24个小时，你说怎么办？其他人也一样。如果你想寻找特殊的娱乐方式，去外头乱逛，去寻找自由团的基地，我无所谓，随你高兴。这不是开娱乐部或者开酒吧的地方，明白了吗？</text>
+	</string>
+	<string id="agr_duty_trader_about_original_weapons_0">
+		<text>你卖不卖特别的东西？</text>
+	</string>
+	<string id="agr_duty_trader_about_original_weapons_1">
+		<text>搞什么，你是瞎子吗？给你这个智障一点提示：这儿你所见的所有东西都是用来买卖的。这儿没有百货公司，没有超市，连便利店也没有。你要是想买东西- 二话不说付钱，然后把东西拿走。你要是不想买，请走开别浪费我的时间。那些该死的人，在这左转转右转转，“给我看看这个”，“那是什么东西”…好像我欠他们什么似的。别玩花样，听到了没？</text>
+	</string>
+	<string id="agr_duty_trader_quest_0">
+		<text>有其他有价值的东西吗？</text>
+	</string>
+	<string id="agr_duty_trader_quest_1">
+		<text>我可以给你提供一些关于一个极佳隐藏点的信息。不过你得为此付5000卢布</text>
+	</string>
+	<string id="agr_duty_trader_quest_2">
+		<text>继续。</text>
+	</string>
+	<string id="agr_duty_trader_quest_22">
+		<text>没必要。</text>
+	</string>
+	<string id="agr_duty_trader_quest_3">
+		<text>隐藏处的位置已经在你的PDA里做了标记。</text>
+	</string>
+	<string id="agr_duty_weaponmaster_about_bad_trader_0">
+		<text>是哪个混蛋负责你的物资储备？</text>
+	</string>
+	<string id="agr_duty_weaponmaster_about_bad_trader_1">
+		<text>不用理他。这是我们这里的傻瓜米托伊，就像一个教授描述的那样。他是“一头粗俗的猪”。俗话説是个花园就会有杂草。米托伊就是我们所指的杂草。把他扔到中世纪宗教裁判所的法官堆里是再合适不过了- 简直就是个极品怪胎。有时候我宁愿有一头地狱犬收养了他…但是他作为一个商人还是很称职。如果他去酒吧消遣，那么他挨揍的时间肯定要比真正用在喝酒上的时间长。我认为人为的因素导致了这样的状况，它是不会停止的。</text>
+	</string>
+	<string id="agr_duty_weaponmaster_about_military_0">
+		<text>听仔细了，你真的和军队那群家伙是好朋友吗？</text>
+	</string>
+	<string id="agr_duty_weaponmaster_about_military_1">
+		<text>我不能深入的去讲这些事- 我们有相关的保密条例。我们的指挥官克雷洛夫原本是一名军人。我听到一些故事，关于特异区如何形成，和政府在这里进行的一次军事行动有关。他们受命深入特异区的中心用核弹将这一切轰进地狱。你能想象这样的情形吗？这些家伙被派去的时候没有防护，没有探测器，也没有相关的确切信息表明特异区会发生什么事情。有些人被吸入异变点中立刻死去，很多人死于放射性物质和毒气。少数的幸存者活了下来，也都慢慢的死去。克雷洛夫将军是这些幸存者中的一员。我不知道他和什么人结盟，但是自从他和战友们被陆军派去执行这个死亡任务之后，他就变得非常厌恶军队。他只和Spetsnaz保持联系。Spetsnaz是一群真正的男人，有时纪律团和他们会结伴而行。这个故事很接近事实，但被认为是个删节版。</text>
+	</string>
+	<string id="agr_duty_weaponmaster_about_story_0">
+		<text>有什么有趣的故事能告诉我吗？</text>
+	</string>
+	<string id="agr_duty_weaponmaster_about_story_1">
+		<text>当然，而且还带有点传奇色彩。你听说过医生吗？据说他住在偏远的沼泽地。没听过吗？没关系，哥们，让我来给你讲一个特异区的古老传说吧。对，就是这个医生。他可以起死回生，即使他们已经支离破碎了也没关系。没人知道他是怎么做的，但这却是公认的事实！我从来没有见过这些复活的人，但我知道有人见到过。接下来的是高潮部分。据说医生曾是最早的独行者之一，据传他到过许愿石。知道他许的什么愿吗？ 能够救助所有活物的能力。他的愿望立刻就实现了，不过从此之后他就再也无法分辨人类和怪物了。如果我- 打伤了一只吸血怪- 医生会毫不迟疑的医治它，当然反过来也是一样。还有，医生是神人，很难找到他的。多数时候都是他自己现身出现的。如果他不想现身，他会随身带着一只切尔诺贝利大狗。见过他们的人都说这可真是一大景观啊。</text>
+	</string>
+	<string id="agr_duty_weaponmaster_about_you_in_zone_0">
+		<text>说说你在特异区是怎么遇难的？</text>
+	</string>
+	<string id="agr_duty_weaponmaster_about_you_in_zone_1">
+		<text>我收到了命令- 你是怎么想的呢？我曾是一个特种部队的指挥官。不，不是Spetsnaz。我们的任务是…恩，你不需要知道那么多。当特异区对它的第一批拜访者奉上它亲切的见面礼- 大风暴的时候，我的整支部队立刻完蛋了。我们甚至都没能走到车辆旁边就全倒下了- 他们把我们空降的可真是地方啊，几乎落到了中心区。我是唯一的幸存者。怎么活下来的？鬼才知道呢。我猜我的大限未到吧。不过我要告诉你，哥们，我的经历也很奇特…异变点，怪物到处都是- 而子弹根本不够你用。当我没有粮食的时候我拿一种植物充饥，虽然那味道让我现在想起来都恶心。我在那里转悠了一个多月，从一个地方到另一个地方。最后我终于遇到了一批人。一个多国部队，他们非常疲劳，他们就是纪律团的创始人。</text>
+	</string>
+	<string id="agr_duty_weaponmaster_about_you_in_zone_12">
+		<text>是哪个混蛋负责你的物资储备？</text>
+	</string>
+	<string id="agr_duty_weaponmaster_about_you_in_zone_122">
+		<text>不用理他。这是我们这里的傻瓜米托伊，就像一个教授描述的那样。他是“一头粗俗的猪”。俗话説是个花园就会有杂草。米托伊就是我们所指的杂草。把他扔到中世纪宗教裁判所的法官堆内是再合适不过了- 简直就是个极品怪胎。有时候我宁愿有一头地狱犬收养了他…但是他作为一个商人还是很称职的。如果他去酒吧消遣，那么他挨揍的时间肯定要比真正用在喝酒上的时间长…我认为人为的因素导致了这样的状况，它是不会停止的。\n</text>
+	</string>
+	<string id="agr_duty_weaponmaster_about_you_in_zone_133">
+		<text>事实是大多数纪律团的成员以前都是军人。我发现你对我们将军的过去很感兴趣：第一波来此的人多说都挂了，而那些活下来的便创建了这个团体。我们现在加入了这个团体，不过也有一些人还在军中服役。当然，我们和他们的关系要比和其他团体处的好些。这就是有人说我们和军队穿一条裤子的原因。大概情况就是这样。</text>
+	</string>
+	<string id="agr_duty_zooman_about_animals_0">
+		<text>谁为你捕捉动物的？</text>
+	</string>
+	<string id="agr_duty_zooman_about_animals_1">
+		<text>我曾经自己动手来做的。这可是个苦差事，不骗你！有几次我差点就小命不保了。后来不少伙计加入了，一个接一个。那确实是难以忘怀的经历，当然也很刺激。除此之外，你还拥有了泡吧吹牛的资本：嘿，老弟。你也许杀过这种怪物，但是看看我捉了个活的！最近我弄死过一批田鼠。两个小伙子志愿去完成这个任务。胆子够大，不过还太嫩。他们把肉绑在一根绳上，然后靠近田鼠，他们差点就成功了。一个人负责引诱而另一个用火力将鼠群赶到在堤上。他们确实捉到了，但当他们离开的时候整个鼠群跟了上来！再回到基地前他们跑了半个马拉松那么长的距离，然后我们的同伴开枪赶跑了那些田鼠，他们两个每人吞了一整瓶酒才缓过劲来。</text>
+	</string>
+	<string id="agr_duty_zooman_about_zoo_0">
+		<text>这个动物园是干什么用的？</text>
+	</string>
+	<string id="agr_duty_zooman_about_zoo_1">
+		<text>还记得老电影里面的变异怪物吗？“在你和野兽战斗之前，最好知己知彼！”没错吧？呵呵。那么，这地方就是做研究用的。当野外出现新物种的时候即使是只盲犬， 他也会抓一只关到这里。如果需要的话，他甚至会抓一对！他观察它，研究它的习惯，而当时机成熟时，当他们毫无价值之后，他就会杀了他们。其他野兽也是如此。此外，动物园也不够大，这样一来我的小朋友们就可以过得更舒服一些。</text>
+	</string>
+	<string id="agr_duty_zooman_quest_0">
+		<text>有没有适合的工作给我干？</text>
+	</string>
+	<string id="agr_duty_zooman_quest_1">
+		<text>有的，我们正在寻找一份迁移图。</text>
+	</string>
+	<string id="agr_duty_zooman_quest_11">
+		<text>不。</text>
+	</string>
+	<string id="agr_duty_zooman_quest_2">
+		<text>是。</text>
+	</string>
+	<string id="agr_duty_zooman_quest_22">
+		<text>不。</text>
+	</string>
+	<string id="agr_duty_zooman_quest_complete_0">
+		<text>我是为了工作而来的。</text>
+	</string>
+	<string id="agr_duty_zooman_quest_complete_1">
+		<text>你完成工作了吗？</text>
+	</string>
+	<string id="agr_duty_zooman_quest_complete_2">
+		<text>是。</text>
+	</string>
+	<string id="agr_duty_zooman_quest_complete_22">
+		<text>否。</text>
+	</string>
+	<string id="agr_duty_zooman_quest_complete_3">
+		<text>谢谢。</text>
+	</string>
+	<string id="agr_leader_about_dolg_0">
+		<text>告诉我关于你所属派系的事。</text>
+	</string>
+	<string id="agr_leader_about_dolg_11">
+		<text>你们这帮人在做什么？</text>
+	</string>
+	<string id="agr_leader_about_dolg_1111">
+		<text>你在说些什么？</text>
+	</string>
+	<string id="agr_leader_about_zone_0">
+		<text>告诉我关于特异区的事吧。</text>
+	</string>
+	<string id="agr_leader_about_zone_1">
+		<text>特异区就像一个星球上的烂洞。一些笨蛋以为那是上天赐给我们的礼物；他们说特异区带给我们这么多有意思的事情…不要东张西望！异变生物在晚上袭击你- 这听起来像是上天的恩赐吗？异形将你撕成碎片- 这也是礼物，嗯？不，先生，特异区是一场灾难，除非我们现在就开始与其战斗，否则我们都将被它毁灭！</text>
+	</string>
+	<string id="agr_leader_about_zone_11">
+		<text>但你们自己也使用神器，不是吗？</text>
+	</string>
+	<string id="agr_leader_about_zone_111">
+		<text>有人说战争是百无禁忌的。我不认为用敌人的资源去消灭敌人有什么不对。我的意思是，我们并不是为了私利而收集这些资源的，不是吗？一件普通的神器抵得上两三枝新枪外加一些弹药，而这就意味着一天能多杀死一打异变生物…</text>
+	</string>
+	<string id="agr_leader_about_zone_1111">
+		<text>但怎样才能消灭特异区呢？</text>
+	</string>
+	<string id="agr_leader_about_zone_11111">
+		<text>这真是个难题。但如果我们放弃抗争，特异区就会摧毁一切。我们的职责就是坚持战斗！在我看来，这场战争就是为了争取我们在地球上生活的权利。我们已经研究特异区几个月了，我能很肯定地告诉你一件事：特异区是生命体。既然它是生命体，那就肯定会有弱点。我们要做的就是找到它的弱点。</text>
+	</string>
+	<string id="agr_leader_first_join_0">
+		<text>我想加入你的派系</text>
+	</string>
+	<string id="agr_leader_first_join_1">
+		<text>我们不了解你，所以我们暂不考虑让你加入。帮我们做点事后我们可以谈谈。</text>
+	</string>
+	<string id="agr_leader_first_join_2">
+		<text>没问题。</text>
+	</string>
+	<string id="agr_leader_hello_dialog_111">
+		<text>我需要找到一个农业研究所的地下入口。</text>
+	</string>
+	<string id="agr_leader_hello_dialog_11111">
+		<text>这就是地下，与其他地方一样。我听说从这儿下去相对会安全些。</text>
+	</string>
+	<string id="agr_leader_hello_dialog_1111111">
+		<text>那接下来做什么呢？</text>
+	</string>
+	<string id="agr_leader_hello_dialog_111111111">
+		<text>那现在我怎么才能到地下去呢？</text>
+	</string>
+	<string id="agr_leader_hello_dialog_11111111111">
+		<text>我同意。</text>
+	</string>
+	<string id="agr_leader_hello_dialog_1222">
+		<text>text in default</text>
+	</string>
+	<string id="agr_leader_hello_dialog_12222">
+		<text>text in default</text>
+	</string>
+	<string id="agr_leader_hello_dialog_122222">
+		<text>text in default</text>
+	</string>
+	<string id="agr_leader_hello_dialog_1222222">
+		<text>text in default</text>
+	</string>
+	<string id="agr_leader_hello_dialog_14">
+		<text>佣兵，你很好地完成了任务。给你这个，我送给你的…在特异区里会用得着的。</text>
+	</string>
+	<string id="agr_leader_hello_dialog_144">
+		<text>谢谢您给的奖赏！能为纪律团服务是我的荣幸！</text>
+	</string>
+	<string id="agr_leader_hello_dialog_145">
+		<text>我不需要这个！</text>
+	</string>
+	<string id="agr_leader_hello_dialog_15">
+		<text>您好！我能为您做点什么？</text>
+	</string>
+	<string id="agr_leader_join_duty_0">
+		<text>我想成为纪律团的一份子。</text>
+	</string>
+	<string id="agr_leader_join_duty_33">
+		<text>在消除怪物的威胁之前，这里不招募新人，明白么？我不想让新人的名字徒然出现在伤亡名单上。如果你真的想成为“纪律团”的战士，用实际行动证明吧——去和怪物战斗。</text>
+	</string>
+	<string id="agr_leader_join_duty_44">
+		<text>你是一名自由的独行者，是吧？嗯，你也同意特异区是这个星球上的一个毒洞？好的…“纪律团”的大门对拥有这一想法的人总是敞开的。我们的一个信念就是纪律。在你加入我们的组织之后，就再也不准到处游荡了。那么，准备好成为我们的一员了么？</text>
+	</string>
+	<string id="agr_leader_join_duty_444">
+		<text>我准备好了。随时听候您的命令，长官！</text>
+	</string>
+	<string id="agr_leader_join_duty_4444">
+		<text>放松点。喝点酒没关系，但别抽烟。“纪律团”需要健康的战士。你熟悉“纪律团”的规章制度吗？</text>
+	</string>
+	<string id="agr_leader_join_duty_44444">
+		<text>不，长官！</text>
+	</string>
+	<string id="agr_leader_join_duty_444444">
+		<text>总的来说我们奉行严酷的戒律以及森严的等级制度。你没有商讨命令的余地，只有绝对服从。我们的目标是打倒特异区的生物以及“自由团”的那些无政府主义者。我们必须消灭这些怪物、异形，以及”自由团“的成员。如果不这么做，在不远的未来，特异区就会践踏我们的家园，夺走我们的至亲。我们的责任就是清除这世上所有的毒洞。了解了吗，战士？</text>
+	</string>
+	<string id="agr_leader_join_duty_4444444">
+		<text>是，长官！随时准备为“纪律团”效命！</text>
+	</string>
+	<string id="agr_leader_join_duty_44444444">
+		<text>非常好。祝贺你，士兵- 现在你是“纪律团”的一员了！你的PDA 里会显示一张战术的区域图，能即时反映我们与自由团对抗的境况。我还向你的PDA 里上传了一组代码，用来收听内部无线电联络以及我的命令。好了…大概就这么多事。尽忠职守吧！</text>
+	</string>
+	<string id="agr_leader_join_duty_444444444">
+		<text>遵命！</text>
+	</string>
+	<string id="agr_leader_join_duty_44445">
+		<text>是，长官！</text>
+	</string>
+	<string id="agr_leader_join_duty_55">
+		<text>你是一个强盗，对吧？别拿你的事烦我。在我看来你就是个土匪…嗯，这么说你准备弃暗投明。不错的选择。我听说尤加对他手下的人很严厉- 这很好，这能帮你习惯我们的风格。但你记住，纪律团的成员只能服从纪律团指挥官的命令。你必须切断与尤加的所有联系。你准备好这么做了吗？</text>
+	</string>
+	<string id="agr_leader_join_duty_66">
+		<text>现在我们来聊聊。你证明了你是这个真正的斗士，我们现在需要像你这样的人。准备好加入“纪律团”了吗？</text>
+	</string>
+	<string id="agr_leader_join_duty_66666666">
+		<text>是的，长官。随时准备为“纪律团”效命。</text>
+	</string>
+	<string id="agr_leader_join_duty_77">
+		<text>你已经是“纪律团”的一员了。</text>
+	</string>
+	<string id="agr_mechanic_join_duty_11">
+		<text>你得见见指挥官。</text>
+	</string>
+	<string id="agr_stalker_about_agroprom_0">
+		<text>我发现你在这儿定居了，但这是为了什么呢？</text>
+	</string>
+	<string id="agr_stalker_about_agroprom_1">
+		<text>佣兵，我们在这儿有工作- 纪律团付钱雇我们的。他们不能够控制整个领域，异变生物不断对他们施压，于是他们只能向我们求援。现在我们正帮助他们守卫这个地方。如果你愿意协助我们，我相信指挥官会给你不错的报酬。</text>
+	</string>
+	<string id="agr_stalker_commander_1_11">
+		<text>嗯，事情是这样的。我们的基本被持续的攻击。被异变生物攻击倒没什么，我们习惯了，但是那些强盗的出现却搞得我们头大。他们原本都不敢进犯纪律团的领地，但现在他们却在离废车场很近的铁路隧道旁设立了一个营地。我们勉强能抵御他们的进攻，但如果你能将他们赶出隧道，会非常大的改善我们目前的处境。你愿意帮助我们吗？</text>
+	</string>
+	<string id="agr_stalker_commander_1_111">
+		<text>没问题，我会帮助你的。</text>
+	</string>
+	<string id="agr_stalker_commander_1_1111">
+		<text>谢谢，我很高兴你与我们同在。</text>
+	</string>
+	<string id="agr_stalker_commander_1_112">
+		<text>I我没时间处理这件事。</text>
+	</string>
+	<string id="agr_stalker_commander_1_1122">
+		<text>太糟了…</text>
+	</string>
+	<string id="agr_stalker_commander_1_22">
+		<text>什么？我的人正在等呢！</text>
+	</string>
+	<string id="agr_stalker_commander_1_222">
+		<text>我正在路上…</text>
+	</string>
+	<string id="agr_stalker_commander_1_33">
+		<text>谢谢你帮我们对付这些坏蛋。我想一段时间内他们不会再回来了。</text>
+	</string>
+	<string id="agr_stalker_commander_1_44">
+		<text>你需要点什么？</text>
+	</string>
+	<string id="agr_stalker_commander_2_11">
+		<text>首先，非常感谢你，朋友！我真的欠你一份人情，如果不是你我们迟早被烤熟。我们现在只剩下一个难题，那就是那伙强盗已经在地下迷宫的入口旁安营扎寨。我的人能肯定那些强盗已经找到通往废弃场的秘密地下通道。我们很早以前到过那里，我确信那里没有通道。这意味着这些强盗要帮助他们的朋友上到地表来。你的任务就是清剿他们。你能帮助我们吗？</text>
+	</string>
+	<string id="agr_stalker_commander_2_111">
+		<text>没问题，我会帮助你的。</text>
+	</string>
+	<string id="agr_stalker_commander_2_1111">
+		<text>谢谢，我很高兴你能与我们一道。</text>
+	</string>
+	<string id="agr_stalker_commander_2_1112">
+		<text>太糟了…</text>
+	</string>
+	<string id="agr_stalker_commander_2_112">
+		<text>我没时间处理这件事。</text>
+	</string>
+	<string id="agr_stalker_commander_2_22">
+		<text>什么？我的人正在等呢！</text>
+	</string>
+	<string id="agr_stalker_commander_2_222">
+		<text>我正在路上…</text>
+	</string>
+	<string id="agr_stalker_commander_2_33">
+		<text>谢谢你帮我们对付这些坏蛋。我想一段时间内他们不会再回来了</text>
+	</string>
+	<string id="agr_stalker_commander_2_44">
+		<text>你需要点什么？</text>
+	</string>
+	<string id="agr_stalker_commander_3_11">
+		<text>佣兵，你曾经对付过异变生物吗？我们现在的处境是：一大群异变生物出现在我们基地的北面，许多史诺克和异变犬也在跑向这一区域，就好像有人指挥的一样。我不知道那是不是巧合，但我们现在对它们的攻击确实很头疼。我想我们需要主动反击- 如果我们杀掉足够多的异变生物并乘胜追击，我们就能给自己赢得一点宝贵的喘息时间。我们许多的战士一看见史诺克就吓得尿裤子，但你不同，你是个优秀的战士。你能帮助我们清剿异变生物的巢穴吗？</text>
+	</string>
+	<string id="agr_stalker_commander_3_111">
+		<text>没问题，我会帮助你的。</text>
+	</string>
+	<string id="agr_stalker_commander_3_1111">
+		<text>谢谢，很高兴你能跟我们一道。</text>
+	</string>
+	<string id="agr_stalker_commander_3_1112">
+		<text>太糟了…</text>
+	</string>
+	<string id="agr_stalker_commander_3_112">
+		<text>我没时间处理这件事了。</text>
+	</string>
+	<string id="agr_stalker_commander_3_22">
+		<text>嗯？我的人正在等呢！</text>
+	</string>
+	<string id="agr_stalker_commander_3_222">
+		<text>我正在路上…</text>
+	</string>
+	<string id="agr_stalker_commander_3_33">
+		<text>谢谢你帮我们清剿了异变生物的巢穴。我想它们一段时间内是不会回来的</text>
+	</string>
+	<string id="agr_stalker_commander_3_44">
+		<text>你需要点什么？</text>
+	</string>
+	<string id="agr_stalker_leader_about_contact_0">
+		<text>你们准备与其他派系和平相处吗？</text>
+	</string>
+	<string id="agr_stalker_leader_about_contact_1">
+		<text>我们并没有非常牢靠的盟友，也没有什么仇敌。我们一直保持独立，与任何势力都友好相处，当然除了强盗。我们不与其他的派系分享目标，但我们也没理由除掉他们，对不对？这就如特异区所求的一样，自己活也让别人活。我们的行动将取决于其他势力如何对待我们。</text>
+	</string>
+	<string id="agr_stalker_leader_about_join_0">
+		<text>你们为什么还没有加入其他的派系呢？</text>
+	</string>
+	<string id="agr_stalker_leader_about_join_1">
+		<text>我想我们全部人都有自己想走的道路。纪律团想摧毁特异区，自由团想摧毁纪律团，而强盗想捕捉时机来搞些钱回来。我已经经历了足够多了，我不期望再得到些什么。我独自去过特异区，我甚至在自由团呆过一段时间。但当他们开始讨论消灭纪律团的时候，我就拍拍屁股走人了。 纪律团更糟糕——就个体来说他们都是好人，但当他们聚在一起时就变成了狂热者。因此，我想要表达的就是，独行者不应该因为派别而自相残杀，他们应该各自过自己的生活。寻找战利品，保持生存——这才是在特异区里真正该做的事情。这就是我，以及大部分我的人民的生活状态。</text>
+	</string>
+	<string id="agr_stalker_leader_about_you_0">
+		<text>自我介绍一下吧。</text>
+	</string>
+	<string id="agr_stalker_leader_about_you_1">
+		<text>我是乔，普普通通的一个人。我一直处于居无定所的状态。在我十岁的时候我前往中国学习少林功夫，结果三天后他们就把我送回来了，为此我老爸痛打了我一顿。在我大一点的时候，我将我的全部时间花在旅行上- 搭便车游历了欧洲，一整个冬天与乔切斯呆在一起。后来特异区出现了。在那个时候我有个朋友叫莱希卡- 她也是一名探索者，与我一样。呃，她觉得我们只是朋友，但我的感觉不太一样…总之，有一天我去找莱希卡时，一些朋友告诉我她去特异区了。我马上收拾了我的东西，拿了一把手枪与一些橡皮子弹，就直接来这儿了。由于我丰富的旅行经验，我顺利地来到了这里。我花了几个月时间寻找她，将她的照片给每一个人辨认。最后一名独行者告诉我有个国际纵队发现了莱希卡跟一个帅小伙在特异区的边界活动。部队教训了他们一顿，并将他俩遣回了。我想，谢天谢地，莱希卡没事。我并没有马上掉头回家，我在特异区真正的扎根了。</text>
+	</string>
+	<string id="agr_stalker_leader_about_zone_0">
+		<text>请告诉我关于特异区的事情。</text>
+	</string>
+	<string id="agr_stalker_leader_about_zone_1">
+		<text>你要知道，即使在特异区变成现在的样子之前，它也是一个很阴暗的区域。在1986年那场灾难过后它就彻底变成这样了。刚开始时这些都是秘密，但之后消息被慢慢的传了出去，各种传言开始散播开来，进而引起恐慌。有人说在切尔诺贝利附近看见了怪物，有人在荒无人烟的村落里碰见了鬼怪。平平淡淡的过了好些年后，一幕惨剧发生了。一些外国的傻瓜前来特异区旅行。他们其中大部分是男人，也有少数女人，这些无聊的贵族想寻找什么极端的世界末日的征兆。有人告诫过他们，但他们还是坐上一辆大巴开往特异区的内部。他们就这么进去了，也这么消失了- 所有的警察护卫队也不能幸免。这个故事引发了极大的反响，于是整个特异区就变成了禁区。不过，第一个到达这儿的潜行者说那附近有些非常强悍的丧尸，它们会发出低低的类似英文发音的声音。所以你要去的话…</text>
+	</string>
+	<string id="agr_stalker_mechanic_about_gun_and_armor_upgrades_0">
+		<text>对于升级武器与护甲你能做点什么。</text>
+	</string>
+	<string id="agr_stalker_mechanic_about_gun_and_armor_upgrades_1">
+		<text>我不是护甲方面的专家。武器这方面才是我所擅长的。听着，小子：如果你想升级一把普通的武器，那别来打搅我。普通的武器就像是小商店里的鞋子，今天找一双穿上，明天就拿去换一双穿。这里到处都是这种无用的普通货。如果你想升级一把高质量的优秀枪械，我会很乐意接下这份工作的。你可以对它进行许多改进，它也能很好的使用上很长时间。我的建议是：只对特殊且可靠的枪械下功夫。</text>
+	</string>
+	<string id="agr_stalker_mechanic_quest_0">
+		<text>有什么工作要交给我吗？</text>
+	</string>
+	<string id="agr_stalker_mechanic_quest_1">
+		<text>你需要进一步的升级服务吗？</text>
+	</string>
+	<string id="agr_stalker_mechanic_quest_11">
+		<text>不。</text>
+	</string>
+	<string id="agr_stalker_mechanic_quest_2">
+		<text>是</text>
+	</string>
+	<string id="agr_stalker_mechanic_quest_22">
+		<text>不</text>
+	</string>
+	<string id="agr_stalker_mechanic_quest_3">
+		<text>将PDA给我带来。</text>
+	</string>
+	<string id="agr_stalker_mechanic_quest_4">
+		<text>好的。</text>
+	</string>
+	<string id="agr_stalker_mechanic_quest_44">
+		<text>我改变主意了。</text>
+	</string>
+	<string id="agr_stalker_mechanic_quest_complete_0">
+		<text>我是为工作而来的。</text>
+	</string>
+	<string id="agr_stalker_mechanic_quest_complete_1">
+		<text>有什么好消息？找到PDA了吗？</text>
+	</string>
+	<string id="agr_stalker_mechanic_quest_complete_2">
+		<text>给你PDA</text>
+	</string>
+	<string id="agr_stalker_mechanic_quest_complete_22">
+		<text>还没呢。</text>
+	</string>
+	<string id="agr_stalker_mechanic_quest_complete_222">
+		<text>我等着呢。</text>
+	</string>
+	<string id="agr_stalker_mechanic_quest_complete_3">
+		<text>非常好。现在你可以进行新的升级。</text>
+	</string>
+	<string id="agr_stalker_mechanic_what_is_you_doing_0">
+		<text>你能做些什么？</text>
+	</string>
+	<string id="agr_stalker_mechanic_what_is_you_doing_1">
+		<text>我并不是武器大师，但我做的活儿并不差- 每个人都这样说。我是最有资格来改造手枪的人，而且散弹枪和步枪的改造我也能胜任。开枪，怪物垂死挣扎，独行者们过来感谢我- 每次都是这样。</text>
+	</string>
+	<string id="agr_stalker_scientist_quest_complete_3">
+		<text>佣兵！干的漂亮，现在我们开辟了一条通往杨塔的光明大道了。去拿一件防弹衣，它能在你承受特异区攻击时保护你。</text>
+	</string>
+	<string id="agr_stalker_scientist_quest_complete_33">
+		<text>还没有结果，佣兵。</text>
+	</string>
+	<string id="agr_stalker_scientist_quest_complete_333">
+		<text>我们被派往杨塔。没时间闲聊了。</text>
+	</string>
+	<string id="agr_stalker_scientist_quest_complete_4">
+		<text>很高兴能帮助你的小队。</text>
+	</string>
+	<string id="agr_stalker_scientist_quest_complete_5">
+		<text>我们正要前往杨塔。祝好运，再见！</text>
+	</string>
+	<string id="agr_stalker_secret_trader_about_zone_0">
+		<text>你对特异区有什么看法？</text>
+	</string>
+	<string id="agr_stalker_secret_trader_about_zone_1">
+		<text>特异区就像一场试炼。你对特异区的态度决定了你能得到的回报。如果你认为它是邪恶的，是自由的象徵，或是个“奶妈”- 他会给你你所期待的东西。就我个人来说 …我见过特异区的方方面面，但最重要的是，这是个充满力量的地方。但我还没有完全搞清楚特异区的本质以及其力量的来源。</text>
+	</string>
+	<string id="agr_stalker_secret_trader_quest_0">
+		<text>有什么工作要交给我的？</text>
+	</string>
+	<string id="agr_stalker_secret_trader_quest_1">
+		<text>嗯，是有些事情。我在收集有关特异区的信息。现今我对能使独行者生存下去的秘诀很感兴趣。比如一些能使人接近异变点而不被攻击的物质，听说过没有？有一天一个独行者来找我，声称他知道个秘诀，能呆在化学异变点中而毫发无损！作为告知我这个秘诀的回报，他要我告诉他寻找值钱神器的最佳地点。我就让他去沼泽中的一间房子- 那房子在一个异变点的中央。我对他说如果他能带回证据证明他到过那里，我就与他进行信息交易。他出发还不到十分钟就开始求援。但不幸的是，每个人都有自己要忙的事，没有人愿意帮助他。总之，很明显地他并没有掌握他所谓的秘诀，但我还是很好奇为什么他认为自己能够避开来自化学异变点的伤害。找回他的PDA ，我会给你足够价值的回报。</text>
+	</string>
+	<string id="agr_stalker_secret_trader_quest_11">
+		<text>不好意思，现在我不需要任何帮助。</text>
+	</string>
+	<string id="agr_stalker_secret_trader_quest_2">
+		<text>好，我知道了</text>
+	</string>
+	<string id="agr_stalker_secret_trader_quest_22">
+		<text>或许下次吧。</text>
+	</string>
+	<string id="agr_stalker_secret_trader_quest_3">
+		<text>好的。我会时刻候命，PDA也会时刻保持联络。如果你突然遭遇到异形的袭击，别介意发送一条“SOS”的信息，因为不这样做就没有人能救你。不要绕着房子走，要尽量到水里去。异形在水里比较弱，知道了么？</text>
+	</string>
+	<string id="agr_stalker_secret_trader_quest_complete_0">
+		<text>我是为了工作的事而来的。</text>
+	</string>
+	<string id="agr_stalker_secret_trader_quest_complete_1">
+		<text>有什么好消息？找到PDA了吗？</text>
+	</string>
+	<string id="agr_stalker_secret_trader_quest_complete_2">
+		<text>是的，在这呢。</text>
+	</string>
+	<string id="agr_stalker_secret_trader_quest_complete_22">
+		<text>还没有。</text>
+	</string>
+	<string id="agr_stalker_secret_trader_quest_complete_3">
+		<text>干的好，这是你的勇气赢得的报酬。</text>
+	</string>
+	<string id="agr_stalker_secret_trader_what_is_you_doing_0">
+		<text>你在这儿做什么？</text>
+	</string>
+	<string id="agr_stalker_secret_trader_what_is_you_doing_1">
+		<text>我在探究我周围的世界以及我自身。人们都说罗马只有一个，但是条条大道通罗马。所以我在尝试从不同的角度认识我自己，探究特异区，观察本地的生物。你知道吗——我现在已经不再需要武器与护甲了。特异区似乎没有将我当作敌人对待，我不需要提心吊胆地什么时候会被撕成碎片。连那些怪物们也不会来打扰我。这是我相信那些独行者们全副武装地侵略特异区其实是在自找麻烦。在我看来，骄傲自满会导致人类的衰败——看看那些妄称人类是自然界之王的言论。如果不是呢？如果人类只是自然界的一小部分呢？没有人停下来花上哪怕一点点时间来考虑这个问题，但我觉得我们应该这么做。</text>
+	</string>
+	<string id="agr_stalker_secret_trader_who_are_you_0">
+		<text>你是谁？</text>
+	</string>
+	<string id="agr_stalker_secret_trader_who_are_you_1">
+		<text>一个有智慧的人，一个来去自如的人。在感知和消费之间，选择什么呢？你知道，如果你只把目光放在消费东西上，通过种种方法它肯定会不断有的。这些都发生在我的身上。我也曾经当过几年独行者。我每天靠工作以及花赚来的钱打发日子。有一天我认真的反思，发现自己一无所有，只有消耗弹药，赚取战利品，喝伏特加。我感到非常厌恶与痛苦。从那以后我有了新的想法。我抛弃了那些无谓的东西，变成了我现在的样子。一个隐士。呃，也有些人称我为萨满，这么说也没错。</text>
+	</string>
+	<string id="agr_stalker_tir_1">
+		<text>天气不错啊，老兄。想不想测试一下自己的狙击技巧？</text>
+	</string>
+	<string id="agr_stalker_tir_2">
+		<text>不错，很不错。这是你的奖励。</text>
+	</string>
+	<string id="agr_stalker_tir_3">
+		<text>生活就是这样-今天运气不好，明天的运气好。放松一下，改天再来试。</text>
+	</string>
+	<string id="agr_stalker_tir_4">
+		<text>如果你还想再打一回，我随时恭候。</text>
+	</string>
+	<string id="agr_stalker_trader_about_dolg_0">
+		<text>关于纪律团你能告诉我点什么？</text>
+	</string>
+	<string id="agr_stalker_trader_about_dolg_1">
+		<text>我知道你想这样说： 纪律团和军队背地有一手，是不是？我听人们常常这样讲，但这不是事实。是的，我以前也这样想，直到我亲眼看到了他们之间的战斗。事情时这样的：当时我孤身一人在搜索战利品，这时我听到了枪声。我悄悄的靠近，并用我的望远镜进行观察。军队和纪律团战士正在短兵相接，激烈交火。我不知道结局如何因为我悄悄离开了那儿。但是有一点可以肯定的是那并不是在展示兄弟般的爱。另外一个问题是，我们的人看见过某些潜行者和军队鸡鸣狗盗的黑幕。让你感觉不是很好，不是吗？</text>
+	</string>
+	<string id="agr_stalker_trader_about_prisoner_0">
+		<text>蹲在你们地下室的那群家伙是什么来头？</text>
+	</string>
+	<string id="agr_stalker_trader_about_prisoner_1">
+<text>我们的一些人带着战利品要回到基地，途经废弃区边缘时- 你知道那个地方的。一伙匪徒突然从不远的地方跳了出来，“你们被包围了，白痴！放下你们的武器，把战利品交出来！”。队伍首领伊洛魁，说到“为什么你们不亲自过来从我们身上取？”然后就开始交火，队伍依托一棵棵树的掩护撤退，匪徒们紧紧的尾随。他们艰难的回到了农业研究所，在那儿我们的人对匪徒进行了热情的“欢迎”。现在他们处在我们的拘押之下，但是说实话不知道该怎么处置他们。</text>
+	</string>
+	<string id="agr_stalker_trader_about_select_0">
+		<text>你不喜欢多样化经营，是吗？</text>
+	</string>
+	<string id="agr_stalker_trader_about_select_1">
+		<text>如果你想买一些杂货，你可以去百货商店。这里到处都是前来帮助纪律团击退异变生物以换取酬劳的人。我来这里是希望能解决一些需求。不管我带来了什么，它们现在都摆在这里待卖了——这就是我现在所能提供的所有东西</text>
+	</string>
+	<string id="agr_stalker_trader_about_trader_0">
+		<text>你是怎么成为一个商人的？</text>
+	</string>
+	<string id="agr_stalker_trader_about_trader_1">
+        <text>好吧。小伙子们需要武器弹药、医药及其他的东西，所以我提供这些补给。Duty给出的价铬相当公道，所以生意也很不错。我希望他们能带来一些稀有物件，之前他们带来的大多数战利品都是些二流货色。</text>
+	</string>
+	<string id="agr_trader_join_duty_11">
+		<text>你觉得我看上去像一个新兵招募官吗？自己去克雷洛夫的办公室问他吧！</text>
+	</string>
+	<string id="agr_weaponmaster_join_duty_11">
+<text>这很简单。看到那栋建筑物了吗？上到三楼去见克雷洛夫；他会按照考核Spetsnaz(俄军特种部队)的方法来考验你，如果你做到了，你就会成为我们的一员。</text>
+	</string>
+	<string id="agr_zooman_join_duty_11">
+        <text>去三楼找我们的首领克雷洛夫。跟他介绍一下自己。他会给你一个“忠诚考验”。如果一切顺利，你就会成为我们的一份子。</text>
+	</string>
+	<string id="agr_stalker_commander_1_0">
+		<text>你需要点什么？</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_11">
+		<text>嘿，佣兵。想知道你是一个多棒的枪手吗？</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_111">
+		<text>是的。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_1111">
+		<text>记清楚规则了吗？</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_11111">
+		<text>让我们开始射击吧。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_111111">
+		<text>还有一件事。开始之前我会保管你所有的装备，这样做是为了公平——你只能使用选好的武器，不能使用其它东西。别担心，你完成以后，我会如数送还的。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_1111111">
+		<text>我了解。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_11111111">
+		<text>请选择你要玩的模式：</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_111111111">
+		<text>我想练习一下。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_1111111111">
+		<text>请选择你的武器：</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_11111111111">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_111111111111">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_1111111111111">
+		<text>我同意。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_11111111111111">
+		<text>好，祝你好运！</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_1111111111112">
+		<text>不好意思，我没有哪么多钱。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_11111111111121">
+		<text>没问题，想要选择另外一种模式吗？</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_11111111112">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_11111111113">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_11111111114">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_11111111115">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_11111111116">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_111111112">
+		<text>开始得分挑战模式。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_111111113">
+		<text>开始精准度挑战模式。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_11112">
+		<text>不，告诉我。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_112">
+		<text>规则是什么？</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_1121">
+		<text>你有三个选择：训练模式、得分挑战模式和精准度挑战模式</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_11211">
+		<text>…</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_112111">
+		<text>在所有的三个模式中你都可以选择一把武器并有十秒钟的时间做准备。靶牌是随机出现的。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_1121111">
+		<text>…</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_11211111">
+		<text>训练模式非常简单：一个靶牌被击中三次后会倒下，而你需要做的就是尽可能多的击中它以获取更多的积分。训练中你拿不到任何奖金，但这是测试你实力的一个好机会。\n</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_112111111">
+		<text>…</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_1121111111">
+		<text>第二个模式是得分挑战。每个靶牌出现两秒钟，而你需要做的就是尽可能多的击中它以获取更多的积分。你的时间有限，所以不要花太多时闲瞄准。我们是在赌钱，假如你达到了积分要求，我会付钱给你，如果没有达到，你得掏钱给我。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_11211111111">
+		<text>…</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_112111111111">
+	<text>最后一个模式是精准度挑战。这个模式下你必须击中每个靶牌的牛眼环。你的目标就是在规定的时间内尽可能多的系倒靶牌。这是最为艰难的模式，可别一天之内破产了。赌局一如既往：如果你击倒了足够数量的靶牌，我付钱给你；如果你没有，我就收下你的赌注。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_1121111111111">
+		<text>都清楚了，开始吧。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_113">
+		<text>现在没时间玩游戏了，迟些再说吧。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_1131">
+		<text>好吧，随你便。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_21">
+		<text>完成了？干的漂亮！</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_211">
+		<text>那么，我最后的积分是多少呢？</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_2111">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_211111">
+		<text>想要再来一场吗？</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_2111111">
+		<text>耶。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_31">
+		<text>别磨蹭了，射击结束就赶紧到这里来！</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_311">
+		<text>好的。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_answer_bad">
+		<text>嘿，我又说中了。我赢了这场赌局，但是别灰心- 下次你会交好运的。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_answer_good">
+		<text>我小看你了！拿走奖金吧，你赢的非常漂亮，乾净利落。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_cot_phrase_part_1">
+		<text>时间有限，而且你必须系倒足够的靶牌。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_cot_phrase_part_2">
+		<text>我打赌你不能达成目标：</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_tht_answer_bad">
+		<text>多进行几次练习吧，你还没有能力赢取奖金，你的积分太少。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_tht_answer_good">
+		<text>恭喜你拿到奖金了，你的积分超过了标准。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_tht_phrase">
+		<text>祝你好运！你一定能达到分数的。</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_tss_phrase_part_1">
+		<text>你的时间有限，而且最后要达到积分</text>
+	</string>
+	<string id="agr_duty_tir_dialog_hello_tss_phrase_part_2">
+		<text>我打赌你不能达成目标：</text>
+	</string>
+	<string id="agr_stalker_commander_1_about_situation_10">
+		<text>这就是欧雷斯特。你能在中央建筑物的顶楼找到他。我们的商人和修理匠也在那儿- 就是这样。</text>
+	</string>
+	<string id="agr_stalker_commander_1_about_situation_2">
+		<text>早上好，大兵。</text>
+	</string>
+	<string id="agr_stalker_commander_1_about_situation_3">
+		<text>这里发生了什么事？</text>
+	</string>
+	<string id="agr_stalker_commander_1_about_situation_4">
+		<text>像纪律团一样，我们也尝试遏制异变生物的攻击，以及清除强盗之类的渣滓。</text>
+	</string>
+	<string id="agr_stalker_commander_1_about_situation_5">
+		<text>我从来没有听说过有哪个潜行者帮助过纪律团。</text>
+	</string>
+	<string id="agr_stalker_commander_1_about_situation_6">
+		<text>我们不仅仅提供帮助。党异变生物从他们的东篱狂奔而出肆虐农业研究所区域的时，“纪律团”无法抵挡它们持续的进攻。于是他们来寻求我们的协助。我们从不会看不起任何工作，所以我们达成了很好的合作。</text>
+	</string>
+	<string id="agr_stalker_commander_1_about_situation_7">
+		<text>现在事情开始变得有意义了，我看到你甚至建立了一个小型的基地。</text>
+	</string>
+	<string id="agr_stalker_commander_1_about_situation_8">
+		<text>耶，每个收到纪律团求助邀请的人都聚积在这里。这里很安全，此外，克雷洛夫这样做让我们更加严肃认真。
+</text>
+	</string>
+	<string id="agr_stalker_commander_1_about_situation_9">
+		<text>谁是这里的大佬？</text>
+	</string>
+	<string id="agr_stalker_commander_2_0">
+		<text>你需要点什么？</text>
+	</string>
+	<string id="agr_stalker_commander_2_about_situation_2">
+		<text>你好！</text>
+	</string>
+	<string id="agr_stalker_commander_2_about_situation_3">
+		<text>这里发生了什么事？</text>
+	</string>
+	<string id="agr_stalker_commander_2_about_situation_4">
+		<text>我还没有弄清楚状况，我来这里只是为了混口饭吃。我不在乎让我干什么，只要能拿到报酬就行。\n</text>
+	</string>
+	<string id="agr_stalker_commander_2_about_situation_5">
+		<text>谁是这里的大佬？</text>
+	</string>
+	<string id="agr_stalker_commander_2_about_situation_6">
+		<text>这就是欧雷斯特。你能在中央建筑物的顶楼找到他。我们的商人和修理匠也在那儿- 就是这样。</text>
+	</string>
+	<string id="agr_stalker_commander_3_0">
+		<text>你需要点什么？</text>
+	</string>
+	<string id="agr_stalker_guard_dialog_2">
+		<text>你好，佣兵。</text>
+	</string>
+	<string id="agr_stalker_guard_dialog_3">
+		<text>这里发生了什么事？</text>
+	</string>
+	<string id="agr_stalker_guard_dialog_4">
+		<text>我没时间和你扯淡，佣兵。如果你有问题，去问欧雷斯特。他在中央建筑物的顶楼。</text>
+	</string>
+</string_table>

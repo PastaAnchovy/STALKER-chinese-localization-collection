@@ -1,0 +1,345 @@
+﻿<?xml version="1.0" encoding="Unicode" ?>
+<string_table>
+	<string id="agr_duty_bar_secret_1_descr">
+		<text>机密 1 描述</text>
+	</string>
+	<string id="agr_duty_bar_secret_1_name">
+		<text>机密 1　</text>
+	</string>
+	<string id="agr_duty_bar_secret_2_descr">
+		<text>机密 2 描述</text>
+	</string>
+	<string id="agr_duty_bar_secret_2_name">
+		<text>机密 2　</text>
+	</string>
+	<string id="agr_duty_bar_secret_3_descr">
+		<text>机密 3 描述</text>
+	</string>
+	<string id="agr_duty_bar_secret_3_name">
+		<text>机密 3　</text>
+	</string>
+	<string id="agr_duty_bar_secret_4_descr">
+		<text>机密 4 描述</text>
+	</string>
+	<string id="agr_duty_bar_secret_4_name">
+		<text>机密 4　</text>
+	</string>
+	<string id="agr_duty_bar_secret_5_descr">
+		<text>机密 5 描述</text>
+	</string>
+	<string id="agr_duty_bar_secret_5_name">
+		<text>机密 5　</text>
+	</string>
+	<string id="agr_duty_trader_secret_1_descr">
+		<text>机密 6 描述</text>
+	</string>
+	<string id="agr_duty_trader_secret_1_name">
+		<text>机密 6　</text>
+	</string>
+	<string id="device_pda_old">
+		<text>弗里西的破旧PDA　</text>
+	</string>
+	<string id="esc_treasure_novice_stalker_descr">
+		<text>这是我在雨天藏起的东西。如果我要来这儿，这些补给会非常有用的。</text>
+	</string>
+	<string id="esc_treasure_novice_stalker_name">
+		<text>新手隐藏点　</text>
+	</string>
+	<string id="esc_treasure_weapon_box_descr">
+		<text>这些武器弹药在对付军队或强盗时会非常有用。</text>
+	</string>
+	<string id="esc_treasure_weapon_box_name">
+		<text>装有武器弹药的箱子　</text>
+	</string>
+	<string id="st_agr_map_animals">
+		<text>有迁移地图的PDA　</text>
+	</string>
+	<string id="st_agr_map_animals_descr">
+		<text>卡里有迁移地图，能帮助找到稀有的怪物，并将它们用于研究用途。</text>
+	</string>
+	<string id="st_agr_mechanic_pda">
+		<text>武器升级用的PDA　</text>
+	</string>
+	<string id="st_agr_mechanic_pda_descr">
+		<text>里面的电子图能帮助改良武器装备。</text>
+	</string>
+	<string id="st_agr_pda_for_secret_trader">
+		<text>有重要信息的PDA　</text>
+	</string>
+	<string id="st_agr_pda_for_secret_trader_descr">
+		<text>没有任何数据</text>
+	</string>
+	<string id="st_device_pda_fang">
+		<text>方的PDA　</text>
+	</string>
+	<string id="st_device_pda_fang_descr">
+		<text>方的PDA</text>
+	</string>
+	<string id="st_device_pda_lost_squard_descr">
+		<text>有关在领地内军方仓库的行动的敏感信息</text>
+	</string>
+	<string id="st_device_pda_lost_squard_fang">
+		<text>潜行者小队指挥官的PDA　</text>
+	</string>
+	<string id="st_device_pda_military">
+		<text>普通的PDA　</text>
+	</string>
+	<string id="st_device_pda_military_descr">
+		<text>PDA里存有军方在前哨站的下一步行动计划的敏感信息</text>
+	</string>
+	<string id="st_esc_device_pda_driver">
+		<text>司机友人的PDA　</text>
+	</string>
+	<string id="st_esc_device_pda_driver_descr">
+		<text>司机友人的PDA。</text>
+	</string>
+	<string id="st_esc_mechanic_flash_card">
+		<text>关于改良武器的信息　</text>
+	</string>
+	<string id="st_esc_mechanic_flash_card_descr">
+		<text>关于改良武器的信息</text>
+	</string>
+	<string id="st_esc_military_documentation">
+		<text>军队机密数据　</text>
+	</string>
+	<string id="st_esc_military_documentation_descr">
+		<text>有非常机密的数据</text>
+	</string>
+	<string id="st_mil_device_pda_lost_squard">
+		<text>指挥官的PDA　</text>
+	</string>
+	<string id="st_mil_device_pda_lost_squard_descr">
+		<text>潜行者小队指挥官的PDA里有从强盗手里夺取军方仓库的计划的宝贵信息。</text>
+	</string>
+	<string id="st_red_forest_pda_map">
+		<text>有红森林地图的PDA　</text>
+	</string>
+	<string id="st_red_forest_pda_map_descr">
+		<text>该设备存有红森林的地图，除此以外，还标注了特异传送点位置，你能利用它传送移动到森林居住地。</text>
+	</string>
+	<string id="device_pda_digger_descr">
+		<text>PDA 里存有技术文档，它可帮助科学家了解到，在杨塔地区为何会出现如此强烈的电磁辐射。</text>
+	</string>
+	<string id="device_pda_digger_name">
+		<text>消失的探险队的PDA　</text>
+	</string>
+	<string id="device_pda_garbage_traitor">
+		<text>走私犯的PDA　</text>
+	</string>
+	<string id="device_pda_garbage_traitor_descr">
+		<text>走私犯的PDA，在阿瓦斯卡的所有物之中找到的。</text>
+	</string>
+	<string id="device_pda_old_descr">
+		<text>破旧的PDA，在弗里西营地的工具箱里发现的。</text>
+	</string>
+	<string id="flesh_up_a_novice_outfit_name">
+		<text>存有轻型凯夫拉防弹衣数据的闪存　</text>
+	</string>
+	<string id="flesh_up_ab_pkm_name">
+		<text>存有自动机枪均衡数据的闪存　</text>
+	</string>
+	<string id="flesh_up_ab_svu_name">
+		<text>存有狙击步枪的数据的闪存　</text>
+	</string>
+	<string id="flesh_up_abcd_pkm_name">
+		<text>存有修正机枪排气数据的闪存　</text>
+	</string>
+	<string id="flesh_up_abcd_svu_name">
+		<text>存有狙击枪电子稳定数据的闪存　</text>
+	</string>
+	<string id="flesh_up_ac_ak74u_name">
+		<text>存有关于均衡自动控制数据的闪存　</text>
+	</string>
+	<string id="flesh_up_ac_desert_eagle_name">
+		<text>存有手枪枪口制退器数据的闪存　</text>
+	</string>
+	<string id="flesh_up_ac_mp5_name">
+		<text>存有冲锋枪枪口制退器数据的闪存　</text>
+	</string>
+	<string id="flesh_up_ac_spas12_name">
+		<text>存有战术散弹枪增压结构数据的闪存　</text>
+	</string>
+	<string id="flesh_up_ac_wincheaster1300_name">
+		<text>存有散弹枪增压结构数据的闪存　</text>
+	</string>
+	<string id="flesh_up_aceg_scientific_outfit_name">
+		<text>存有增强军用防弹衣数据的闪存　</text>
+	</string>
+	<string id="flesh_up_bd_desert_eagle_name">
+		<text>存有手枪枪管改良数据的闪存　</text>
+	</string>
+	<string id="flesh_up_bd_mp5_name">
+		<text>存有冲锋枪枪管改良数据的闪存　</text>
+	</string>
+	<string id="flesh_up_bd_wincheaster1300_name">
+		<text>存有散弹枪电子稳定系统数据的闪存　</text>
+	</string>
+	<string id="flesh_up_bdfh_scientific_outfit_name">
+		<text>存有关于电磁保护系统的数据的闪存　</text>
+	</string>
+	<string id="flesh_up_cd_pkm_name">
+		<text>存有机枪枪管磨合数据的闪存　</text>
+	</string>
+	<string id="flesh_up_cd_svu_name">
+		<text>存有狙击枪枪管磨合数据的闪存　</text>
+	</string>
+	<string id="flesh_up_fh_scientific_outfit_name">
+		<text>存有关于封闭式呼吸系统数据的闪存　</text>
+	</string>
+	<string id="st_device_pda_bloodsucker_desc">
+		<text>PDA里有一些图表，但看上去只有天才才能理解它。</text>
+	</string>
+	<string id="st_device_pda_bloodsucker_name">
+		<text>雅叔同伴的PDA　</text>
+	</string>
+	<string id="st_device_pda_comendant_desc">
+		<text>司令的私人PDA。里面还有跟佣兵团合作的信息。</text>
+	</string>
+	<string id="st_device_pda_comendant_name">
+		<text>史楚金的PDA　</text>
+	</string>
+	<string id="st_device_pda_freedom">
+		<text>自由团潜行者的PDA　</text>
+	</string>
+	<string id="st_device_pda_freedom_desc">
+		<text>自由团战士的PDA，内有一个遭突然袭击而中断的会议记录。</text>
+	</string>
+	<string id="st_esc_trader_habar_desc">
+		<text>有密码锁的手提箱，里面有西德洛维奇的贵重物品。</text>
+	</string>
+	<string id="st_esc_trader_habar_name">
+		<text>战利品　</text>
+	</string>
+	<string id="st_pda_descr">
+		<text>没有任何数据。</text>
+	</string>
+	<string id="st_pda_name">
+		<text>PDA　</text>
+	</string>
+	<string id="st_agr_quest_duty_abakan">
+		<text>纪律团的突击步枪　</text>
+	</string>
+	<string id="st_agr_quest_duty_abakan_descr">
+		<text>步枪的库存编号清楚地记录在白色涂料上。这明显暗示它属于一个纪律团士兵。</text>
+	</string>
+	<string id="st_agr_quest_duty_case">
+		<text>纪律团的密码箱　</text>
+	</string>
+	<string id="st_agr_quest_duty_case_descr">
+		<text>这个箱子使用的是组合密码。看起来它能装很多东西。箱子上面的开口标记者拥有者的纪律团标号。</text>
+	</string>
+	<string id="st_agr_quest_duty_secret_pda">
+		<text>含有机密资讯的PDA　</text>
+	</string>
+	<string id="st_agr_quest_duty_secret_pda_descr">
+		<text>这个PDA有好几个插口，它肯定属于纪律团的成员。里面的东西得到很好的加密。</text>
+	</string>
+	<string id="st_agr_quest_wpn_spas12">
+		<text>撕裂者散弹枪　</text>
+	</string>
+	<string id="st_agr_quest_wpn_spas12_descr">
+		<text>这把枪拥有可怕的杀伤力。枪托上的铭牌说明它是限量生产的武器，值得注意的是它的外部涂装着巨大的“撕裂者”字样。</text>
+	</string>
+	<string id="st_esc_quest_akm47">
+		<text>战利品 AKM-47/2　</text>
+	</string>
+	<string id="st_esc_quest_akm47_descr">
+		<text>这把突击步枪的破旧枪托上留有抓痕。不过它是个名枪。</text>
+	</string>
+	<string id="st_esc_quest_luky_detector">
+		<text>幸运探测器　</text>
+	</string>
+	<string id="st_esc_quest_luky_detector_descr">
+		<text>贴有标记的老旧探测器。看起来很普通，很难让人相信它有什么特别之处。</text>
+	</string>
+	<string id="st_esc_quest_magic_vodka">
+		<text> "魔法" 伏特加酒　</text>
+	</string>
+	<string id="st_esc_quest_magic_vodka_descr">
+		<text>散发着浓烈酒精气味的好酒。大概有80-90度，所以最好别喝。</text>
+	</string>
+	<string id="st_esc_quest_spec_medkit">
+		<text>NPR-21p 特殊医药包　</text>
+	</string>
+	<string id="st_esc_quest_spec_medkit_descr">
+		<text>医药包上面标着"NPR - 21p反辐射工具包(试验型)"。说明书上写着大量的不良反应。</text>
+	</string>
+	<string id="st_gar_quest_novice_outfit">
+		<text>结实耐用的皮夹克　</text>
+	</string>
+	<string id="st_gar_quest_novice_outfit_descr">
+		<text>看来夹克的前主人死于变异生物之手，但奇怪的是上面没有任何抓痕。</text>
+	</string>
+	<string id="st_gar_quest_vodka_2">
+		<text>哥萨克人 2 伏特加酒　</text>
+	</string>
+	<string id="st_gar_quest_vodka_2_descr">
+		<text>看那糟糕的标记和瓶底的渣子，这肯定是自酿伏特加。</text>
+	</string>
+	<string id="st_gar_quest_wpn_desert_eagle">
+		<text>改良枪械　</text>
+	</string>
+	<string id="st_gar_quest_wpn_desert_eagle_descr">
+		<text>一把战士用的武器。技术人员改良了它的初始性能。</text>
+	</string>
+	<string id="st_gar_quest_wpn_pm">
+		<text>刻字的手枪　</text>
+	</string>
+	<string id="st_gar_quest_wpn_pm_descr">
+		<text>手枪的握把上面有些字。可以辨认出"For s…vice be…nd the ca… of …ty" </text>
+	</string>
+	<string id="st_gar_quest_wpn_wincheaster1300">
+		<text>强盗解酒水13　</text>
+	</string>
+	<string id="st_gar_quest_wpn_wincheaster1300_descr">
+		<text>散弹枪枪管上的一些涂鸦显示着这个独行者的杀敌数目。</text>
+	</string>
+	<string id="st_red_forest_pda_map_2">
+		<text>存有红森林地图的PDA　</text>
+	</string>
+	<string id="st_red_forest_pda_map_2_descr">
+		<text>这个PDA里面有红森林的地图。记号指示的是高辐射区。最后的记录是23：15， "我们不得不在桥旁过夜，我们没能在夜里及时走出这里"。</text>
+	</string>
+	<string id="st_red_quest_prototipe_device">
+		<text>试验设备　</text>
+	</string>
+	<string id="st_red_quest_prototipe_device_descr">
+		<text>拥有很多开关和指示器的仪器。没有帮助使用的说明。</text>
+	</string>		
+	<string id="st_red_quest_tank_minigun">
+		<text>坦克用机枪　</text>
+	</string>
+	<string id="st_red_quest_tank_minigun_descr">
+		<text>这种机枪是坦克并列机枪，但是作为手持机枪也很好用。</text>
+	</string>
+	<string id="st_val_quest_flash_movies">
+		<text>存有电影的USB闪存　</text>
+	</string>
+	<string id="st_val_quest_flash_movies_descr">
+		<text>这个USB闪存里有一些电影，但它的清晰度高，不能在PDA上播放。</text>
+	</string>
+	<string id="st_val_quest_guitar_serg">
+		<text>Serega的吉他　</text>
+	</string>
+	<string id="st_val_quest_guitar_serg_descr">
+		<text>吉他握把上面拿原子笔写着的文字表明这是Serega女朋友给他的礼物。</text>
+	</string>
+	<string id="st_val_quest_scope_x8">
+		<text>8x 瞄准镜　</text>
+	</string>
+	<string id="st_val_quest_scope_x8_descr">
+		<text>这款专业瞄准镜具有特殊的底座，可能只能安装在猎枪上。</text>
+	</string>
+	<string id="st_yan_quest_granade">
+		<text>像手雷的纪念品　</text>
+	</string>
+	<string id="st_yan_quest_granade_descr">
+		<text>一种训练用手雷。手雷上有一个扣状的拉手。</text>
+	</string>
+	<string id="st_yan_quest_scarlet_flower">
+		<text>红花　</text>
+	</string>
+	<string id="st_yan_quest_scarlet_flower_descr">
+		<text>一种神秘未知的神器。作用就是用来向女孩子求婚。</text>
+	</string>
+</string_table>

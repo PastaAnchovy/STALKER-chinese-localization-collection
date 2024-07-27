@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="Unicode" ?>
+<string_table>
+	<string id="val_bandit_spy_name">
+		<text>去调查加油站发生了什么问题</text>
+	</string>
+	<string id="val_bandit_spy_text">
+		<text>那个废弃加油站在夜里隐隐发出微光。说明那里有高辐射。调查这个加油站</text>
+	</string>
+	<string id="val_bring_to_fang_name">
+		<text>跟踪方的PDA信号</text>
+	</string>
+	<string id="val_bring_to_fang_text">
+		<text>自由团的技术员已经破解了方的PDA信号频率。现在你能追踪方的运动轨迹了。根据信号表明方正在废弃区。跟踪PDA的信号。</text>
+	</string>
+	<string id="val_check_blockpost_name">
+		<text>调查前哨站发生了什么事</text>
+	</string>
+	<string id="val_check_blockpost_text">
+		<text>看起来自由团的前哨站又被攻击了。去调查发生了什么并搜索生还者。</text>
+	</string>
+	<string id="val_come_back_comendant_to_revard_name">
+		<text>去指挥官那儿获取命令</text>
+	</string>
+	<string id="val_come_back_comendant_to_revard_text">
+		<text>去指挥官那儿获取命令t</text>
+	</string>
+	<string id="val_come_to_comendant_name">
+		<text>和指挥官谈谈</text>
+	</string>
+	<string id="val_come_to_comendant_text">
+		<text>向指挥官询问方的事</text>
+	</string>
+	<string id="val_come_to_freedom_base_name">
+		<text>找到自由团的基地</text>
+	</string>
+	<string id="val_come_to_freedom_base_text">
+		<text>根据掘洞机提供的信息。方去黑暗山谷搜寻剩下的零件了，找到自由团的基地并询问方的事宜。</text>
+	</string>
+	<string id="val_come_to_freedom_blokpost_name">
+		<text>和前哨站指挥官谈谈</text>
+	</string>
+	<string id="val_come_to_freedom_blokpost_text">
+		<text>和前哨站指挥官谈谈</text>
+	</string>
+	<string id="val_deliver_ammo_name">
+		<text>将弹药送往前哨站</text>
+	</string>
+	<string id="val_deliver_ammo_text">
+		<text>将弹药送往前哨站</text>
+	</string>
+	<string id="val_deliver_pda_name">
+		<text>将PDA带给契科夫</text>
+	</string>
+	<string id="val_deliver_pda_text">
+		<text>指挥官的PDA包含很多信息，可以帮助自由团研究是谁攻击他们的，以及这些人是如何进入黑暗山谷的。将PDA交给自由团首领。</text>
+	</string>
+	<string id="val_destroy_boar_guard_9_2_name">
+		<text>摧毁野猪巢穴</text>
+	</string>
+	<string id="val_destroy_boar_guard_9_2_text">
+		<text>摧毁野猪巢穴</text>
+	</string>
+	<string id="val_destroy_killer_base_name">
+		<text>消灭佣兵</text>
+	</string>
+	<string id="val_destroy_killer_base_text">
+		<text>已经发现了佣兵的主要基地。帮助自由团摧毁它。这将帮助自由团免受攻击以及彻底的控制黑暗山谷。</text>
+	</string>
+	<string id="val_find_pda_name">
+		<text>找到启动的PDA</text>
+	</string>
+	<string id="val_find_pda_text">
+		<text>这个属于阵亡的自由团战士的PDA依然处于启动状态。找到它——它里面保存着很多有价值的信息。</text>
+	</string>
+	<string id="val_go_to_freedom_leader_name">
+		<text>把PDA带给契科夫</text>
+	</string>
+	<string id="val_go_to_freedom_leader_text">
+		<text>这个属于前哨站被杀的自由团战士的PDA里记录了一段攻击者的对话。这将有助于找出攻击者的身份。将它带给契科夫</text>
+	</string>
+	<string id="val_go_to_trader_name">
+		<text>从阿索特那儿拿弹药</text>
+	</string>
+	<string id="val_go_to_trader_text">
+		<text>从阿索特那儿拿走要送去前哨站的弹药</text>
+	</string>
+	<string id="val_help_freedom_name">
+		<text>帮助自由团消灭佣兵</text>
+	</string>
+	<string id="val_help_freedom_text">
+		<text>帮助自由团消灭佣兵</text>
+	</string>
+	<string id="val_kill_flesh_name">
+		<text>摧毁怪物的巢穴</text>
+	</string>
+	<string id="val_kill_flesh_text">
+		<text>摧毁怪物的巢穴</text>
+	</string>
+	<string id="val_kill_komendant_name">
+		<text>杀死司令官</text>
+	</string>
+	<string id="val_kill_komendant_text">
+		<text>这个前哨站的PDA 记录了攻击者的对话。这场对话表明是司令官将情报卖给攻击者，以使其对自由团的巡逻队发动意想不到的攻击。找到叛徒并扭送给契科夫- 无论死活</text>
+	</string>
+	<string id="val_night_bloodsucker_name">
+		<text>找到技术员的朋友</text>
+	</string>
+	<string id="val_night_bloodsucker_reward_name">
+		<text>把零件带给技术员</text>
+	</string>
+	<string id="val_night_bloodsucker_reward_text">
+		<text>把零件带给技术员</text>
+	</string>
+	<string id="val_night_bloodsucker_text">
+		<text>找到技术员的朋友</text>
+	</string>
+	<string id="val_pursuit_comendant_name">
+		<text>找到司令官</text>
+	</string>
+	<string id="val_pursuit_comendant_text">
+		<text>找到司令官</text>
+	</string>
+	<string id="val_reply_to_sos_name">
+		<text>响应SOS信号</text>
+	</string>
+	<string id="val_reply_to_sos_text">
+		<text>帮助击退攻击</text>
+	</string>
+	<string id="val_strike_antenna_name">
+		<text>占领天线</text>
+	</string>
+	<string id="val_strike_antenna_text">
+		<text>占领并坚守在天线旁以扫描这个地区</text>
+	</string>
+	<string id="val_strike_antenna_two_name">
+		<text>占领天线</text>
+	</string>
+	<string id="val_strike_antenna_two_text">
+		<text>占领并坚守在天线旁以扫描这个地区</text>
+	</string>
+	<string id="val_take_pda_name">
+		<text>拿走司令官的PDA</text>
+	</string>
+	<string id="val_take_pda_text">
+		<text>司令官的同伙在自由团开始寻找他时杀了他。他的PDA记录了他所帮助的那群人的信息。</text>
+	</string>
+	<string id="val_test">
+		<text>帮助</text>
+	</string>
+	<string id="st_val_bandit_spy_kill_name">
+		<text>摧毁强盗团伙</text>
+	</string>
+	<string id="st_val_bandit_spy_kill_text">
+		<text>你锁定了加油站中的一伙强盗，杀光他们。</text>
+	</string>
+	<string id="st_val_bandit_spy_return_name">
+		<text>回去收取报酬</text>
+	</string>
+	<string id="st_val_bandit_spy_return_text">
+		<text>你锁定了加油站中的一伙强盗，杀光他们。去见吧男并告诉他这件事。</text>
+	</string>
+	<string id="st_val_find_flesh_up_ab_svu_name">
+		<text>找出狙击步枪镜枪管的信息。</text>
+	</string>
+	<string id="st_val_find_flesh_up_ab_svu_text">
+		<text>自由团技师 雅，专精于高精度武器。他正在寻找关于狙击枪枪管的情报。</text>
+	</string>
+	<string id="st_val_find_flesh_up_abcd_svu_name">
+		<text>找出狙击枪电子稳压器的情报。</text>
+	</string>
+	<string id="st_val_find_flesh_up_abcd_svu_text">
+		<text>雅会付给找到狙击枪电子稳压器情报的人一大笔钱。</text>
+	</string>
+	<string id="st_val_find_flesh_up_cd_svu_name">
+		<text>找出狙击枪枪口制退器的信息。</text>
+	</string>
+	<string id="st_val_find_flesh_up_cd_svu_text">
+		<text>雅需要如何制作强力狙击枪枪口制退器的信息，这样他就可以仿制一个。</text>
+	</string>
+	<string id="val_recover_item_1_name">
+		<text>交还8x 瞄准镜</text>
+	</string>
+	<string id="val_recover_item_1_text">
+		<text>这附近得一个家伙的枪上安着一个很棒的瞄准镜，是那种你绝不可能在这里找到第二个的型号。我试过多次，可他就是不肯卖给我。他和我们的一个巡逻队一起到封锁线去了。巡逻队还没回来，所以我估计独行者在某个营地里休息。把瞄准镜带回来，我会把它当成礼物送给契科夫的，说不定他还会提升我为指挥官呢。</text>
+	</string>
+	<string id="val_recover_item_2_name">
+		<text>交还存有电影的USB闪存</text>
+	</string>
+	<string id="val_recover_item_2_text">
+		<text>帮帮我。我和甘贾坐在这儿，看他笔记电脑上的电影，但指挥官发现了我们，并训斥我是怎么值的班。他想砸碎笔记电脑，但我阻止住了他。不过他还是把存有电影的USB闪存扔到了外面，那儿还是辐射区。把它取回来，甘贾会给你报酬的。</text>
+	</string>
+	<string id="val_recover_item_3_name">
+		<text>交还Serega的吉他</text>
+	</string>
+	<string id="val_recover_item_3_text">
+		<text>你能想到吗？有人偷了Serega的吉他。他是这里唯一会弹吉他的人，而且还很棒。我们想那个贼的动作真快，不过吉他肯定被藏在某个地方了。将吉他还给Serega，因为他不想弹其他的琴。好吗？</text>
+	</string>
+</string_table>

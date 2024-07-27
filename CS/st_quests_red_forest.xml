@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="Unicode" ?>
+<string_table>
+	<string id="red_artefact_huntesr_capture_smart_name">
+		<text>保护去特殊地带的潜行者</text>
+	</string>
+	<string id="red_artefact_huntesr_capture_smart_text">
+		<text>保护去特殊地带的潜行者</text>
+	</string>
+	<string id="red_artefact_huntesr_defend_smart_name">
+		<text>保卫特殊地带里的潜行者</text>
+	</string>
+	<string id="red_artefact_huntesr_defend_smart_text">
+		<text>保卫特殊地带里的潜行者</text>
+	</string>
+	<string id="red_bridge_cover_allyes_attack_name">
+		<text>掩护佣兵</text>
+	</string>
+	<string id="red_bridge_cover_allyes_attack_text">
+		<text>佣兵正在攻击河边的强盗，提供火力掩护并帮助他们占领营地。</text>
+	</string>
+	<string id="red_bridge_cover_allyes_name">
+		<text>消灭强盗</text>
+	</string>
+	<string id="red_bridge_cover_allyes_text">
+		<text>强盗太多了 - 他们正在阻止降下铁桥的佣兵。杀死尽可能多的强盗。</text>
+	</string>
+	<string id="red_bridge_cover_bridge_name">
+		<text>掩护控制器附近的佣兵</text>
+	</string>
+	<string id="red_bridge_cover_bridge_text">
+		<text>一个佣兵已在操作铁桥附近的控制器。火力掩护他。</text>
+	</string>
+	<string id="red_bridge_go_to_positon_name">
+		<text>占领射击点</text>
+	</string>
+	<string id="red_bridge_go_to_positon_text">
+		<text>占领一楼警卫室的射击点。这是攻击强盗最好的有利地形。</text>
+	</string>
+	<string id="red_bridge_kill_sniper_name">
+		<text>消灭山上的狙击手</text>
+	</string>
+	<string id="red_bridge_kill_sniper_text">
+		<text>狙击手在攻击操作控制器的佣兵 - 他们活着的话佣兵就没有机会降下铁桥。消灭山上的狙击手。</text>
+	</string>
+	<string id="red_bridge_talk_with_comander_name">
+		<text>和列别捷夫交谈</text>
+	</string>
+	<string id="red_bridge_talk_with_comander_text">
+		<text>降下铁桥完成，去利曼斯克的道路已通畅。和列别捷夫交谈。</text>
+	</string>
+	<string id="red_bridge_wait_for_allyes_name">
+		<text>等待潜行者小队的抵达</text>
+	</string>
+	<string id="red_bridge_wait_for_allyes_text">
+		<text>等待潜行者小队的抵达</text>
+	</string>
+	<string id="red_bring_compass_name">
+		<text>带回探指南针给弗雷斯特</text>
+	</string>
+	<string id="red_bring_compass_text">
+		<text>感谢指南针，弗雷斯特数天前用指南针避开了沸血池。应该再一次证明神器对离开沸血池是有帮助的。带上佛雷斯特的指南针。</text>
+	</string>
+	<string id="red_find_compass_name">
+		<text>寻找指南针神器</text>
+	</string>
+	<string id="red_find_compass_text">
+		<text>弗雷斯特在异变点发现一个独特的神器，佣兵在自己的军事仓库附近得到了和血池非常相似的神器。强盗在他背后抢劫了弗雷斯特并夺走了神器。寻找指南针。</text>
+	</string>
+	<string id="red_find_forester_name">
+		<text>和弗雷斯特交谈</text>
+	</string>
+	<string id="red_find_forester_text">
+		<text>弗雷斯特生活在废弃的小屋里。他可以帮你找到一个去利曼斯克的方法。和弗雷斯特交谈。</text>
+	</string>
+	<string id="red_find_teleport_name">
+		<text>寻找异变点</text>
+	</string>
+	<string id="red_find_teleport_text">
+		<text>失踪小队的PDA 上记录了一些有关于如何通过红森林信息。在其深处是一个异变点和去森林边老屋的路。弗雷斯特在那里生活。寻找异变点。</text>
+	</string>
+	<string id="red_forest_stalker_bring_map_name">
+		<text>发送PDA 上的红森林地图</text>
+	</string>
+	<string id="red_forest_stalker_bring_map_text">
+		<text>发送PDA 上的红森林地图</text>
+	</string>
+	<string id="red_go_to_signal_sos_name">
+		<text>回应求救信号</text>
+	</string>
+	<string id="red_go_to_signal_sos_text">
+		<text>弗雷斯特不知道通过红森林的路。在那里接收到一个来自红森林的求救信号。回应求救信号。</text>
+	</string>
+	<string id="red_help_with_bridge_name">
+		<text>帮助晴空组织占领铁桥</text>
+	</string>
+	<string id="red_help_with_bridge_text">
+		<text>一个佣兵小队正在接近去利曼斯克的铁桥。他们会逼出铁桥附近的强盗，这个行动要尽快解决。帮助晴空组织降下铁桥。</text>
+	</string>
+	<string id="red_pursuit_destroy_ambush_name">
+		<text>消灭埋伏</text>
+	</string>
+	<string id="red_pursuit_destroy_ambush_text">
+		<text>史特列洛克正在掩护一个潜行者小队，消灭埋伏。</text>
+	</string>
+	<string id="red_pursuit_strelok_name">
+		<text>阻止史特列洛克</text>
+	</string>
+	<string id="red_pursuit_strelok_text">
+		<text>史特列洛克已经进入隧道。追上他并阻止他向中心地区前进。</text>
+	</string>
+	<string id="red_pursuit_talk_csky_name">
+		<text>阻止史特列洛克</text>
+	</string>
+	<string id="red_pursuit_talk_csky_text">
+		<text>史特列洛克在100米范围内的某处，追上他。</text>
+	</string>
+	<string id="red_stalker_reinforced_name">
+		<text>占领旧矿区</text>
+	</string>
+	<string id="red_stalker_reinforced_text">
+		<text>摧毁旧矿区。这地区有一个高等级的异常活动和大量珍贵的神器。</text>
+	</string>
+	<string id="red_go_to_military_base_name">
+		<text>前往陆军基地</text>
+	</string>
+	<string id="red_go_to_military_base_text">
+		<text>陆军基地有一个强大的发射器，我们可以用来发送一个信号给小组，让他们占领沸血池附近的利曼斯克。到达军事仓库。</text>
+	</string>
+	<string id="red_find_enter_to_anomal_place_name">
+		<text>寻找去异变点的路</text>
+	</string>
+	<string id="red_find_enter_to_anomal_place_text">
+		<text>这个失踪小组的PDA 上记录了有关于通过红森林的路。在其深处有一个异变点通向森林外部的老屋。那是弗雷斯特的生命。寻找异变点。</text>
+	</string>
+	<string id="red_find_signals_on_military_name">
+		<text>接收无线电讯息</text>
+	</string>
+	<string id="red_find_signals_on_military_text">
+		<text>弗雷斯特接收到来自不明小队零碎的无线电信号，他们被困在一个奇怪的异变点，离利曼斯克非常近。该小队也许知道另一个去利曼斯克的方法。到达军事仓库并寻找一个合适的地方来接收清晰的信号。</text>
+	</string>
+	<string id="red_take_red_forest_map_pda_name">
+		<text>拿起PDA</text>
+	</string>
+	<string id="red_take_red_forest_map_pda_text">
+		<text>一个死亡潜行者的PDA仍然开着。它可能记录了有关于红森林的宝贵资料，拿起PDA。</text>
+	</string>
+	<string id="red_recover_item_1_name">
+		<text>交还有红森林地图的PDA </text>
+	</string>
+	<string id="red_recover_item_1_text">
+		<text>佣兵，我们需要你的説明。我们需要精确的红森林地图。我听说好几队独行者尝试探索这片森林，但大多数人都消失了。找到他们的记录并带回来给我。</text>
+	</string>
+	<string id="red_recover_item_2_name">
+		<text>交还坦克用机枪</text>
+	</string>
+	<string id="red_recover_item_2_text">
+		<text>你有活干了。我从森弗雷斯特那里听说，在森林深处有一辆旧的苏联坦克。只可惜那里出现高强辐射后，没有人知道怎么到那。事情就是这样，那坦克几乎完好无损。当然，你无法开动它，但安在上面的机枪可以取下来。把机枪带回来给我，我会给你奖赏的。</text>
+	</string>
+	<string id="red_recover_item_3_name">
+		<text>交还实验设备</text>
+	</string>
+	<string id="red_recover_item_3_text">
+		<text>有些东西想要你帮我带回来。我们正在与科学家测试一种原型，这是一种测量异变点强度的小型装置。现在它没有被大量使用，他们用两天时间来教我们如何使用。我们在旧矿井收集资讯时出事了，有东西袭击了我们…各种变态怪物向我们扑来，我是唯一的幸存者。设备落在了那里，还被扔到一片异变点里。那些杂种可能还在那里，所以取回它很不容易。但如果你能回来，你会得到丰厚的奖赏。</text>
+	</string>
+</string_table>

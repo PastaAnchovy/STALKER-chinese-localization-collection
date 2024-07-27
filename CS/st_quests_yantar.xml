@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="Unicode" ?>
+<string_table>
+	<string id="yan_actor_destroy_wave1">
+		<text>该地区出现丧尸</text>
+	</string>
+	<string id="yan_actor_destroy_wave1_name">
+		<text>阻止丧尸靠近在屋顶上的潜行者</text>
+	</string>
+	<string id="yan_actor_destroy_wave1_text">
+		<text>掩护在屋顶上安装开关的潜行者。不要让丧尸靠近附近屋顶上的修理小队。</text>
+	</string>
+	<string id="yan_actor_destroy_wave2">
+		<text>该地区出现丧尸</text>
+	</string>
+	<string id="yan_actor_destroy_wave2_name">
+		<text>阻止丧尸靠近飞机棚里的潜行者</text>
+	</string>
+	<string id="yan_actor_destroy_wave2_text">
+		<text>掩护飞机棚里安装开关的潜行者。阻止丧尸靠近飞机棚里的修理小队。</text>
+	</string>
+	<string id="yan_actor_go_base_defence">
+		<text>保卫科学家基地</text>
+	</string>
+	<string id="yan_actor_go_base_defence_name">
+		<text>保卫科学家基地</text>
+	</string>
+	<string id="yan_actor_go_base_defence_text">
+		<text>保卫科学家基地</text>
+	</string>
+	<string id="yan_actor_go_base_science">
+		<text>只要有丧尸攻击，科学家基地的大门就会被紧锁。消灭丧尸才允许进入基地见科学家。</text>
+	</string>
+	<string id="yan_actor_go_base_science_name">
+		<text>和萨哈罗夫交谈</text>
+	</string>
+	<string id="yan_actor_go_base_science_text">
+		<text>史特列洛克已见过杨塔的科学家。到达杨塔和萨哈罗夫交谈。他也许知道史特列洛克在去了哪里。</text>
+	</string>
+	<string id="yan_actor_go_to_red_forest">
+		<text>红森林的路已打开</text>
+	</string>
+	<string id="yan_actor_go_to_red_forest_name">
+		<text>到达红森林</text>
+	</string>
+	<string id="yan_actor_go_to_red_forest_text">
+		<text>冷却站已修复并稳定运行，PSY-辐射正处于最低污染状态。去红森林的路是安全的。到达红森林 - 史特列洛克已朝那里去了。</text>
+	</string>
+	<string id="yan_actor_go_to_stalker">
+		<text>默认文字</text>
+	</string>
+	<string id="yan_actor_go_to_stalker_name">
+		<text>默认文字</text>
+	</string>
+	<string id="yan_actor_go_to_stalker_text">
+		<text>默认文字</text>
+	</string>
+	<string id="yan_main_quest_line">
+		<text>修理小队不能阵亡</text>
+	</string>
+	<string id="yan_main_quest_line_name">
+		<text>原地防守！</text>
+	</string>
+	<string id="yan_main_quest_line_text">
+		<text>原地防守！</text>
+	</string>
+	<string id="yan_otnesti_doc_saharavy">
+		<text>带文件去给萨哈罗夫</text>
+	</string>
+	<string id="yan_otnesti_doc_saharavy_name">
+		<text>带文件去给萨哈罗夫</text>
+	</string>
+	<string id="yan_otnesti_doc_saharavy_text">
+		<text>带文件去给萨哈罗夫。他会帮你查清为何杨塔会有如此高的PSY-辐射污染。</text>
+	</string>
+	<string id="yan_proriv_k_ystanovke">
+		<text>一路战斗并抵达装置那里</text>
+	</string>
+	<string id="yan_proriv_k_ystanovke_name">
+		<text>一路战斗并抵达工厂那里</text>
+	</string>
+	<string id="yan_proriv_k_ystanovke_text">
+		<text>该周围地区已布满丧尸。和列夫提会合，加入他们的小队并一起在内侧展开战斗。快- PSY地区的关键几分钟。</text>
+	</string>
+	<string id="yan_quest_doc">
+		<text>寻找文件</text>
+	</string>
+	<string id="yan_quest_doc_name">
+		<text>寻找文件中的PDA</text>
+	</string>
+	<string id="yan_quest_doc_text">
+		<text>一个潜行者小队在工厂地区发现了重要文件。他们可以帮助萨哈罗夫判断杨塔的强大PSY-力场。这个小队的信号在工厂出口附近消失了。寻找PDA中的文件。</text>
+	</string>
+	<string id="yan_quest_levsha">
+		<text>会见列夫提</text>
+	</string>
+	<string id="yan_quest_levsha_name">
+		<text>会见列夫提小队</text>
+	</string>
+	<string id="yan_quest_levsha_text">
+		<text>一个潜行者小队准备用他们的方式通过工厂的低PSY-辐射地区。会见小组指挥官：列夫提。</text>
+	</string>
+	<string id="yan_repair_defend">
+		<text>在飞机棚顶占据有利地形</text>
+	</string>
+	<string id="yan_repair_defend_name">
+		<text>跟随潜行者去飞机棚的屋顶</text>
+	</string>
+	<string id="yan_repair_defend_text">
+		<text>列夫提命令所有人占据有利地形。跟随潜行者去屋顶占据有利地形。</text>
+	</string>
+	<string id="yan_recover_item_1_name">
+		<text>交还红花</text>
+	</string>
+	<string id="yan_recover_item_1_text">
+		<text>帮帮我，佣兵。在这片区域里有一种叫做红花的神器。独行者拿它没什么用，但姑娘们就难以把目光挪离这些东西。我有一个约会，我想如果我要有个这种花，更能赢得美人芳心。这就是我为什么在这该死的地方了- 因为它就在这附近。这种神器看起来像是不分白天和黑夜燃烧的花。把神器带回来，你会得到奖赏的。</text>
+	</string>
+	<string id="yan_recover_item_2_name">
+		<text>交还像手雷的纪念品</text>
+	</string>
+	<string id="yan_recover_item_2_text">
+		<text>雇佣兵，我需要些东西。我丢了一个纪念品，它看起来像手雷…但它不是手雷…嗯，它是训练用的手雷。无论如何，你要给我带回来…我想我知道你能在哪儿找到它。我在一个工厂里遭到了袭击…我的脑子变得乱糟糟的，我甚至不知道我是谁！当我回来后，我猜那个手榴弹一定落在了工厂里。把它带回来给我！ </text>
+	</string>
+</string_table>

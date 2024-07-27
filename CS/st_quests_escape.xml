@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="Unicode" ?>
+<string_table>
+	<string id="esc_additional_quest_1_name">
+		<text>军队基地的文件</text>
+	</string>
+	<string id="esc_additional_quest_1_text">
+		<text>军队基地的文件</text>
+	</string>
+	<string id="esc_additional_quest_2_name">
+		<text>食物。</text>
+	</string>
+	<string id="esc_additional_quest_2_text">
+		<text>食物。</text>
+	</string>
+	<string id="esc_bring_habar">
+		<text>将战利品交还给商人</text>
+	</string>
+	<string id="esc_bring_habar_text">
+		<text>将战利品交还给商人</text>
+	</string>
+	<string id="esc_defend_stalkers_base_name">
+		<text>防御独行者基地</text>
+	</string>
+	<string id="esc_defend_stalkers_base_text">
+		<text>帮助独行者基地抵抗进攻</text>
+	</string>
+	<string id="esc_defend_stalkers_bus_station_name">
+		<text>防御入口</text>
+	</string>
+	<string id="esc_defend_stalkers_bus_station_text">
+		<text>防御汽车站附近的独行者基地入口</text>
+	</string>
+	<string id="esc_defend_stalkers_tonnel_name">
+		<text>帮助击退进攻</text>
+	</string>
+	<string id="esc_defend_stalkers_tonnel_text">
+		<text>帮助击退进攻</text>
+	</string>
+	<string id="esc_dopros">
+		<text>审问军队指挥官</text>
+	</string>
+	<string id="esc_dopros_text">
+		<text>审问克哈列特斯基并找出商人需要的战利品藏在哪里</text>
+	</string>
+	<string id="esc_driver_friend_1_name">
+		<text>找到PDA</text>
+	</string>
+	<string id="esc_driver_friend_1_text">
+		<text>找到死于异变点的士兵身上的PDA。</text>
+	</string>
+	<string id="esc_driver_friend_2_name">
+		<text>交还PDA</text>
+	</string>
+	<string id="esc_driver_friend_2_text">
+		<text>将PDA还给谢米扬 朗比</text>
+	</string>
+	<string id="esc_eliminate_smart_military_5_9">
+		<text>消灭仓库处的所有军队</text>
+	</string>
+	<string id="esc_eliminate_smart_military_5_9_text">
+		<text>消灭斥候在仓库那儿发现的军队。</text>
+	</string>
+	<string id="esc_eliminate_smart_military_6_6_name">
+		<text>消灭强盗</text>
+	</string>
+	<string id="esc_eliminate_smart_military_6_6_reward_name">
+		<text>回去拿报酬</text>
+	</string>
+	<string id="esc_eliminate_smart_military_6_6_reward_text">
+		<text>去商人那取报酬，强盗已经被消灭了，通往基地的道路已经净空。</text>
+	</string>
+	<string id="esc_eliminate_smart_military_6_6_text">
+		<text>消灭废弃农场里的强盗们。这样可以防止他们袭击那些将战利品运回基地的独行者们。</text>
+	</string>
+	<string id="esc_eliminate_smart_military_7_11">
+		<text>消灭库房的军队</text>
+	</string>
+	<string id="esc_eliminate_smart_military_7_11_text">
+		<text>消灭斥候在仓库发现的军队单位。这只队伍是军队派来营救克哈列特斯基的主力</text>
+	</string>
+	<string id="esc_eliminate_smart_stalker_6_8">
+		<text>消灭狙击手</text>
+	</string>
+	<string id="esc_eliminate_smart_stalker_6_8_text">
+		<text>消灭狙击手</text>
+	</string>
+	<string id="esc_eliminate_stalkerbase_5_7">
+		<text>占领独行者基地</text>
+	</string>
+	<string id="esc_eliminate_stalkerbase_5_7_text">
+		<text>占领独行者基地</text>
+	</string>
+	<string id="esc_find_upgrade_1_name">
+		<text>寻找升级部件</text>
+	</string>
+	<string id="esc_find_upgrade_1_text">
+		<text>我的一个技术员朋友让一个小伙子开着机车送给我一些关于AK升级部件的信息。但这家伙开进了一个地狱犬的巢穴并不幸挂了。所有人都告诉我那辆机车是没希望了。你觉得呢？我会给你合适的报酬。</text>
+	</string>
+	<string id="esc_find_upgrade_2_name">
+		<text>寻找升级部件</text>
+	</string>
+	<string id="esc_find_upgrade_2_text">
+		<text>我的一个技术员朋友让一个小伙子开着机车送给我一些关于散弹枪升级部件的信息。但这家伙开进了一个地狱犬的巢穴并且不幸挂了。所有人都告诉我那辆机车是没希望了。你觉得呢？我会给你适合的报酬的。</text>
+	</string>
+	<string id="esc_novice_stalker_1_name">
+		<text>帮助独行者</text>
+	</string>
+	<string id="esc_novice_stalker_1_text">
+		<text>帮助独行者击退盲狗群</text>
+	</string>
+	<string id="esc_novice_stalker_2_name">
+		<text>护送独行者</text>
+	</string>
+	<string id="esc_novice_stalker_2_text">
+		<text>护送独行者前往新手村</text>
+	</string>
+	<string id="esc_novice_stalker_3_name">
+		<text>接受报酬</text>
+	</string>
+	<string id="esc_novice_stalker_3_text">
+		<text>从沃夫那接受你所救的独行者付给你的报酬。</text>
+	</string>
+	<string id="esc_prapor">
+		<text>面见少尉</text>
+	</string>
+	<string id="esc_prapor_text">
+		<text>面见少尉</text>
+	</string>
+	<string id="esc_reach_garbage">
+		<text>去废弃区找挖掘机</text>
+	</string>
+	<string id="esc_reach_garbage_text">
+		<text>去废弃区找挖掘机</text>
+	</string>
+	<string id="esc_reach_stalker_base">
+		<text>面见堤旁的独行者</text>
+	</string>
+	<string id="esc_reach_stalker_base_text">
+		<text>和独行者的领队瓦尔严谈谈。他也许知道西德洛维奇要找的东西。</text>
+	</string>
+	<string id="esc_reach_trader">
+		<text>和商人谈话</text>
+	</string>
+	<string id="esc_reach_trader_text">
+		<text>和商人谈话</text>
+	</string>
+	<string id="esc_rescue_patrol">
+		<text>帮助独行者们</text>
+	</string>
+	<string id="esc_rescue_patrol_text">
+		<text>帮助独行者们</text>
+	</string>
+	<string id="esc_stalker_enemy_name">
+		<text>重获独行者们的信任</text>
+	</string>
+	<string id="esc_stalker_enemy_text">
+		<text>你和独行者们的关系完蛋了，你必须通过帮助西德洛维奇重获他们的信任。</text>
+	</string>
+	<string id="esc_take_habar">
+		<text>收集战利品</text>
+	</string>
+	<string id="esc_take_habar_text">
+		<text>收集战利品</text>
+	</string>
+	<string id="esc_take_prisoner_secret">
+		<text>找到哈连特斯科的隐藏点</text>
+	</string>
+	<string id="esc_take_prisoner_secret_text">
+		<text>找到哈连特斯科的隐藏点</text>
+	</string>
+	<string id="esc_take_weapon_name">
+		<text>收集武器</text>
+	</string>
+	<string id="esc_take_weapon_text">
+		<text>收集武器</text>
+	</string>
+	<string id="esc_talk2_comm">
+		<text>和哈连特斯科谈谈</text>
+	</string>
+	<string id="esc_talk2_comm_text">
+		<text>和哈连特斯科谈谈</text>
+	</string>
+	<string id="esc_talk2_leader">
+		<text>面见独行者首领</text>
+	</string>
+	<string id="esc_talk2_leader_2">
+		<text>和独行者首领谈谈</text>
+	</string>
+	<string id="esc_talk2_leader_2_text">
+		<text>和独行者首领谈谈</text>
+	</string>
+	<string id="esc_talk2_leader_text">
+		<text>面见独行者首领</text>
+	</string>
+	<string id="esc_talk2_trader">
+		<text>和商人谈谈</text>
+	</string>
+	<string id="esc_wolf_brother_1_name">
+		<text>救援沃夫被囚禁的兄弟</text>
+	</string>
+	<string id="esc_wolf_brother_1_text">
+		<text>救援沃夫被囚禁的兄弟</text>
+	</string>
+	<string id="esc_wolf_brother_2_name">
+		<text>护送沃夫的兄弟回新手村</text>
+	</string>
+	<string id="esc_wolf_brother_2_text">
+		<text>护送沃夫的兄弟回新手村</text>
+	</string>
+	<string id="esc_wolf_brother_3_name">
+		<text>接受报酬</text>
+	</string>
+	<string id="esc_wolf_brother_3_text">
+		<text>从沃夫那儿接受你的报酬</text>
+	</string>
+	<string id="st_esc_find_flesh_up_ac_ak74u_name">
+		<text>找到自动平衡器的信息</text>
+	</string>
+	<string id="st_esc_find_flesh_up_ac_ak74u_text">
+		<text>为封锁线附近的技术员范寻找自动平衡器的信息。</text>
+	</string>
+	<string id="st_esc_find_flesh_up_ac_wincheaster1300_name">
+		<text>寻找散弹枪气动机械的信息。</text>
+	</string>
+	<string id="st_esc_find_flesh_up_ac_wincheaster1300_text">
+		<text>通过了解散弹枪气动机械的信息，独行者技术员可以让散弹枪的开火频率大大提升。</text>
+	</string>
+	<string id="st_esc_find_flesh_up_bd_wincheaster1300_name">
+		<text>寻找电子稳定器的信息</text>
+	</string>
+	<string id="st_esc_find_flesh_up_bd_wincheaster1300_text">
+		<text>独行者的技师可以装配一个装置，来增加拉推枪栓式散弹枪的命中率，但他还有些信息不了解。</text>
+	</string>
+	<string id="esc_recover_item_1_name">
+		<text>交付 "魔法" 伏特加酒</text>
+	</string>
+	<string id="esc_recover_item_1_text">
+		<text>过去这里有个 "化学家" 。他不是啥真正的化学家，但他酿造了 "魔法" 伏特加酒。真的很…几口酒下去你就忘了一切：这个鬼地方、怪物、异变点和其他一切，有种飘飘然的感觉。在过去他们甚至以材料来定价，但这依然值得。后来有一天，几个家伙出于嫉妒或是贪婪把化学家毒死了，谁知道是出于什么目的？他们毒死了他，也中断了伏特加的供应。不过，我知道那个化学家还有少量的酒藏在这儿。带回一瓶来，我会给你丰厚的奖赏的。</text>
+	</string>
+	<string id="esc_recover_item_2_name">
+		<text>交还战利品 AKM-47/2</text>
+	</string>
+	<string id="esc_recover_item_2_text">
+		<text>我喜欢收集稀有武器，伙计，我准备把它们放到一个博物馆里。但是战利品 AKM-47/2是我缺少的藏品。这种枪并不是好枪，但难得它能用于猎杀你没见过的异变怪物。我听说它的主人不仅是个好枪手，他还能躲避各种麻烦和异变点，所以他在特异区是个传奇。我最近没有听到关于这个独行者的任何消息，但得到了些关于这把枪的讯息：它藏在一个很隐秘的地方。把它带回来，佣兵。</text>
+	</string>
+	<string id="esc_recover_item_3_name">
+		<text>交还 "幸运" 探测器</text>
+	</string>
+	<string id="esc_recover_item_3_text">
+		<text>帮帮我，佣兵。我最近买了个新探测器，然后我把旧的扔到一片异变点里以示庆贺，事情就是这样。但那个新探测器并没有给我带来好运，三周了，一个神器也没找到。我想新的虽然不错，但我还是想拿回那个旧的。取回它我就给你报酬。</text>
+	</string>
+	<string id="esc_recover_item_4_name">
+		<text>交还特殊医药包</text>
+	</string>
+	<string id="esc_recover_item_4_text">
+		<text>佣兵，我的一个老朋友最近从废弃区强盗的手里逃了出来。这群强盗让他在堤上的异变点群里跑着取乐，而那里的辐射量接近致死的量。他勉强逃了回来却深受辐射之害，而普通的医药包对他并不管用- 他需要强力的医药箱来医治。我听说军队里有种特殊的医药包能帮他，所以如果你能拿回来一个的话，我们会很感激你。</text>
+	</string>
+</string_table>

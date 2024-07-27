@@ -1,0 +1,393 @@
+﻿<?xml version="1.0" encoding="Unicode" ?>
+<string_table>
+	<string id="red_forester_hello_dialog_0">
+		<text>有何贵干？</text>
+	</string>
+	<string id="red_forester_lost_stalkers_1">
+		<text>佣兵提供给你一些非常有趣的信息，看来我是对的。席扫特异区的大风暴是如此的强劲，以至于改变了自身的空间层，强使自己转为了圆环状。</text>
+	</string>
+	<string id="red_forester_lost_stalkers_111">
+		<text>不要继续对我讲你的科学了，教授。它变成圆环状：无论怎么走都会回到原地。因此，在大风暴过后，独行者们步入了环绕利曼斯克周围的空间泡陷阱，也就无法离开了。不过我们现在知道了不少- 佣兵的坐标，PDA的频率，还有现在我对那些泡泡有更好的理解了。</text>
+	</string>
+	<string id="red_forester_has_compas_1">
+		<text>在我失去所有希望时又看见了指南针！谢谢你！给我点时间，我会找到从泡里离开的方法。我在找的时候，你要设法和佣兵取得联系。当然你需要一个强劲的收发器，听说军方仓库里就有个，那是他们和外面世界沟通的工具。那个就足够强劲，和佣兵取得联系没问题。</text>
+	</string>
+	<string id="red_forester_has_compas_111">
+		<text>一旦你找到收发器我就会发给你所需要的收发频率。如果他们没出什么差错的话，他们会从泡里出来并最终达到进入利曼斯克的桥梁。他们也许能顺便拜访下桥那边的强盗。</text>
+	</string>
+	<string id="red_forester_lost_stalkers_11111">
+		<text>嗯，事实上几天前我自己也曾被困在一个空间泡里面。那时我并不知道这是一个新的变异点，所以我认为我仅仅是神志不清了，因为树林似乎很熟悉，但是不管我怎么走都无法找到出路！不一会，特异区自己给了我一个神器，这个神器可以为我指明走出空间泡的道路。我叫这个神器为 "指南针" 。在我回家的路上我被强盗打劫了…他们放过了我这个老头，但是他们抢走了指南针。帮我找到那个神器，我会想出一条让佣兵出来的方法。</text>
+	</string>
+	<string id="red_forester_lost_stalkers_1111111">
+		<text>这帮人渣在红森林边上建了个营地。我已将信息上传到你的PDA里了。</text>
+	</string>
+	<string id="red_forester_need_to_limansk_1">
+		<text>利曼斯克已经消失多年了，对于它的消失也有很多种解释。如果它永远消失下去，对我们而言是最好不过了。你提利曼斯克干什么？</text>
+	</string>
+	<string id="red_forester_need_to_limansk_3">
+		<text>你不是个平庸之辈。特异区已经在你身上留下了特殊记号，我不知道这对你来说是福还是祸。正常的平衡点已被打破，特异区正在逐渐变得不稳定起来，你就是这个进程中的一部分。我会帮助你的…尽管我不知道这样做是否正确。进入利曼斯克并不容易，有个捷路就是走大桥，但桥身已被吊起来了。尽管它不是通向利曼斯克的唯一通道，但无论如何，这种情况还是令我感到震惊。自由团和纪律团在放射风暴后就把桥身吊起来了，不久前河对面出现了强盗，他们占领了大桥。不过还有另一条路可以进入利曼斯克。</text>
+	</string>
+	<string id="red_forester_need_to_limansk_5">
+		<text>放射风暴极大的改变了特异区。曾经安全的通道已经充满了致命的异变点，而取而代之的新通道，已经有多年无人探寻了。我怀疑它们已经都被找到了…不管信与不信，我有时会在我的PDA里收到从利曼斯克附近发出的零碎无线讯息。这只意味着一件事：独行者已经找到了进入利曼斯克的新道路，他们需要帮助。</text>
+	</string>
+	<string id="red_forester_need_to_limansk_7">
+		<text>不幸的是，信号太弱我无法找到它。我的意思是独行者已经被困在空间泡之中，不管他们走那条路都会回到他们来的地方。如果我们能够帮助他们出来，我们就可以找到进入利曼斯克的方法。</text>
+	</string>
+	<string id="red_forester_need_to_limansk_9">
+		<text>去军方仓库吧。在那些山上信号会好点。当你发现什么的时候，告诉我，好吗？</text>
+	</string>
+	<string id="red_artefact_hunters_11">
+		<text>你好，佣兵！很高兴特异区把你领到了我们这里！</text>
+	</string>
+	<string id="red_artefact_hunters_111">
+		<text>嗨。</text>
+	</string>
+	<string id="red_artefact_hunters_1111">
+		<text>我们为你找了个活儿。你知道，我们到这个树林子里面来不是为了采好吃的。这儿附近有一个异变点地区，在那里有成堆成堆的神器。我知道怎样到那里去，但是路是要穿过森林的，我也确定你以前也一定听说过有关那个森林的一些事。这是一个危险的地方。所以你要护送我们去那里，给我们当一会儿保安，我们会用一个漂亮的成色十足的神器作为回报去解决你的麻烦，成交吗？</text>
+	</string>
+	<string id="red_artefact_hunters_11111">
+		<text>好。我们出发吧。</text>
+	</string>
+	<string id="red_artefact_hunters_11112">
+		<text>我也不喜欢这森林。我要走了。</text>
+	</string>
+	<string id="red_artefact_hunters_111121">
+		<text>请自便，如果你改变主意了回来找我。</text>
+	</string>
+	<string id="red_artefact_hunters_21">
+		<text>是？</text>
+	</string>
+	<string id="red_artefact_hunters_211">
+		<text>你说的那个充满了神器，还有物品的地方是怎么回事？</text>
+	</string>
+	<string id="red_artefact_hunters_22">
+		<text>再见。</text>
+	</string>
+	<string id="red_artefact_hunters_31">
+		<text>我们过会儿谈。</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_11">
+		<text>不要开枪！</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_111">
+		<text>你们到底是谁？</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_1111">
+		<text>普通独行者。史列特洛克雇的我们。</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_11111">
+		<text>为什么你要攻击我？</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_111111">
+		<text>史列特洛克说有人在跟踪他，他需要保护。我认为你们是要暗杀他的。</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_1111111">
+		<text>我明白了。</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_112">
+		<text>史列特洛克去哪了？</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_1121">
+		<text>我不知道，他没有说去哪。</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_11211">
+		<text>他什么也没说？嗯，用不用在你脑袋上开个洞才能唤醒你的记忆。</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_112111">
+		<text>不要啊，求你了！他走的时候真的什么没说。我只知道他把东西藏哪里了。这是坐标。</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_1121111">
+		<text>好吧…</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_11212">
+		<text>好…</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_113">
+		<text>你知道怎样才能找到弗雷斯特？</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_1131">
+		<text>啊。他就在森林另一边的破旧矿井那儿。他卖给史列特洛克一个帮助穿越森林的地图。没有那幅地图森林就是一个迷宫。</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_11311">
+		<text>你能带我去哪里吗？</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_113111">
+		<text>耶，我能记得地图内容。但是太危险了，到处是异变生物。</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_1131111">
+		<text>我会对付它们的。走吧。</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_114">
+		<text>我要走了。老实呆着吧。</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_0">
+		<text>不要开枪！</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_1">
+		<text>你们到底是谁？</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_11">
+		<text>普通独行者。史列特洛克雇的我们。</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_111">
+		<text>为什么你要攻击我？</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_1111">
+		<text>史列特洛克说有人跟踪他，他需要保护。我认为你们是要暗杀他。</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_11111">
+		<text>我明白了。</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_3">
+		<text>史列特洛克去哪了？</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_31">
+		<text>我不知道，他没说去哪儿。</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_311">
+		<text>他什么也没说，嗯？用不用在你脑袋上开个洞才能唤醒你的记忆？</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_3111">
+		<text>不要啊，求你了！他走的时候真的什么也没说。我只知道他东西藏哪里了。这是坐标。</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_31111">
+		<text>好吧。</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_312">
+		<text>好…</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_4">
+		<text>你知道怎样才能找到弗雷斯特？</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_41">
+		<text>啊。他就在森林另一边的破旧矿井那儿。他卖给史列特洛克一个帮助穿越森林的地图。没有那幅地图森林就是一个迷宫。</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_411">
+		<text>你能带我去那儿吗？</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_4111">
+		<text>耶，我能记得地图内容。但是太危险了，到处是异变生物。</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_41111">
+		<text>我会对付它们的。走吧…</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_5">
+		<text>我走了。老实呆着吧。</text>
+	</string>
+	<string id="red_bounty_hunter_way_11">
+		<text>走快点，这里非常危险。</text>
+	</string>
+	<string id="red_bounty_hunter_way_111">
+		<text>危险是什么？</text>
+	</string>
+	<string id="red_bounty_hunter_way_1111">
+		<text>这里是红森林！成打的独行者消失的地方。而现在只有我们俩。在后悔之前赶紧跑。</text>
+	</string>
+	<string id="red_bounty_hunter_way_12">
+		<text>快到了。附近有个独行者基地。</text>
+	</string>
+	<string id="red_bounty_hunter_way_13">
+		<text>到了。那库房就是弗雷斯特住的地方。</text>
+	</string>
+	<string id="red_bounty_hunter_way_14">
+		<text>快点。</text>
+	</string>
+	<string id="red_bounty_hunter_way_15">
+		<text>嗨！</text>
+	</string>
+	<string id="red_forest_gate_keepesr_dialog_11">
+		<text>别靠近那大门！那是个陷阱。</text>
+	</string>
+	<string id="red_forest_gate_keepesr_dialog_111">
+		<text>怎么回事？！我必须要过去！</text>
+	</string>
+	<string id="red_forest_gate_keepesr_dialog_1111">
+		<text>佣兵，只要我们在这儿，我们就不会开这些门的。怪物们会随时从森林里跳出来把我们当早点吃掉。但是一旦你帮助我们，我们将会把这门打开。我们想要去旧矿井-他们说里面有一大堆神器。而且是一个十分安全的地方- 安全得足以躲避一次放射风暴。只靠我们是守不住的。我们有更多的独行者与我们同行：一些到了废弃区，一些到了杨塔。所以，如果他们中的任何一个人从这儿通过，我们想让你带着他去那个矿井。然后我们便会帮你把门打开。</text>
+	</string>
+	<string id="red_forest_gate_keepesr_dialog_11111">
+		<text>成交。我帮你的忙，你帮我开门。</text>
+	</string>
+	<string id="red_forest_gate_keepesr_dialog_11112">
+		<text>门儿都没有。</text>
+	</string>
+	<string id="red_forest_stalkers_task_11">
+		<text>嗨，佣兵！</text>
+	</string>
+	<string id="red_forest_stalkers_task_111">
+		<text>嗨！</text>
+	</string>
+	<string id="red_forest_stalkers_task_1111">
+		<text>我们这有一个工作给你。</text>
+	</string>
+	<string id="red_forest_stalkers_task_11111">
+		<text>继续说。</text>
+	</string>
+	<string id="red_forest_stalkers_task_111111">
+		<text>把红森林的地图给我们。</text>
+	</string>
+	<string id="red_forest_stalkers_task_11111111">
+		<text>好的。</text>
+	</string>
+	<string id="red_forest_stalkers_task_2">
+		<text>给你地图。</text>
+	</string>
+	<string id="red_forest_stalkers_task_21">
+		<text>谢谢你的帮助。</text>
+	</string>
+	<string id="red_forester_about_forest_0">
+		<text>和我讲讲红森林的事情。</text>
+	</string>
+	<string id="red_forester_about_forest_1">
+		<text>这里曾是个野生动物保护区，我过去是本地的林务官。我保护森林和森林里的动物免遭偷猎者的毒手。现在特异区本身在保护着这个地方，它保护得如此完美以至于人们宁可多走十几里的路来避开这个地方。如果一个陌生人涉足森林，他最好的结局就是死掉。尽管我就是个看林人，但我也无法知道这里到底发生了什么。一个人走进迷雾之中便不知去向。你可以紧跟着他的后面却仍旧不知道他是怎么死的。就是这样，孩子。</text>
+	</string>
+	<string id="red_forester_about_limansk_0">
+		<text>我要去利曼斯克。</text>
+	</string>
+	<string id="red_forester_about_limansk_1">
+		<text>利曼斯克已经消失很多年了，对于它的消失有很多种解释。对于我们来说它永远消失下去也许是最好的情况。你想去利曼斯克做什么？</text>
+	</string>
+	<string id="red_forester_about_limansk_11">
+		<text>听起来这很老套，但这是个事关生死的问题。</text>
+	</string>
+	<string id="red_forester_about_limansk_111">
+		<text>你不是一个凡人。特异区已经在你身上留下了特殊的记号，我不知道这对你来说是福还是祸。正常的秩序已被打破了，我有种感觉，你就是打破这种平衡的原因。我会帮助你的，尽管我对我的决定不那么自信。</text>
+	</string>
+	<string id="red_forester_about_zone_0">
+		<text>你能跟我说说特异区的事情吗？</text>
+	</string>
+	<string id="red_forester_about_zone_1">
+		<text>特异区，嗯…特异区本身是有生命的，我们人类仅仅是或多或少地闯进了它的轨道。特异区会化解任何对它的存在所构成的威胁，就好像我们的身体同疾病所做的斗争一样。我们发烧，就好像特异区震动一样。放射风暴就是我们进行“呕吐”一样。我们越激怒它，越强的风暴就会发生。</text>
+	</string>
+	<string id="red_forester_about_zone_11">
+		<text>这么多年来，你是怎么孤身一人在如此险恶的环境中幸存下来的？</text>
+	</string>
+	<string id="red_forester_about_zone_111">
+		<text>一个愚蠢的举动就可以毁了特异区…联通属于特异区的一切。不仅仅是怪物和异变点，而且包括神器和你们这些独行者…还有我。我能感觉到特异区正处于焦虑之中- 有某种东西正在颠覆它，扰乱属于它的平衡。一个大的风暴正在酝酿之中…我不知道现状能否继续维持下去。</text>
+	</string>
+	<string id="red_forester_cheet_0">
+		<text>text in default</text>
+	</string>
+	<string id="red_forester_cheet_1">
+		<text>给我那个独一无二的 "指南针" 神器。在你的PDA里面找到它可能存在的地方。</text>
+	</string>
+	<string id="red_forester_has_compas_0">
+		<text>我已经拿到神器了。</text>
+	</string>
+	<string id="red_forester_has_compas_11">
+		<text>当我找到它时会发生什么？</text>
+	</string>
+	<string id="red_forester_hello_dialog_1">
+		<text>你真是个在弗雷斯特地盘上找东西的新手？</text>
+	</string>
+	<string id="red_forester_hello_dialog_2">
+		<text>是什么风把你吹到我这里了？</text>
+	</string>
+	<string id="red_forester_hello_dialog_3">
+		<text>祝你好运，孩子！</text>
+	</string>
+	<string id="red_forester_hello_dialog_4">
+		<text>别把我忘了！</text>
+	</string>
+	<string id="red_forester_hello_dialog_5">
+		<text>好好记得我！</text>
+	</string>
+	<string id="red_forester_limansk_0">
+		<text>跟我说说利曼斯克的事情。</text>
+	</string>
+	<string id="red_forester_limansk_1">
+		<text>很久以来没人听说过关于那座城的任何事情。许多当地人都不相信利曼斯克曾经存在过。这只是他们在说谎：这个城确实存在- 在第一次灾难发生之前我曾亲眼见过。你知道，那里有一个被关闭了的研究院，一个相当大的研究院，这些研究院的房子都是为科学家和他们的助手而特别设计的。这是一个专门研究一些有古怪名称东西的研究机构- 比如说像无线电波之类的。他们也架设起一个巨大的天线，天线的个头有五层楼那么高！那些家伙确实是相当的有文化。从此利曼斯克就不再平静。那儿的居民一直对陌生人很警觉。总是私下谈论一些事情同时又赞扬着苏维埃政权，甚至在供应短缺的时候也是如此。我们这些乡下人经常在利曼斯克周围活动- 人们的健康状况并不好，这个城会令你感到头疼…这一定是那个天线的原因。不久切尔诺贝利事件发生了，但是利曼斯克并没有被撤离。他们也许在销毁文件，或者是因为有秘密，我不是很确切的知道。但是这就是我最后一次听说到利曼斯克。我在那儿没做过事情…</text>
+	</string>
+	<string id="red_forester_limansk_11">
+		<text>但是我看到一条通向利曼斯克的路，河上的桥。</text>
+	</string>
+	<string id="red_forester_limansk_111">
+		<text>这个地方充满了异变点，但是在放射风暴过后又变得很十分安全。独行者们了解到可以不用通过焦脑器，而仅仅是穿过利曼斯克到达特异区中心的日子并不长。纪律团和自由团在到达城市后便开始打仗，这最后会毁了他们双方！但是我打赌如果这个结果发生了，其他在特异区的人不会感到太难过。</text>
+	</string>
+	<string id="red_forester_limansk_12">
+		<text>这个地方充满了异变点，但是在放射风暴过后又变得十分安全。独行者们了解到可以不用通过焦脑器，而仅仅是穿过利曼斯克到达特异区中心的日子并不长。纪律团和自由团在到达城市后便开始打仗，这最后会毁了他们双方！但我打赌如果真发生了这个结果，在特异区的其他人也不会感到太难过。</text>
+	</string>
+	<string id="red_forester_lost_stalkers_0">
+		<text>我在军方仓库收到了佣兵团发来的信息。似乎是他们在放射风暴中被一些奇怪的异变点困住了。他们说他们找不到出来的路- 总是回到他们出发时的同一个地方。他们标明了他们的坐标。</text>
+	</string>
+	<string id="red_forester_lost_stalkers_11">
+		<text>有点像魔比斯环？</text>
+	</string>
+	<string id="red_forester_lost_stalkers_1111">
+		<text>那我怎样才能把佣兵们从空间泡中解救出来呢？</text>
+	</string>
+	<string id="red_forester_lost_stalkers_111111">
+		<text>你知道强盗在哪儿扎营吗？</text>
+	</string>
+	<string id="red_forester_lost_stalkers_111112">
+		<text>给，我找到你想要的稀有神器了。</text>
+	</string>
+	<string id="red_forester_lost_stalkers_1111121">
+		<text>我几乎丧失了所有的信心，直到我又看见了指南针神器！谢谢你！给我一点时间，我就能找到逃出空间泡的路。与此同时，你必须和失散的小队取得联系。去军方仓库找到收发器。</text>
+	</string>
+	<string id="red_forester_lost_stalkers_11111211">
+		<text>当我找到收发器又怎样呢？</text>
+	</string>
+	<string id="red_forester_lost_stalkers_111112111">
+		<text>你找到收发器后，我会给你佣兵们的坐标。</text>
+	</string>
+	<string id="red_forester_need_to_limansk_0">
+		<text>我需要到利曼斯克去。</text>
+	</string>
+	<string id="red_forester_need_to_limansk_2">
+		<text>听起来这很老套，但这是个事关生死的问题。</text>
+	</string>
+	<string id="red_forester_need_to_limansk_4">
+		<text>你知道强盗是怎么到对面的？</text>
+	</string>
+	<string id="red_forester_need_to_limansk_6">
+		<text>这些独行者出什么事了？</text>
+	</string>
+	<string id="red_forester_need_to_limansk_8">
+		<text>我该怎么做？</text>
+	</string>
+	<string id="red_forester_who_are_you_0">
+		<text>你是谁？</text>
+	</string>
+	<string id="red_forester_who_are_you_1">
+		<text>我是弗雷斯特，先给你说说我的事吧。我在这儿住了很长的时间；我把我的一生都献给了这个森林。我老了。不管怎样，等你到了我这把年纪，你也不会离开你的屋子的。在核电站发生事故后我拒绝被遣散；我在特异区恶劣的环境中幸存了下来。我记得地平线上出现一道闪光…许多朋友在那天都死掉了，但是特异区放过了我，你明白吗？是啊，它不仅放过了我，还给了我礼物！我过去擅长在森林中寻找道路，而现在我还能找到通过那些致命异变点的安全通道。独行者们嫉妒我，但我很难说这份礼物是好是坏？你应该知道天底下没有白来的好事。总有一天，特异区会向我索要礼物的代价。这正是我所担心，老弟。</text>
+	</string>
+	<string id="red_forester_who_are_you_111">
+		<text>不，这里是独有的松树林。好吧，这也是个自然保护区，但是这已经特别得不能再特别了。当1986年切尔诺贝利核电站事故发生后，这里变成了红色。当我睡觉的时候它还是绿色的，而当我醒来后它就变成了你现在所看到的样子。不久特异区出现了，动物和鸟儿离开了这座森林。我是这里剩下的唯一生命。就剩下我、红森林还有从未在这里消散的迷雾。</text>
+	</string>
+	<string id="red_forester_who_are_you_11111">
+		<text>是的，许多独行者在这里走到了人生的尽头。我甚至听说在红森林里面住着一个鬼魂。从我的角度看，这个森林就像特异区里的一切一样。如果你善待它，它就不会碰你。而麻烦的是，你们这些独行者对一切的态度都有问题。你们试图拥有特异区内的一部分，而你们所得到的报应是你们罪有应得。</text>
+	</string>
+	<string id="red_leshiy_reward_11">
+		<text>靠…我所有的战士都死掉了。从空间泡里跑了出来，结果跑到一群强盗之中了。</text>
+	</string>
+	<string id="red_leshiy_reward_12">
+		<text>谢谢你，佣兵。我们没有你就办不成这个事。请收下吧，它会给你很大的帮助的。</text>
+	</string>
+	<string id="red_leshiy_reward_13">
+		<text>谢谢你，佣兵。我们没有你就办不成这个事。请收下吧，它会给你很大的帮助的。</text>
+	</string>
+	<string id="red_leshiy_reward_14">
+		<text>谢谢你，佣兵。你真的把我们救了出来-没有你的话，我们根本无法降下那座桥，也无法从空间泡里面出来。请收下这个吧，它会给你很大的帮助的。</text>
+	</string>
+	<string id="red_leshiy_reward_15">
+		<text>谢谢你，佣兵。你真的把我们救了出来-没有你的话，我们根本无法降下那座桥，也无法从空间泡里面出来。请收下这个吧，它会给你很大的帮助的。</text>
+	</string>
+	<string id="red_leshiy_reward_16">
+		<text>嗨，疤面者。</text>
+	</string>
+	<string id="red_leshiy_story_1_0">
+		<text>和我聊聊空间泡的事情。</text>
+	</string>
+	<string id="red_leshiy_story_1_1">
+		<text>哥们，空间泡是特异区内最垃圾的烂货了。它们是刚出现的一种现象。如果你跳进一个空间泡中，兄弟，你就真的遇到麻烦了。不管你去哪个方向，不管你走那条路，你总会回到你出发的地方。如果不是我自己进去过，我根本不相信存在这种东西。一次，我们遇到了放射风暴，我们全队的人都进入了一个空间泡。我们花了好几天的时间转圈圈！我们中的一些人快要被逼的自杀了。他们说，想出去根本没门，还不如就在这里自杀…有些人确实这么做了。我极力劝说他们继续前进。我几乎记不住那一切了…兄弟，我现在根本不信我能从那里面出来。真的十分感谢你帮了我们。</text>
+	</string>
+	<string id="red_leshiy_story_2_0">
+		<text>你们在执行什么任务？</text>
+	</string>
+	<string id="red_leshiy_story_2_1">
+		<text>哇塞，兄弟！这算什么问题？天机不可泄露，这必须要严格执行。想让我告诉你根本不行。可是，再一想，你确实救了我们的命。好吧，听着我们答应一个大的组织去找一个非常稀有并且价值连城的神器。我不能告诉你是因为一个秘密条款。我们已经找到了我们要找的东西。我们怎么找到的就是另一件事了，如果没有天价是不会让我再一次让我接受像这样的任务了。但是钱多得已经无处可用了。就像我所担心的，整个突击已经变成了我的恶梦。诺，没什么命令可以再让我这样。</text>
+	</string>
+	<string id="red_artefact_hunters_reward_dialog_11">
+		<text>谢谢你的帮助，这是你的报酬。</text>
+	</string>
+</string_table>

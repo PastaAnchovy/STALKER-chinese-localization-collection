@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="Unicode" ?>
+<string_table>
+	<string id="team_1_desc">
+		<text>地区无政府主义者。他们认为地区是自由的避难所，并相信在这里；外面世界的所有法律规则都是无效的。他们的座右铭是 "多自己想做的和少管闲事。" 他们阻止着政府控制这个地区，并为自由而战，和佣兵团是敌人。他们的成员大都装备原苏联的武器。</text>
+	</string>
+	<string id="team_1_name">
+		<text>自由团 (自由潜行者)</text>
+	</string>
+	<string id="team_2_desc">
+		<text>这些冒险家来自世界各地，甚至欢迎最肮脏的工作。他们的座右铭是 "金钱没有臭味，" 神器就意味着金钱…佣兵团大都装备西式武器。</text>
+	</string>
+	<string id="team_2_name">
+		<text>佣兵团 (杀手)</text>
+	</string>
+</string_table>

@@ -1,0 +1,1020 @@
+﻿<?xml version="1.0" encoding="Unicode" ?>
+<string_table>
+	<string id="gar_bandit_leader_hello_11">
+		<text>你想要什么？</text>
+	</string>
+	<string id="gar_bandit_leader_kill_digger_traitor_1">
+		<text>嗯…既然你提到了，我这儿倒有份差事，我想让你干掉1个人。如果你接手这份差事，我保证他就在旧汽车站那儿，过了东边的墙就是了。你有兴趣吗？</text>
+	</string>
+	<string id="gar_bandit_trader_hello_11">
+		<text>那么…有什么好东西？</text>
+	</string>
+	<string id="gar_bandit_tech_hello_11">
+		<text>嘿，伙计…你想要什么？</text>
+	</string>
+	<string id="gar_bandit_barman_bandit_secret_0">
+		<text>尤加给了我隐藏地坐标，不过那地方估计到处都爬满了怪物和异形。</text>
+	</string>
+	<string id="gar_bandit_barman_bandit_secret_1">
+		<text>那是真的吗？哈！伙计，那个坐标是尤加最喜欢的恶作剧。什么，难道你认为你是第一个从他那儿得到坐标的蠢蛋？许多尝试到达那里的人都丢了性命…最近有个人干掉了那儿的PSY 射线狗，不过他也中了几千伏特的射线。我认为现在要获得奖励已经变得简单多了。</text>
+	</string>
+	<string id="gar_bandit_barman_destroy_flea_market_0">
+		<text>尤加决定将跳蚤市场里的所有“鼹鼠”都清理出去 。</text>
+	</string>
+	<string id="gar_bandit_barman_destroy_flea_market_1">
+		<text>哈！他疯了吗？那儿是从“鼹鼠”身上赚钱的绝佳场所！相信我，这样会重蹈首领的下场，他被干掉了，而走私犯也都隐匿起来了，随着跳蚤市场的没落，“鼹鼠”们很快就会没事干。不用几个月这些家伙就找不到人诈钱了，尤加打算和他们说什么呢？我倒是有话要和那些家伙说…尤加是在自掘坟墓…</text>
+	</string>
+	<string id="gar_bandit_barman_hello_11">
+		<text>那么？</text>
+	</string>
+	<string id="gar_bandit_barman_join_0">
+		<text>我怎么加入呢？</text>
+	</string>
+	<string id="gar_bandit_barman_join_1">
+		<text>嗯，这么说你是想加入尤加的阵营了？好吧，那你可以去问问他。他在他的拖车内无所事事，等着像你这样的蠢蛋到来。花点时间帮他干点事，你也许会觉得根本不值。</text>
+	</string>
+	<string id="gar_bandit_barman_kill_digger_traitor_0">
+		<text>尤加要我去干掉一个叫阿瓦斯卡的家伙。你认识他吗？</text>
+	</string>
+	<string id="gar_bandit_barman_kill_digger_traitor_1">
+		<text>不，我不认识他。不过我可以给你点建议，记得优先考虑你自己。那些家伙在枪口下会变得很慷慨…好好利用这点吧。不过要让他们活得太久，以免他们后悔自己的决定。</text>
+	</string>
+	<string id="gar_bandit_barman_kill_走私犯_0">
+		<text>尤加命令我干掉几个走私犯和他的客户。</text>
+	</string>
+	<string id="gar_bandit_barman_kill_走私犯_1">
+		<text>尤加是真正的核心人物。即使“鼹鼠”可以通过各种手段挣到肮脏的钱，这也帮不了他们。我们可以随时解决掉他们，不过我们为什么要这么做呢？打他们就像切菜一样容易。尤加是怎么看走私犯的？他知道我的钱是从哪儿来的么？让他见鬼去吧。</text>
+	</string>
+	<string id="gar_bandit_barman_questions_0">
+		<text>我有几个问题。</text>
+	</string>
+	<string id="gar_bandit_barman_questions_1">
+		<text>射击。</text>
+	</string>
+	<string id="gar_bandit_barman_questions_11">
+		<text>你在这儿干什么？</text>
+	</string>
+	<string id="gar_bandit_barman_questions_111">
+		<text>发呆和喝酒，这就是我每天做的事情，其实也就是浪费时间。我从小就想当老大，我从来没打算做个走狗。看看我现在的样子，整天喝伏特加，看着老大无所事事，变得越来越胖。其他家伙也闲得可以。伙计，如果我是这儿的老大，我肯定会找些事来做！我们会给这个地区带了比辐射前更多的麻烦。</text>
+	</string>
+	<string id="gar_bandit_barman_questions_1111">
+		<text>我明白了。我也想过要问问…</text>
+	</string>
+	<string id="gar_bandit_barman_questions_1112">
+		<text>恩，那就谈到这儿了。</text>
+	</string>
+	<string id="gar_bandit_barman_questions_12">
+		<text>这地区有什么新发现吗？</text>
+	</string>
+	<string id="gar_bandit_barman_questions_121">
+		<text>风暴袭击我们的频率越来越频繁了，这个地区的每样东西都在发生变化。很多有趣的新地区开放了，很多人都准备过去。那对我来说不是什么问题。在我看来，如果你有实力，又有你的帮派在后面撑腰，你就应该出去闯荡，呆在老家无所事事简直就是种罪过。</text>
+	</string>
+	<string id="gar_bandit_barman_questions_13">
+		<text>你和你的邻居相处得怎么样？</text>
+	</string>
+	<string id="gar_bandit_barman_questions_131">
+		<text>大致的情况是这样的：我们是这个地区仅有的无身份者。我们不是强盗，我们是猎人；其它的都是羊类生物，我们被命令保护它们的安全，因此我们的工作和牧羊人差不多。就拿废弃区来说，无论何时，当独行者在这堆破铜烂铁内发现些有价值的东西时，他们会为了垃圾互相残杀。我的伙计们在那儿呆不下去，所以来到了这儿，我们定了些基本的规矩 ，一切都很顺利，比以前那地方清静多了。我们还未能和其他邻居达成协议，不过我们会说服他们的。目前我对此并不是很担心，我还有其他事情要做。</text>
+	</string>
+	<string id="gar_bandit_barman_questions_14">
+		<text>没关系，我们下次再聊吧。</text>
+	</string>
+	<string id="gar_bandit_barman_questions_141">
+		<text>就这样吧。</text>
+	</string>
+	<string id="gar_bandit_bookmaker_hello_11">
+		<text>嘿，伙计，喜欢射击吗？</text>
+	</string>
+	<string id="gar_bandit_bookmaker_hello_111">
+		<text>当然。</text>
+	</string>
+	<string id="gar_bandit_bookmaker_hello_1111">
+		<text>好极了，你可以射射玩玩，可以赚钱，还可以创造新纪录。你想试试吗？</text>
+	</string>
+	<string id="gar_bandit_bookmaker_hello_112">
+		<text>不，我没兴趣。</text>
+	</string>
+	<string id="gar_bandit_bookmaker_hello_1121">
+		<text>伙计，你自己看吧。如果你改变主意了可以来找我，我一直在这儿。</text>
+	</string>
+	<string id="gar_bandit_bookmaker_hello_21">
+		<text>这是说好的奖金，我们公平竞赛。我们再来一局怎么样？</text>
+	</string>
+	<string id="gar_bandit_bookmaker_hello_31">
+		<text>这不过是运气欠佳罢了，再试一次！</text>
+	</string>
+	<string id="gar_bandit_bookmaker_hello_41">
+		<text>伙计，你要去哪儿？在野外射击是你的自由，不过留在这儿和我们玩玩射击游戏如何？</text>
+	</string>
+	<string id="gar_bandit_bookmaker_hello_51">
+		<text>时间过得真快，我们下次再聊吧。</text>
+	</string>
+	<string id="gar_bandit_bookmaker_hello_511">
+		<text>我明白。</text>
+	</string>
+	<string id="gar_bandit_bookmaker_money_0">
+		<text>我想赚钱。</text>
+	</string>
+	<string id="gar_bandit_bookmaker_money_1">
+		<text>这听起来很不错，你需要改变规则么或者你有其他要求？</text>
+	</string>
+	<string id="gar_bandit_bookmaker_money_11">
+		<text>我们开始射击吧。</text>
+	</string>
+	<string id="gar_bandit_bookmaker_money_111">
+		<text>就聊到这儿吧，伙计。你估计一分钟内你能射落多少只鸟？</text>
+	</string>
+	<string id="gar_bandit_bookmaker_money_111111">
+		<text>成交。</text>
+	</string>
+	<string id="gar_bandit_bookmaker_money_1111111">
+		<text>厉害，伙计快准备射击。</text>
+	</string>
+	<string id="gar_bandit_bookmaker_money_11111111">
+		<text>好的。</text>
+	</string>
+	<string id="gar_bandit_bookmaker_money_111112">
+		<text>我没有那么多钱。</text>
+	</string>
+	<string id="gar_bandit_bookmaker_money_1111121">
+		<text>那选些你付得起的怎么样？</text>
+	</string>
+	<string id="gar_bandit_bookmaker_money_11111211">
+		<text>好的，我选不用的射击数目。</text>
+	</string>
+	<string id="gar_bandit_bookmaker_money_11111212">
+		<text>不，我不感兴趣。</text>
+	</string>
+	<string id="gar_bandit_bookmaker_money_111112121">
+		<text>你可以射射玩玩，可以赚钱，还可以创造新纪录，那可以让你变富呢。你觉得怎么样？</text>
+	</string>
+	<string id="gar_bandit_bookmaker_money_12">
+		<text>麻烦解释一下。</text>
+	</string>
+	<string id="gar_bandit_bookmaker_money_121">
+		<text>我对乐趣的解释就是挣钱。告诉我你一分钟内能射落多少只鸟，接着下注，然后开始射击吧。如果你能射落预先说好的数目，我会加倍奖金，很公平吧。如果你没做到，那钱就是我的了。鸟的数目越多，赌注越高。</text>
+	</string>
+	<string id="gar_bandit_bookmaker_money_13">
+		<text>我不喜欢突然袭击。</text>
+	</string>
+	<string id="gar_bandit_bookmaker_questions_0">
+		<text>有什么基本规则么？</text>
+	</string>
+	<string id="gar_bandit_bookmaker_questions_1">
+		<text>很简单，我开始计时，你做好准备，我一说开始你就射击。如果你在一分钟内射落了说好的数目，你就赢了。至于你怎么射击，那完全由你决定。不过记住，如果你离开了游戏区域，游戏就结束了。因此，你想射射玩玩，赚钱，还是创造新纪录？</text>
+	</string>
+	<string id="gar_bandit_bookmaker_quit_0">
+		<text>我不太感兴趣。</text>
+	</string>
+	<string id="gar_bandit_bookmaker_quit_1">
+		<text>伙计，你自己看吧。如果你改变主意了可以来找我，我一直在这儿。</text>
+	</string>
+	<string id="gar_bandit_bookmaker_record_0">
+		<text>我想创造新纪录。</text>
+	</string>
+	<string id="gar_bandit_bookmaker_record_11">
+		<text>让我们开始吧。</text>
+	</string>
+	<string id="gar_bandit_bookmaker_record_1111">
+		<text>好的。</text>
+	</string>
+	<string id="gar_bandit_bookmaker_record_11111">
+		<text>好的，伙计，让我们看看你是不是货真价实的冠军。</text>
+	</string>
+	<string id="gar_bandit_bookmaker_record_1112">
+		<text>我想试试，但我没有那么多钱。</text>
+	</string>
+	<string id="gar_bandit_bookmaker_record_11121">
+		<text>我这儿有更简单的选择。你可以玩玩，也可以赚钱，你觉得怎么样？</text>
+	</string>
+	<string id="gar_bandit_bookmaker_record_1113">
+		<text>我改变主意了。</text>
+	</string>
+	<string id="gar_bandit_bookmaker_record_12">
+		<text>记住规则了。</text>
+	</string>
+	<string id="gar_bandit_bookmaker_record_121">
+		<text>这是真正的考验。如果你认为你可以打破纪录，你可以下注。如果你创造了新纪录，你的奖励会翻倍，而且你会成为新的冠军。如果你做不到，那钱就是我的了。</text>
+	</string>
+	<string id="gar_bandit_bookmaker_record_13">
+		<text>我改变主意了。</text>
+	</string>
+	<string id="gar_bandit_bookmaker_training_0">
+		<text>我就玩玩吧。</text>
+	</string>
+	<string id="gar_bandit_bookmaker_training_1">
+		<text>练习吗？记住规则了么？</text>
+	</string>
+	<string id="gar_bandit_bookmaker_training_11">
+		<text>好吧，让我们开始吧。</text>
+	</string>
+	<string id="gar_bandit_bookmaker_training_111">
+		<text>好，那么你能射落多少只鸟？</text>
+	</string>
+	<string id="gar_bandit_bookmaker_training_11111">
+		<text>好吧，奖励你拿去吧。</text>
+	</string>
+	<string id="gar_bandit_bookmaker_training_111111">
+		<text>好吧。</text>
+	</string>
+	<string id="gar_bandit_bookmaker_training_21">
+		<text>不清楚，告诉我下。</text>
+	</string>
+	<string id="gar_bandit_bookmaker_training_211">
+		<text>如果你只是玩玩，你不会得到奖励。不过你可以练练或者体验一下射击的爽快感。你估计下你能射落多少只，然后试着去做就行了。</text>
+	</string>
+	<string id="gar_bandit_bookmaker_training_31">
+		<text>我改变主意了。</text>
+	</string>
+	<string id="gar_bandit_bookmaker_training_311">
+		<text>没问题，还是两个选择：赚钱或者创造纪录，你选哪个？</text>
+	</string>
+	<string id="gar_bandit_fixer_questions_111">
+		<text>你说“像你这样的人”是什么意思？我的确不是从什么正规学校毕业的，不过我对这类工作是有心得的。我是这个星球最好的专家，获得过无数的奖牌和荣誉。我会和我的朋友喝酒庆祝我们的行事方式，直到老板告诉我们你们被解雇了。那个杂种！那个星球总是摆出一副高高在上的样子，于是我们就为国防部门工作。之后我在当地的房产公司做技术人员。如果发生了什么事他们会来找我，因为我是这里唯一的专家。一些人付我点报酬或者给我好酒喝，日子过得很舒坦…直到有一天我和一个管道工为了一个瓶子大打出手，事情一发不可收拾，我用螺丝起子捅了那个杂种。他没死，我不过在聚居地被关了一段时间，等我回来的时候，我房子空了，妻子也离我而去…我很沮丧，而且有点神经过敏。我很愚蠢地丢了房子，然后无家可回了。这就是我来这儿的原因。你知道吗？他们在这儿待我很好，我知道我在干什么。我还是我，有时候我甚至得到一个瓶子作为报酬…记住我说的吧。</text>
+	</string>
+	<string id="gar_bandit_fixer_questions_121">
+		<text>我的手在抖并不意味着我没用。我只是有点宿醉，仅此而已。让我射击吧，我保证很快能解决问题，我会出色的完成任务！难道你不认为我会比这里任何一个家伙都干的出色么？我可以做任何你需要我做的事：修理你的枪械，增加你护甲的Kevlar或者帮助你升级。不要忘了你的好朋友水晶，经常去请他喝两杯吧，他的工作很辛苦的。</text>
+	</string>
+	<string id="gar_bandit_fixer_questions_131">
+		<text>说实话，我也不知道现在的情况。只要有工作和酒，我就很满足了。我的生活也许很頽废，不过现在要改变已经太晚了。所以我何必整天想这想那呢？我的意思是这里每天都有事情发生。你碰到过Kirill么？他就是那个脸长满麻子的家伙，我们叫他麻脸。如果你还没见过他，他可能在某个地方醉倒了。我看到麻脸有几次离开了基地。我估计那小子有个秘密的地方，他把战利品藏在那儿，那些东西他不想和别人平分。其他人也发现了，有一天尤加也知道了。他把麻脸叫过去，命令他说出那个秘密的地方。麻脸说：“老大，我发誓我不是小偷…”于是他给尤加看了他的秘密地点。原来麻脸拣到了一只叫切尔诺贝利的受伤小狗，他每天给他喂碎骨。别人都不愿意和麻脸说话，他们不在意这家伙。尤加对这件事很生气，他杀了那只狗，麻子脸被暴打了一段，失去了他的分成。伙计，那就是命啊…</text>
+	</string>
+	<string id="gar_bandit_fixer_questions_141">
+		<text>这是我最好的朋友，申科。如果你像我们这样喝的话你肯定会醉的，哈哈！我很清楚地记得我们来这儿的第一天：首先我们喝酒庆祝我们的相识，然后我们互相亲吻，我们谈论生活，有时候也会有不同的意见。不过不用担心，申科是个很好的伙伴，有时我们喝醉了还会打起来。不过当我失落的时候我总能和他谈上话，他是我唯一的朋友，就像巴甫洛夫和他的狗那样。</text>
+	</string>
+	<string id="gar_bandit_fixer_questions_151">
+		<text>每个人都要牢记这样一个原则：永远不要把伏特加和酒混和在一起。你们不会干这样的蠢事，对吧？武器也是这个道理。选择任意一种特性的武器，然后把它的性能升级到最高，明白吗？你用什么武器，准头或者火力都不是问题，只要把它的性能弄到最高就好。一个性能最好的武器可以让你走得更远，比那些半调子要好得多。</text>
+	</string>
+	<string id="gar_bandit_leader_hello_21">
+		<text>但愿阿瓦斯卡已经记下来了。</text>
+	</string>
+	<string id="gar_bandit_leader_hello_31">
+		<text>走私犯不可能活者离开废弃区，不过如果“鼹鼠”有枪手的话，我也不会坐以待毙，你明白我的意思么？</text>
+	</string>
+	<string id="gar_bandit_leader_hello_41">
+		<text>“鼹鼠”还呆在跳蚤市场，不过你却还在这里。我是这里唯一发现问题的么？</text>
+	</string>
+	<string id="gar_bandit_leader_hello_61">
+		<text>你是来谈生意的，还是只是来膜拜我的？</text>
+	</string>
+	<string id="gar_bandit_leader_hello_91">
+		<text>我听着呢。</text>
+	</string>
+	<string id="gar_bandit_leader_join_first_0">
+		<text>你能让我加入么？</text>
+	</string>
+	<string id="gar_bandit_leader_join_first_1">
+		<text>小子说得慢点！首先你得通过测试，一个真正的测试。我有个差事给你。</text>
+	</string>
+	<string id="gar_bandit_leader_join_main_0">
+		<text>那么，我现在可以加入了么？你能让我加入吗？</text>
+	</string>
+	<string id="gar_bandit_leader_join_main_1">
+		<text>笨蛋，你以为你是谁？我给了你差事，就给我快去做，等你搞定了再説。</text>
+	</string>
+	<string id="gar_bandit_leader_join_main_2">
+		<text>你干得很好，比我想象的还好…当事情过于顺利的时候，我就会起疑心。要不这样吧，你在附近逛逛，我查查你的来历。如果你没什么前科，我会在你的PDA 上留下记录的。</text>
+	</string>
+	<string id="gar_bandit_leader_join_main_3">
+		<text>看起来你在自由团呆过。我在这里有自己的货源，我是他们的老大。你决定要脱离自由团么？</text>
+	</string>
+	<string id="gar_bandit_leader_join_main_4">
+		<text>不错，不错，有个人想加入我的阵营。这里只有我是老大。你准备好要加入了么？</text>
+	</string>
+	<string id="gar_bandit_leader_join_main_5">
+		<text>在我这儿有很不错的家伙，你也证明了你足够成为他们其中的一员。只要你点头，你就能加入我们，怎么样？</text>
+	</string>
+	<string id="gar_bandit_leader_join_main_51">
+		<text>我一直希望有像你这样能干的手下。</text>
+	</string>
+	<string id="gar_bandit_leader_join_main_511">
+		<text>相信我，你会有很多机会来展示你的才能。你知道这里的工作吧？</text>
+	</string>
+	<string id="gar_bandit_leader_join_main_5111">
+		<text>不，麻烦老大解释下。</text>
+	</string>
+	<string id="gar_bandit_leader_join_main_51111">
+		<text>这个地方很混乱，人们互相残杀。我们有自己的规矩，别人也得遵守我们的规矩。我们的培训是要钱的，于是我们就要在“鼹鼠”身上搾钱。废弃区已经搞定了，接着是封锁线，我们要赶走那儿的独行者，告诉他们谁才是老大。</text>
+	</string>
+	<string id="gar_bandit_leader_join_main_511111">
+		<text>我明白了。</text>
+	</string>
+	<string id="gar_bandit_leader_join_main_5112">
+		<text>我明白了，我不需要解释了。</text>
+	</string>
+	<string id="gar_bandit_leader_join_main_51121">
+		<text>那就好。你的PDA 已经调到了我们的频率，你可以知道我们的家伙的位置，以及我们是如何和其他帮派火拼的。好了，我说完了，滚吧！</text>
+	</string>
+	<string id="gar_bandit_leader_join_main_511211">
+		<text>我明白了，我加入你们。</text>
+	</string>
+	<string id="gar_bandit_leader_join_main_52">
+		<text>我会考虑的。</text>
+	</string>
+	<string id="gar_bandit_leader_kill_digger_traitor_0">
+		<text>我愿意为您效劳。</text>
+	</string>
+	<string id="gar_bandit_leader_kill_digger_traitor_11">
+		<text>我接受。</text>
+	</string>
+	<string id="gar_bandit_leader_kill_digger_traitor_111">
+		<text>很好，这家伙叫阿瓦斯卡。到车站去，你到的时候他应该在那儿了。</text>
+	</string>
+	<string id="gar_bandit_leader_kill_digger_traitor_1111">
+		<text>明白。</text>
+	</string>
+	<string id="gar_bandit_leader_kill_digger_traitor_12">
+		<text>不，我适合这样的工作。</text>
+	</string>
+	<string id="gar_bandit_leader_kill_digger_traitor_121">
+		<text>随你吧，我想你会改变主意的，这家伙可能还活着。</text>
+	</string>
+	<string id="gar_bandit_leader_kill_digger_traitor_told_0">
+		<text>我还是决定接受你的邀请。</text>
+	</string>
+	<string id="gar_bandit_leader_kill_digger_traitor_told_1">
+		<text>很好，你的运气来了，那个家伙还活着。他很快就会到东墙后面的旧汽车站那儿，干掉他。他叫阿瓦斯卡，不要看错了。</text>
+	</string>
+	<string id="gar_bandit_leader_kill_digger_traitor_told_11">
+		<text>明白。</text>
+	</string>
+	<string id="gar_bandit_leader_meet_greet_b_2">
+		<text>我会被诅咒的！竟然是你！</text>
+	</string>
+	<string id="gar_bandit_leader_questions_0">
+		<text>我有些事情要问。</text>
+	</string>
+	<string id="gar_bandit_leader_questions_1">
+		<text>什么？</text>
+	</string>
+	<string id="gar_bandit_leader_questions_11">
+		<text>说说你自己。</text>
+	</string>
+	<string id="gar_bandit_leader_questions_111">
+		<text>你是条子吗？我不会回答你那该死的问题。你不过是个没人要的废物，你和我干掉的那些人没什么区别，我是踩着这些人爬上来的。我之所以有今天的地位，是因为我多想少说。还有个原因，如果我要做事，我会比任何人都动作快，效率更高，你懂么？</text>
+	</string>
+	<string id="gar_bandit_leader_questions_1111">
+		<text>我明白。我还有些问题要问。</text>
+	</string>
+	<string id="gar_bandit_leader_questions_1112">
+		<text>我明白，但我不会回答。</text>
+	</string>
+	<string id="gar_bandit_leader_questions_12">
+		<text>你难道不担心那些独行者出现并攻击你么？</text>
+	</string>
+	<string id="gar_bandit_leader_questions_121">
+		<text>一个男人只在乎一件事：当上一名非传统的导航员，如果你晓得我指的是什么？除此之外，我不在乎其他事。废弃区的“鼹鼠”们已经够我喝一壶的了。即使他们倾巢出动，我们也会教训那群杂碎的，我们不是好惹得。我们随时都有人加入，只要我们钱够了，我们就离开这个鬼地方，建个更体面的基地。至于那些原住民，恐怕他们要自己找地方住了，不是吗？</text>
+	</string>
+	<string id="gar_bandit_leader_questions_13">
+		<text>你对特异区发生的事感兴趣吗？</text>
+	</string>
+	<string id="gar_bandit_leader_questions_131">
+		<text>只有一件事我在意：我们会在哪里被锅盖头或者其他人偷袭。其他事情我才不管呢，除非任务和独行者跟军队干上了——这才是我们的生财之道。不论如何，让我给你讲个小故事吧。这儿曾有个输家，我们叫他大厨。不是因为他是个厨子，他精于操作一百步外的绞肉机，这附近最头痛的异变点。他真的开始做饭了，辩解道，这是为了就我们与水火，但他的那份没有多少油水。那个小婊子要附近大佬教育下他，所以，我把他叫来，在他额头上点了盏灯，他一出来就把他手指掰断。接下来我让我的小弟们把他遮上眼，把他带到一个好地方。我说如果他能走上一百步，还活着的话，我就绕他不死，允许他给我刷鞋。结果他一脚踩进他亲爱的绞肉机，大厨的故事就到此为止了。故事的用意是：惹到我你就完了。</text>
+	</string>
+	<string id="gar_bandit_leader_questions_14">
+		<text>没事，谢谢</text>
+	</string>
+	<string id="gar_bandit_leader_questions_141">
+		<text>好孩子，你知道的越少，活的越长。</text>
+	</string>
+	<string id="gar_bandit_leader_reward_0">
+		<text>你不觉得我上份工作的奖赏，对不起我冒的险吗？</text>
+	</string>
+	<string id="gar_bandit_leader_reward_111">
+		<text>我可不这么认为，我知道，你知道吗？好吧好吧，你不想我当初认为的那样是个小混混，所以我要透漏给你一个小秘密。上次大风暴前，我在那里藏了一把特殊的好枪。之后整个地区都出现了异变点，有人曾告诉我，你要当心的不是异变点，而是怪物。话说回来，到那可不容易，但如果你要步行，我会给你可靠的坐标。要是你做到了，绝对物有所值。</text>
+	</string>
+	<string id="gar_bandit_leader_reward_1111">
+		<text>我们看着办吧。</text>
+	</string>
+	<string id="gar_bandit_tech_join_0">
+		<text>能告诉我怎么入伙吗？</text>
+	</string>
+	<string id="gar_bandit_tech_join_1">
+		<text>要老大拿主意。他的拖车在机库里。</text>
+	</string>
+	<string id="gar_bandit_tech_questions_0">
+		<text>你能回答我几个问题吗？</text>
+	</string>
+	<string id="gar_bandit_tech_questions_1">
+		<text>当然啦！</text>
+	</string>
+	<string id="gar_bandit_tech_questions_11">
+		<text>你是怎么成为一名机械师的？</text>
+	</string>
+	<string id="gar_bandit_tech_questions_111">
+		<text>你说“像你这样的人”是什么意思？我的确不是从什么正规学校毕业的，不过我对这类工作是有心得的。我是这个星球最好的专家，获得过无数的奖牌和荣誉。我会和我的朋友喝酒庆祝我们的行事方式，直到老板告诉我们你们被解雇了。那个杂种！那个星球总是摆出一副高高在上的样子，于是我们就为国防部门工作。之后我在当地的房产公司做技术人员。如果发生了什么事他们会来找我，因为我是这里唯一的专家。一些人付我点报酬或者给我好酒喝，日子过得很舒坦…直到有一天我和一个管道工为了一个瓶子大打出手，事情一发不可收拾，我用螺丝起子捅了那个杂种。他没死，我不过在殖民地被关了一段时间，等我回来的时候，我房子空了，妻子离我而去…我很沮丧，而且有点神经过敏。我很愚蠢地丢了房子，然后无家可回了。这就是我来这儿的原因。你知道吗？他们在这儿待我很好，我知道我在干什么。我还是我，有时候我甚至得到一个瓶子作为报酬…记住我说的吧。</text>
+	</string>
+	<string id="gar_bandit_tech_questions_1111">
+		<text>明白。介意我问其它问题吗？</text>
+	</string>
+	<string id="gar_bandit_tech_questions_1112">
+		<text>好了，没事了。</text>
+	</string>
+	<string id="gar_bandit_tech_questions_12">
+		<text>你能做些什么？</text>
+	</string>
+	<string id="gar_bandit_tech_questions_121">
+		<text>我的手在抖并不意味着我没用。我只是有点宿醉，仅此而已。让我射击吧，我保证很快能解决问题，我会出色的完成任务！难道你不认为我会比这里任何一个家伙都干的出色么？我可以做任何你需要我做的事：修理你的枪械，增加你护甲的Kevlar或者帮助你升级。不要忘了你的好朋友水晶，经常去请他喝两杯吧，他的工作很辛苦的。</text>
+	</string>
+	<string id="gar_bandit_tech_questions_13">
+		<text>你可知道你周围发生了什么？</text>
+	</string>
+	<string id="gar_bandit_tech_questions_131">
+		<text>说实话，我也不知道现在的情况。只要有工作和酒，我就很满足了。我的生活也许很頽废，不过现在要改变已经太晚了。所以我何必整天想这想那呢？我的意思是这里每天都有事情发生。你碰到过Kirill么？他就是那个脸长满麻子的家伙，我们叫他麻脸。如果你还没见过他，他可能在某个地方醉倒了。我看到麻脸有几次离开了基地。我估计那小子有个秘密的地方，他把战利品藏在那儿，那些东西他不想和别人平分。其他人也发现了，有一天尤加也知道了。他把麻脸叫过去，命令他说出那个秘密的地方。麻脸说：“老大，我发誓我不是小偷…”于是他给尤加看了他的秘密地点。原来麻脸拣到了一只叫切尔诺贝利的受伤的小狗，他每天给他喂碎骨。别人都不愿意和麻脸说话，他们不在意这家伙。尤加对这件事很生气，他杀了那只狗，麻脸被暴打了一段，失去了他的分成。伙计，那就是命啊…</text>
+	</string>
+	<string id="gar_bandit_tech_questions_14">
+		<text>老睡在角落里的家伙是谁？</text>
+	</string>
+	<string id="gar_bandit_tech_questions_141">
+		<text>这是我最好的朋友，申科。如果你像我们这样喝的话你肯定会醉的，哈哈！我很清楚地记得我们来这儿的第一天：首先我们喝酒庆祝我们的相识，然后我们互相亲吻，我们谈论生活，有时候也会有不同的意见。不过不用担心，申科是个很好的伙伴，有时我们喝醉了还会打起来。不过当我失落的时候我总能和他谈上话，他是我唯一的朋友，就像巴甫洛夫和他狗那样。</text>
+	</string>
+	<string id="gar_bandit_tech_questions_15">
+		<text>我应该选择哪种武器？</text>
+	</string>
+	<string id="gar_bandit_tech_questions_151">
+		<text>每个人都要牢记这样一个原则：永远不要把伏特加和酒混和在一起。你们不会干这样的蠢事，对吧？武器也是这个道理。选择任意一种特性的武器，然后把它的性能升级到最高，明白吗？你用什么武器，准头或者火力都不是问题，只要把它的性能弄到最高就好。一个性能最好的武器可以让你走得更远，比那些半调子要好得多。</text>
+	</string>
+	<string id="gar_bandit_tech_questions_16">
+		<text>好吧，先问这么多吧。</text>
+	</string>
+	<string id="gar_bandit_tech_questions_161">
+		<text>嗯，想聊聊随时可以找我。</text>
+	</string>
+	<string id="gar_bandit_trader_join_0">
+		<text>我怎么样才能加入你们？</text>
+	</string>
+	<string id="gar_bandit_trader_join_1">
+		<text>问尤加去！他是头儿，很容易被认出来的。</text>
+	</string>
+	<string id="gar_bandit_trader_questions_0">
+		<text>想聊聊么，趁店内还清净？</text>
+	</string>
+	<string id="gar_bandit_trader_questions_1">
+		<text>好，有什么事么？</text>
+	</string>
+	<string id="gar_bandit_trader_questions_11">
+		<text>谈谈你自己吧。</text>
+	</string>
+	<string id="gar_bandit_trader_questions_111">
+		<text>前苏联时期我在做一笔地下交易的时候被捕了，在牢房我认识了几个不错的哥们，和黑社会有了点联系，一被放出来我就开始从窃贼那儿进货。结果我又被抓了，在牢内蹲了更长时间，但我出来的时候苏维埃已经倒了，我再也没能适应这种巨变- 我穷困潦倒一贫如洗…但是后来，特异区出现了，我立马冲到这儿。这个地方让我回忆起我辉煌的过去，所以我立刻干起了老本行 - 商人。</text>
+	</string>
+	<string id="gar_bandit_trader_questions_1111">
+		<text>明白，你能告诉我一些其他的事情么？</text>
+	</string>
+	<string id="gar_bandit_trader_questions_1112">
+		<text>好吧，我们就聊到这儿。</text>
+	</string>
+	<string id="gar_bandit_trader_questions_12">
+		<text>你觉得尤加怎么样？</text>
+	</string>
+	<string id="gar_bandit_trader_questions_121">
+		<text>我的看法是：尤加这个老大当不了多久了，我感觉迟早Borov会行动的，尤加太刚愎自用了，一点远见都没有，甚至看不到巴诺夫- 这条就在他眼皮底下的毒蛇。我告诉这种事，是因为我相信你不会告诉张三李四。如果你打听到什么新消息就告诉我，明白吗？不用担心，谁当老板都无所谓- 尤加或是巴诺夫- 我都只在这儿做买卖。</text>
+	</string>
+	<string id="gar_bandit_trader_questions_13">
+		<text>和我谈谈废弃区。</text>
+	</string>
+	<string id="gar_bandit_trader_questions_131">
+		<text>嘿，心甘情愿到这荒无人烟的地方的人真是稀客。在一群“wham”——走好运挖到还算体面的小饰品的独行者”之前，没人到这“这除了垃圾就是辐射的鬼地方”，接下来，那些人像找妓女的饥渴士兵一样冲到这儿来。我和我的小弟一团糟在这儿建立起些许秩序，以前完全是一团糟。无论如何特异区需要秩序。猪也好锅盖头也罢，或者匪徒，都得建立他们自己的秩序，就像我们在废弃区的所作所为一样。什么秩序都要花钱 - 我得给我的小弟们饭吃。所以，我的小弟都能拿到公平的分成，我管不着。但我觉得确实得去油水更多的地方。</text>
+	</string>
+	<string id="gar_bandit_trader_questions_14">
+		<text>特异区有什么新闻吗？</text>
+	</string>
+	<string id="gar_bandit_trader_questions_141">
+		<text>新闻，恩？你得确信这新闻不是最后的，明白我意思么？这里的怪物没有特异区受感染严重，不过不久前发生了一起事故…一个独行者回来了，脸色苍白，手不停地在抖…他开始坦白自己做过的坏事。不管怎样，他和另外一个家伙是先从喧闹鬼手里逃了出来，然后又碰到了一群仓鼠。那家伙决定自己逃命，他把装备都仍给了他的同伴，然后跑了。仓鼠显然不打算追他，因为他们已经有食物了。不过当我们的英雄逃回来后，他开始反省他的所作所为…耶，给他灌两杯，就会听到那家伙哀号着说，他同伴在向他要最后一个医疗包，然后…那天晚上，那家伙上吊自杀了…这就是特异区的人们的遭遇。</text>
+	</string>
+	<string id="gar_bandit_trader_questions_15">
+		<text>我想没事了。</text>
+	</string>
+	<string id="gar_bandit_trader_questions_151">
+		<text>随便你。</text>
+	</string>
+	<string id="gar_digger_leader_attack_0">
+		<text>关于进攻集中营的事…</text>
+	</string>
+	<string id="gar_digger_leader_attack_1">
+		<text>听着，我早就想和那些强盗打一仗给他们点颜色看看了- 我要他们为他们的所作所为付出代价。主要问题是那些“鼹鼠”都吓傻了，甚至不肯相信这是真的。一有人提到“集中营”三个字他们就四散而逃了。所以说让“鼹鼠”们相信我们有希望胜利，就是我实现自己梦想的唯一办法。</text>
+	</string>
+	<string id="gar_digger_leader_attack_11">
+		<text>你打算怎么做呢？</text>
+	</string>
+	<string id="gar_digger_leader_attack_111">
+		<text>我要解救集中营里的“鼹鼠”，并把此营夷为平地。去吧，“鼹鼠”们会意识到，那些强盗不是无敌的。他们需要的只是一个希望，就像格瓦拉给了古巴人的希望！所以我需要武器- 给我的孩子们一次击败强盗的机会。坦白说，即使我们有射手，我们的胜算也不大…这就是我需要你来指挥的原因。你是个经验丰富的战士- 由你来调兵遣将，我们一定能凯旋而回！你愿意帮助我们吗？</text>
+	</string>
+	<string id="gar_digger_leader_attack_1111">
+		<text>帮你进攻集中营？好的，我愿意。</text>
+	</string>
+	<string id="gar_digger_leader_attack_11111">
+		<text>我果然没有看错人！这些是坐标。我的手下已经装备上走私犯的武器在那里准备好了。我会通知他们你马上就到。祝你好运！</text>
+	</string>
+	<string id="gar_digger_leader_attack_111111">
+		<text>我会尽力的。</text>
+	</string>
+	<string id="gar_digger_leader_attack_1112">
+		<text>你的演説我不是很感兴趣，不过我会考虑考虑的。</text>
+	</string>
+	<string id="gar_digger_leader_attack_11121">
+		<text>有什么好犹豫的？一旦“鼹鼠”不齐心协力，强盗就将势不可当。接下来会发生什么？让我告诉你，他们会扩张到特异区内部区，我们就全完了！来吧伙计，你是我们进攻集中营的唯一希望！</text>
+	</string>
+	<string id="gar_digger_leader_attack_2">
+		<text>我们必须攻下集中营！这是我们让“鼹鼠”振作起来的唯一方法。你愿意帮助我们吗？</text>
+	</string>
+	<string id="gar_digger_leader_break_0">
+		<text>再见。</text>
+	</string>
+	<string id="gar_digger_leader_bring_money_0">
+		<text>你想要一个医疗包？</text>
+	</string>
+	<string id="gar_digger_leader_bring_money_1">
+		<text>没错，盒子上是这么写得的：“战场专用快速医疗处理工具箱”。是我在特异区的一个旧武器库找来的。我估计这是一支第一次科学远征队的人留下的…这么贵重的东西，我开价两千都没人买，一般“鼹鼠”是买不起的。伙计，不如你买下吧？我真的很缺钱…</text>
+	</string>
+	<string id="gar_digger_leader_bring_money_11">
+		<text>两千买个医疗箱？肯定很有用，拿来吧。</text>
+	</string>
+	<string id="gar_digger_leader_bring_money_111">
+		<text>哇！兄弟，你帮了我一个大忙了！拿去吧。也许我亏本了，但我觉得我能信任你。我需要钱来找走私犯买武器，把我的伙计们武装起来。</text>
+	</string>
+	<string id="gar_digger_leader_bring_money_1111">
+		<text>明白，不过这和“信任”有什么关系？</text>
+	</string>
+	<string id="gar_digger_leader_bring_money_11111">
+		<text>嗯，情况是，阿瓦斯卡刚出发去会见走私犯，他带着大笔钱，不过得加上你给我的这笔，他才能买下足够的shooters。所以我想麻烦你把这些钱交给阿瓦斯卡。这是坐标，我会通知他让他等你的，但得快一点，好么？</text>
+	</string>
+	<string id="gar_digger_leader_bring_money_111111">
+		<text>好的。</text>
+	</string>
+	<string id="gar_digger_leader_bring_money_1111111">
+		<text>我料到我没错看你的，先谢谢你</text>
+	</string>
+	<string id="gar_digger_leader_bring_money_11111111">
+		<text>等我搞定了再谢我吧。</text>
+	</string>
+	<string id="gar_digger_leader_bring_money_111112">
+		<text>再告诉我一遍我该干什么？</text>
+	</string>
+	<string id="gar_digger_leader_bring_money_1111121">
+		<text>你得把这笔钱给阿瓦斯卡，他在走私犯那里等你。</text>
+	</string>
+	<string id="gar_digger_leader_bring_money_11111211">
+		<text>明白。</text>
+	</string>
+	<string id="gar_digger_leader_bring_money_111113">
+		<text>我会考虑的。</text>
+	</string>
+	<string id="gar_digger_leader_bring_money_1111131">
+		<text>希望我没有错信你。</text>
+	</string>
+	<string id="gar_digger_leader_bring_money_11111311">
+		<text>嗯，继续抱着这个希望吧。</text>
+	</string>
+	<string id="gar_digger_leader_bring_money_112">
+		<text>很乐意，不过最近我们决定把大买卖放到晚上进行，避免麻烦的耳目。天黑了再来吧 - 医疗箱在等着你呢。</text>
+	</string>
+	<string id="gar_digger_leader_bring_money_12">
+		<text>我会买的，我得先凑足钱。</text>
+	</string>
+	<string id="gar_digger_leader_bring_money_121">
+		<text>兄弟，如果你买的话我就欠你个大人情了！问题是为了避免被看到，我们只在晚上做真买卖。我的遵守我自己的定的规矩。</text>
+	</string>
+	<string id="gar_digger_leader_bring_money_13">
+		<text>我会考虑的。</text>
+	</string>
+	<string id="gar_digger_leader_bring_money_131">
+		<text>伙计，除此之外，我不知道我怎么才能弄到这笔钱。</text>
+	</string>
+	<string id="gar_digger_leader_bring_money_2">
+		<text>只要两千。要不是我实在需要两千，我还会打折扣的…你要吗？</text>
+	</string>
+	<string id="gar_digger_leader_bring_money_3">
+		<text>你凑齐两千了？</text>
+	</string>
+	<string id="gar_digger_leader_bring_money_31">
+		<text>对，把医疗箱给我吧。</text>
+	</string>
+	<string id="gar_digger_leader_bring_money_32">
+		<text>还没呢。</text>
+	</string>
+	<string id="gar_digger_leader_bring_money_321">
+		<text>没错，你需要医疗箱，而我快等不及了！该死的，我实在不知道从哪里搞到这笔钱。</text>
+	</string>
+	<string id="gar_digger_leader_hello_11">
+		<text>气死我了，伙计，这生活简直一团糟。这鬼天气…什么都抢不到，强盗和变种怪物把好地方都抢了，哪怕你运气超群，挖到点宝贝，还是出不了废弃区，总有人会把你查抄了。最麻烦的是弗里西和兄弟们失踪了。</text>
+	</string>
+	<string id="gar_digger_leader_hello_111">
+		<text>我有什么可以帮办的吗？</text>
+	</string>
+	<string id="gar_digger_leader_hello_1111">
+		<text>帮忙？我凭什么相信你？话说回来，我也别无选择。如果你真的想帮忙，把这个东西交给一个叫弗里西的“鼹鼠”吧…</text>
+	</string>
+	<string id="gar_digger_leader_hello_112">
+		<text>这与我无关。</text>
+	</string>
+	<string id="gar_digger_leader_hello_1121">
+		<text>嗯，果然，这里没人会关心别人的事…该死的弗里西，你到底在哪里？</text>
+	</string>
+	<string id="gar_digger_leader_hello_12">
+		<text>这是为什么，上帝啊为什么…该死的弗里西，你在哪里？</text>
+	</string>
+	<string id="gar_digger_leader_hello_13">
+		<text>伙计，你真的想帮忙吗？</text>
+	</string>
+	<string id="gar_digger_leader_hello_14">
+		<text>你还没见到弗里西吗？</text>
+	</string>
+	<string id="gar_digger_leader_hello_15">
+		<text>你把弗里西的旧PDA带来了吗？</text>
+	</string>
+	<string id="gar_digger_leader_hello_21">
+		<text>你想买医疗箱？你要知道，伙计，要不是我这么缺钱，我不会如此贱卖它的。</text>
+	</string>
+	<string id="gar_digger_leader_hello_22">
+		<text>你凑好买医疗箱的钱了？</text>
+	</string>
+	<string id="gar_digger_leader_hello_31">
+		<text>请快把这些钱交给阿瓦斯卡吧。</text>
+	</string>
+	<string id="gar_digger_leader_hello_311">
+		<text>好极了。</text>
+	</string>
+	<string id="gar_digger_leader_hello_32">
+		<text>伙计，你还在磨蹭什么？Stingov要等不及了！</text>
+	</string>
+	<string id="gar_digger_leader_hello_321">
+		<text>不会的，不要急。</text>
+	</string>
+	<string id="gar_digger_leader_hello_33">
+		<text>伙计，你把阿瓦斯卡的PDA落在哪儿了？那可是我们接近射手的唯一希望！</text>
+	</string>
+	<string id="gar_digger_leader_hello_331">
+		<text>明白了，多保重。</text>
+	</string>
+	<string id="gar_digger_leader_hello_34">
+		<text>你把走私犯的PDA 带来了吗？谢谢…我敢打赌阿瓦斯卡是把走私犯出卖给强盗的人。怎么能相信这种鬼家伙？阿瓦斯卡自己就在营地里坐过牢，而他又总把个人利益放在第一…好吧，已经过去了。对了，我的小弟们从军火库弄到武器了，现在我来告诉你我们为何需要枪，我们要用它们来攻打集中营。</text>
+	</string>
+	<string id="gar_digger_leader_hello_342">
+		<text>没错，不过要知道我已经把集中营里的“鼹鼠”都救出来了</text>
+	</string>
+	<string id="gar_digger_leader_hello_51">
+		<text>嗯，进攻已经准备就绪了，要不要我给你讲讲详情？</text>
+	</string>
+	<string id="gar_digger_leader_hello_52">
+		<text>伙计，攻打集中营没你可不行。我们是“鼹鼠”不是军人，我的小弟们可打不起败仗，“鼹鼠”学校是不教兵法的。他们只能做到提供些了零星的火力援助。如果由你领导他们，就大不一样了！我求你了！你能指挥攻打集中营吗？</text>
+	</string>
+	<string id="gar_digger_leader_hello_53">
+		<text>去吧，他们在等着呢。</text>
+	</string>
+	<string id="gar_digger_leader_hello_531">
+		<text>我会搞定的，保重。</text>
+	</string>
+	<string id="gar_digger_leader_hello_54">
+		<text>你在干什么！我的伙计们都死在那里了！</text>
+	</string>
+	<string id="gar_digger_leader_hello_55">
+		<text>该死，只有你能为他们报仇雪恨！杀光营地里的混蛋，救出我们的人！</text>
+	</string>
+	<string id="gar_digger_leader_hello_61">
+		<text>你看，生活还没那么糟糕。</text>
+	</string>
+	<string id="gar_digger_leader_hello_71">
+		<text>呃…这种生活…我造了什么孽啊</text>
+	</string>
+	<string id="gar_digger_leader_old_pda_0">
+		<text>有关弗里西…</text>
+	</string>
+	<string id="gar_digger_leader_old_pda_1">
+		<text>嗯，情况是：弗里西，一名“鼹鼠”同胞，理应把他的旧PDA给我，但他失踪了。他没有联系我或者队里任何人，但我们急需这个PDA。我得亲自出马或者派出我的兄弟阿瓦斯卡，可我们两人都分身乏术。你能帮我把PDA弄来吗？</text>
+	</string>
+	<string id="gar_digger_leader_old_pda_11">
+		<text>也许吧，这个叫弗里西的在哪里？</text>
+	</string>
+	<string id="gar_digger_leader_old_pda_111">
+		<text>我也不知道，他总是在附近转悠，不过他的营地在南边，储水池和垃圾堆后面。如果弗里西在那里，告诉他，你是狂野那普派来的。如果他不在，找找他的工具箱。PDA应该就藏在工具箱底部的隐蔽夹层里。明白不？</text>
+	</string>
+	<string id="gar_digger_leader_old_pda_1111">
+		<text>明白。</text>
+	</string>
+	<string id="gar_digger_leader_old_pda_11111">
+		<text>很好。</text>
+	</string>
+	<string id="gar_digger_leader_old_pda_1112">
+		<text>那个营地里连一个活物都没有，只有成堆的被撕成碎片的尸体。</text>
+	</string>
+	<string id="gar_digger_leader_old_pda_11121">
+		<text>该死！他们也死了！晚上某只咆哮的野兽杀掉了所有没带武器的人，也就是我们- “鼹鼠”。目前还没有一个人能活着回来告诉我们这是只什么怪物。我们“鼹鼠”真是命贱…</text>
+	</string>
+	<string id="gar_digger_leader_old_pda_111211">
+		<text>发生了这么多事，现在不是垂头丧气的时候。</text>
+	</string>
+	<string id="gar_digger_leader_old_pda_1112111">
+		<text>你说得对，你还记得在哪里找PDA吧？</text>
+	</string>
+	<string id="gar_digger_leader_old_pda_11121111">
+		<text>是的。</text>
+	</string>
+	<string id="gar_digger_leader_old_pda_1112112">
+		<text>你说得对，你找到弗里西的旧PDA了吗？</text>
+	</string>
+	<string id="gar_digger_leader_old_pda_1113">
+		<text>再解释一遍，</text>
+	</string>
+	<string id="gar_digger_leader_old_pda_11131">
+		<text>简单点说，弗里西的营地在南边，蓄水池和垃圾堆后面，你要找到PDA，从两个地方下手：弗里西手里或者他的工具箱里。</text>
+	</string>
+	<string id="gar_digger_leader_old_pda_11132">
+		<text>简单点说，弗里西的营地在南边，蓄水池和垃圾堆后面，你得从工具箱里翻出PDA给我。</text>
+	</string>
+	<string id="gar_digger_leader_old_pda_12">
+		<text>我感觉我今天不想当个跑腿的。</text>
+	</string>
+	<string id="gar_digger_leader_old_pda_121">
+		<text>我在请你帮忙，而你…</text>
+	</string>
+	<string id="gar_digger_leader_old_pda_2">
+		<text>好的，那么他们在哪？</text>
+	</string>
+	<string id="gar_digger_leader_old_pda_21">
+		<text>天知道，我还没见过他们。</text>
+	</string>
+	<string id="gar_digger_leader_old_pda_211">
+		<text>听好了，我很想要那个PDA，帮我个忙去见他们。</text>
+	</string>
+	<string id="gar_digger_leader_old_pda_3">
+		<text>你手里有PDA对吧。</text>
+	</string>
+	<string id="gar_digger_leader_old_pda_31">
+		<text>没错，在这里。</text>
+	</string>
+	<string id="gar_digger_leader_old_pda_311">
+		<text>兄弟，你帮了我大忙了。来，这是你的奖励。ok，让我看看…妈的！只有一千五。看来他还没把最后一笔订单弄到手。嗯…你看，愿弗里西安息，用这个PDA互相传钱。总之，现在我急需现金，但弗里西没能兑现承诺，所以我还要动到两千，麻烦的是我已经倾家荡产了…</text>
+	</string>
+	<string id="gar_digger_leader_old_pda_3111">
+		<text>嗯，人人都有都会有走运的时候。</text>
+	</string>
+	<string id="gar_digger_leader_old_pda_31111">
+		<text>慢着…我还有个医疗箱可以卖，你需要吗？我正打算三千出售，不过我可以两千卖给你。一次付清，你觉得怎么样？</text>
+	</string>
+	<string id="gar_digger_leader_old_pda_32">
+		<text>不，我不需要。</text>
+	</string>
+	<string id="gar_digger_leader_old_pda_321">
+		<text>听着，弗里西和他的弟兄们都被撕碎了，愿他们安息…不过我还是急需那个PDA，请把它带给我吧。</text>
+	</string>
+	<string id="gar_digger_messenger_hello_dialog_11">
+		<text>别让这些不长眼的怪物在这里晃悠</text>
+	</string>
+	<string id="gar_digger_messenger_hello_dialog_21">
+		<text>嗯，兄弟，这对一个“鼹鼠”来説是很重的打击…</text>
+	</string>
+	<string id="gar_digger_traitor_hello_11">
+		<text>什么！你要干什么！没看见我在休息吗？</text>
+	</string>
+	<string id="gar_digger_traitor_hello_21">
+		<text>别打搅我…让我睡一觉…</text>
+	</string>
+	<string id="gar_digger_traitor_hello_31">
+		<text>尤加让你来的？总算到了！怎么这么晚？</text>
+	</string>
+	<string id="gar_digger_traitor_hello_41">
+		<text>好啦好啦我走啦！我看看我是不是跟尤加划清界线了，然后我就离开这儿。</text>
+	</string>
+	<string id="gar_digger_traitor_hello_411">
+		<text>走，快走。</text>
+	</string>
+	<string id="gar_digger_traitor_kill_0">
+		<text>好啦，就这些。付完这笔钱，尤加让我跟你把事情了了。</text>
+	</string>
+	<string id="gar_digger_traitor_kill_1">
+		<text>呼，终于到了…嘿！停，哥们，等等！尤加想做了我？别，别杀我！我给你比尤加更多的钱！</text>
+	</string>
+	<string id="gar_digger_traitor_kill_11">
+		<text>你出多少？</text>
+	</string>
+	<string id="gar_digger_traitor_kill_111">
+		<text>嗯，好吧…不知道尤加答应付你多少，不过我有死掉的走私犯的藏宝地的坐标。里面的宝贝至少值五万！</text>
+	</string>
+	<string id="gar_digger_traitor_kill_1111">
+		<text>好，把坐标交出来然后滚蛋，听明白了吗？</text>
+	</string>
+	<string id="gar_digger_traitor_kill_11111">
+		<text>好的好的，藏在一辆锈车的后备箱里，这是坐标！谢啦，兄弟！有条小路，没人能看到我，我保证！我，我闪啦，行不？</text>
+	</string>
+	<string id="gar_digger_traitor_kill_111111">
+		<text>好的。</text>
+	</string>
+	<string id="gar_digger_traitor_kill_1112">
+		<text>一个不知道什么地方藏着的不知道什么东西？还不够清楚，再见。</text>
+	</string>
+	<string id="gar_digger_traitor_kill_12">
+		<text>我不感兴趣，再见。</text>
+	</string>
+	<string id="gar_digger_traitor_走私犯_0">
+		<text>我听说你能安排跟走私犯见面。</text>
+	</string>
+	<string id="gar_digger_traitor_走私犯_1">
+		<text>所以你是他们派来送shooter的？好，我组织下。瞧，我一般和西边挖掘场附近的人接触。这些是坐标。走私犯应该就在这附近，你打个招呼，我通知他你到了。身上带钱了吗？非常好。</text>
+	</string>
+	<string id="gar_digger_traitor_走私犯_11">
+		<text>明白，保重。</text>
+	</string>
+	<string id="gar_flea_market_24h_trader_bandits_0">
+		<text>你不怕强盗？</text>
+	</string>
+	<string id="gar_flea_market_24h_trader_bandits_1">
+		<text>我当然怕，我又能怎么样？但你总要想办法讨生活。我们学会了小心行事——白天只卖看不上眼的东西。尽管如此，我们还要试着不要太张扬。这里，小心肯定没错。</text>
+	</string>
+	<string id="gar_flea_market_24h_trader_goods_0">
+		<text>你卖什么？</text>
+	</string>
+	<string id="gar_flea_market_24h_trader_goods_1">
+		<text>听我说，我只卖我挖出来的，一些垃圾。你想从我这买点别的，就…我会告诉你的，先去特异区 barter！</text>
+	</string>
+	<string id="gar_flea_market_24h_trader_hello_1">
+		<text>嘿，有兴趣买点什么吗？</text>
+	</string>
+	<string id="gar_flea_market_24h_trader_market_0">
+		<text>这是哪里？</text>
+	</string>
+	<string id="gar_flea_market_24h_trader_market_1">
+		<text>>好吧，这就是跳蚤市场，我们就是跳蚤贩。嘿嘿！伙计！我们做买卖！我们卖各式小物件…其实，都是些垃圾，不过，还算有的卖。那么，你是来扯淡的，还是来做生意的？</text>
+	</string>
+	<string id="gar_flea_market_24h_trader_traders_0">
+		<text>只有你在这做生意？</text>
+	</string>
+	<string id="gar_flea_market_24h_trader_traders_1">
+		<text>当然不！这儿做生意的可不少，我们订了条规矩：大买卖黑天后再做。白天我就买些不起眼的小玩意，当然，到了晚上，大买卖就开张了。</text>
+	</string>
+	<string id="gar_flea_market_evening_trader_rest_0">
+		<text>default text</text>
+	</string>
+	<string id="gar_flea_market_evening_trader_rest_1">
+		<text>text in default</text>
+	</string>
+	<string id="gar_flea_market_evening_trader_rest_11">
+		<text>哼？什么事？…该死的，你吓着我了，没看到我在睡觉吗？</text>
+	</string>
+	<string id="gar_flea_market_evening_trader_rest_111">
+		<text>嗯，抱歉。小心点。</text>
+	</string>
+	<string id="gar_flea_market_evening_trader_trade_0">
+		<text>default text</text>
+	</string>
+	<string id="gar_flea_market_evening_trader_trade_1">
+		<text>text in default</text>
+	</string>
+	<string id="gar_flea_market_evening_trader_trade_11">
+		<text>嘿，伙计，别紧张，想要东西就过来看看。</text>
+	</string>
+	<string id="gar_flea_market_evening_trader_trade_111">
+		<text>text in default</text>
+	</string>
+	<string id="gar_flea_market_night_trader_rest_11">
+		<text>你来早了…眼前不是真正谈生意的时候，明白？等一会…再来。</text>
+	</string>
+	<string id="gar_flea_market_night_trader_rest_111">
+		<text>明白。</text>
+	</string>
+	<string id="gar_flea_market_night_trader_trade_11">
+		<text>晚上好！想来点特别的吗？</text>
+	</string>
+	<string id="gar_flea_market_night_trader_trade_111">
+		<text>对，让我看看。</text>
+	</string>
+	<string id="gar_flea_market_night_trader_trade_112">
+		<text>不了，乐意为你们做事。回见。</text>
+	</string>
+	<string id="gar_flea_market_night_trader_trade_21">
+		<text>什么事？</text>
+	</string>
+	<string id="gar_flea_market_night_trader_trade_211">
+		<text>我想买点什么。你有什么？</text>
+	</string>
+	<string id="gar_flea_market_night_trader_trade_2111">
+		<text>买卖？你谁啊你？</text>
+	</string>
+	<string id="gar_flea_market_night_trader_trade_21111">
+		<text>嘿，你要是不想赚我的钱，没问题。我马上去做上面人的买卖- 至少它们不会傻到满嘴傻问题。</text>
+	</string>
+	<string id="gar_flea_market_night_trader_trade_211111">
+		<text>伙计，打住。上面的伙计跟你做过买卖？哇，它们几乎来者不拒，所以…我有些货，想看看吗？</text>
+	</string>
+	<string id="gar_flea_market_night_trader_trade_2111111">
+		<text>给我瞅瞅。</text>
+	</string>
+	<string id="gar_flea_market_night_trader_trade_21112">
+		<text>管你什么事。</text>
+	</string>
+	<string id="gar_flea_market_night_trader_trade_212">
+		<text>很公平。你认识这附近的什么商人吗？</text>
+	</string>
+	<string id="gar_flea_market_night_trader_trade_2121">
+		<text>不，不认识。</text>
+	</string>
+	<string id="gar_flea_market_night_trader_trade_21211">
+		<text>一个也不认识？</text>
+	</string>
+	<string id="gar_flea_market_night_trader_trade_212111">
+		<text>这就对啦。</text>
+	</string>
+	<string id="gar_flea_market_night_trader_trade_2121111">
+		<text>你确定？</text>
+	</string>
+	<string id="gar_flea_market_night_trader_trade_21211111">
+		<text>没错。</text>
+	</string>
+	<string id="gar_flea_market_night_trader_trade_212111111">
+		<text>伙计，我不是打劫的，不是大兵更不是丧尸，你做不做生意？</text>
+	</string>
+	<string id="gar_flea_market_night_trader_trade_2121111111">
+		<text>我是做买卖的。你要看货还是要聊天。</text>
+	</string>
+	<string id="gar_flea_market_night_trader_trade_21211111111">
+		<text>我就看看货。</text>
+	</string>
+	<string id="gar_flea_market_night_trader_trade_21212">
+		<text>那再见了。</text>
+	</string>
+	<string id="gar_flea_market_night_trader_trade_213">
+		<text>没什么需要的。</text>
+	</string>
+	<string id="gar_bandit_commentators_11">
+		<text>试试吧，伙计！咱的枪一发就打得它们满地找牙。</text>
+	</string>
+	<string id="gar_bandit_commentators_111">
+		<text>我得走了。</text>
+	</string>
+	<string id="gar_bandit_commentators_12">
+		<text>你也不喜欢鸟？别担心，我们这儿有很多可以让你射击。</text>
+	</string>
+	<string id="gar_bandit_commentators_13">
+		<text>你呆着干啥？走啊，干掉那些玩意，去大杀特杀，快去！</text>
+	</string>
+	<string id="gar_bandit_leader_break_0">
+		<text>再见。</text>
+	</string>
+	<string id="gar_bandit_robbery_11">
+		<text>嘿，你买点什么吧。别婆婆妈妈的像遭抢劫似的- 记住，在废弃区，要维持治安就得付出代价，听明白了吗？</text>
+	</string>
+	<string id="gar_bandit_robbery_111">
+		<text>我举双手赞成维持治安，给你钱。</text>
+	</string>
+	<string id="gar_bandit_robbery_1111">
+		<text>我们的人来了！让我来应付，怎样？伙计，把枪带上。我们又不是扒别人衣服的混混，对吧？要是撞上个把怪物，你会感激我的。好吧，祝你好运！</text>
+	</string>
+	<string id="gar_bandit_robbery_11111">
+		<text>好的，再见。</text>
+	</string>
+	<string id="gar_bandit_trader_reward_0">
+		<text>我来拿清理跳蚤市场的奖励。</text>
+	</string>
+	<string id="gar_bandit_trader_reward_1">
+		<text>哈，我想起来了，给你钱。</text>
+	</string>
+	<string id="gar_bandit_trader_reward_11">
+		<text>难道你不觉得这样一份差事远不止这点钱么？</text>
+	</string>
+	<string id="gar_bandit_trader_reward_111">
+		<text>这我决定不了。老大提到的，我都付你了——别以为我揩了油。随你怎么想，尤加这会可不大方，你有本事自己去找他。他们知道你够辛苦的，不过老大是绝对不会这么慷慨的。</text>
+	</string>
+	<string id="gar_flea_market_24h_trader_hello_11">
+		<text>嘿，有什么感兴趣的吗？</text>
+	</string>
+	<string id="gar_flea_market_24h_trader_hello_11111">
+		<text>这是什么地方？</text>
+	</string>
+	<string id="gar_flea_market_24h_trader_hello_111111">
+		<text>好吧，这就是跳蚤市场，我们就是跳蚤贩子。嘿嘿！伙计！我们做买卖！我们卖各式小物件…其实，都是些垃圾，不过，还算有的卖。那么，你是来聊天的，还是来做生意的？</text>
+	</string>
+	<string id="gar_flea_market_24h_trader_hello_11112">
+		<text>你卖什么？</text>
+	</string>
+	<string id="gar_flea_market_24h_trader_hello_111121">
+		<text>听我说，我只卖我挖出来的，一些垃圾。你想从我这买点别的，就…我会告诉你，沿着这条路去特异区的商店吧！</text>
+	</string>
+	<string id="gar_flea_market_24h_trader_hello_11113">
+		<text>只有你在这做生意？</text>
+	</string>
+	<string id="gar_flea_market_24h_trader_hello_111131">
+		<text>当然不！这儿做生意的可不少，我们订了条规矩：大买卖黑天后再做。白天我就买些不起眼的小玩意，当然，到了晚上，大买卖就开张了。</text>
+	</string>
+	<string id="gar_flea_market_24h_trader_hello_11114">
+		<text>你不怕强盗吗？</text>
+	</string>
+	<string id="gar_flea_market_24h_trader_hello_111141">
+		<text>我当然怕，我又能怎么样？但你总要想办法讨生活。我们学会了小心行事- 白天只卖看不上眼的东西。尽管如此，我们还要试着不要太张扬。在这里小心点肯定没错。</text>
+	</string>
+	<string id="gar_flea_market_24h_trader_hello_11115">
+		<text>眼下没事，再见</text>
+	</string>
+	<string id="gar_bandit_bookmaker_hello_61">
+		<text>伙计，你在那边打了些什么。想多打点赚钱吗？</text>
+	</string>
+	<string id="gar_bandit_robbery_12">
+		<text>好吧，收起你的PDA，时间不多了。不要多想了，你已经允许我们来维护Garbage 的秩序了，懂吗？ </text>
+	</string>
+	<string id="gar_bandit_robbery_121">
+		<text>好，如果秩序恢复了，你就过去。</text>
+	</string>
+	<string id="gar_bandit_robbery_1211">
+		<text>哇，你要受到失败者的惩罚！所以，我要带走所有东西，对不？你可以留着你的装备，我们不是残暴的偷取你武器和其他东西的人。当你走进异变点时你会感谢我们，相信我。好了，差不多该离开这里了。</text>
+	</string>
+	<string id="gar_bandit_robbery_12111">
+		<text>是你啊，自己当心点哟。</text>
+	</string>
+</string_table>

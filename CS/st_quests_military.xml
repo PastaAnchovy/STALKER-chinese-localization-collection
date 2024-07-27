@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="Unicode" ?>
+<string_table>
+	<string id="mil_actor_attack_house">
+		<text>消灭基地里的军人</text>
+	</string>
+	<string id="mil_actor_attack_house_text">
+		<text>军队在基地里建立了防御阵地，消灭里面的军人。</text>
+	</string>
+	<string id="mil_additional_quest_1_name">
+		<text>在直升机上搜寻军人的货物。</text>
+	</string>
+	<string id="mil_additional_quest_1_text">
+		<text>一架运输重要弹药和武器的军用直升机在附近坠毁，我们需要他们的协助去那里 - 不同的射手和环境都有所不同，可惜的是我们的兄弟们无法通过那里，它属于黑石组织 - 一群老顽固，不像我们，他们有抗辐射防护服。</text>
+	</string>
+	<string id="mil_additional_quest_2_name">
+		<text>寻找PDA</text>
+	</string>
+	<string id="mil_additional_quest_2_text">
+		<text>数夜前一个潜行者小队遇到无情恶狗的袭击，几乎无人幸存，但跟随小队指挥官的兄弟回来带给了我们重要的信息。寻找指挥官身上携带的PDA。</text>
+	</string>
+	<string id="mil_additional_quest_3_name">
+		<text>寻找失踪的潜行者赃物</text>
+	</string>
+	<string id="mil_additional_quest_3_text">
+		<text>我们的狙击手死于一种特殊的狙击弹药上，如果你能找到这种弹药，你将获得丰厚的奖励。</text>
+	</string>
+	<string id="mil_additional_quest_4_name">
+		<text>带回潜行者尸体上的神器</text>
+	</string>
+	<string id="mil_additional_quest_4_text">
+		<text>我们的一个潜行者通过了一个特殊的沼泽，但却没有带回那珍贵的神器，把它带回来的人将获得奖励。</text>
+	</string>
+	<string id="mil_additional_quest_5_name">
+		<text>收集村庄中的神器。</text>
+	</string>
+	<string id="mil_additional_quest_5_text">
+		<text>那是个该死的村庄，潜行者…吸血怪…无处逃生，没有人有胆量去那里。还有一些疯狂的亡命探索者被那儿所吸引，尽管事实残酷以及危险的吸血怪在那里出没，但是，如果你消灭它们，那么你将在遗弃的房子里发现一个比这里任何东西都好的神器。</text>
+	</string>
+	<string id="mil_contact_with_clear_sky_commander_descr">
+		<text>会见列别捷夫</text>
+	</string>
+	<string id="mil_contact_with_clear_sky_commander_name">
+		<text>一个佣兵小队设法通过沸血池去桥对面的利曼斯克。晴空小队已经在桥上准备好了。离开红森林去见列别捷夫。</text>
+	</string>
+	<string id="mil_defend_barrier_name">
+		<text>保卫边界</text>
+	</string>
+	<string id="mil_defend_barrier_text">
+		<text>边界再次被袭击。帮助潜行者保卫边界。</text>
+	</string>
+	<string id="mil_elim_military">
+		<text>消灭军人</text>
+	</string>
+	<string id="mil_elim_military_text">
+		<text>消灭基地里的军人</text>
+	</string>
+	<string id="mil_hires">
+		<text>会见村庄里的佣兵</text>
+	</string>
+	<string id="mil_hires_text">
+		<text>一个废弃村庄的佣兵小队正在寻找利曼斯克附近异变点被困的小队。他们可以给你更详细的无线电报告。会见村庄里的佣兵。</text>
+	</string>
+	<string id="mil_hog_about_signal_1">
+		<text>该死！抱歉…兄弟，我不熟悉这带，如果人能够帮你，那么就只有弗雷斯特了。他们说他知道有关于那里的一切。</text>
+	</string>
+	<string id="mil_hog_hello_dialog_11">
+		<text>你好，佣兵！</text>
+	</string>
+	<string id="mil_hog_hello_dialog_12">
+		<text>很高兴见到你。那么，你是如何找到我们兄弟的？</text>
+	</string>
+	<string id="mil_hog_hello_dialog_1221">
+		<text>耶，废弃区的强盗基地是一个很难攻克的地方，你无法敷衍你自己。</text>
+	</string>
+	<string id="mil_hog_hello_dialog_1231">
+		<text>嗯…你需要一个输送的助手，像军队那样的…等等，我突然有一些想法…</text>
+	</string>
+	<string id="mil_hog_hello_dialog_13">
+		<text>佣兵，去见斯科楚克！</text>
+	</string>
+	<string id="mil_hog_talk_about_1">
+		<text>几星期前，我们得到个重要定单，要我们找到一个稀有的神器。客户是上层社会的一个大人物。总之，一切进展顺利：我们的小队在靠近屏障的附近找到了那个神器，并已在回去的路上。这时突然发生的辐射风暴击中了神器，当时我们都认为小队已全军覆没了，可他们都幸运的幸存了下来，难题是，随后他们在附近又消失了。我们奉命去寻找他们，因为我们得交付定单。一旦事情搞砸了就没有客户会继续给我们下单了。</text>
+	</string>
+	<string id="mil_hog_talk_about_111">
+		<text>我们接收到了小队的部分通信信号，但我们不能从中获得任何讯息。唯一确定的是大白天里正有一个陷阱等着我们，可能是个异变点或是某些在这附近游荡的新异变怪物。我们不知道该做什么，农庄旁有个旧水塔- 我想如果我们爬上去，在那儿或许能收到他们的传输信号。在我们试图爬上那儿时，一个该死的怪物突然跳出来，抓住了我们的一个兄弟并把他拖走了。而我们其他人就只能眼睁睁地看着！</text>
+	</string>
+	<string id="mil_hog_talk_about_11111">
+		<text>你疯了嘛，我上次被吓得尿裤子了，兄弟们都不敢靠近那塔。你，我说你看起来你对特异区了解不少啊。我估计你也不能杀掉那怪物并从我的兄弟们那里得到你要的消息，对吧？</text>
+	</string>
+	<string id="mil_kill_bs">
+		<text>杀死吸血怪</text>
+	</string>
+	<string id="mil_kill_bs_text">
+		<text>已发现一个吸血怪靠近了水塔，这地方有强烈的信号。杀死吸血怪。</text>
+	</string>
+	<string id="mil_reach_battle">
+		<text>会见自由团小队</text>
+	</string>
+	<string id="mil_reach_battle_text">
+		<text>会见自由团小队</text>
+	</string>
+	<string id="mil_reach_tower_task">
+		<text>接收信号</text>
+	</string>
+	<string id="mil_reach_tower_task_text">
+		<text>海拔最高的军事仓库水塔。能够最大限度的接收信号。去塔的顶部接收失踪的佣兵小队信号。</text>
+	</string>
+	<string id="mil_talk_2_forester2">
+		<text>和弗雷斯特交谈</text>
+	</string>
+	<string id="mil_talk_2_forester2_text">
+		<text>在弗雷斯特PDA 无线电频道接收到一个来自失踪佣兵小队发出的消息。回到弗雷斯特那里执行下一步计划。</text>
+	</string>
+	<string id="mil_talk_2_fr_com">
+		<text>会见自由团小队</text>
+	</string>
+	<string id="mil_talk_2_fr_com_text">
+		<text>自由团准备进攻陆军基地和建立属于他们自己的基地。帮助自由团进攻陆军基地。</text>
+	</string>
+	<string id="mil_talk_2_merc_2_task">
+		<text>和佣兵交谈</text>
+	</string>
+	<string id="mil_talk_2_merc_2_task_text">
+		<text>基地里布满了士兵，他们时刻保护着发射器。在外面没有办法很容易的帮助他们离开，发送坐标给佣兵并让他们离开沸血池。回到遗弃的村庄再和佣兵交谈。</text>
+	</string>
+	<string id="mil_test">
+		<text>求救</text>
+	</string>
+	<string id="mil_transfer_coo">
+		<text>传送坐标</text>
+	</string>
+	<string id="mil_transfer_coo_text">
+		<text>发射器被打开。到达塔顶发送坐标给弗雷斯特，并转发给在沸血池的佣兵小队。</text>
+	</string>
+	<string id="mil_treasure_weapon_box_descr">
+		<text>弹药箱</text>
+	</string>
+	<string id="mil_treasure_weapon_box_name">
+		<text>弹药箱</text>
+	</string>
+	<string id="mil_blockpost_task">
+		<text>和前哨站的指挥官交谈</text>
+	</string>
+	<string id="mil_blockpost_text">
+		<text>和前哨站指挥官谈谈关于军事仓库的情况。</text>
+	</string>
+</string_table>

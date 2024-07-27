@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="Unicode" ?>
+<string_table>
+	<string id="bandit_outfit_description">
+		<text>强盗的传统服装- 皮夹克和凯夫拉纤维的制品装备，这可以在特异区中提供相当程度的保护。</text>
+	</string>
+	<string id="bandit_outfit_name">
+		<text>强盗夹克　</text>
+	</string>
+	<string id="dolg_outfit_description">
+		<text>基辅防御研究机构的一项产品，而目前服役在纪律团之中。它跟标准的PSZ-9一样的简单可靠，但因为新材质的关系，它提供了对有害冲击很好的防护，这包含了枪枝的伤害。这个背心仍然需要一些加强，因为它没有呼吸防护系统的设计。</text>
+	</string>
+	<string id="dolg_outfit_name">
+		<text>PSZ-9d 纪律团装甲　</text>
+	</string>
+	<string id="exo_outfit_description">
+		<text>一套军用强化服的原型装置。因为花费昂贵和一些设计上的错误，使其未能量产，不过它曾在乌克兰外的工厂非法生产了一小批数量。这是第三代的强化服，这个设计排除了低机动性的缺陷，还有它的装甲也增强了。它拥有低限度的异变点防护功能。</text>
+	</string>
+	<string id="exo_outfit_name">
+		<text>外骨骼装甲　</text>
+	</string>
+	<string id="military_outfit_description">
+		<text>这件Skat-9M防弹军装是设计给特异区突击活动用的。它包含有PSZ-12p军用重防弹装、一体式的服装和Sphere-12M头盔。它提供了良好的防弹和防破片功能，但不会降低士兵的行动能力。它有一个平衡系统可以防护异变点的伤害。</text>
+	</string>
+	<string id="military_outfit_name">
+		<text>军用战斗装甲　</text>
+	</string>
+	<string id="mp_exo_outfit_description">
+		<text>这种强化服能有效防护子弹和破片的攻击，不过它会降低行动能力。其对穿甲弹的防护力也较低。</text>
+	</string>
+	<string id="mp_exo_outfit_name">
+		<text>PNB-4UZ 外骨骼装甲　</text>
+	</string>
+	<string id="mp_military_outfit_description">
+		<text>这种军用防弹装被设计用来执行强击任务，它提供了对子弹和破片的防护，但不会降低行动能力。对穿甲弹的防护力低。</text>
+	</string>
+	<string id="mp_military_outfit_name">
+		<text>军用防弹衣　</text>
+	</string>
+	<string id="mp_scientific_outfit_description">
+		<text>这套特别的工作服是设计用来执行变异区的研究工作，它有一个封闭式的呼吸系统，和一个抵御变异点的内建系统，感谢它可以中合的大多数的变异点。它的防护能力很低，所以容易受到伤害。有一个内建的容器可以用来装运异能石块。</text>
+	</string>
+	<string id="mp_scientific_outfit_name">
+		<text>科学家防护服　</text>
+	</string>
+	<string id="scientific_outfit_description">
+		<text>这种服装是由基辅防御研究中心所生产，是潜行者手工制服装的最佳选择。它包含有防弹背心、封闭式的呼吸循环系统、一体式的异变点防护装置。由于在使用了极佳的材质，它会是很棒的选择。它唯一的缺点就是价格。</text>
+	</string>
+	<string id="scientific_outfit_name">
+		<text>SEVA 防护装甲　</text>
+	</string>
+	<string id="specops_outfit_description">
+		<text>特别为特异区而修改的Berill-5M 特殊防护装。它包含了一件拥有铍涂装的PSZ-9a军用防弹背心和一顶Sphere-08头盔。它被设计用来在高辐射地区进行突击任务，对异变点的防护能力则比较低。</text>
+	</string>
+	<string id="specops_outfit_name">
+		<text>Berill-5M 战斗装甲　</text>
+	</string>
+	<string id="stalker_outfit_description">
+		<text>由"国民工匠"制造的潜行者服装。它包含了一件轻型军用防弹背心和上胶布料的外装。它内装了克维拉板片来增强防护，对枪炮有轻微的防御力。在特异区中进行深入打击跟一些任务时，拥有高效的执行效率。</text>
+	</string>
+	<string id="stalker_outfit_name">
+		<text>潜行者服装　</text>
+	</string>
+	<string id="svoboda_heavy_outfit_description">
+		<text>潜行者强化装，由自由团的枪匠所制。它是由中级军用防弹背心跟强化锆原件所组成，对步枪子弹和中长距离的碎片提供了很好的防护效果。这个服装的材质包含了两层：特别处理的皮革和石绵纱的纤维。这个服装提供了对辐射良好的防护，同时具有微弱的变异点防护能力。</text>
+	</string>
+	<string id="svoboda_heavy_outfit_name">
+		<text>守护者自由团护甲　</text>
+	</string>
+	<string id="svoboda_light_outfit_description">
+		<text>轻型潜行者服装，由自由团的枪匠所制。它是由轻型军用防弹背心跟克维拉护甲所组成的。它可以防护轻型武器，这件服装的布料有特殊的混合处理，增加了对变异点的防护能力。</text>
+	</string>
+	<string id="svoboda_light_outfit_name">
+		<text>风魂自由团护甲　</text>
+	</string>
+	<string id="csky_heavy_outfit_description">
+		<text>专为晴空突击队配备的防弹衣，能有效防护子弹的伤害。它有封闭式的呼吸循环系统，一体式的异变点防护装置，对变异点具有很好的防护能力。有一个内置的容器可以用来装运异能石块。</text>
+	</string>
+	<string id="csky_heavy_outfit_name">
+		<text>CHN-3a 防弹衣　</text>
+	</string>
+	<string id="csky_light_outfit_description">
+		<text>这种防弹衣被设计用于在有少量变异点地区执行搜寻任务，它使用了品质很高的材料，增强了抗磨损能力，衣服内置一个容器可以用来装运异能石块。</text>
+	</string>
+	<string id="csky_light_outfit_name">
+		<text>CHN-1 防弹衣　</text>
+	</string>
+	<string id="dolg_heavy_outfit_description">
+		<text>拥有加强防护效果的纪律团装甲，可以抵抗咬噬和刀割。</text>
+	</string>
+	<string id="dolg_heavy_outfit_name">
+		<text>PSZ-9d 猎人装甲　</text>
+	</string>
+	<string id="exo_freedom_outfit_description">
+		<text>常规的现代化外骨骼，使用了更轻质量的材料，大大减轻了外骨骼重量，并增强了其耐久性。</text>
+	</string>
+	<string id="exo_freedom_outfit_name">
+		<text>自由团强力外骨骼　</text>
+	</string>
+	<string id="novice_outfit_description">
+		<text>潜行者新手经常穿着的便衣，对子弹伤害没有良好的防护，也无法有效的防护变异点。但它容易穿着，衣服内置一个容器可以用来装运异能石块。</text>
+	</string>
+	<string id="novice_outfit_name">
+		<text>皮夹克　</text>
+	</string>
+</string_table>

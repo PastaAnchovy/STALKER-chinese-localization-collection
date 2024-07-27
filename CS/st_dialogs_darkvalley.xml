@@ -1,0 +1,579 @@
+﻿<?xml version="1.0" encoding="Unicode" ?>
+<string_table>
+	<string id="val_freedom_blockpost_robbery_dialog_0">
+		<text>站那儿别动，独行者…你是谁？来此何事？</text>
+	</string>
+	<string id="val_freedom_blockpost_robbery_dialog_11">
+		<text>他死了，如果你不想跟他一样的话，我建议你远离这里。</text>
+	</string>
+	<string id="val_freedom_blockpost_robbery_dialog_1111">
+		<text>有帮家伙一直在攻击我们，敌人很专业很强大，我们根本没有反击的机会。虽然我们现在设法控制了通往黑暗山谷的每一条道路，但敌人仍旧攻势不减。唯一可以进行休整的地方就是这座基地，此外如果你想问关于方的事，自由基地也是你最好的选择。</text>
+	</string>
+	<string id="val_freedom_comendant_hello_dialog_51">
+		<text>怎么了，佣兵？</text>
+	</string>
+	<string id="val_freedom_trader_hello_dialog_11">
+		<text>嗨，老兄！今天想要点什么？</text>
+	</string>
+	<string id="val_freedom_trader_hello_dialog_21">
+		<text>嗨，老兄！在找好买卖吗？</text>
+	</string>
+	<string id="val_freedom_leader_hello_dialog_11">
+		<text>很好很好，我们终于有机会面对面交谈了。我的名字叫契科夫，是这儿的老大。你发现的PDA对我们发现事情真相有不小的帮助。之前在山谷所有出口都被封锁的情况下，我们的前哨和巡查队还会被人袭击，甚至有时我们的巡查队刚出基地没一会儿就被人杀了。有兄弟认为是我们先前冒犯了特异区大神，于是我们受到了惩罚；甚至还有人去尝试做法事驱鬼…现在我们终于清楚了，根本没有什么神啊鬼的，是司令…这死耗子，泄露了我们所有行动安排！</text>
+	</string>
+	<string id="val_freedom_leader_hello_dialog_1111">
+		<text>我没料到他会这么做！我们可是老相识了！我们曾经一起猎获神器，一起把自由团建设成今天的模样！我信任他，把所有行动计划都告诉了他，而他却出卖了我！</text>
+	</string>
+	<string id="val_freedom_leader_hello_dialog_111111">
+		<text>司令应该知道自己大难临头了，就在前哨以我们内部频率通过话不久后，他逃之夭夭了。因为他知道的实在太多，我们必须找到他。我们已经封锁了山谷的出口，他不可能跑得太远，根据追踪PDA 信号的结果看来，他正在封锁线附近的路上。我们的几支小队正在赶赴那里。</text>
+	</string>
+	<string id="val_freedom_leader_hello_dialog_11111111 ">
+		<text>嗯，有那么个潜行者，对稀有零件之类的货色很感兴趣。他知道我们的技术小组是辐射区最棒的，所以我卖给了他所想要的那些零件，因为他连价都不还，何乐而不为呢？但我不知道他想用那些个零件干什么：那些零件是从前军队的密码机用的，此人离开基地后就再没人见过他。</text>
+	</string>
+	<string id="val_freedom_leader_hello_dialog_31">
+		<text>谢谢帮助！在农场交火后我们发现攻击自由团的是佣兵团，从司令的PDA 上获得的资讯同样印证了这一点。但问题是：他们为他妈要这样做？雇佣兵一直保持中立，并与辐射区内不同阵营都有合作关系，因此我想知道是谁雇佣他们的？可能是纪律团…或者是军方。我现在搞得确实很费劲，但我向你保证我早晚会查他个水落石出。</text>
+	</string>
+	<string id="val_freedom_leader_hello_dialog_3111">
+		<text>你完成了约定的事，那么我会告诉你有关方的事。他在这里寻找稀有零件，我非常好奇他用那些古代破烂做些什么。但当我问他时他却让我该干什么，干什么去。但我也不是白痴，我叫手下的一个技师黑了他的PDA ，这样我们在几天之内一直能监测到他。看上去他现在去了废弃区。让我顺便他的PDA频率记录传给你，这样他的位置就可以在你的PDA 上显示了。</text>
+	</string>
+	<string id="val_freedom_leader_hello_dialog_41">
+		<text>你准备再帮自由团一次吗？</text>
+	</string>
+	<string id="val_freedom_leader_hello_dialog_4111">
+		<text>我们现在知道了不少资讯。但佣兵团仍旧在攻击我们。我还是不知道他们是怎么在我们用前哨堵死所有路口的情况下进入山谷的。可能是在这附近有一条我们不知道的地道带他们进来的。我们需要找到地道的洞口，再把它炸烂！</text>
+	</string>
+	<string id="val_freedom_leader_hello_dialog_71">
+		<text>我们需要控制天线附近地区，佣兵。</text>
+	</string>
+	<string id="val_freedom_leader_hello_dialog_51">
+		<text>谢谢帮助！我真没料想到你会帮我们做这些，辐射区里的大部分人都只会关心他们自己。我们这次跟佣兵们打的这仗真是不错，他们曾经用来进山的地道这下没用了，但以防万一我们还是会让小弟们把这里彻底炸平，以保证连一只耗子都别想在我们不知情的情况下溜进山谷！虽然我们现在还不知他们的幕后老板是谁，但这也是迟早的事。这是给你的奖励！</text>
+	</string>
+	<string id="val_freedom_leader_hello_dialog_61">
+		<text>嗨，什么人带你来这儿的？ </text>
+	</string>
+	<string id="val_freedom_leader_hello_dialog_1111111111 ">
+		<text>好，我会帮你…前提是你得先帮帮我们。不瞒你说，如果事情不转变的话我们还得继续受苦，自由团目前没有足够人手来防御强盗的袭击…如果你帮我找到是谁在进攻我们，我就向你提供有关方的情报。</text>
+	</string>
+	<string id="val_freedom_leader_hello_dialog_121">
+		<text>找到司令，是死是活不重要。然后我会告诉你在哪能找到方。我已把司令的PDA坐标传给你了。</text>
+	</string>
+	<string id="val_freedom_leader_hello_dialog_411111 ">
+		<text>山中有座老旧的测量站。它的历史可以追溯到苏联时期了。测量站由3座天线组成，当3座天线都开启后，你能够监控到山谷的整个表面。如果这有用的话，我们就知道那些雇佣兵是怎么进来的了。</text>
+	</string>
+	<string id="val_freedom_leader_hello_dialog_41111111 ">
+		<text>有个天线就在基地这儿，但另两座被佣兵控制了。帮我们夺回那些天线！</text>
+	</string>
+	<string id="val_arena_master_about_rule_0">
+		<text>竞技场的规则是什么？</text>
+	</string>
+	<string id="val_arena_master_about_rule_1">
+		<text>规则？直说吧，你必须凭运气赢得每一局的胜利。我的意思是，在你只有一把破散弹枪和烂背心防身时，你必须妥善利用你的每一点点运气，比如找个同伴当肉盾。有时你的对手不止一个，可能是两个三个，如果你遇上了这种情况的话，你只有两种可能的结局：获胜或者变成尸体，仅此而已。如果你赢了每一局的话，你将会获得奖励；但如果失败的话，也是你自找的。就是这样，你想来玩玩吗？</text>
+	</string>
+	<string id="val_arena_master_comeback_0">
+		<text>准备好后回来。</text>
+	</string>
+	<string id="val_arena_master_darkvalley_0">
+		<text>你都去过哪些地方？除了黑暗山谷。</text>
+	</string>
+	<string id="val_arena_master_darkvalley_1">
+		<text>朋友，我跟你讲，我曾经到过辐射区的每一个角落。比如像他妈的…啊。在辐射区漫游基本上…应该说是从来都不轻松。事实上，辐射区的每个人都过得不轻松，除非向导亲自来帮你一把——你听说过他吗？没有？老兄，他可是第一个潜行者！有史以来的第一个！他是辐射区自由行走的第一人，这也是为什么大家叫他向导的原因。他对这个鬼地方可谓是了若指掌，即便辐射区发生了核喷射，他也能给你指条明路出来，绝无问题。这家伙真是个天才，就好像有第六感相助一般。但麻烦的是，想找到他可是一件困难事儿，而且他也不是逢人必帮，也只有Black Stalker知道他为什么区别待人。但有一件事可以确定，假使他同意帮你，你的旅程真可用一路顺风形容。不管怎么说，我打赌他知道雷达站的价值，他到那去肯定有他自己的理由，毋庸置疑。</text>
+	</string>
+	<string id="val_arena_master_good_fight_0">
+		<text>打得好，这是奖励。再来一场？</text>
+	</string>
+	<string id="val_arena_master_good_luck_0">
+		<text>祝好运，佣兵。</text>
+	</string>
+	<string id="val_arena_master_loozer_0">
+		<text>运气不好啊老兄，别担心，下一次你会表现好些。</text>
+	</string>
+	<string id="val_arena_master_money_back_0">
+		<text>存够钱再回来。</text>
+	</string>
+	<string id="val_barmen_about_barmen_0">
+		<text>你是怎么当上酒保的？</text>
+	</string>
+	<string id="val_barmen_about_barmen_1">
+		<text>你问了一个没水准的问题，兄弟。你应该问：酒保甘贾，烟鬼甘贾，那个叫甘贾的，在这里为来自不同地方的各色人开派对的家伙，他到底为什么留在了辐射区？但我不会回答这个问题，兄弟。那不是个好故事，尽管我确实是个好人。我在这里找到了自我。没办法啊，当我独处时我会觉得很孤寂，那可真是糟透了。但后来我被自自由团的家伙震住了，我喜欢这些家伙。我也找到了我的自由，在这里我活得比那些辐射区外的人更好。在这里我有充足的酒，充足的香烟，还有那些辐射区里的朋友们跟我分享他们的故事…该死，本地烟草太差了！</text>
+	</string>
+	<string id="val_barmen_about_zone_0">
+		<text>继续，再跟我说说辐射区的故事。</text>
+	</string>
+	<string id="val_barmen_about_zone_1">
+		<text>哥们，我会跟你分享所有的一切：面包、烟草、净水、伏特加、天空，当然也包括资讯。听仔细了，辐射区深处有几座秘密实验室，我听说他们仍然有人在使用。奇怪吧，哥们？人类怎么可能在核散射过后也没有食物和能源的情况下继续生存呢？我很想知道使用那些家伙还是不是真正的人类？老兄，你说它们会不会是冷血的异型？我有个兄弟曾对我说过他在杨塔收到过一些来自实验室的奇怪信号，那些信号非常的诡异骇人，吓得他赶紧关了自己的接收装置。还有另一位朋友说他曾经遇到过保护服里的半透明怪物，那保护服比潜行者们穿的要先进得多。那个透明度怪物对他说：“快走，我们在工作，你很碍事。”这件事大约发生在雷达站附近。不敢相信吧，哥们。但是，或许辐射区真的把一些人类变成了纯能量形式的存在，谁知道呢…</text>
+	</string>
+	<string id="val_comendant_about_freedom_0">
+		<text>我能加入自由团吗？</text>
+	</string>
+	<string id="val_comendant_about_freedom_1">
+		<text>我说过了：谁知道你是什么人？我怎么知道你不是谁派来的？我们现在不能相信任何人，所以你要加入可不轻松，我们要对你进行测试，从而确定你的脑袋瓜内没有什么龌龊想法。如果你通过了测试，在为我们做几件事，契科夫自会决定自由团留不留你。</text>
+	</string>
+	<string id="val_comendant_about_news_0">
+		<text>有什么新闻吗？</text>
+	</string>
+	<string id="val_comendant_about_news_1">
+		<text>下了一早上雨，这新闻如何？听着，我没时间跟你闲聊。一些混蛋在杀戮我的手下，我现在人手不足！所以，谈论新闻和嚼口香糖之类杂事我现在没时间奉陪。另外我怎么知道你不是跟废我小弟那帮家伙一伙的？如果你是来找人交心的那你还真是走错门了，老兄。</text>
+	</string>
+	<string id="val_fixer_about_benefit_0">
+		<text>有什么对我这种独行者有用的信息吗？</text>
+	</string>
+	<string id="val_fixer_about_benefit_1">
+		<text>有用？有用对我们的定义就是让自己活着喘气，或者让你的敌人上西天的东西。我跟你说说神器是什么吧，神器就是异常能量的聚合物，就像鸡精块那样。还有一些神器可以…厄…那话怎么说来的…啊，对…sh-eng-生-ch-eng-成-异变点！我想契科夫应该就这么说的吧。不过有一个问题，神器所生成的异变点近乎无用，它们没有什么威力，也不会存留太长时间，但唯一值得称道的是，当你想掩盖自己的踪迹，甩掉追你的尾巴时这东西还是蛮好用的。</text>
+	</string>
+	<string id="val_fixer_about_power_0">
+		<text>你是做什么工作的？</text>
+	</string>
+	<string id="val_fixer_about_power_1">
+		<text>哈，我是食堂的厨师！哈哈！我逗你玩呢老兄。我是个狙击大师，我不光自己射的准，还能帮别人射得更准。我可以帮你调调你的突击步枪，让它变得像SVD一样精准。或者你给我一把真狙击枪的话，耶，我保证你的敌人见了你就远远绕开了。如果需要的话，我也能帮你改装护甲。</text>
+	</string>
+	<string id="val_fixer_about_weapons_0">
+		<text>以你的经验，增强武器和护甲的最好方法是什么？</text>
+	</string>
+	<string id="val_fixer_about_weapons_1">
+		<text>以我经验的话，我会告诉你：别随便强化，先想想你要一把什么样的枪，认真想想。如果你想拥有一杆威力和准度都是最优，从未有过的枪，那你纯粹是痴心妄想。我建议你在给枪强化了一次火力后，第二次还是要强化火力，因为安装上的零件你就别想再把它拿下来，如果你想还原你那强化过火力的狙击枪，谁都无能为力。</text>
+	</string>
+	<string id="val_freedom_barmen_hello_dialog_11">
+		<text>发生什么事了？</text>
+	</string>
+	<string id="val_freedom_barmen_questions_dialog_0">
+		<text>有工作给我吗？</text>
+	</string>
+	<string id="val_freedom_barmen_questions_dialog_1">
+		<text>连着两晚上，我都看到那废弃的加油站冒出了一些光亮。我觉得有点像火把或者有人在吸烟。但那儿可是高放射性区域，我的兄弟们一直不敢靠近。不过你有防护服，跟我们不一样，为什么你不去检查一下呢？看看是什么人？或者是鬼魂之类的…</text>
+	</string>
+	<string id="val_freedom_barmen_questions_dialog_11">
+		<text>好，我去看看。</text>
+	</string>
+	<string id="val_freedom_barmen_questions_dialog_12">
+		<text>我对此不感兴趣。</text>
+	</string>
+	<string id="val_freedom_barmen_questions_dialog_2">
+		<text>嗨，加油站那儿有啥？</text>
+	</string>
+	<string id="val_freedom_barmen_questions_dialog_21">
+		<text>他们是强盗，可能是朝你来的。他们一开始并不友好，但我让他们“冷静”下来了。</text>
+	</string>
+	<string id="val_freedom_barmen_questions_dialog_212">
+		<text>真离奇。不管怎么说，这是你的奖赏，谢啦！</text>
+	</string>
+	<string id="val_freedom_barmen_questions_dialog_213">
+		<text>如果你再见到其他的鬼魂，记得说给我听。</text>
+	</string>
+	<string id="val_freedom_barmen_questions_dialog_214">
+		<text>他们带着这么个东西，你看一下。</text>
+	</string>
+	<string id="val_freedom_barmen_questions_dialog_215">
+		<text>有意思，把这个PDA拿给史楚金看看吧。我敢肯定他对那些盗贼们收集的资讯感兴趣。\n</text>
+	</string>
+	<string id="val_freedom_barmen_questions_dialog_22">
+		<text>它的辐射太强了，用不了多久就会把我突变成个小绿人！</text>
+	</string>
+	<string id="val_freedom_barmen_questions_dialog_3">
+		<text>不。</text>
+	</string>
+	<string id="val_freedom_blockpost_robbery_dialog_1">
+		<text>我的身份是个佣兵，正在寻找一名叫作方的潜行者。</text>
+	</string>
+	<string id="val_freedom_blockpost_robbery_dialog_111">
+		<text>死了？为什么？发生了什么事？</text>
+	</string>
+	<string id="val_freedom_blockpost_robbery_dialog_11111">
+		<text>谢谢你提供的信息。</text>
+	</string>
+	<string id="val_freedom_blockpost_robbery_dialog_21">
+		<text>滚出我的视线！</text>
+	</string>
+	<string id="val_freedom_comendant_hello_dialog_11">
+		<text>老兄，你选错闲逛的地点了。你不知道我们日夜都受到攻击吗？光是走在这儿就已经很危险了，可你还穿了件自由团夹克…</text>
+	</string>
+	<string id="val_freedom_comendant_hello_dialog_111">
+		<text>我在寻找一个叫方的潜行者，你听说过他吗？</text>
+	</string>
+	<string id="val_freedom_comendant_hello_dialog_1111">
+		<text>我跟他没打过交道。但前几天有一群流民经过这儿，有人跟我们的首领私下做了些交易，虽然我不敢肯定，但那人有可能就是你要找的家伙。</text>
+	</string>
+	<string id="val_freedom_comendant_hello_dialog_11111">
+		<text>我怎么才能见到自由团的首领呢？</text>
+	</string>
+	<string id="val_freedom_comendant_hello_dialog_111111">
+		<text>哈，老兄你性子真急！听好，你只是个佣兵，别做梦吃天鹅肉了。或者…如果你帮我点忙，我就给你引荐下，你意下如何？</text>
+	</string>
+	<string id="val_freedom_comendant_hello_dialog_1111111">
+		<text>好，你想叫我做些什么？</text>
+	</string>
+	<string id="val_freedom_comendant_hello_dialog_11111111">
+		<text>怪兽在基地附近筑了巢穴，这给我们的生活造成了严重不便。说不定过一会它们就会闻到酒吧内的食物香味而来，那我们只好跟世界说再见了。现在这些小弟们全都谈兽色变，如果你帮我们处理好这个问题，我们再进行下一步。</text>
+	</string>
+	<string id="val_freedom_comendant_hello_dialog_111111111">
+		<text>明白。</text>
+	</string>
+	<string id="val_freedom_comendant_hello_dialog_511">
+		<text>所有的异变怪物都死了</text>
+	</string>
+	<string id="val_freedom_comendant_hello_dialog_5111">
+		<text>很好，你的下一个任务要困难点儿。听好，我们要把这批军火送达远方前哨。去阿索特那儿谈谈吧，他会详细告诉你该把这批货运到何处。</text>
+	</string>
+	<string id="val_freedom_comendant_hello_dialog_51111">
+		<text>收到</text>
+	</string>
+	<string id="val_freedom_comendant_hello_dialog_512">
+		<text>现在还不行。</text>
+	</string>
+	<string id="val_freedom_comendant_hello_dialog_61">
+		<text>我不是跟你说了吗，去阿索特那儿！</text>
+	</string>
+	<string id="val_freedom_comendant_hello_dialog_611">
+		<text>再会</text>
+	</string>
+	<string id="val_freedom_comendant_hello_dialog_71">
+		<text>你怎么还没走？没听到我的话吗？快去前哨站！就是现在！每一秒都很宝贵！</text>
+	</string>
+	<string id="val_freedom_comendant_hello_dialog_711">
+		<text>再会。</text>
+	</string>
+	<string id="val_freedom_deadblockpost_hello_dialog_11">
+		<text>滚开，有问题去找司令。</text>
+	</string>
+	<string id="val_freedom_deadblockpost_hello_dialog_111">
+		<text>再会。</text>
+	</string>
+	<string id="val_freedom_deadblockpost_pda_hello_dialog_11">
+		<text>你在这干什么呢？我们随时有可能遭到攻击。快回基地跟司令说我们军火短缺，叫他多送一些来！</text>
+	</string>
+	<string id="val_freedom_deadblockpost_pda_hello_dialog_111">
+		<text>再见。</text>
+	</string>
+	<string id="val_freedom_fixer_hello_dialog_11">
+		<text>你好，佣兵。想挣点外快吗？</text>
+	</string>
+	<string id="val_freedom_fixer_hello_dialog_111">
+		<text>随时有空。</text>
+	</string>
+	<string id="val_freedom_fixer_hello_dialog_1111">
+		<text>是这么回事，我的一个好友答应给我带回些珍贵的资料，但他并没有抵达基地，而是失踪了。我现在确实需要那些资料，时间就是金钱，你需要在日出前交货。你愿意帮我这个忙吗？</text>
+	</string>
+	<string id="val_freedom_fixer_hello_dialog_11111">
+		<text>当然。</text>
+	</string>
+	<string id="val_freedom_fixer_hello_dialog_11112">
+		<text>不干。</text>
+	</string>
+	<string id="val_freedom_fixer_hello_dialog_1112">
+		<text>我这儿有活要干，但不是光明正大的活- 不要有目击者，明白？天黑后，大约11点左右过来见我。</text>
+	</string>
+	<string id="val_freedom_fixer_hello_dialog_11121">
+		<text>好的。</text>
+	</string>
+	<string id="val_freedom_fixer_hello_dialog_112">
+		<text>不，谢谢。</text>
+	</string>
+	<string id="val_freedom_fixer_hello_dialog_12">
+		<text>嗨，你想发笔小财吗？</text>
+	</string>
+	<string id="val_freedom_fixer_hello_dialog_21">
+		<text>能详细说说吗？</text>
+	</string>
+	<string id="val_freedom_fixer_hello_dialog_211">
+		<text>货带来了，但是忘了你兄弟吧——那些吸血怪拿他当早餐了。</text>
+	</string>
+	<string id="val_freedom_fixer_hello_dialog_2111">
+		<text>可怜的家伙。不管怎么说，这是你的报酬。</text>
+	</string>
+	<string id="val_freedom_fixer_hello_dialog_21111">
+		<text>如果你还有能挣钱的活，别忘了喊我。</text>
+	</string>
+	<string id="val_freedom_fixer_hello_dialog_212">
+		<text>停，我还没搞定它。</text>
+	</string>
+	<string id="val_freedom_fixer_hello_dialog_2121">
+		<text>我会等到明早，但你要麻利点。</text>
+	</string>
+	<string id="val_freedom_fixer_hello_dialog_21211">
+		<text>好的。</text>
+	</string>
+	<string id="val_freedom_fixer_hello_dialog_31">
+		<text>嗨。</text>
+	</string>
+	<string id="val_freedom_fixer_hello_dialog_311">
+		<text>再见。</text>
+	</string>
+	<string id="val_freedom_fixer_hello_dialog_41">
+		<text>我说过了，天黑时再来！</text>
+	</string>
+	<string id="val_freedom_fixer_hello_dialog_51">
+		<text>你太慢了，我们的客户不会付钱了。</text>
+	</string>
+	<string id="val_freedom_fixer_hello_dialog_511">
+		<text>该死！</text>
+	</string>
+	<string id="val_freedom_leader_about_clan_0">
+		<text>你们这帮家伙是干什么的？</text>
+	</string>
+	<string id="val_freedom_leader_about_clan_1">
+		<text>我们帮派居住在辐射区并对它进行务实的研究。我深信辐射区对全人类来讲拥有巨大的研究价值，它这几年生产的神器与日俱增，这是非常好的研究物件。就拿它所产生的异变点来说，在实验室内根本别想得到。我可以预见再过几年时间，现在辐射区中的研究成果将引领人类文明迈出一大步！所有人…包括那些只会打手机，对高科技一向不通的人，都会从进步中获利。</text>
+	</string>
+	<string id="val_freedom_leader_about_dolg_0">
+		<text>为什么你这么讨厌纪律团？</text>
+	</string>
+	<string id="val_freedom_leader_about_dolg_1">
+		<text>讨厌？你说的太轻了。我们没有任何共同语言，以我观点来看，他们和辐射区对着干的做法只会让辐射存留的更久。证据是显而易见的，每次纪律团向辐射区发动过“圣战”的地方，异变怪物和异变点的数量都是不减反增。研究辐射区并尝试于其和谐共处才是正确的，而纪律团的所为只会让问题恶化。他们做得越努力，得到的报应也就越大。如果他们仍不悔改，大灾难将会降临到我们每个人的头上。简单来说，纪律团那帮家伙就是一群脑残，没常识，没见识，除了玩火自焚外什么都不会。我们来此之后跟他发生过很多次冲突了，这里只能有一个派系，另一个被消灭是早晚的事。</text>
+	</string>
+	<string id="val_freedom_leader_about_zone_0">
+		<text>你知道些辐射区的趣闻吗？</text>
+	</string>
+	<string id="val_freedom_leader_about_zone_1">
+		<text>我知道的事情可不是一两句话说得完的。举例说吧，我们的研究人员正对一处所谓潜行者可以直接与辐射区沟通之处进行了研究，他们身上没带任何电子设备与金属武器。因为有传言说携带这些东西将会激怒辐射区，如果你带了这些东西，你的下场就是退路被异变点封住而后被怪物攻击致死。只有少数依靠本能求生的人才能生存下来，而这些幸存者拥有了奇异的能力：比如凭藉直觉穿越致命的特异区，从茂密的丛林中脱出，甚至不会被怪兽攻击。传言说这些人中有一位现在住在农业研究所。</text>
+	</string>
+	<string id="val_freedom_leader_hello_dialog_111">
+		<text>事态恶化了。</text>
+	</string>
+	<string id="val_freedom_leader_hello_dialog_11111">
+		<text>司令现在在哪？</text>
+	</string>
+	<string id="val_freedom_leader_hello_dialog_1111111">
+		<text>我听说那个叫方的潜行者在这附近是吗？</text>
+	</string>
+	<string id="val_freedom_leader_hello_dialog_11111111">
+		<text>嗯，有这么个人，对稀有零件之类的货色很感兴趣。他知道我们的技术小组是辐射区最棒的，所以我卖给了他所想要的那些零件，因为他连价都不讨，何乐而不为呢？但我不知道他想用那些零件干什么：那些零件是从前军队的密码机用的，那人离开基地后再没人见过他。</text>
+	</string>
+	<string id="val_freedom_leader_hello_dialog_111111111">
+		<text>你知道方后来去哪了吗？</text>
+	</string>
+	<string id="val_freedom_leader_hello_dialog_1111111111">
+		<text>我可以帮你…前提是你得先帮帮我们。不瞒你说，如果事情不转变的话我们还得继续受苦，自由团目前没有足够人手来防御强盗的袭击…如果你帮我找到是谁在进攻我们，我就向你提供有关方的情报。</text>
+	</string>
+	<string id="val_freedom_leader_hello_dialog_12">
+		<text>成交，我该做什么？</text>
+	</string>
+	<string id="val_freedom_leader_hello_dialog_1211">
+		<text>同意。</text>
+	</string>
+	<string id="val_freedom_leader_hello_dialog_21">
+		<text>听好，佣兵，只有在你把是谁从何处攻击我们的情报交给我后，我才会跟你说关于方的事。</text>
+	</string>
+	<string id="val_freedom_leader_hello_dialog_311">
+		<text>好吧，说说方的事吧？</text>
+	</string>
+	<string id="val_freedom_leader_hello_dialog_31111">
+		<text>谢谢你提供的信息。</text>
+	</string>
+	<string id="val_freedom_leader_hello_dialog_411">
+		<text>我准备好了。</text>
+	</string>
+	<string id="val_freedom_leader_hello_dialog_41111">
+		<text>你打算怎么找那群佣兵进来的入口？这个山谷太大了！简直太不现实了。</text>
+	</string>
+	<string id="val_freedom_leader_hello_dialog_411111">
+		<text>山中有座老旧的测量站。它的历史可以追溯到苏联时期了。测量站由3座天线组成，当3座天线都开启后，你能够监控到山谷的整个表面。如果这有用的话，我们就知道那些雇佣兵是怎么进来的了。\n</text>
+	</string>
+	<string id="val_freedom_leader_hello_dialog_4111111">
+		<text>我需要做什么？</text>
+	</string>
+	<string id="val_freedom_leader_hello_dialog_41111111">
+		<text>有一座天线现在就在基地里面，但是还有两个被雇佣兵控制了。帮助我们把它们夺回来。</text>
+	</string>
+	<string id="val_freedom_leader_hello_dialog_411111111">
+		<text>我同意。</text>
+	</string>
+	<string id="val_freedom_leader_hello_dialog_412">
+		<text>下次吧。</text>
+	</string>
+	<string id="val_freedom_leader_hello_dialog_4121">
+		<text>那么祝你好运了，独行者。</text>
+	</string>
+	<string id="val_freedom_leader_hello_dialog_511">
+		<text>再见。</text>
+	</string>
+	<string id="val_freedom_leader_hello_dialog_711">
+		<text>好的。</text>
+	</string>
+	<string id="val_freedom_leader_join_first_0">
+		<text>我想加入你们。</text>
+	</string>
+	<string id="val_freedom_leader_join_first_1">
+		<text>话说，你要想加入的话我们先得坐下来谈谈，从而对你有个了解…可我现在没这个时间，在料理好那些攻击我手下人的家伙前，现在我手头是一团糟。你要想让我跟你说话你必须先帮我的忙。</text>
+	</string>
+	<string id="val_freedom_leader_join_main_0">
+		<text>我想加入Freedom，我之前所做的够多了吗？</text>
+	</string>
+	<string id="val_freedom_leader_join_main_1">
+		<text>可能够了，也可能不够…在料理好那些攻击我手下人的家伙前我不会让你加入的，你要想让我跟你说话你必须先帮我的忙。</text>
+	</string>
+	<string id="val_freedom_leader_join_main_2">
+		<text>不错，要是没有你的话谁知道我们还得死多少弟兄？但你仍然不能加入我们，别问为什么，就当是算命的叫我这么做的好了。但这并不是说我们永远不准备收你，时机到了我自会联系你，只希望你到时候不会改主意就好。</text>
+	</string>
+	<string id="val_freedom_leader_join_main_3">
+		<text>看起来你是个自由的独行者。很好，我的手下以前都是独行者，我们的立场很相似…但是我们也有不同之处。你要知道你一旦加入了自由团你之前身为独行者所达成的全部成就都会烟消云散。你希望如此吗？</text>
+	</string>
+	<string id="val_freedom_leader_join_main_4">
+		<text>如果我没说错的话，你是尤加的逍遥团一员，没错吧？真有意思…强盗想加入自由团可不是什么常事。但不管怎样，如果这是你的真实愿望，你也做好准备去尊重他人的自由并把辐射区的礼物送给全人类的话…我们是很乐意接受你的。当然，如果你答应了，你也就跟尤加再无瓜葛了。你同意吗？</text>
+	</string>
+	<string id="val_freedom_leader_join_main_5">
+		<text>真是个傻问题，老兄。我们的队伍缺的就是你这样的男子汉，只要你签个名，全无问题。</text>
+	</string>
+	<string id="val_freedom_leader_join_main_51">
+		<text>我签好了。现在我终于可以呼吸自由团的清新空气了！</text>
+	</string>
+	<string id="val_freedom_leader_join_main_511">
+		<text>享受吧，兄弟。但是你要记住你的自由要在我们教义的许可范围内。你对我们的教义熟悉吗？</text>
+	</string>
+	<string id="val_freedom_leader_join_main_5111">
+		<text>可能有不太清楚的地方，你最好完整和我说下。</text>
+	</string>
+	<string id="val_freedom_leader_join_main_51111">
+		<text>我们尊重我们的战士和其他潜行者的自由，并相信辐射区是送给全人类的最好礼物。它会让人类的科技进一大步，和每一个人都息息相关！纪律团想清除辐射区并掩盖其秘密，我们绝不允许，和纪律团作战是我们当前的首要任务。</text>
+	</string>
+	<string id="val_freedom_leader_join_main_511111">
+		<text>明白。</text>
+	</string>
+	<string id="val_freedom_leader_join_main_5112">
+		<text>是，当然！</text>
+	</string>
+	<string id="val_freedom_leader_join_main_51121">
+		<text>好吧，现在你是我们的一员了！自由团基地就是你的家。我会把解码资讯传到你的PDA 上，它能使你收到其他自由团成员和战士的无线电资讯。你也能够接收到我们和纪律团之间的战情。</text>
+	</string>
+	<string id="val_freedom_leader_join_main_511211">
+		<text>纪律团的灭亡指日可待…我现在就去把自由带给所有人。</text>
+	</string>
+	<string id="val_freedom_leader_join_main_52">
+		<text>我要考虑考虑。</text>
+	</string>
+	<string id="val_freedom_leader_questions_dialog_0">
+		<text>酒吧的酒保建议我给你看这个PDA。</text>
+	</string>
+	<string id="val_freedom_leader_questions_dialog_1">
+		<text>噢，是的。我一直怀疑那群强盗在找寻我们的基地。你做的很好，拿去，这是你的奖励。</text>
+	</string>
+	<string id="val_freedom_leader_questions_dialog_11">
+		<text>再会。</text>
+	</string>
+	<string id="val_freedom_trader_hello_dialog_111">
+		<text>司令派我来拿军火的。</text>
+	</string>
+	<string id="val_freedom_trader_hello_dialog_1111">
+		<text>噢，这么说他终于找到个英雄…</text>
+	</string>
+	<string id="val_freedom_trader_hello_dialog_11111">
+		<text>为什么要说是“英雄”？</text>
+	</string>
+	<string id="val_freedom_trader_hello_dialog_111111">
+		<text>那是因为人们连往外边看一眼的勇气都没有。两天内我们的岗哨受到了3 次攻击，死了15 个，没人知道谁干的。不管是谁，他们总是走在我们前面，他们总是知道我们下一个巡逻小队在哪儿，并迅速将其置于死地。我只能觉得我们之间有人泄露了情报给他们…好了，这是你要给兄弟们带的军火，我把他们的座标上传到你的PDA 上了，祝你好运。</text>
+	</string>
+	<string id="val_freedom_trader_hello_dialog_1111111">
+		<text>再见。</text>
+	</string>
+	<string id="val_freedom_trader_hello_dialog_12">
+		<text>没事。</text>
+	</string>
+	<string id="val_freedom_trader_hello_dialog_31">
+		<text>喂，快点赶到前哨站去。我们的人没有弹药坚持不了多久的！</text>
+	</string>
+	<string id="val_freedom_trader_hello_dialog_311">
+		<text>再见。</text>
+	</string>
+	<string id="val_freedom_trader_questions_dialog_0">
+		<text>有什么工作给我么？</text>
+	</string>
+	<string id="val_freedom_trader_questions_dialog_1">
+		<text>基地一直遭受异变怪物的攻击。它们的巢穴就在这儿不远处，毁掉它，希望这能让它们稍微安分点。</text>
+	</string>
+	<string id="val_freedom_trader_questions_dialog_11">
+		<text>好的。</text>
+	</string>
+	<string id="val_freedom_trader_questions_dialog_12">
+		<text>嗯，这不是我喜欢的工作。</text>
+	</string>
+	<string id="val_freedom_trader_questions_dialog_2">
+		<text>你处理了那群异变怪物吗？</text>
+	</string>
+	<string id="val_freedom_trader_questions_dialog_21">
+		<text>我杀光了他们。</text>
+	</string>
+	<string id="val_freedom_trader_questions_dialog_211">
+		<text>这是你的奖励。</text>
+	</string>
+	<string id="val_freedom_trader_questions_dialog_22">
+		<text>没。</text>
+	</string>
+	<string id="val_freedom_trader_questions_dialog_221">
+		<text>那可不好。把那些家伙干掉以后，你再来见我。</text>
+	</string>
+	<string id="val_freedom_trader_questions_dialog_3">
+		<text>不。</text>
+	</string>
+	<string id="val_freeedom_leader_about_clan_1">
+		<text>噢，兄弟！你看，自由团完全自由，没有任何责任。每个人都可以干他自己的事情，你想收集神器？来吧，想感受经商？那也不错。想干什么就干什么，你甚至可以开一家象棋俱乐部！我们的基本规则就是：没有规则…只要你不侵犯其他自由团成员的权利即可。我们并不仅仅只是一个阵营，兄弟。我们是自由的潜行者公社！我们有战士，但是同时我们还有艺术家。另外每个人都知道，我们的工程师是辐射区里最好的！</text>
+	</string>
+	<string id="val_freeedom_leader_about_clan_111">
+		<text>这就是生活，兄弟…我们之中那些崇尚自由，不想被制服的束缚统治的人必须团结一致才能生存。外面的势力无法插足到辐射区来，这给了我们足够的空间来干我们一直以来想做的事情！你会发现这儿的人们都是在外面那个世界找不到自己的位置的。</text>
+	</string>
+	<string id="val_freeedom_leader_about_zone_1">
+		<text>兄弟，辐射区是上天给我们的礼物！以前有人说，人类生来是为了承受苦难。但现在一切都变了！比如说这些能让伤口复原的神器，简直就是医学的大革命！挑战万有引力学说的异变点更是一个奇迹！从前，人们为了一个小实验会花几年时间造个大实验室；而现在，辐射区就像一个当时做梦也想不到天然大实验室！</text>
+	</string>
+	<string id="val_freeedom_leader_about_zone_111">
+		<text>当然。它是有些危险。但就像火一样，它同样可被我们利用，不是吗？我相信，如果我们妥善利用辐射区，它会送给我们的财富，我们就可以把人类的历史引导向正确的道路！这就是为什么我们一直为辐射区的对外开放而奋斗。它是公有财产，而不是只为一小群人服务的。</text>
+	</string>
+	<string id="val_pressman_nickname_0">
+		<text>你的绰号“新闻记者”怎么来的？</text>
+	</string>
+	<string id="val_pressman_nickname_1">
+		<text>来自我以前的一些经历而已，我曾是个记者，优秀的记者。我来到辐射区为了一项编辑任务：写一篇有关驻扎在这儿的军队艰难生活的文章。军队整个晚上喝酒来欢迎我，紧接着是，嗯，我们称之为一晚上的游猎。我不记得那次游猎了，或者和说我只记得一丁点，我到处拍了点照，在某个地方我突然昏倒了，当我醒来的时候已经是早上了。我独自一人躺在地上，车轮印刚好在我旁边为止…就像，一辆独自行驶状态良好的车，突然 "砰" 的一声变没了。我的包和记录也都不见了…但是我觉得辐射区对我还不错，它让我又找到了其他人，不过这次是另外一群人，他们把我锁在了地下室，认为我是非法进入辐射区，并且可能已经遭到了污染，所以在事情调查清楚前必须呆在那儿，或者给点票子他们才会放了我。在阿索特到来并解放我之前，我在那儿浪费了不少日子，现在我在自由团，我很感谢阿索特帮了我。我们回来以后，共同回忆着我们所看到的，我向上帝祈祷在我有生之年能够看到事情的改变。</text>
+	</string>
+	<string id="val_pressman_story_0">
+		<text>有什么有趣的事情吗？</text>
+	</string>
+	<string id="val_pressman_story_1">
+		<text>我不知道你听说过没，有新的突变体在辐射区出没过。原因是一种新异变点出现在一些地方。那地方的所有生物都被异化了，有些甚至被扭曲了。有趣的是目前为止这些异形家伙还没有攻击性，也许和它们的本质有关，就像一个人被吸入异变点中发生了变异，但他仍残存有一些意识。但想像一下你独自一人旅行的时候，突然某些极端恶劣的生物从灌木后跳出来挡在你面前，你怎么会想到这个曾经是人类的家伙只是需要你的帮助？这就是这些新变异人活不长的原因，当他们碰到第一个潜行者时候往往就是死期。</text>
+	</string>
+	<string id="val_questman_about_zone_0">
+		<text>有什么关于辐射区的趣闻吗？</text>
+	</string>
+	<string id="val_questman_about_zone_1">
+		<text>人们谈论着很多事情。有人甚至说辐射区里的所有事情以及辐射区本身都是外星人干的。这个理论依据之一就是黑石组织，辐射区中心的某个能改变它周围一切事物的地方。外星人在此进行关于人类的全球性实验，对于他们来说就像是武器测试设施一样，潜行者们收集神器并且卖掉，黑石组织就是靠这样的方式扩大试验样本数量的，没有人知道会有什么结果。也许那些神器只是些小装饰，又或者的确以某种方式影响着人类。也许这理论根本就是胡扯，但是谁又能说辐射区不是出于某种原因而传播这些神器的？除非我们能够和那些控制那该死的雷达站的家伙们联系才能找到一些答案。他们可以告诉我们中心是否有黑石组织的存在，那样才可以把事情解释清楚点。</text>
+	</string>
+	<string id="val_questman_dissatisfied_0">
+		<text>什么使你这么不开心？</text>
+	</string>
+	<string id="val_questman_dissatisfied_1">
+		<text>什么使我这么不开心么？我倒是想看看你在一个毫无防备的地下室当活靶子还能开心起来。你知道我们还要在这儿干多久么？新的防御工事，更多的建筑…但是高层的那些猪狗根本等不及。我甚至不知道那群家伙在想些什么。他妈的，我甚至不知道这儿别的人是怎么想的！不管怎么样，我们在这种天杀的地方，这么偏远的位置。嘿，我本来应该尽快修理好这个废物，但是他们让我干不下去。</text>
+	</string>
+	<string id="val_trader_about_freedom_0">
+		<text>自由团内的生活是什么样的？</text>
+	</string>
+	<string id="val_trader_about_freedom_1">
+		<text>生活是美好的，很美好。没有比这更好的家了。你知道，我没有兄弟，但这儿的人大多数仿佛都是我的兄弟，剩下就是我值得信赖的朋友，我们互相帮助。如你所知的，我是个商人。所以我能够知道很多关于辐射区的各种资料，远比其他的退役军人知道的多。而这些资料救了我们很多兄弟不止一次。</text>
+	</string>
+	<string id="val_trader_about_said_0">
+		<text>最近你听过什么有趣的传闻没？</text>
+	</string>
+	<string id="val_trader_about_said_1">
+		<text>传闻？好吧，这是个有点乏味的故事，和梦有关。你曾经尝试过在辐射区熟睡过么？我猜想你根本就没尝试过，因为你梦中的恐惧超越你的想像。我听过无数个类似的故事：某个家伙在睡觉的时候心脏破裂，突然死亡了。又或者醒来的时候变成了白痴，只知道躲避那根本不存在的追杀他的黑暗潜行者，这就是我想说的传闻。如果你真的想睡觉的话你需要一个内部包含金属薄网的特制头盔。传闻所有潜行者戴上这种头盔后，可以像婴儿一样熟睡。</text>
+	</string>
+	<string id="val_trader_where_manufactured_0">
+		<text>你从哪儿搞到这些货物的？</text>
+	</string>
+	<string id="val_trader_where_manufactured_1">
+		<text>我自然有我的管道，但是我不会和任何人分享，因为不想让别人像我一样惹麻烦上身。我的善良让我自己送命，我对人友善，对我的顾客有礼貌，我店里的货比超市还全，价格也非常低，简直就像反季节大减价，所以我是这最受欢迎的商人——但不是受所有人的欢迎。，我作为竞争者被黑市的阿修波斯兄弟加进了他们的黑名单。你知道我的脑袋值多少么？钱多的你可以整整一年每天晚上泡不同的女人。一大群喜欢刀口上舔血的家伙早对阿修波斯兄弟的悬赏垂涎三尺。不过有我身边的这些小弟保护我的安全，我也并不害怕。</text>
+	</string>
+	<string id="val_freedom_barmen_hello_dialog_0">
+		<text>怎么了，兄弟！</text>
+	</string>
+	<string id="val_freedom_barmen_name">
+		<text>甘贾</text>
+	</string>
+	<string id="val_freedom_barmen_questions_dialog_complete_0">
+		<text>我去过加油站了，在那儿有个强盗据点，看来他们一直在监视你们。</text>
+	</string>
+	<string id="val_freedom_barmen_questions_dialog_complete_1">
+		<text>我本以为我们已经够惨的了，这还不够，连强盗也盯上我们了。尽管这样，你辛苦工作的报酬仍然要给你。</text>
+	</string>
+	<string id="val_freedom_barmen_questions_dialog_complete_11">
+		<text>你还有其他事情需要去做的话，请告诉我。</text>
+	</string>
+	<string id="val_freedom_barmen_questions_dialog_complete_12">
+		<text>他们身上都挂着这种小装饰，也许这对你有帮助。</text>
+	</string>
+	<string id="val_freedom_barmen_questions_dialog_complete_121">
+		<text>很好，这群强盗收集的资讯都在这个PDA 上。给契科夫看看，我相信他会感兴趣的。</text>
+	</string>
+</string_table>

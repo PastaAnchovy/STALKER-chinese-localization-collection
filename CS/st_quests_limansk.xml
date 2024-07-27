@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="Unicode" ?>
+<string_table>
+	<string id="lim_destroy_ambush_2_name">
+		<text>在岔路消灭敌人</text>
+	</string>
+	<string id="lim_destroy_ambush_2_text">
+		<text>在岔路消灭敌人的埋伏</text>
+	</string>
+	<string id="lim_destroy_bandit_minigun_name">
+		<text>摧毁机枪坑</text>
+	</string>
+	<string id="lim_destroy_bandit_minigun_text">
+		<text>岔路有一场真正的交火继续中。建筑物左方被强盗控制。这座建筑物是一个通畅前进道路的好位置。摧毁建筑物中的机枪坑。</text>
+	</string>
+	<string id="lim_destroy_military_minigun_name">
+		<text>压制机枪坑</text>
+	</string>
+	<string id="lim_destroy_military_minigun_text">
+		<text>敌人已在桥的另一边建立防御阵地。阵地火力完全覆盖了桥，晴空小队甚至无法通过桥。你必须通过建筑物并压制敌人火力。与此同时晴空小队会分散敌人注意力</text>
+	</string>
+	<string id="lim_electro_fence_name">
+		<text>破坏发电机</text>
+	</string>
+	<string id="lim_electro_fence_text">
+		<text>发电单位方位寻获。破坏发电机并切断电网能源</text>
+	</string>
+	<string id="lim_find_way_through_construction_name">
+		<text>找到通过建筑场所的道路</text>
+	</string>
+	<string id="lim_find_way_through_construction_text">
+		<text>非常接近利曼斯克郊区。这条路会穿过一处未完成的建筑群。找到穿过建筑场所的路</text>
+	</string>
+	<string id="lim_go_into_limansk_name">
+		<text>侦察利曼斯克的道路</text>
+	</string>
+	<string id="lim_go_into_limansk_text">
+		<text>列别捷夫下令侦察利曼斯克的道路以求主要晴空小队安然通过。一场战争已在街道上爆发 - 小心前进</text>
+	</string>
+	<string id="lim_go_to_canal_name">
+		<text>向桥移动并通过运河</text>
+	</string>
+	<string id="lim_go_to_canal_text">
+		<text>敌人火力太强。撤离并从桥上通过运河</text>
+	</string>
+	<string id="lim_destroy_ambush_1_name">
+		<text>消灭埋伏</text>
+	</string>
+	<string id="lim_destroy_ambush_1_text">
+		<text>消灭埋伏</text>
+	</string>
+	<string id="lim_electro_fence_actor_come_back_name">
+		<text>回覆小队指挥官</text>
+	</string>
+	<string id="lim_electro_fence_actor_come_back_text">
+		<text>回覆小队的指挥官</text>
+	</string>
+	<string id="lim_electro_fence_cs_soldier_cover_name">
+		<text>协助战士悄悄接近狙击手</text>
+	</string>
+	<string id="lim_electro_fence_cs_soldier_cover_text">
+		<text>协助晴空战士悄悄接近狙击手。</text>
+	</string>
+	<string id="lim_electro_fence_find_transformator_name">
+		<text>找到发电机</text>
+	</string>
+	<string id="lim_electro_fence_find_transformator_text">
+		<text>前进的通道被电网阻挡。这座城市已经很久没有电了，这意味着电网的能源另有来源。电网的电线延伸往右方的学院建筑。找到供给电网的发电机。</text>
+	</string>
+	<string id="lim_electro_fence_sniper_name">
+		<text>消灭狙击手</text>
+	</string>
+	<string id="lim_electro_fence_sniper_text">
+		<text>电网的能源被切断了。现在能接近并消灭狙击手。干掉他</text>
+	</string>
+	<string id="lim_find_bridge_squad_comander_name">
+		<text>找到小队指挥官</text>
+	</string>
+	<string id="lim_find_bridge_squad_comander_text">
+		<text>找到小队的指挥官</text>
+	</string>
+</string_table>

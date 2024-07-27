@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="Unicode" ?>
+<string_table>
+	<string id="yan_scientist_hello_dialog_11">
+		<text>很好，很好，难得看到一个新面孔，好吧，你想了解点什么？ </text>
+	</string>
+	<string id="yan_scientist_hello_dialog_12">
+		<text>一切顺利吗？</text>
+	</string>
+	<string id="yan_scientist_hello_dialog_13">
+		<text>很高兴我们能互相协助，有什么可以帮忙的？</text>
+	</string>
+	<string id="yan_scientist_hello_dialog_14">
+		<text>请去找列夫提。他正等着你呢。</text>
+	</string>
+	<string id="yan_scientist_go_diggers_1">
+		<text>那个小队在设施的西面失踪了，可那里堆满了丧尸，而我不能再派出别的守卫这里的独行者了，仅仅是守住这里就已经很困难了。求救信号还没有消失，如果他们还活着的话，请帮忙救出那些独行者吧。</text>
+	</string>
+	<string id="yan_scientist_bring_documents_1">
+		<text>那些年青人的牺牲令我心痛。我真切希望他们的牺牲没有白费。让我们来看看这些文件…非常有趣！我的怀疑是正确的…啊，这比我想象中的还要有趣… 太棒了！虽然我们仍需要时间去完全理解它，不过我们的许多问题已经能得出答案了。</text>
+	</string>
+	<string id="yan_scientist_bring_documents_111">
+		<text>从这种情况上看来，唯一的可能就是我们在跟人造的东西打交道。这份文件是那个设施的冷却部分的操作手册，位于那个设施的地下部分。另外它的耗电量巨大无比！嗯，事情越来越明了了。看起来这些失控的力场波动由于那失效的冷却模块。如果我们能修好它的话，就可以有效的降低能量的波幅。我得花上一些时间来监察这个故障，穿过设施去找列夫提和他的独行者们吧。在你去那的路上我应该能找到更多的线索。</text>
+	</string>
+	<string id="yan_scientist_about_zombie_1">
+		<text>自从实验室建成的那天他们就在不断的制造麻烦。虽然围墙很厚实，不过外面传出来的嚎叫与嘈杂声却着实让人难受。你应该能想象，在这种环境下进行研究是多么可怕的一件事。最糟糕的是，有些时候我们还得离开那里到外面去采集样本。</text>
+	</string>
+	<string id="yan_scientist_about_zombie_111">
+		<text>我们也为此疑惑了很久。不管军方投入多大军力去扫荡那里，丧尸们总是很快便又重新杀了回来。当我们在丧尸群里发现了我曾经的助手时，他在一次针对丧尸的行动中失踪，一切都明了了。是那个心灵力场，每一个受到那个力场影响的人都会丧失理智，并变成了丧尸。这会对人的大脑造成不可更转的致命影响。结果就是，这些生物不再具有任何人类的特性，他们的行为仅仅只是动物性本能的体现而已。</text>
+	</string>
+	<string id="yan_scientist_about_strelok_1">
+		<text>是的，他拜访了我们。他知道的很多，比任何人都多，他甚至声称他曾经去过Zone的中心！事实上我并不是太相信他，尽管他给我看了一些照片。</text>
+	</string>
+	<string id="yan_scientist_about_strelok_111">
+		<text>我们跟他做了个交易。他承诺为我们的最新试验品进行实地测试：电磁波屏蔽装置，我们也向他承诺：假如他活着回来的话，会给他一个完整的版本。史特列洛克坚信这个屏蔽装置能帮助他越过致命的焦脑器。我们给他带上了原型体，然后他便进入了工厂。那是我们最后一次看到史特列洛克和那个原型体。我们通过卫星收到了一部分资料，但是信号源已经遗失了。很显然史特列洛克在那个工厂内被害了。</text>
+	</string>
+	<string id="yan_scientist_about_strelok_11111">
+		<text>假如史特列洛克还在工厂里的话，想不依靠屏蔽装置离开那里几乎是不可能的。我们已经花费数年时间研究了那种放射波。这是一种自然形成的辐射波，当波段处于低值时，进入工厂的人是安全的。但我们无法预测下一次达到顶值会是什么时候。所以进入工厂就好像是在玩俄罗斯轮盘赌。假如你执意要紧随史特列洛克进去，那最有可能的结局就是你也会加入丧尸大军。不过，我可以帮你做点有益的事，前一阵子，一小队从工厂里活着回来的独行者联络了我。他们在那儿找到了一份文件，这份标明工厂里贮藏物品的文件将能帮助我们找出射线的来源。帮我找到那份文件，我将帮助你进入工厂。</text>
+	</string>
+	<string id="yan_scientist_about_stalkers_1">
+		<text>他们是冲着废弃工厂而来的！工厂就像个磁铁一般，吸引着独行者们，因为还没有人能成功进入那里。传说那里面有不少值钱的东西。于是独行者们争先恐后的想要进去。唯一的小麻烦有点像是俄罗斯轮盘赌，那附近的力场极其不稳定。当其到达顶值时，巨大的能量能在短时间内将人的大脑烧掉。</text>
+	</string>
+	<string id="yan_levsha_hello_dialog_11">
+		<text>佣兵，我收到了来自萨哈罗夫的情报。孩子，真是一团糟。看见那个墙上的裂缝了么？那就是我们要走的路，到达那机器的最快的办法。你跟好我，别走在我的前面。我和我的小伙子们是个完整的团队，而你只需要跟好我们就可以了，明白了吗？</text>
+	</string>
+	<string id="yan_levsha_hello_dialog_111">
+		<text>完毕。</text>
+	</string>
+	<string id="yan_scientist_about_stalkers_0">
+		<text>独行者们在这里做什么</text>
+	</string>
+	<string id="yan_scientist_about_stalkers_11">
+		<text>列夫提如何？</text>
+	</string>
+	<string id="yan_scientist_about_stalkers_111">
+		<text>列夫提比其他人更机警。他的队伍现在为我们干活，帮助我们解决问题与收集样本。作为交换，我们向他们提供高质量的医疗服务。我敢肯定如果我们之间没有这种相互帮助性质的来往的话，我们双方恐怕都早已完蛋了。</text>
+	</string>
+	<string id="yan_scientist_about_strelok_0">
+		<text>我怎么知道史特列洛克是否来过这。你对他有什么了解么？</text>
+	</string>
+	<string id="yan_scientist_about_strelok_11">
+		<text>史特列洛克现在在哪儿？</text>
+	</string>
+	<string id="yan_scientist_about_strelok_1111">
+		<text>我怎样才能找到史特列洛克？</text>
+	</string>
+	<string id="yan_scientist_about_zombie_0">
+		<text>你们经常被丧尸攻击？</text>
+	</string>
+	<string id="yan_scientist_about_zombie_11">
+		<text>嗯，我在想这些丧尸是从哪里来的。</text>
+	</string>
+	<string id="yan_scientist_bring_documents_0">
+		<text>独行者们都死了。我带回了文件。</text>
+	</string>
+	<string id="yan_scientist_bring_documents_11">
+		<text>博士，你可以说得更精确一些吗？</text>
+	</string>
+	<string id="yan_scientist_go_diggers_0">
+		<text>我赞同优先取回文件。告诉我你所知道的一切。</text>
+	</string>
+	<string id="yan_scientist_start_frase_1">
+		<text>我很快就回来！</text>
+	</string>
+	<string id="yan_scientist_start_frase_2">
+		<text>只要一会！</text>
+	</string>
+</string_table>

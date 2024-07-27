@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="Unicode" ?>
+<string_table>
+	<string id="agr_bar_stalker_1_name">
+		<text>范克罗</text>
+	</string>
+	<string id="agr_bar_stalker_2_name">
+		<text>米卢金</text>
+	</string>
+	<string id="agr_bar_stalker_3_name">
+		<text>袋鼠</text>
+	</string>
+	<string id="agr_bar_stalker_4_name">
+		<text>先生</text>
+	</string>
+	<string id="agr_bar_stalker_5_name">
+		<text>谢苗诺维奇</text>
+	</string>
+	<string id="agr_barman_name">
+		<text>克罗布克</text>
+	</string>
+	<string id="agr_duty_base_commander_name">
+		<text>克雷洛夫将军</text>
+	</string>
+	<string id="agr_duty_base_mechanic_name">
+		<text>沙德沃夫</text>
+	</string>
+	<string id="agr_duty_base_trader_name">
+		<text>米托伊</text>
+	</string>
+	<string id="agr_gotoman2_name">
+		<text>卫兵博雅</text>
+	</string>
+	<string id="agr_gotoman_name">
+		<text>卫兵瓦斯雅</text>
+	</string>
+	<string id="agr_holeman_name">
+		<text>军士切尔索夫</text>
+	</string>
+	<string id="agr_hourman_name">
+		<text>加林</text>
+	</string>
+	<string id="agr_prisoner_1_name">
+		<text>塞维利</text>
+	</string>
+	<string id="agr_prisoner_2_name">
+		<text>本丢彼拉多</text>
+	</string>
+	<string id="agr_secret_trader_name">
+		<text>隐士</text>
+	</string>
+	<string id="agr_stalker_base_leader_name">
+		<text>欧雷斯特</text>
+	</string>
+	<string id="agr_stalker_base_mechanic_name">
+		<text>艾达</text>
+	</string>
+	<string id="agr_stalker_base_trader_name">
+		<text>画眉</text>
+	</string>
+	<string id="agr_stalker_map_animals_name">
+		<text>罗塞夫</text>
+	</string>
+	<string id="agr_stalker_pda_for_secret_trader_name">
+		<text>艾伯</text>
+	</string>
+	<string id="agr_stalker_pda_name">
+		<text>艾米特</text>
+	</string>
+	<string id="agr_stalker_scientist_name">
+		<text>科学家普拉托诺夫</text>
+	</string>
+	<string id="agr_weaponmaster">
+		<text>雅金舍夫少校</text>
+	</string>
+	<string id="agr_zooman_name">
+		<text>审问者</text>
+	</string>
+	<string id="esc_driver_friend_name">
+		<text>中心点</text>
+	</string>
+	<string id="esc_driver_name">
+		<text>谢米扬 朗比</text>
+	</string>
+	<string id="esc_flashman_name">
+		<text>吉金</text>
+	</string>
+	<string id="esc_leader_stalkerbase_name">
+		<text>教父瓦尔严</text>
+	</string>
+	<string id="esc_military_general_name">
+		<text>将军</text>
+	</string>
+	<string id="esc_military_secret_trader_name">
+		<text>克哈列特斯基少校的事务官</text>
+	</string>
+	<string id="esc_st_patrol_lead_name">
+		<text>沃夫克</text>
+	</string>
+	<string id="esc_stalker_novice_quest_name">
+		<text>流浪汉</text>
+	</string>
+	<string id="esc_tech_stalkerbase_name">
+		<text>范</text>
+	</string>
+	<string id="esc_trader_stalkerbase_name">
+		<text>希罗夫</text>
+	</string>
+	<string id="esc_wolf_brother_name">
+		<text>猎犬</text>
+	</string>
+	<string id="esc_wolf_name">
+		<text>沃夫</text>
+	</string>
+	<string id="esc_zak_stalkerbase_2_name">
+		<text>哈连特斯科少校</text>
+	</string>
+	<string id="esc_zak_stalkerbase_name">
+		<text>哈连特斯科少校</text>
+	</string>
+	<string id="escape_trader_name">
+		<text>西德洛维奇</text>
+	</string>
+	<string id="gar_bandit_barman_name">
+		<text>野猪</text>
+	</string>
+	<string id="gar_bandit_fixer_name">
+		<text>水晶</text>
+	</string>
+	<string id="gar_bandit_leader_name">
+		<text>尤加</text>
+	</string>
+	<string id="gar_bandit_minigame_name">
+		<text>屠杀者</text>
+	</string>
+	<string id="gar_bandit_trader_name">
+		<text>利牙</text>
+	</string>
+	<string id="gar_digger_messenger_man_name">
+		<text>瓦斯言</text>
+	</string>
+	<string id="gar_digger_quester_name">
+		<text>狂野那普</text>
+	</string>
+	<string id="gar_digger_smuggler_name">
+		<text>走私犯</text>
+	</string>
+	<string id="gar_digger_traitor_name">
+		<text>阿瓦斯卡</text>
+	</string>
+	<string id="mar_csky_barman_name">
+		<text>冷风</text>
+	</string>
+	<string id="mar_csky_commander_name">
+		<text>列别捷夫</text>
+	</string>
+	<string id="mar_csky_guide_name">
+		<text>伊万 托尼克</text>
+	</string>
+	<string id="mar_csky_scientist_name">
+		<text>卡南查教授</text>
+	</string>
+	<string id="mar_csky_tactic_name">
+		<text>狂人</text>
+	</string>
+	<string id="mar_csky_tech_name">
+		<text>诺维科夫</text>
+	</string>
+	<string id="mar_csky_trader_name">
+		<text>苏斯洛夫</text>
+	</string>
+	<string id="red_ally_leshiy_name">
+		<text>林布</text>
+	</string>
+	<string id="st_actor_name">
+		<text>疤面者</text>
+	</string>
+	<string id="yan_st_levsha_name">
+		<text>列夫提</text>
+	</string>
+	<string id="yan_st_sakharov_name">
+		<text>萨哈罗夫教授</text>
+	</string>
+	<string id="red_forester_name">
+		<text>弗雷斯特</text>
+	</string>
+	<string id="gar_bandit_senya">
+		<text>申科</text>
+	</string>
+	<string id="gar_digger_fixer_name">
+		<text>加林</text>
+	</string>
+	<string id="mil_freedom_blockpost_name">
+		<text>乌鸦</text>
+	</string>
+	<string id="mil_hog_name">
+		<text>豪格</text>
+	</string>
+	<string id="mil_kostiuk_name">
+		<text>斯科楚克</text>
+	</string>
+	<string id="val_freedom_comendant_name">
+		<text>史楚金</text>
+	</string>
+	<string id="val_freedom_fixer_name">
+		<text>雅</text>
+	</string>
+	<string id="val_freedom_leader_name">
+		<text>契科夫</text>
+	</string>
+	<string id="val_freedom_trader_name">
+		<text>阿索特</text>
+	</string>
+	<string id="sim_strelok_name">
+		<text>史特列洛克</text>
+	</string>
+	<string id="agr_weaponmaster_name">
+		<text>萨金塞夫少校</text>
+	</string>
+</string_table>

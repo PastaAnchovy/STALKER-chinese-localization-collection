@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="Unicode" ?>
+<string_table>
+	<string id="hosp_task_general_name">
+		<text>找到前往切尔诺贝利核电站的道路</text>
+	</string>
+	<string id="hosp_task_general_text">
+		<text>前往切尔诺贝利核电站的道路必须经过一所荒废的医院，赶快- 史特列洛克已经穿过了天线区，并且他非常接近电厂了。找到前往地下墓穴的入口。</text>
+	</string>
+	<string id="hosp_task_heli_name">
+		<text>除掉直升机</text>
+	</string>
+	<string id="hosp_task_heli_text">
+		<text>击落军用直升机</text>
+	</string>
+	<string id="hosp_task_kill_sniper_name">
+		<text>杀死狙击手</text>
+	</string>
+	<string id="hosp_task_kill_sniper_text">
+		<text>狙击手对这侧未有警戒。杀死狙击手</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_1_name">
+		<text>悄悄接近狙击手</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_1_text">
+		<text>医院大厅被一名狙击手和一个机枪坑的火力覆盖。狙击手的位置得到了很好的保护。当你穿过大厅去除掉狙击手时，晴空小队会很好的分散敌人的注意力</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_2_name">
+		<text>去大厅的另一边</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_2_text">
+		<text>有狙击手在上层掩护，机枪兵在下层打开了地狱之门。晴空小队会在短时间内分散敌人的注意力。只有在晴空小队指挥官给出指令后方可移动</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_3_name">
+		<text>到达桥</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_3_text">
+		<text>你需要到达桥。当晴空小队分散敌人注意力时，只有在指挥官给出指令后方可移动</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_4_name">
+		<text>通过桥</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_4_text">
+		<text>通过桥。当晴空小队分散敌人注意力时，只有在指挥官给出指令后方可移动</text>
+	</string>
+	<string id="hosp_task_z2_exit_name">
+		<text>进入下一个大厅</text>
+	</string>
+	<string id="hosp_task_z2_exit_text">
+		<text>坠落的直升机炸开了墙，打开了进入下一个走廊的通道。进入下一个走廊</text>
+	</string>
+	<string id="hosp_task_z3_help_csky_squad_name">
+		<text>掩护晴空小队</text>
+	</string>
+	<string id="hosp_task_z3_help_csky_squad_text">
+		<text>晴空小队正在推进，要摧毁机枪坑和黑石攻击小队。为晴空小队提供火力掩护。</text>
+	</string>
+	<string id="hosp_task_z3_hold_out_name">
+		<text>在增援到达前固守</text>
+	</string>
+	<string id="hosp_task_z3_hold_out_text">
+		<text>晴空小队接近中。在增援到达前固守</text>
+	</string>
+</string_table>
