@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="team_1_desc">
+		<text>特异区的无政府主义者.他们把特异区当作避难所,自由团相信外界的一切法律、制度在这里都是无效的.他们的信条是"做你所喜欢的,专注于你所爱的."自由团为了控制特异区多次与政府军对抗,并且他们正在和佣兵团打仗.他们的成员主要装备华约武器.</text>
+	</string>
+	<string id="team_1_name">
+		<text>自由团派系(自由的潜行者)</text>
+	</string>
+	<string id="team_2_desc">
+		<text>这些寻求冒险的战士们来自全世界甚至喜欢最脏的工作.可见他们的信条是"Money has no smell."只要有需要,他们会一直战斗为了控制全部有神器出现的地方.佣兵主要装备西方的武器.</text>
+	</string>
+	<string id="team_2_name">
+		<text>佣兵派系(杀手)</text>
+	</string>
+</string_table>

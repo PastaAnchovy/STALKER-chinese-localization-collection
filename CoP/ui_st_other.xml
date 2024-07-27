@@ -1,0 +1,506 @@
+<string_table>
+	<string id="Btn_Cancel">
+		<text>取消</text>
+	</string>
+	<string id="Btn_No">
+		<text>否</text>
+	</string>
+	<string id="Btn_OK">
+		<text>确定</text>
+	</string>
+	<string id="Btn_Yes">
+		<text>是</text>
+	</string>
+	<string id="bad">
+		<text>糟糕</text>
+	</string>
+	<string id="enemy">
+		<text>敌人</text>
+	</string>
+	<string id="excellent">
+		<text>优秀</text>
+	</string>
+	<string id="experienced">
+		<text>老手</text>
+	</string>
+	<string id="friendly">
+		<text>友好</text>
+	</string>
+	<string id="global_map">
+		<text>特异区地图</text>
+	</string>
+	<string id="good">
+		<text>好</text>
+	</string>
+	<string id="indifferent">
+		<text>中立</text>
+	</string>
+	<string id="master">
+		<text>大师</text>
+	</string>
+	<string id="mm_mp_pda_hunt">
+		<text>PDA奖励分数</text>
+	</string>
+	<string id="mp_only_one_voting">
+		<text>只允许开一个投票项目</text>
+	</string>
+	<string id="neutral">
+		<text>中立者</text>
+	</string>
+	<string id="novice">
+		<text>新手</text>
+	</string>
+	<string id="st_game">
+		<text>游戏</text>
+	</string>
+	<string id="st_item_used">
+		<text>已使用</text>
+	</string>
+	<string id="st_level">
+		<text>区域</text>
+	</string>
+	<string id="st_loading_ai_objects">
+		<text>读取AI对象</text>
+	</string>
+	<string id="st_loading_alife_simulator">
+		<text>服务器:读取人工生命</text>
+	</string>
+	<string id="st_loading_cform">
+		<text>读取游戏结构</text>
+	</string>
+	<string id="st_loading_details">
+		<text>读取游戏细节</text>
+	</string>
+	<string id="st_loading_geometry">
+		<text>读取地形</text>
+	</string>
+	<string id="st_loading_saved_game">
+		<text>读取已储存游戏</text>
+	</string>
+	<string id="st_loading_sectors_portals">
+		<text>读取节点和入口</text>
+	</string>
+	<string id="st_loading_shaders">
+		<text>读取场景渲染数据</text>
+	</string>
+	<string id="st_loading_spatial_db">
+		<text>读取空间数据</text>
+	</string>
+	<string id="st_loading_textures">
+		<text>读取材质数据</text>
+	</string>
+	<string id="st_mp_direct_ip">
+		<text>导向IP地址</text>
+	</string>
+	<string id="st_no_active_task">
+		<text>无激活任务</text>
+	</string>
+	<string id="st_not_enough_money">
+		<text>金钱不足</text>
+	</string>
+	<string id="st_not_enough_money_npc">
+		<text>NPC金钱不足</text>
+	</string>
+	<string id="st_opening_stream">
+		<text>开启串流</text>
+	</string>
+	<string id="st_prefetching_objects">
+		<text>预读取对象</text>
+	</string>
+	<string id="st_rubles">
+		<text>卢布</text>
+	</string>
+	<string id="st_server_connecting">
+		<text>服务器:连接中</text>
+	</string>
+	<string id="st_server_starting">
+		<text>服务器:开始中</text>
+	</string>
+	<string id="st_validating_cdkey">
+		<text>验证CD密钥</text>
+	</string>
+	<string id="st_video">
+		<text>视频</text>
+	</string>
+	<string id="terrible">
+		<text>糟糕</text>
+	</string>
+	<string id="ui_inv_repair">
+		<text>修理</text>
+	</string>
+	<string id="ui_st_cant_run_r2">
+		<text>你的电脑不支持SMS2.0</text>
+	</string>
+	<string id="ui_st_community">
+		<text>阵营</text>
+	</string>
+	<string id="ui_st_conn_cdkey_disabled">
+		<text>连接错误:你的CD-Key不可用.请联系客户服务.</text>
+	</string>
+	<string id="ui_st_conn_cdkey_in_use">
+		<text>连接错误:CD-Key已经被使用.</text>
+	</string>
+	<string id="ui_st_conn_cdkey_invalid">
+		<text>连接错误:无效的CD-Key.</text>
+	</string>
+	<string id="ui_st_conn_invalid_host">
+		<text>连接错误:无效的主机</text>
+	</string>
+	<string id="ui_st_conn_invalid_pass">
+		<text>连接错误:无效的密码</text>
+	</string>
+	<string id="ui_st_conn_new_patch">
+		<text>新补丁可用\n版本:%s\n地址:%s\n你想立即下载吗?</text>
+	</string>
+	<string id="ui_st_conn_no_new_patch">
+		<text>没有新的补丁</text>
+	</string>
+	<string id="ui_st_conn_rejected_server">
+		<text>连接错误:被连接的服务器拒绝</text>
+	</string>
+	<string id="ui_st_conn_sess_full">
+		<text>连接错误:服务器满</text>
+	</string>
+	<string id="ui_st_conn_version_differs">
+		<text>连接错误:版本不通.</text>
+	</string>
+	<string id="ui_st_connecting_to_masterserver">
+		<text>正在连接主服务器</text>
+	</string>
+	<string id="ui_st_days">
+		<text>日</text>
+	</string>
+	<string id="ui_st_error">
+		<text>错误</text>
+	</string>
+	<string id="ui_st_error_loading">
+		<text>读取错误</text>
+	</string>
+	<string id="ui_st_file_exist_owerwrite_q">
+		<text>这个档案名已经存在,你确定要覆盖吗?</text>
+	</string>
+	<string id="ui_st_file_name_is_empty">
+		<text>存档名为空</text>
+	</string>
+	<string id="ui_st_hours">
+		<text>小时</text>
+	</string>
+	<string id="ui_st_kicked_by_battleye">
+		<text>被BattleEye保护系统断开连接:</text>
+	</string>
+	<string id="ui_st_kicked_by_server">
+		<text>未连接.原因:</text>
+	</string>
+	<string id="ui_st_leave">
+		<text>离开</text>
+	</string>
+	<string id="ui_st_load_game_confirm">
+		<text>读取这个游戏将使未保存的进度丢失,确定吗?</text>
+	</string>
+	<string id="ui_st_mins">
+		<text>分</text>
+	</string>
+	<string id="ui_st_months">
+		<text>月</text>
+	</string>
+	<string id="ui_st_opponent_items">
+		<text>背包</text>
+	</string>
+	<string id="ui_st_params">
+		<text>参数</text>
+	</string>
+	<string id="ui_st_patch_download_error">
+		<text>无法下载补丁.</text>
+	</string>
+	<string id="ui_st_patch_download_success">
+		<text>下载补丁成功.你要现在安装吗?</text>
+	</string>
+	<string id="ui_st_price">
+		<text>价格</text>
+	</string>
+	<string id="ui_st_rank">
+		<text>军阶</text>
+	</string>
+	<string id="ui_st_relation">
+		<text>态度</text>
+	</string>
+	<string id="ui_st_reputation">
+		<text>名誉</text>
+	</string>
+	<string id="ui_st_secs">
+		<text>秒</text>
+	</string>
+	<string id="ui_st_select_one_map">
+		<text>请选择至少一个地图</text>
+	</string>
+	<string id="ui_st_take_all">
+		<text>全部拿取</text>
+	</string>
+	<string id="ui_st_time_remains">
+		<text>剩余</text>
+	</string>
+	<string id="ui_st_voting_disabled">
+		<text>投票失败</text>
+	</string>
+	<string id="ui_st_want_to_leave_game_q">
+		<text>确定离开游戏?</text>
+	</string>
+	<string id="ui_total_price">
+		<text>总计</text>
+	</string>
+	<string id="very_bad">
+		<text>非常差</text>
+	</string>
+	<string id="very_good">
+		<text>非常好</text>
+	</string>
+	<string id="veteran">
+		<text>老兵</text>
+	</string>
+	<string id="ui_st_inv_repair">
+		<text>修理</text>
+	</string>
+	<string id="ui_repair_button_hint">
+		<text>修理所选物品</text>
+	</string>
+	<string id="st_key_notbinded">
+		<text>...</text>
+	</string>
+	<string id="st_save_uni_travel_generic">
+		<text>moving within an area</text>
+	</string>
+	<string id="st_save_uni_travel_zat_to_jup">
+		<text>moving from Zaton to Yanov</text>
+	</string>
+	<string id="st_save_uni_travel_zat_to_pri">
+		<text>moving from Zaton to Pripyat</text>
+	</string>
+	<string id="st_save_uni_travel_jup_to_zat">
+		<text>moving from Yanov to Zaton</text>
+	</string>
+	<string id="st_save_uni_travel_jup_to_pri">
+		<text>moving from Yanov to Pripyat</text>
+	</string>
+	<string id="st_save_uni_travel_pri_to_zat">
+		<text>moving from Pripyat to Zaton</text>
+	</string>
+	<string id="st_save_uni_travel_pri_to_jup">
+		<text>moving from Pripyat to Yanov</text>
+	</string>
+	<string id="st_save_uni_pri_to_labx8">
+		<text>moving from Pripyat to X8</text>
+	</string>
+	<string id="st_save_uni_labx8_to_pri">
+		<text>moving from X8 to Pripyat</text>
+	</string>
+	<string id="st_save_uni_surge_start">
+		<text>emission</text>
+	</string>
+	<string id="st_save_zat_a1_game_start">
+		<text>beginning of the game</text>
+	</string>
+	<string id="st_save_zat_a2_reached_skadovsk">
+		<text>arrival at the Skadovsk</text>
+	</string>
+	<string id="st_save_jup_b9_searched_heli_1">
+		<text>Stingray 1 examined</text>
+	</string>
+	<string id="st_save_zat_b100_searched_heli_2">
+		<text>Stingray 2 examined</text>
+	</string>
+	<string id="st_save_zat_b28_searched_heli_3">
+		<text>Stingray 3 examined</text>
+	</string>
+	<string id="st_save_jup_b8_searched_heli_4">
+		<text>Stingray 4 examined</text>
+	</string>
+	<string id="st_save_zat_b101_searched_heli_5">
+		<text>Stingray 5 examined</text>
+	</string>
+	<string id="st_save_zat_b18_noah_showed_teleport">
+		<text>getting to the plateau</text>
+	</string>
+	<string id="st_save_jup_b217_arrived_to_jup">
+		<text>arrival at Yanov</text>
+	</string>
+	<string id="st_save_jup_a9_got_underpass_docs">
+		<text>road to Pripyat found</text>
+	</string>
+	<string id="st_save_jup_b15_drunk_with_zulu">
+		<text>Zulu joins the squad</text>
+	</string>
+	<string id="st_save_jup_a10_gonna_return_debt">
+		<text>Vano's debt repaid</text>
+	</string>
+	<string id="st_save_jup_b218_vano_in_squad">
+		<text>Vano joins the squad</text>
+	</string>
+	<string id="st_save_jup_b206_got_anomalous_plant">
+		<text>anomalous plant collected</text>
+	</string>
+	<string id="st_save_jup_b218_sokolov_in_squad">
+		<text>Sokolov joins the squad</text>
+	</string>
+	<string id="st_save_jup_b218_strider_in_squad">
+		<text>Strider joins the squad</text>
+	</string>
+	<string id="st_save_jup_b218_travel_jup_to_pas">
+		<text>squad assembled</text>
+	</string>
+	<string id="st_save_pas_b400_underpass_start">
+		<text>arrival in the underpass</text>
+	</string>
+	<string id="st_save_uni_travel_pas_to_pri">
+		<text>arrival in Pripyat</text>
+	</string>
+	<string id="st_save_pri_a16_arrived_to_pri">
+		<text>military forces located</text>
+	</string>
+	<string id="st_save_pri_a17_hospital_start">
+		<text>unidentified weapon captured</text>
+	</string>
+	<string id="st_save_pri_a20_found_dead_recon">
+		<text>recon squad found</text>
+	</string>
+	<string id="st_save_pri_a18_met_reinforcement">
+		<text>reinforcements arrived</text>
+	</string>
+	<string id="st_save_pri_a18_searched_antenna">
+		<text>'antenna' examined</text>
+	</string>
+	<string id="st_save_pri_a21_approached_mad_sentry">
+		<text>missing sentry found</text>
+	</string>
+	<string id="st_save_pri_a21_killed_controller">
+		<text>controller near sentry killed</text>
+	</string>
+	<string id="st_save_zat_a23_entered_test_center">
+		<text>testing workshop accessed</text>
+	</string>
+	<string id="st_save_zat_a23_got_gauss_docs">
+		<text>Gauss rifle documentation found</text>
+	</string>
+	<string id="st_save_pri_a22_found_dead_squad">
+		<text>dead fighter found</text>
+	</string>
+	<string id="st_save_pri_a25_gonna_place_explosive">
+		<text>entry to the kindergarten</text>
+	</string>
+	<string id="st_save_pri_a25_freed_medic">
+		<text>military medic rescued</text>
+	</string>
+	<string id="st_save_pri_a28_talked_with_ssu">
+		<text>established communications with HQ</text>
+	</string>
+	<string id="st_save_pri_a28_evacutaion_start">
+		<text>Pripyat evacuation initiated</text>
+	</string>
+	<string id="st_save_pri_a28_evacuation_end">
+		<text>evacuation helicopters reached</text>
+	</string>
+	<string id="st_save_uni_zone_to_reality">
+		<text>evacuation complete</text>
+	</string>
+	<string id="st_save_jup_b209_placed_mutant_scanner">
+		<text>mutant detector</text>
+	</string>
+	<string id="st_save_jup_a12_gave_artefact_for_hostage">
+		<text>ransom paid for hostage</text>
+	</string>
+	<string id="st_save_jup_a12_met_with_liberators">
+		<text>hostage freed</text>
+	</string>
+	<string id="st_save_jup_b6_arrived_to_ash_heap">
+		<text>Ash Heap anomaly measurements</text>
+	</string>
+	<string id="st_save_jup_b6_arrived_to_fen">
+		<text>Plavni anomaly measurements</text>
+	</string>
+	<string id="st_save_zat_b38_met_with_grouse">
+		<text>bloodsucker lair</text>
+	</string>
+	<string id="st_save_jup_b19_arrived_to_kopachy">
+		<text>sent to Kopachy</text>
+	</string>
+	<string id="st_save_zat_b40_warned_by_mercs">
+		<text>approach to the waste processing station</text>
+	</string>
+	<string id="st_save_zat_b7_met_with_robbers">
+		<text>stalker hit</text>
+	</string>
+	<string id="st_save_zat_b33_got_container">
+		<text>container found in stash</text>
+	</string>
+	<string id="st_save_zat_b106_arrived_to_chimera_lair">
+		<text>hunting the chimera</text>
+	</string>
+	<string id="st_save_jup_b16_passed_labyrinth">
+		<text>Oasis found</text>
+	</string>
+	<string id="st_save_pri_b35_ready_to_snipe">
+		<text>Operation One Shot initiated</text>
+	</string>
+	<string id="st_save_jup_b1_entered_railroad_tunnel">
+		<text>search for the psy-emission source</text>
+	</string>
+	<string id="st_save_jup_b47_got_admin_docs">
+		<text>administrative documents</text>
+	</string>
+	<string id="st_save_zat_b103_warned_by_mercs">
+		<text>approach to the substation workshop</text>
+	</string>
+	<string id="st_save_zat_b5_met_with_others">
+		<text>deal by the ranger station</text>
+	</string>
+	<string id="st_save_jup_b207_arrived_to_duty_depot">
+		<text>Duty warehouse</text>
+	</string>
+	<string id="st_save_zat_b14_got_altered_wheel">
+		<text>strange glow source found</text>
+	</string>
+	<string id="st_save_pri_b301_arrived_to_help_zulu">
+		<text>Zulu found</text>
+	</string>
+	<string id="st_save_zat_b42_arrived_to_controler_lair">
+		<text>dangerous cave</text>
+	</string>
+	<string id="ui_st_upgrade">
+		<text>修理/改造</text>
+	</string>
+	<string id="ui_st_buy">
+		<text>购买</text>
+	</string>
+	<string id="ui_st_sell">
+		<text>出售</text>
+	</string>
+	<string id="ui_st_trade">
+		<text>交易</text>
+	</string>
+	<string id="ui_st_exit_hint">
+		<text>关闭窗口($$ACTION_USE$$)</text>
+	</string>
+	<string id="ui_st_trade_hint">
+		<text>打开交易窗口($$ACTION_SPRINT_TOGGLE$$)</text>
+	</string>
+	<string id="ui_st_upgrade_hint">
+		<text>打开修理/改造窗口($$ACTION_SPRINT_TOGGLE$$)</text>
+	</string>
+	<string id="ui_st_take_all_hint">
+		<text>将所有物品移动到背包($$ACTION_SPRINT_TOGGLE$$)</text>
+	</string>
+	<string id="ui_st_buy_hint">
+		<text>购买所选物品</text>
+	</string>
+	<string id="ui_st_sell_hint">
+		<text>出售所选物品</text>
+	</string>
+	<string id="st_save_pri_a28_evacuation_heli">
+		<text>evacuation helicopter take-off</text>
+	</string>
+	<string id="tip_gate_close">
+		<text>关上大门($$ACTION_USE$$)</text>
+	</string>
+	<string id="tip_gate_open">
+		<text>打开大门($$ACTION_USE$$)</text>
+	</string>
+</string_table>

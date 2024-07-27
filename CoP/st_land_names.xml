@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="st_zat_b55_name">
+		<text>利爪变异区</text>
+	</string>
+	<string id="st_zat_b100_name">
+		<text>铁森林变异区</text>
+	</string>
+	<string id="st_zat_b104_name">
+		<text>锯木厂</text>
+	</string>
+	<string id="st_zat_b38_name">
+		<text>克鲁格雷达站</text>
+	</string>
+	<string id="st_zat_b40_name">
+		<text>废料处理站</text>
+	</string>
+	<string id="st_zat_b56_name">
+		<text>火环变异区</text>
+	</string>
+	<string id="st_zat_b5_name">
+		<text>补给站</text>
+	</string>
+	<string id="st_zat_a2_name">
+		<text>斯卡多夫斯克号</text>
+	</string>
+	<string id="st_zat_b20_name">
+		<text>燃烧的农场</text>
+	</string>
+	<string id="st_zat_b53_name">
+		<text>锅炉变异区</text>
+	</string>
+	<string id="st_zat_b101_name">
+		<text>沼泽地</text>
+	</string>
+	<string id="st_zat_b106_name">
+		<text>马戏团</text>
+	</string>
+	<string id="st_zat_b7_name">
+		<text>舍甫琴科号</text>
+	</string>
+	<string id="st_zat_b14_name">
+		<text>疏通站</text>
+	</string>
+	<string id="st_zat_b52_name">
+		<text>码头起重机</text>
+	</string>
+	<string id="st_zat_b39_name">
+		<text>松橡变异区</text>
+	</string>
+	<string id="st_zat_b33_name">
+		<text>加油站</text>
+	</string>
+	<string id="st_zat_b18_name">
+		<text>破旧的驳船</text>
+	</string>
+	<string id="st_zat_b54_name">
+		<text>断痕变异区</text>
+	</string>
+	<string id="st_zat_b12_name">
+		<text>断裂的大桥</text>
+	</string>
+	<string id="st_zat_b28_name">
+		<text>南部高地</text>
+	</string>
+	<string id="st_zat_b103_name">
+		<text>变电站</text>
+	</string>
+	<string id="st_jup_b1_name">
+		<text>燃灰变异区</text>
+	</string>
+	<string id="st_jup_b46_name">
+		<text>冷却塔</text>
+	</string>
+	<string id="st_jup_b202_name">
+		<text>火车站</text>
+	</string>
+	<string id="st_jup_b211_name">
+		<text>毒沼变异区</text>
+	</string>
+	<string id="st_jup_b200_name">
+		<text>水泥厂</text>
+	</string>
+	<string id="st_jup_b19_name">
+		<text>科帕奇废墟</text>
+	</string>
+	<string id="st_jup_a6_name">
+		<text>亚诺夫</text>
+	</string>
+	<string id="st_jup_b25_name">
+		<text>露天矿场</text>
+	</string>
+	<string id="st_jup_b6_name">
+		<text>科学家碉堡</text>
+	</string>
+	<string id="st_jup_b205_name">
+		<text>沃尔克霍夫防空基地</text>
+	</string>
+	<string id="st_jup_b206_name">
+		<text>小树林变异区</text>
+	</string>
+	<string id="st_jup_b32_name">
+		<text>停车场</text>
+	</string>
+	<string id="st_jup_a10_name">
+		<text>检查站</text>
+	</string>
+	<string id="st_jup_b209_name">
+		<text>沥青变异区</text>
+	</string>
+	<string id="st_jup_b208_name">
+		<text>东部隧道</text>
+	</string>
+	<string id="st_jup_a12_name">
+		<text>集装箱仓库</text>
+	</string>
+	<string id="st_jup_b212_name">
+		<text>综合设施通风口</text>
+	</string>
+	<string id="st_jup_b9_name">
+		<text>停机坪</text>
+	</string>
+	<string id="st_jup_b201_name">
+		<text>水泥池变异区</text>
+	</string>
+	<string id="st_jup_a9_name">
+		<text>朱皮特工业区</text>
+	</string>
+	<string id="st_pri_a28_name">
+		<text>普罗米修斯电影院</text>
+	</string>
+	<string id="st_pri_b36_name">
+		<text>内河码头</text>
+	</string>
+	<string id="st_pri_b303_name">
+		<text>旧服务中心</text>
+	</string>
+	<string id="st_pri_b301_name">
+		<text>学校</text>
+	</string>
+	<string id="st_pri_a17_name">
+		<text>医院</text>
+	</string>
+	<string id="st_pri_b306_name">
+		<text>尤彼雷尼服务中心</text>
+	</string>
+	<string id="st_pri_a16_name">
+		<text>洗衣店</text>
+	</string>
+	<string id="st_pri_a25_name">
+		<text>幼儿园</text>
+	</string>
+	<string id="st_pri_b35_name">
+		<text>复合式公寓大楼</text>
+	</string>
+	<string id="st_pri_a21_name">
+		<text>杂货店</text>
+	</string>
+	<string id="st_pri_b304_name">
+		<text>百货公司</text>
+	</string>
+	<string id="st_pri_a18_name">
+		<text>书店</text>
+	</string>
+	<string id="st_pri_b307_name">
+		<text>火山变异区</text>
+	</string>
+	<string id="st_pri_b302_name">
+		<text>藤蔓变异区</text>
+	</string>
+</string_table>

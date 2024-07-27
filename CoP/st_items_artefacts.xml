@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="st_af_baloon_descr">
+		<text>一种由多种有机物构成的晶体,这个神器能发出某种气态物质,这些气态物质能中和人体内的辐射性颗粒,使它不对人体产生伤害.因为这种功效,这个神器的需求量很大.</text>
+	</string>
+	<string id="st_af_baloon_name">
+		<text>气泡</text>
+	</string>
+	<string id="st_af_blood_descr">
+		<text>一种红色物质,由植物化石,土壤和动物骸骨碎片经过强大的压力挤压后形成的神器.能够消除部分的化学毒素.有放射性.</text>
+	</string>
+	<string id="st_af_blood_name">
+		<text>血石</text>
+	</string>
+	<string id="st_af_cristall_descr">
+		<text>这种神器形成于热活动剧烈的异变点中.由于过度的活动使之能吸收热量,因此摸起来很凉.有放射性.</text>
+	</string>
+	<string id="st_af_cristall_flower_descr">
+		<text>这种神器由类花岗岩的石头构成,是一种经过极端引力扭曲所产生的神器,这种结晶的形成至今仍无法用科学解释.能够对焦脑电波有一定的防护并且带有放射性.</text>
+	</string>
+	<string id="st_af_cristall_flower_name">
+		<text>石花</text>
+	</string>
+	<string id="st_af_cristall_name">
+		<text>水晶</text>
+	</string>
+	<string id="st_af_dummy_battery_descr">
+		<text>大量的静电是形成这种神器的条件之一,其形成所需的精确的物理条件还需要科学家进一步研究.因为能提高活力,所以这种神器在特异区中很受欢迎,尽管长期使用会拖垮身体,但还是被潜行者们所经常使用.带有放射性.</text>
+	</string>
+	<string id="st_af_dummy_battery_name">
+		<text>电池</text>
+	</string>
+	<string id="st_af_dummy_dummy_descr">
+		<text>这种神器曾经被当成垃圾,因为它们没有任何有用的属性.但是,科学家最近发现如果该神器与身体保持接触的话,它就能对神经系统产生很好的刺激效果.带有放射性.</text>
+	</string>
+	<string id="st_af_dummy_dummy_name">
+		<text>贝壳</text>
+	</string>
+	<string id="st_af_dummy_glassbeads_descr">
+		<text>这个神器虽然很常见,但是很多关于这种神器的秘密仍然困扰着科学家们.一般的人都知道,该神器较粗的关节处能产生出一种脉冲,促使开裂的伤口加快血液凝固结痂.总之,这个神器最显著的功效就是加快伤口愈合.带有放射性.</text>
+	</string>
+	<string id="st_af_dummy_glassbeads_name">
+		<text>妈妈的项链</text>
+	</string>
+	<string id="st_af_electra_flash_descr">
+		<text>这种神器能够吸收大量的电能,随后消除掉.即使是处于高达5000伏特的电压之下,闪光也能很好地保护携带者不受伤害.带有放射性.</text>
+	</string>
+	<string id="st_af_electra_flash_name">
+		<text>闪光</text>
+	</string>
+	<string id="st_af_electra_moonlight_descr">
+		<text>这种独特的带电神器能与焦脑电波产生共振.潜行者都知道如何微调这个神器,使它放射的电波与焦脑电波源产生相位相反的共振,从而一定程度上抵消焦脑电波的影响.带有放射性.</text>
+	</string>
+	<string id="st_af_electra_moonlight_name">
+		<text>月光</text>
+	</string>
+	<string id="st_af_electra_sparkler_descr">
+		<text>带电神器中最有代表性的一种,这个神器能够稳定高密度电场中的电流波动.带有放射性.</text>
+	</string>
+	<string id="st_af_electra_sparkler_name">
+		<text>电火花</text>
+	</string>
+	<string id="st_af_eye_descr">
+		<text>这种神器有点像人类眼睛,能极大加快人体新陈代谢,并加快伤口愈合.经验丰富的潜行者们都说"眼睛"还能带来好运.带有放射性.</text>
+	</string>
+	<string id="st_af_eye_name">
+		<text>眼睛</text>
+	</string>
+	<string id="st_af_fire_descr">
+		<text>这种神器形成于热量活动剧烈的区域.会产生强大的红外线辐射,从而强化新陈代谢的过程,并能立即治疗伤口.由于这种神器极其罕见,所以特别的贵重.带有放射性.</text>
+	</string>
+	<string id="st_af_fire_name">
+		<text>火焰</text>
+	</string>
+	<string id="st_af_fireball_descr">
+		<text>尽管"火球"是个带有一定温度神器,但是你可以拿着它不用担心被烧伤.这个神器最大的作用就是将一定半径内的温度保持在23.88摄氏度,不管周围环境气温是多少度.带有放射性.</text>
+	</string>
+	<string id="st_af_fireball_name">
+		<text>火球</text>
+	</string>
+	<string id="st_af_fuzz_kolobok_descr">
+		<text>一种相对罕见的神器,产生在化学变异的区域,"海胆"能够在短短几分钟内治愈任何伤口,因此它得到了人们的高度重视.不知道为何,科学家们在潜行者中散播谣言说:该神器会修改携带者的遗传基因.带有放射性.</text>
+	</string>
+	<string id="st_af_fuzz_kolobok_name">
+		<text>海胆</text>
+	</string>
+	<string id="st_af_glass_name">
+		<text>萤火虫</text>
+	</string>
+	<string id="st_af_gold_fish_descr">
+		<text>大量引力场相互作用的产物,"金鱼"产生出它自己的定向引力场,这个引力场使得一定范围内的物品处于失重状态.这个神器能非常显著地减少背包重量,这就是为什么这种神器的需求量这么大的原因.带有放射性.</text>
+	</string>
+	<string id="st_af_gold_fish_name">
+		<text>金鱼</text>
+	</string>
+	<string id="st_af_gravi_descr">
+		<text>"重力"是由金属物质长期暴露在重力变异点下产生的.这使得它能产生一个维持性的反向重力场,很多潜行者都用它来减轻背包的重量.带有放射性.</text>
+	</string>
+	<string id="st_af_gravi_name">
+		<text>重力</text>
+	</string>
+	<string id="st_af_ice_descr">
+		<text>乍一看,这种神器长得很像"海胆".于是有些人便声称这就是"海胆",它的属性因为长期暴露在电场中而得到极大的加强.由于这种神器的独特的属性,它可以显著提高使用者的肌肉张力.带有放射性.</text>
+	</string>
+	<string id="st_af_ice_name">
+		<text>雪花</text>
+	</string>
+	<string id="st_af_medusa_descr">
+		<text>这种重力系的神器能够吸收放射性粒子,减少辐射对身体的影响.在特异区中非常常见,在特异区之外,一些特殊病例中也非正式地用到这种神器治疗辐射病.</text>
+	</string>
+	<string id="st_af_medusa_name">
+		<text>水母</text>
+	</string>
+	<string id="st_af_mincer_meat_descr">
+		<text>这种有机神器是由变异动物的组织构成的.当它被放到一个受到化学污染的区域时,"肉块"会把空气中的化学物质转换成一种粘液.带有放射性.</text>
+	</string>
+	<string id="st_af_mincer_meat_name">
+		<text>肉块</text>
+	</string>
+	<string id="st_af_night_star_descr">
+		<text>这种发光的神器会产生一个局部的低重力场.被潜行者们广泛的应用来增大最大负重量,使用量仅次于同类型的"重力".带有放射性.</text>
+	</string>
+	<string id="st_af_night_star_name">
+		<text>夜星</text>
+	</string>
+	<string id="st_af_soul_descr">
+		<text>一种和它的性能一样独特的神器.不知为什么,它能提高身体对任何伤害的复原能力,并且不会积累任何毒素.正因为它那华丽的外观和优越的性能,这种神器是很贵重的收藏品.带有放射性.</text>
+	</string>
+	<string id="st_af_soul_name">
+		<text>灵魂</text>
+	</string>
+	<string id="st_af_vyvert_descr">
+		<text>这种形状奇特的神器形成于重力异常的区域.能像海绵一样吸收辐射,这种神器能够提供对外部辐射的保护,同时能够清除已经存在于体内的辐射.</text>
+	</string>
+	<string id="st_af_vyvert_name">
+		<text>扳手</text>
+	</string>
+	<string id="st_compass">
+		<text>指南针</text>
+	</string>
+	<string id="st_compass_descr">
+		<text>一种极度稀有的神器,已经好几年没人没找到过这种神器了.这种神器可以确定变异点之间的距离.据说这种神器能使人安然无恙地通过最危险的变异区.但是没有多少人知道应该怎样使用这神器.</text>
+	</string>
+	<string id="st_oasis_heart">
+		<text>绿洲之心</text>
+	</string>
+	<string id="st_oasis_heart_descr">
+		<text>这种神器是在传说中的绿洲中心找到的.它是一种结晶化的植物,具有绿洲的特性,能够源源不断地为有机体提供能量并加速有机体的新陈代谢.遗憾的是,这种神器具有很大的放射性.</text>
+	</string>
+	<string id="st_af_glass_descr">
+		<text>"萤火虫"通过一种未知的作用,能使活体的组织和器官在极短时间内再生,并且不会产生任何变异.可以毫不夸张的说:无论是多深的伤口,这种神器都能在几秒内把它治愈.不幸的是,萤火虫极度罕见.带有放射性.</text>
+	</string>
+</string_table>

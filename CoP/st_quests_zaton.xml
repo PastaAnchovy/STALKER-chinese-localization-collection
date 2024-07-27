@@ -1,0 +1,780 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="zat_a2_reach_base_name">
+		<text>安全点:抵达斯卡多夫斯克</text>
+	</string>
+	<string id="zat_a2_reach_base_text">
+		<text>特异区里相对安全的地方就是大型营地.离这里最近的是斯卡多夫斯克号,你应该前往这个地方.</text>
+	</string>
+	<string id="zat_b100_guide_maps_01_name">
+		<text>区域地图:找到对地图感兴趣的人</text>
+	</string>
+	<string id="zat_b100_guide_maps_02_name">
+		<text>区域地图:把地图提供给领航员</text>
+	</string>
+	<string id="zat_b100_guide_maps_02_text">
+		<text>领航员可能会对扎通和朱皮特之间的区域地图感兴趣.</text>
+	</string>
+	<string id="zat_b100_heli_2_crash_name">
+		<text>刺鳐2号:调查飞机坠毁的地点</text>
+	</string>
+	<string id="zat_b100_heli_2_crash_text">
+		<text>调查刺鳐2号坠毁的地点.</text>
+	</string>
+	<string id="zat_b101_heli_5_crash_name">
+		<text>刺鳐5号:调查飞机坠毁的地点</text>
+	</string>
+	<string id="zat_b101_heli_5_crash_name_02">
+		<text>刺鳐5号:调查电子设备烧毁的原因</text>
+	</string>
+	<string id="zat_b101_heli_5_crash_name_03">
+		<text>刺鳐小队:这两架直升机遭到了闪电冲击,调查闪电的来源</text>
+	</string>
+	<string id="zat_b101_heli_5_crash_text">
+		<text>调查刺鳐5号坠毁的地点.</text>
+	</string>
+	<string id="zat_b101_heli_5_crash_text_02">
+		<text>直升机刺鳐5号曾遭受强力的闪电冲击,调查闪电冲击来源.</text>
+	</string>
+	<string id="zat_b101_heli_5_crash_text_03">
+		<text>刺鳐4号、5号的机载电子设备全数烧坏,你得查明原因.看起来它们像是遭到了强力闪电的冲击.</text>
+	</string>
+	<string id="zat_b103_merc_bring_supplies_name">
+		<text>食物:给雇佣兵们寻找食物</text>
+	</string>
+	<string id="zat_b103_merc_bring_supplies_text">
+		<text>变电站的雇佣兵小队要求你帮他们寻找一些食物,他们要6个罐装肉,香肠或者面包也行.</text>
+	</string>
+	<string id="zat_b103_merc_supplies_got_name">
+		<text>食物:把食物带来给雇佣兵们</text>
+	</string>
+	<string id="zat_b103_merc_supplies_got_text">
+		<text>把你搜集到的食物带给变电站的雇佣兵们.</text>
+	</string>
+	<string id="zat_b103_toolkit_2_substation_workshop_name">
+		<text>寻找工具:调查变电站</text>
+	</string>
+	<string id="zat_b103_toolkit_2_substation_workshop_text">
+		<text>据潜行者的消息,变电站里好像有一些工具.你也许能在那里找到技师想要的工具.</text>
+	</string>
+	<string id="zat_b106_find_chimera_name">
+		<text>猎杀奇美拉:在奇美拉熟睡的时候找到它</text>
+	</string>
+	<string id="zat_b106_find_chimera_text">
+		<text>你得在奇美拉醒来前找到它.</text>
+	</string>
+	<string id="zat_b106_found_soroka_name">
+		<text>寻找喜鹊:通知冈塔</text>
+	</string>
+	<string id="zat_b106_found_soroka_text">
+		<text>你似乎找到喜鹊的下落了.他就是那个曾陷害了冈塔小队的潜行者,他现在加入了自由团,并改名为打火石.</text>
+	</string>
+	<string id="zat_b106_kill_chimera_name">
+		<text>猎杀奇美拉:杀死奇美拉</text>
+	</string>
+	<string id="zat_b106_kill_chimera_text">
+		<text>奇美拉醒了,在它还没反应过来的时候赶紧杀了它.</text>
+	</string>
+	<string id="zat_b106_meet_with_gonta_at_night_name">
+		<text>猎杀奇美拉:凌晨3点到酒吧和冈塔碰头</text>
+	</string>
+	<string id="zat_b106_meet_with_gonta_at_night_text">
+		<text>你得在日出前和冈塔碰头,并加入他的小队猎杀奇美拉.</text>
+	</string>
+	<string id="zat_b106_receipt_reward_name">
+		<text>猎杀奇美拉:通知特拉皮尔</text>
+	</string>
+	<string id="zat_b106_receipt_reward_text">
+		<text>奇美拉已经被杀死.把这消息告诉特拉皮尔,他会给你应得的奖赏.</text>
+	</string>
+	<string id="zat_b106_search_soroka_name">
+		<text>寻找喜鹊:找到名为喜鹊的潜行者</text>
+	</string>
+	<string id="zat_b106_search_soroka_text">
+		<text>一个叫喜鹊的潜行者设计了一个圈套,让冈塔的小队遭到了奇美拉的袭击.他们委托你找到这个畜生.</text>
+	</string>
+	<string id="zat_b107_evacuation_jupiter_name">
+		<text>撤离点:调查B205</text>
+	</string>
+	<string id="zat_b107_evacuation_jupiter_text">
+		<text>你在其中一架直升机残骸上找到的地图标记了好几个撤离点和一些坐标.你得确认那些军人是否去了B205</text>
+	</string>
+	<string id="zat_b107_evacuation_pripyat_1_name">
+		<text>撤离点:调查B28</text>
+	</string>
+	<string id="zat_b107_evacuation_pripyat_1_text">
+		<text>你在其中一架直升机残骸上找到的地图标记了好几个撤离点和一些坐标.你得确认那些军人是否去了B28</text>
+	</string>
+	<string id="zat_b107_evacuation_pripyat_2_name">
+		<text>撤离点:找到B28的坐标</text>
+	</string>
+	<string id="zat_b107_evacuation_pripyat_2_text">
+		<text>其中一架刺鳐直升机的黑匣子记录着小队指挥官曾指定的汇合点.这个地点称为撤离点B28,你得找到它的坐标.</text>
+	</string>
+	<string id="zat_b107_evacuation_pripyat_3_name">
+		<text>撤离点:抵达B28</text>
+	</string>
+	<string id="zat_b107_evacuation_pripyat_3_text">
+		<text>军方指定的集合点位于普里皮亚特内.找到前往普里皮季亚的路.</text>
+	</string>
+	<string id="zat_b107_evacuation_zaton_name">
+		<text>撤离点:调查B2</text>
+	</string>
+	<string id="zat_b107_evacuation_zaton_text">
+		<text>你在其中一架直升机上找到的地图标记了一个撤离点和一些坐标.你得确认那些军人是否去了B2</text>
+	</string>
+	<string id="zat_b14_bring_strange_object_name">
+		<text>奇异现象:把这个神器带给大胡子</text>
+	</string>
+	<string id="zat_b14_bring_strange_object_text">
+		<text>这奇特的光辉来源于一个同样奇特的神器.大胡子一定会对它很感兴趣的.</text>
+	</string>
+	<string id="zat_b14_learn_about_strange_occurrence_by_stalkers_name">
+		<text>奇异现象:问问潜行者们关于这个神器的事</text>
+	</string>
+	<string id="zat_b14_learn_about_strange_occurrence_by_stalkers_text">
+		<text>潜行者里也许有人知道这个古怪的神器,或者他们能告诉我该去问谁.去和他们聊聊.</text>
+	</string>
+	<string id="zat_b14_learn_about_strange_occurrence_name">
+		<text>奇异现象:调查疏通站里奇异光辉的来源</text>
+	</string>
+	<string id="zat_b14_learn_about_strange_occurrence_text">
+		<text>疏通站里发出一些奇特的光.大胡子让你去查个究竟.</text>
+	</string>
+	<string id="zat_b14_take_artefact_name">
+		<text>奇异现象:拿走这个神器</text>
+	</string>
+	<string id="zat_b14_take_artefact_text">
+		<text>这奇特的光辉来源于一个同样奇特的神器.你应该拿走它.</text>
+	</string>
+	<string id="zat_b14_tell_svyaznoy_about_all_name">
+		<text>奇异现象:告诉大胡子关于这个神器的事</text>
+	</string>
+	<string id="zat_b14_tell_svyaznoy_about_all_text">
+		<text>这奇特的光辉来源于一个同样奇特的神器.尽管你没有拿到神器,你也该告诉大胡子事情的来龙去脉.</text>
+	</string>
+	<string id="zat_b20_cross_the_teleport_name">
+		<text>前往高地:跳进异变点</text>
+	</string>
+	<string id="zat_b20_cross_the_teleport_text">
+		<text>看来进入高地的唯一方法就是要通过变异点.你得跳进去.</text>
+	</string>
+	<string id="zat_b20_find_the_teleport_name">
+		<text>前往高地:寻找诺亚的秘密通道</text>
+	</string>
+	<string id="zat_b20_find_the_teleport_text">
+		<text>诺亚的PDA提到他有条通往高地的"私人"秘密通道.找到它.</text>
+	</string>
+	<string id="zat_b20_plato_talk_to_noah_name">
+		<text>前往高地:向诺亚询问前往高地的方法</text>
+	</string>
+	<string id="zat_b20_plato_talk_to_noah_text">
+		<text>据说一名叫诺亚的潜行者知道一条通往高地的路.你得找到那条路怎么走.</text>
+	</string>
+	<string id="zat_b22_bring_proof_name">
+		<text>失踪的潜行者:带回威震天的罪证</text>
+	</string>
+	<string id="zat_b22_bring_proof_text">
+		<text>把记录威震天信息的PDA带回斯卡多夫斯克,交给大胡子看看.这些记录证明了医生才是导致潜行者陆续失踪的幕后元凶.</text>
+	</string>
+	<string id="zat_b22_find_proof_name">
+		<text>失踪的潜行者:找到威震天的罪证</text>
+	</string>
+	<string id="zat_b22_find_proof_text">
+		<text>检查威震天的遗体,看看能不能找到一些和事件有关的罪证.</text>
+	</string>
+	<string id="zat_b28_heli_3_crash_name">
+		<text>刺鳐3号:调查飞机坠毁的地点</text>
+	</string>
+	<string id="zat_b28_heli_3_crash_text">
+		<text>调查刺鳐3号坠毁的地点.</text>
+	</string>
+	<string id="zat_b29_simple_bring_text_1">
+		<text>把指定神器带给大胡子.现在你已经错失先机,现在你的竞争对手也在寻找这个神器.</text>
+	</string>
+	<string id="zat_b29_simple_bring_text_2">
+		<text>把指定神器带给大胡子.记住:你的竞争对手们很快就会开始寻找它.</text>
+	</string>
+	<string id="zat_b29_simple_bring_text_3">
+		<text>把指定神器带给大胡子.但是有消息称另一队人已经找到了它.你得追踪这个信号,并试图率先完成这个任务.</text>
+	</string>
+	<string id="zat_b29_simple_bring_text_4">
+		<text>把指定神器带给大胡子.但是另一队人已经完成了这个任务.如果你找到了神器,只能获得最初一半的酬劳.</text>
+	</string>
+	<string id="zat_b29_simple_bring_text_5">
+		<text>把指定神器带给大胡子.</text>
+	</string>
+	<string id="zat_b29_simple_bring_title_16">
+		<text>神器订单:带一个重力回来</text>
+	</string>
+	<string id="zat_b29_simple_bring_title_17">
+		<text>神器订单:带一个眼睛回来</text>
+	</string>
+	<string id="zat_b29_simple_bring_title_18">
+		<text>神器订单:带一个气泡回来</text>
+	</string>
+	<string id="zat_b29_simple_bring_title_19">
+		<text>神器订单:带一个贝壳回来</text>
+	</string>
+	<string id="zat_b29_simple_bring_title_20">
+		<text>神器订单:带一个金鱼回来</text>
+	</string>
+	<string id="zat_b29_simple_bring_title_21">
+		<text>神器订单:带一个火焰回来</text>
+	</string>
+	<string id="zat_b29_simple_bring_title_22">
+		<text>神器订单:带一个萤火虫回来</text>
+	</string>
+	<string id="zat_b29_simple_bring_title_23">
+		<text>神器订单:带一个雪花回来</text>
+	</string>
+	<string id="zat_b29_simple_find_text_1">
+		<text>你要把指定神器带给大胡子.但是你已经错失先机,现在你的竞争对手们也在找这个神器.</text>
+	</string>
+	<string id="zat_b29_simple_find_text_2">
+		<text>你要把指定神器带给大胡子.记住:你的竞争对手们很快就会开始寻找它.</text>
+	</string>
+	<string id="zat_b29_simple_find_text_3">
+		<text>你要把指定神器带给大胡子.但是有消息称另一队人已经找到了它.你得追踪这个信号,并试图率先完成这个任务.</text>
+	</string>
+	<string id="zat_b29_simple_find_text_4">
+		<text>你要把指定神器带给大胡子.但是另一队人已经完成了这个任务.如果你找到了神器,只能获得最初一半的酬劳.</text>
+	</string>
+	<string id="zat_b29_simple_find_text_5">
+		<text>你要把指定神器带给大胡子.</text>
+	</string>
+	<string id="zat_b29_simple_find_title_16">
+		<text>神器订单:找到一个重力</text>
+	</string>
+	<string id="zat_b29_simple_find_title_17">
+		<text>神器订单:找到一个眼睛</text>
+	</string>
+	<string id="zat_b29_simple_find_title_18">
+		<text>神器订单:找到一个气泡</text>
+	</string>
+	<string id="zat_b29_simple_find_title_19">
+		<text>神器订单:找到一个贝壳</text>
+	</string>
+	<string id="zat_b29_simple_find_title_20">
+		<text>神器订单:找到一个金鱼</text>
+	</string>
+	<string id="zat_b29_simple_find_title_21">
+		<text>神器订单:找到一个火焰</text>
+	</string>
+	<string id="zat_b29_simple_find_title_22">
+		<text>神器订单:找到一个萤火虫</text>
+	</string>
+	<string id="zat_b29_simple_find_title_23">
+		<text>神器订单:找到一个雪花</text>
+	</string>
+	<string id="zat_b30_compass_to_barmen_task_find_name">
+		<text>指南针:找到诺亚,和他打听稀有的神器的消息</text>
+	</string>
+	<string id="zat_b30_compass_to_barmen_task_find_text">
+		<text>你得在旧驳船上找到诺亚并弄清楚稀有的指南针神器在哪儿.大胡子急切需要这个神器,他愿意出高价来收购它们.</text>
+	</string>
+	<string id="zat_b30_compass_to_barmen_task_give_name">
+		<text>指南针:把神器带给大胡子</text>
+	</string>
+	<string id="zat_b30_compass_to_sultan_task_find_name">
+		<text>指南针:向诺亚打听稀有的神器的消息</text>
+	</string>
+	<string id="zat_b30_compass_to_sultan_task_find_text">
+		<text>苏丹想抢先拿到大胡子想要的神器.你得在旧驳船上找到诺亚,打听神器的下落.</text>
+	</string>
+	<string id="zat_b30_compass_to_sultan_task_give_name">
+		<text>指南针:把神器带给苏丹</text>
+	</string>
+	<string id="zat_b30_compass_to_sultan_task_give_text">
+		<text>诺亚给你的一个神器,这正是苏丹想要的指南针.</text>
+	</string>
+	<string id="zat_b30_percent_task_name">
+		<text>黑色交易:跟大胡子索要利润</text>
+	</string>
+	<string id="zat_b30_percent_task_text">
+		<text>大胡子的神器交易完成了,找他索要利润.</text>
+	</string>
+	<string id="zat_b30_sultan_task_1_name">
+		<text>诱人的买卖:跟苏丹谈谈</text>
+	</string>
+	<string id="zat_b30_sultan_task_1_text">
+		<text>商人猫头鹰认为大胡子没有履行他们之间的约定,他建议你去找当地强盗头子苏丹寻求帮助.</text>
+	</string>
+	<string id="zat_b30_sultan_task_2_name">
+		<text>黑色交易:夺取潜行者们的探测器</text>
+	</string>
+	<string id="zat_b30_sultan_task_2_text">
+		<text>那些潜行者正在为大胡子寻找神器,你必须不择手段夺走他们的探测器.如果大胡子失去探测器,他就得听苏丹的话了.</text>
+	</string>
+	<string id="zat_b30_sultan_task_3_name">
+		<text>黑色交易:跟苏丹谈话</text>
+	</string>
+	<string id="zat_b30_sultan_task_3_text">
+		<text>大胡子已经没有探测器了,你再找苏丹谈谈,了解他有没有成功切断大胡子的交易渠道.</text>
+	</string>
+	<string id="zat_b30_sultan_task_4_name">
+		<text>黑色交易:逼迫大胡子为苏丹工作</text>
+	</string>
+	<string id="zat_b30_sultan_task_4_text">
+		<text>既然大胡子已经失去了他所有的客户而且也失去了探测器,他已没法独自行事乐,去强迫他为苏丹工作</text>
+	</string>
+	<string id="zat_b30_sultan_task_6_name">
+		<text>黑色交易:查明大胡子当前在做什么</text>
+	</string>
+	<string id="zat_b30_sultan_task_6_text">
+		<text>你得查明大胡子当前在做什么.这有助于你获得信息来切断他的交易渠道.</text>
+	</string>
+	<string id="zat_b30_sultan_task_7_name">
+		<text>黑色交易:从潜行者身上夺取第二个探测器</text>
+	</string>
+	<string id="zat_b30_sultan_task_7_text">
+		<text>那些潜行者正在为大胡子寻找神器,你必须不择手段夺走他们的探测器.如果大胡子失去探测器,他就得听苏丹的话了.</text>
+	</string>
+	<string id="zat_b30_task_1_name">
+		<text>诱人的买卖:给诺维科夫带去三个维尔斯探测器</text>
+	</string>
+	<string id="zat_b30_task_1_text">
+		<text>商人猫头鹰给了你一份利润丰厚的任务.你的目标是找到三个维尔斯探测器,并带给科学家碉堡的诺维科夫.</text>
+	</string>
+	<string id="zat_b30_task_2_name">
+		<text>诱人的买卖:等待猫头鹰收到这些探测器</text>
+	</string>
+	<string id="zat_b30_task_2_text">
+		<text>诺维科夫收下了这些探测器,并答应亲自把它们送回给猫头鹰.你等他完成这些探测器的改造,然后找猫头鹰获知结果.</text>
+	</string>
+	<string id="zat_b30_task_3_name">
+		<text>诱人的买卖:跟猫头鹰谈谈</text>
+	</string>
+	<string id="zat_b30_task_3_text">
+		<text>商人猫头鹰通过船上的广播通知你,他遇到了问题,想跟你见面谈谈</text>
+	</string>
+	<string id="zat_b30_task_4_name">
+		<text>诱人的买卖:说服大胡子遵守约定</text>
+	</string>
+	<string id="zat_b30_task_4_text">
+		<text>商人猫头鹰认为大胡子违约了.你得跟大胡子谈谈,说服他遵守约定.</text>
+	</string>
+	<string id="zat_b30_task_5_name">
+		<text>诱人的买卖:跟猫头鹰要取奖赏</text>
+	</string>
+	<string id="zat_b30_task_5_text">
+		<text>大胡子认为他不欠猫头鹰一分钱,你得查明谁是对的,然后找他要你的报酬.</text>
+	</string>
+	<string id="zat_b33_zaporojec_text_01">
+		<text>斯纳戈让你找回他的箱子.他把它藏在一辆老旧的扎波罗热牌汽车里,那车在一次地震中跌落到裂缝里去了.因为那儿有很多史诺克出没,斯纳戈不敢下去.</text>
+	</string>
+	<string id="zat_b33_zaporojec_text_02">
+		<text>你拿到了斯纳戈的箱子,把箱子带回去.然后平分里面的物品.</text>
+	</string>
+	<string id="zat_b38_den_of_the_bloodsucker_inform_stalkers_name">
+		<text>吸血怪巢穴:通知潜行者们</text>
+	</string>
+	<string id="zat_b38_den_of_the_bloodsucker_inform_stalkers_text">
+		<text>你在克鲁格雷达站底下找到了一个吸血怪巢穴,把这件事事告诉潜行者们.</text>
+	</string>
+	<string id="zat_b38_den_of_the_bloodsucker_tell_barman_about_all_name">
+		<text>吸血怪巢穴:通知大胡子</text>
+	</string>
+	<string id="zat_b38_den_of_the_bloodsucker_tell_barman_about_all_text">
+		<text>你在克鲁格雷达站底下找到了一个吸血怪巢穴,把这件事事告诉大胡子,让他想出保护潜行者的办法.</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_clean_den_of_the_bloodsucker_name">
+		<text>失踪的潜行者:跟着松鸡</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_clean_den_of_the_bloodsucker_text">
+		<text>松鸡让你跟他一起进入废弃的雷达站调查.他曾在这里见到过吸血怪出没,打算确认下他的猎人在不在那儿.</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_deal_with_medic_name">
+		<text>失踪的潜行者:弄清楚发生了什么</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_deal_with_medic_text">
+		<text>看来威震天欺骗了大家.弄清楚这是怎么回事儿.</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_find_cop_near_port_krans_name">
+		<text>失踪的潜行者:找到松鸡</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_find_cop_near_port_krans_text">
+		<text>出于某种原因,松鸡去了码头起重机.也许他查到了潜行者失踪事件的线索.你去那儿找找他.</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_find_out_where_is_cop_name">
+		<text>失踪的潜行者:找到松鸡在哪儿</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_find_out_where_is_cop_text">
+		<text>松鸡没待在老地方.问问大胡子他去了哪儿.</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_find_to_be_missing_hunter_name">
+		<text>失踪的潜行者:找到失踪的猎人</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_find_to_be_missing_hunter_text">
+		<text>松鸡委托你寻找失踪的猎人.猎人像是找着了吸血怪的巢穴.根据目前情报来看,吸血怪很可能是导致潜行者失踪的真凶.</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_get_out_from_den_of_the_bloodsucker_name">
+		<text>失踪的潜行者:离开吸血怪巢穴</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_get_out_from_den_of_the_bloodsucker_text">
+		<text>你们在地下室发现了一个吸血怪巢穴,里面的生物正在昏睡.你们最好安静一点,赶紧离开这儿.</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_meet_cop_24h_past_name">
+		<text>失踪的潜行者:会见松鸡</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_meet_cop_24h_past_text">
+		<text>或许你该见见松鸡,谈谈寻找失踪潜行者的事.</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_meet_cop_later_name">
+		<text>失踪的潜行者:晚些时候会见松鸡</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_meet_cop_later_text">
+		<text>雷达站里没有发现猎人达尼拉的踪迹.松鸡对于调查结果存在很多疑问.他让你稍后再来找他,以讨论关于这件事的更多细节.</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_meet_ment_name">
+		<text>失踪的潜行者:会见松鸡</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_meet_ment_text">
+		<text>松鸡标记的地点没有猎人达尼拉的踪迹,只有一具吸血怪的尸体.不过松鸡看起来已经找到了重要的线索,他想约你谈谈.</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_tell_barmen_about_medic_text">
+		<text>水落石出:吸血怪与潜行者的失踪一点关系都没有,真正的幕后元凶是威震天医生.</text>
+	</string>
+	<string id="zat_b3_get_tools_1_2_name">
+		<text>寻找工具:找到工具盒带给卡丹</text>
+	</string>
+	<string id="zat_b3_get_tools_1_2_text">
+		<text>卡丹要求你给他带两套工具:一套用于基本改造,一套用于精细改造.修理技师将会为这两套工具付给你不错的报酬,有了这两套工具,修理技师能对你的武器和防护服进行进一步的升级.</text>
+	</string>
+	<string id="zat_b3_get_tools_1_3_name">
+		<text>寻找工具:找到工具盒带给卡丹</text>
+	</string>
+	<string id="zat_b3_get_tools_1_3_text">
+		<text>卡丹要求你给他带两套工具:一套用于基本改造,一套用于校准加工.修理技师将会为这两套工具付给你不错的报酬,有了这两套工具,修理技师能对你的武器和防护服进行进一步的升级.</text>
+	</string>
+	<string id="zat_b3_get_tools_1_name">
+		<text>寻找工具:找到工具盒带给卡丹</text>
+	</string>
+	<string id="zat_b3_get_tools_1_text">
+		<text>卡丹要求你给他找一套用于基本改造的工具.修理技师将会为这套工具付给你不错的报酬,有了这套工具,修理技师能对你的武器和防护服进行进一步的升级.</text>
+	</string>
+	<string id="zat_b3_get_tools_2_3_name">
+		<text>寻找工具:找到工具盒带给卡丹</text>
+	</string>
+	<string id="zat_b3_get_tools_2_3_text">
+		<text>卡丹要求你给他带两套工具:一套用于精细改造,一套用于校准加工.修理技师将会为这两套工具付给你不错的报酬,有了这两套工具,修理技师能对你的武器和防护服进行进一步的升级.</text>
+	</string>
+	<string id="zat_b3_get_tools_2_name">
+		<text>寻找工具:找到工具盒带给卡丹</text>
+	</string>
+	<string id="zat_b3_get_tools_2_text">
+		<text>卡丹要求你给他找一套用于精细改造的工具.修理技师将会为这套工具付给你不错的报酬,有了这套工具,修理技师能对你的武器和防护服进行进一步的升级.</text>
+	</string>
+	<string id="zat_b3_get_tools_3_name">
+		<text>寻找工具:找到工具盒带给卡丹</text>
+	</string>
+	<string id="zat_b3_get_tools_3_text">
+		<text>卡丹托你找一套做校准用的工具.事成之后技师就能对武器、装甲进行更高阶的改造,而你也将获得一笔报酬.</text>
+	</string>
+	<string id="zat_b3_mechanic_toolkit_search_name">
+		<text>寻找工具:找到工具盒带给卡丹</text>
+	</string>
+	<string id="zat_b3_mechanic_toolkit_search_text">
+		<text>卡丹请求你找来3套工具:一套用于基本改造,一套用于精细改造,一套用于校准加工.修理技师将会为这三套工具付给你不错的报酬,有了这三套工具,修理技师能对你的武器和防护服进行进一步的升级.</text>
+	</string>
+	<string id="zat_b40_reconnoitre_merc_camp_01_name">
+		<text>佣兵营地:找到所有能找到的信息</text>
+	</string>
+	<string id="zat_b40_reconnoitre_merc_camp_01_text">
+		<text>猫头鹰承诺支付高报酬收集你在污水处理站得到的一切信息.他对佣兵们的计划很感兴趣.</text>
+	</string>
+	<string id="zat_b40_reconnoitre_merc_camp_02_name">
+		<text>佣兵营地:找到所有能找到的信息</text>
+	</string>
+	<string id="zat_b40_reconnoitre_merc_camp_02_text">
+		<text>猫头鹰承诺支付高报酬收集你在污水处理站得到的一切信息.他对佣兵们的计划很感兴趣.</text>
+	</string>
+	<string id="zat_b44_tech_buddies_barge_name">
+		<text>三人行:寻找巴杰的下落</text>
+	</string>
+	<string id="zat_b44_tech_buddies_barge_text">
+		<text>卡丹请求你帮他向巴杰道歉.他们曾发生了激烈的争执,之后巴杰再也没回来.</text>
+	</string>
+	<string id="zat_b44_tech_buddies_both_name">
+		<text>三人行:寻找巴杰与小丑两人的下落</text>
+	</string>
+	<string id="zat_b44_tech_buddies_both_text">
+		<text>卡丹请求你帮他向巴杰和小丑两位潜行者道歉.他们曾发生了激烈的争执,之后巴杰和小丑再也没回来.</text>
+	</string>
+	<string id="zat_b44_tech_buddies_joker_name">
+		<text>三人行:寻找小丑的下落</text>
+	</string>
+	<string id="zat_b44_tech_buddies_joker_text">
+		<text>卡丹请求你帮他向小丑道歉.他们曾发生了激烈的争执,之后小丑再也没回来.</text>
+	</string>
+	<string id="zat_b51_nimble_items_get_order_name">
+		<text>特殊订单:取货</text>
+	</string>
+	<string id="zat_b51_nimble_items_get_order_text">
+		<text>货物已经运到了,是时候找机灵鬼取货了.</text>
+	</string>
+	<string id="zat_b51_nimble_items_wait_order_name">
+		<text>特殊订单:等待运货</text>
+	</string>
+	<string id="zat_b51_nimble_items_wait_order_text">
+		<text>您已经下了订单,请耐心等待.机灵鬼正在提货路上.</text>
+	</string>
+	<string id="zat_b52_reputation_find_snag_name">
+		<text>声誉:找到斯纳戈</text>
+	</string>
+	<string id="zat_b52_reputation_find_snag_text">
+		<text>你得找到斯纳戈并让他闭嘴.机灵鬼从来不会销售赃物,看来斯纳戈多半在说谎.最近一次有人在码头起重机见过他,到那里应该可以找到他.</text>
+	</string>
+	<string id="zat_b52_reputation_find_snag_text_2">
+		<text>你得找到斯纳戈并让他闭嘴.斯纳戈不在码头起重机,不过强盗们也许知道他的下落.</text>
+	</string>
+	<string id="zat_b52_reputation_find_snag_text_3">
+		<text>你得找到斯纳戈并让他闭嘴.好像强盗和斯纳戈有关系,他们应该知道上哪儿找他.</text>
+	</string>
+	<string id="zat_b52_reputation_find_snag_text_4">
+		<text>你得找到斯纳戈并让他闭嘴.现在似乎没法找到这混蛋的去向了</text>
+	</string>
+	<string id="zat_b52_reputation_find_snag_text_5">
+		<text>你得找到斯纳戈并让他闭嘴.根据强盗的PDA来看,苏丹的人也正在在寻找斯纳戈.遗憾的是,他们也没找到关于他的去向的任何线索.</text>
+	</string>
+	<string id="zat_b52_reputation_know_there_snog_name">
+		<text>声誉:调查斯纳戈到底去了哪里</text>
+	</string>
+	<string id="zat_b52_reputation_know_there_snog_text">
+		<text>斯纳戈已经不在他原来地方,你应该问问当地人有没有知道他的去向.</text>
+	</string>
+	<string id="zat_b52_reputation_know_there_snog_text_2">
+		<text>你得找到斯纳戈并让他闭嘴.他已经不在他原来地方.也许苏丹知道他在哪儿.</text>
+	</string>
+	<string id="zat_b52_reputation_know_there_snog_text_3">
+		<text>你得找到斯纳戈并让他闭嘴.他已经不在他原来地方.也许大胡子知道他在哪儿.</text>
+	</string>
+	<string id="zat_b52_reputation_tell_snag_name">
+		<text>声誉:跟斯纳戈谈谈</text>
+	</string>
+	<string id="zat_b52_reputation_tell_snag_text">
+		<text>你得找到斯纳戈并让他闭嘴.机灵鬼从来不会销售赃物,看来斯纳戈多半在说谎.</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_destroy_lair_name">
+		<text>吸血怪巢穴:找到通风管</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_destroy_lair_text">
+		<text>找到通风管,让毒气灌满吸血怪的巢穴.</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_find_gas_name">
+		<text>吸血怪巢穴:找到毒气</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_find_gas_text">
+		<text>你需要拿到毒气罐,才能摧毁吸血怪的巢穴.猫头鹰应该知道到哪才能找到毒气.</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_find_gas_text_2">
+		<text>你需要拿到毒气罐,才能摧毁吸血怪的巢穴.猫头鹰告诉你,在断桥遇难的军方车队中应该可以找到毒气罐.</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_get_gas_name">
+		<text>吸血怪巢穴:找到箱子钥匙</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_get_gas_text">
+		<text>你找到的文档理提到毒气罐是被锁在一个箱子里的,你得找到这把钥匙.</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_open_gas_box_name">
+		<text>吸血怪巢穴:想办法打开装毒气罐的箱子</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_open_gas_box_text">
+		<text>装毒气罐的箱子看来锁上了,你得想办法打开它.</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_place_gas_name">
+		<text>吸血怪巢穴:安装毒气罐</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_place_gas_text">
+		<text>在雷达站地下室的通风管道口上装好毒气罐.这样毒气就能通过通风管充满整个地下层,最终杀死所有吸血怪.</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_tell_stalkers_about_destroy_lair_name">
+		<text>吸血怪巢穴:告诉大胡子吸血怪的巢穴已被摧毁</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_tell_stalkers_about_destroy_lair_text">
+		<text>告诉大胡子你已经成功摧毁吸血怪的巢穴,潜行者们可以不再担心这个问题.</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_twist_vintil_name">
+		<text>吸血怪巢穴:打开阀门</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_twist_vintil_text">
+		<text>打开阀门,让毒气通过通风井充满吸血怪的巢穴.</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_wait_destroy_name">
+		<text>吸血怪巢穴:等待毒气生效</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_wait_destroy_text">
+		<text>你得等待毒气充满整个地下层室,并且杀死所有的吸血怪.</text>
+	</string>
+	<string id="zat_b5_come_to_bandits_name">
+		<text>交易:到补给站和强盗们碰头</text>
+	</string>
+	<string id="zat_b5_come_to_bandits_text">
+		<text>苏丹要求你参与一次军火交易,你将和他的人一起,为交易者提供保护.</text>
+	</string>
+	<string id="zat_b5_come_to_dealer_name">
+		<text>交易:和商人碰头</text>
+	</string>
+	<string id="zat_b5_come_to_dealer_text">
+		<text>猫头鹰给了你一个任务——在交易期间保护那些军火商人.显然,这是个不见得光的交易,看来会有事发生.</text>
+	</string>
+	<string id="zat_b5_come_to_stalkers_name">
+		<text>交易:到补给站和潜行者碰头</text>
+	</string>
+	<string id="zat_b5_come_to_stalkers_text">
+		<text>到补给站和潜行者碰头,并且帮助他们破坏强盗与军火贩子的交易.</text>
+	</string>
+	<string id="zat_b5_cover_dealer_name">
+		<text>交易:保护军火商</text>
+	</string>
+	<string id="zat_b5_cover_dealer_text">
+		<text>军火商给了你一个任务——在交易期间保护他们.</text>
+	</string>
+	<string id="zat_b5_intercept_talking_name">
+		<text>交易:偷听他们的谈话</text>
+	</string>
+	<string id="zat_b5_intercept_talking_text">
+		<text>潜行者们想要偷听强盗与军火商之间的谈话.</text>
+	</string>
+	<string id="zat_b5_kill_dealer_name">
+		<text>交易:破坏武器交易</text>
+	</string>
+	<string id="zat_b5_kill_dealer_text">
+		<text>不择手段破坏强盗和军火商之间的交易.</text>
+	</string>
+	<string id="zat_b5_kill_stalkers_name">
+		<text>交易:消灭目击者</text>
+	</string>
+	<string id="zat_b5_kill_stalkers_text">
+		<text>军火商的这次交易已经失败,你得消灭所有目击证人.</text>
+	</string>
+	<string id="zat_b5_protect_dealer_name">
+		<text>交易:保护军火商</text>
+	</string>
+	<string id="zat_b5_protect_dealer_text">
+		<text>你得保护军火商,同时他也要求你消灭这场交易所有目击证人,也包括他的客户.</text>
+	</string>
+	<string id="zat_b5_search_body_name">
+		<text>交易:寻找军火商</text>
+	</string>
+	<string id="zat_b5_search_body_text">
+		<text>军火商身上可能有些有用的信息.把这些情报弄到手.</text>
+	</string>
+	<string id="zat_b5_secure_bandits_name">
+		<text>交易:在交易期间掩护强盗们</text>
+	</string>
+	<string id="zat_b5_secure_bandits_text">
+		<text>当强盗们和商人谈判的时候,保持警惕,为他们提供掩护.</text>
+	</string>
+	<string id="zat_b5_speak_dealer_name">
+		<text>交易:和军火商交谈</text>
+	</string>
+	<string id="zat_b5_speak_dealer_text">
+		<text>和强盗们的交易已经完成,你可以去收取报酬了</text>
+	</string>
+	<string id="zat_b5_talk_barmen_name">
+		<text>交易:从大胡子领取你的奖赏</text>
+	</string>
+	<string id="zat_b5_talk_barmen_text">
+		<text>大胡子许下承诺,如果你成功破坏了强盗和商人之间的交易,他就给你一份报酬.现在交易已经被破坏,你可以去领赏了.</text>
+	</string>
+	<string id="zat_b5_talk_to_sultan_name">
+		<text>交易:跟强盗头子谈谈</text>
+	</string>
+	<string id="zat_b5_talk_to_sultan_text">
+		<text>告知强盗头领你已经准备好参加这次交易</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_name">
+		<text>袭击:作出你的决定</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_raiders_name">
+		<text>袭击:攻击潜行者</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_stalkers_reward_name">
+		<text>袭击:领取你的报酬</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_stalkers_reward_text">
+		<text>对营地的袭击已经被挫败,现在你可以跟潜行者谈谈你的报酬了.如果当时你没有及时通知,肯定会全军覆没.</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_text">
+		<text>有一群强盗计划偷袭废船的潜行者.你可以选择,是一起参与这次袭击,是警告这些潜行者,又或者是不介入此事.</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_wait_name">
+		<text>袭击:在攻击前待命</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_time_name">
+		<text>袭击:等待适当的时机</text>
+	</string>
+	<string id="zat_b33_zaporojec_name">
+		<text>碰不着的物品:把箱子带给斯纳戈</text>
+	</string>
+	<string id="zat_b5_talk_stalkers_name">
+		<text>交易:找潜行者小队负责人谈话</text>
+	</string>
+	<string id="zat_b5_talk_stalkers_text">
+		<text>交易已经被破坏,军火商已死.和潜行者小队负责人谈话.</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_tell_barmen_about_medic_name">
+		<text>失踪的潜行者:告诉斯卡多夫斯克上的潜行者到底发生了什么</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_open_container_text">
+		<text>用找到的钥匙把箱子打开,取走毒气罐.</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_open_container_name">
+		<text>吸血怪巢穴:从箱子里取走毒气罐</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_backstab_name">
+		<text>袭击:攻击强盗</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_backstab_text">
+		<text>从后袭击强盗,帮潜行者击退进攻</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_meet_name">
+		<text>袭击:跟强盗们会面</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_raiders_text">
+		<text>和强盗在废船尾部见面,跟强盗们一起偷袭潜行者营地.</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_stalkers_name">
+		<text>袭击:加入强盗</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_stalkers_text">
+		<text>潜行者们请求你帮助他们击退强盗的进攻.他建议你和强盗一起进攻,当交火开始时,你就可以从后面偷袭他们.</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_meet_text">
+		<text>强盗们会在舍甫琴科号待命.你可以加入他们,发动对潜行者的袭击.</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_wait_text">
+		<text>等候与强盗们见面.他们打算在午夜趁着夜色袭击潜行者营地.约定的会合地点在舍甫琴科号尾部.</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_raiders_reward_name">
+		<text>袭击:拿取分成</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_raiders_reward_text">
+		<text>你们成功杀死了所有的潜行者,获得你应得的那一份报酬.</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_time_text">
+		<text>等待强盗全身心投入进攻.从后面偷袭向他们,帮助舍甫琴科号的潜行者渡过难关.</text>
+	</string>
+	<string id="zat_b30_sultan_task_8_name">
+		<text>黑色交易:开始替大胡子工作</text>
+	</string>
+	<string id="zat_b30_sultan_task_8_text">
+		<text>要从帮大胡子干活的潜行者那儿拿走探测器原型,必须先加入他们的阵营.这将有助于你找出其他竞争对手的位置.</text>
+	</string>
+	<string id="zat_b33_zaporojec_text_03">
+		<text>你得拿走箱子并把它带回给它的主人.</text>
+	</string>
+	<string id="zat_b100_guide_maps_01_text">
+		<text>刺鳐2号的机载电脑上有扎通和朱皮特之间的区域地图.你应该找到对此有兴趣的人.</text>
+	</string>
+	<string id="zat_b20_ask_a_stalkers_name">
+		<text>前往高地:和潜行者们谈谈</text>
+	</string>
+	<string id="zat_b20_ask_a_stalkers_text">
+		<text>看起来没有直接通往高地的路径.问问当地的潜行者,也许还有其他的方法.</text>
+	</string>
+	<string id="zat_b30_compass_to_barmen_task_give_text">
+		<text>你从诺亚那儿获得的神器就正是大胡子所要的指南针.</text>
+	</string>
+</string_table>

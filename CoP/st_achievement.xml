@@ -1,0 +1,372 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="st_achievement_10_descr">
+		<text>你的敌人被你连续杀死十次,但是他却没能杀掉你一次!他们一定感到非常的丢脸!你并不是残忍的刽子手,你只是给了他们一个理由让他们继续练习.</text>
+	</string>
+	<string id="st_achievement_10_name">
+		<text>收割者</text>
+	</string>
+	<string id="st_achievement_11_descr">
+		<text>你的技术太强大了!一石二鸟...你用你的高斯枪一枪射穿了两个人,就像烤肉叉一样.嗖!</text>
+	</string>
+	<string id="st_achievement_11_name">
+		<text>烤肉叉</text>
+	</string>
+	<string id="st_achievement_12_descr">
+		<text>你真是一个冷静和精明的家伙,你熟练的用你的双管猎枪瞬间开了两枪,并杀死了两个敌人.</text>
+	</string>
+	<string id="st_achievement_12_name">
+		<text>弹无虚发</text>
+	</string>
+	<string id="st_achievement_13_descr">
+		<text>很显然,你已经成为了一名资深的潜行者,掌握了如此多的战斗技巧.这就是为什么你能成为一名传奇潜行者的原因.</text>
+	</string>
+	<string id="st_achievement_13_name">
+		<text>超越巅峰</text>
+	</string>
+	<string id="st_achievement_14_descr">
+		<text>用刀子对抗穿着外骨骼的敌人?看起来你对刀子的使用已经炉火纯青.在和你战斗时,你的敌人一定感受到了那种深入骨髓的刺痛.</text>
+	</string>
+	<string id="st_achievement_14_name">
+		<text>开罐器</text>
+	</string>
+	<string id="st_achievement_15_descr">
+		<text>当他们以为可以轻松干掉你的时候,你却反杀了他们中的五个人,你告诉了他们谁才是老大,即使你处于极度下风!</text>
+	</string>
+	<string id="st_achievement_15_name">
+		<text>虎胆龙威</text>
+	</string>
+	<string id="st_achievement_16_descr">
+		<text>如此神速!在枪林弹雨之中,你只用了五秒就杀死了五个人!太棒了!</text>
+	</string>
+	<string id="st_achievement_16_name">
+		<text>怒不可遏</text>
+	</string>
+	<string id="st_achievement_17_descr">
+		<text>哇哦,好准!你一枪爆头不仅帮你杀掉了敌人还帮助你脱离了死亡的命运.</text>
+	</string>
+	<string id="st_achievement_17_name">
+		<text>爆头专家</text>
+	</string>
+	<string id="st_achievement_18_descr">
+		<text>让他们躲在角落里好了.即使再猥琐也没办法从你的枪口前逃开,你真是太猛了,在移动中就算不用瞄准也能命中目标!</text>
+	</string>
+	<string id="st_achievement_18_name">
+		<text>闪电反应</text>
+	</string>
+	<string id="st_achievement_19_descr">
+		<text>让他尽全力逃跑好了,就算他是个奥运短跑冠军,你的子弹还是跑得比他快.</text>
+	</string>
+	<string id="st_achievement_19_name">
+		<text>插翅难飞</text>
+	</string>
+	<string id="st_achievement_1_descr">
+		<text>你已经连续宰杀二十名敌人!哇哦,简直是大屠杀!</text>
+	</string>
+	<string id="st_achievement_1_name">
+		<text>刽子手</text>
+	</string>
+	<string id="st_achievement_20_descr">
+		<text>就算他们有三个人,并且都带着狙击枪,你也能轻松杀掉他们.</text>
+	</string>
+	<string id="st_achievement_20_name">
+		<text>神枪手</text>
+	</string>
+	<string id="st_achievement_21_descr">
+		<text>你连一颗子弹都没用,就解决了诸多难题,这是那些不用脑子的野蛮人办不到的.</text>
+	</string>
+	<string id="st_achievement_21_name">
+		<text>和平使者</text>
+	</string>
+	<string id="st_achievement_22_descr">
+		<text>对于一个真正的狙击手来说,距离不是问题!你可以在一百二十米开外击中靶心</text>
+	</string>
+	<string id="st_achievement_22_name">
+		<text>百步穿杨</text>
+	</string>
+	<string id="st_achievement_23_descr">
+		<text>你的敌人放倒了你,但是你也留给他一个惊喜,他们很惊讶地在你的尸体上发现一个拉开栓的手雷.</text>
+	</string>
+	<string id="st_achievement_23_name">
+		<text>纪念品</text>
+	</string>
+	<string id="st_achievement_24_descr">
+		<text>他们虽然杀死了你的朋友,但是你却成功为你的兄弟报了仇.用三个敌人的尸体慰藉三名战友的灵魂——这就是正义.</text>
+	</string>
+	<string id="st_achievement_24_name">
+		<text>复仇者</text>
+	</string>
+	<string id="st_achievement_25_descr">
+		<text>你是你朋友的守护天使,当他携带神器被袭击时你救了他两次.</text>
+	</string>
+	<string id="st_achievement_25_name">
+		<text>天使</text>
+	</string>
+	<string id="st_achievement_26_descr">
+		<text>你没有使小队蒙羞,捍卫了小队的荣誉!敌人未能得逞.</text>
+	</string>
+	<string id="st_achievement_26_name">
+		<text>荣誉捍卫者</text>
+	</string>
+	<string id="st_achievement_27_descr">
+		<text>你真的知道下一个神器会在哪里出现吗?好吧,它才刚出现几秒你就已经得到了它.</text>
+	</string>
+	<string id="st_achievement_27_name">
+		<text>潜行者的直觉</text>
+	</string>
+	<string id="st_achievement_28_descr">
+		<text>你很幸运——你用弹夹里的最后一发子弹杀死了敌人!他们可有好果子吃了,这是肯定的!</text>
+	</string>
+	<string id="st_achievement_28_name">
+		<text>幸运的混蛋</text>
+	</string>
+	<string id="st_achievement_29_descr">
+		<text>你连续击毙八名敌人,地上都是他们的尸体,让我们看看还有谁敢跨过他们的尸体.</text>
+	</string>
+	<string id="st_achievement_29_name">
+		<text>黑名单</text>
+	</string>
+	<string id="st_achievement_2_descr">
+		<text>因为你的谨慎和小心,没人能杀死你.你在整个游戏过程中没死一次而且拿到了至少十五分</text>
+	</string>
+	<string id="st_achievement_2_name">
+		<text>多疑者</text>
+	</string>
+	<string id="st_achievement_30_descr">
+		<text>你喜欢无声无息的行动,所以你爱用消声器,而敌人死了都不知道怎么死的!</text>
+	</string>
+	<string id="st_achievement_30_name">
+		<text>无声杀手</text>
+	</string>
+	<string id="st_achievement_3_descr">
+		<text>你用两倍于敌人的分数击溃了他们</text>
+	</string>
+	<string id="st_achievement_3_name">
+		<text>绝对优势</text>
+	</string>
+	<string id="st_achievement_4_descr">
+		<text>你大胆的计划成功的夺取了神器,在游戏开始的三分钟内为自己的队伍得分</text>
+	</string>
+	<string id="st_achievement_4_name">
+		<text>闪电战</text>
+	</string>
+	<string id="st_achievement_5_descr">
+		<text>你没有让敌人得到一个神器使得他们全军覆没,你教会他们什么叫做合作</text>
+	</string>
+	<string id="st_achievement_5_name">
+		<text>完胜者</text>
+	</string>
+	<string id="st_achievement_6_descr">
+		<text>你得分最高,你杀人最多,你得到神器最多,你死亡次数最少!加油吧继续保持!</text>
+	</string>
+	<string id="st_achievement_6_name">
+		<text>全能冠军</text>
+	</string>
+	<string id="st_achievement_7_descr">
+		<text>你的刀用的出神入化了!你三秒钟捅死了三名敌人,展示了你徒手战斗的技术</text>
+	</string>
+	<string id="st_achievement_7_name">
+		<text>暴走战士</text>
+	</string>
+	<string id="st_achievement_8_descr">
+		<text>就算最强大的对手也有他的弱点.你找到了他的"致命弱点",并用手枪直接击爆了他们的头.</text>
+	</string>
+	<string id="st_achievement_8_name">
+		<text>阿喀琉斯之踵</text>
+	</string>
+	<string id="st_achievement_9_descr">
+		<text>敌人的子弹对你来说无能无力,你毫发无伤的从他们面前走过并且放倒了你的敌人</text>
+	</string>
+	<string id="st_achievement_9_name">
+		<text>光速杀手</text>
+	</string>
+	<string id="st_sp_achievement_1_descr">
+		<text>你很乐意研究特异区的异常产物,你对这些东西的研究贡献更好的推动了对于特异区的科学研究</text>
+	</string>
+	<string id="st_sp_achievement_1_name">
+		<text>先驱者</text>
+	</string>
+	<string id="st_sp_achievement_2_hint">
+		<text>潜行者们对你心怀感激.\n为了肯定你所付出的努力,潜行者们现在在你的个人物品箱中留下弹药补给(亚诺夫站)</text>
+	</string>
+	<string id="st_sp_achievement_2_descr">
+		<text>你从来不会躲避危险的变异怪物,你总能成功地杀死它们,一个好的猎手在潜行者中享有很高的敬意</text>
+	</string>
+	<string id="st_sp_achievement_2_name">
+		<text>怪物猎人</text>
+	</string>
+	<string id="st_sp_achievement_3_hint">
+		<text>潜行者们对你心怀感激.\n为了对你表示尊重,潜行者们在你的个人物品箱中留下药物补给(斯卡多夫斯克)</text>
+	</string>
+	<string id="st_sp_achievement_3_descr">
+		<text>你把"斯卡多夫斯克"潜行者消失的秘密告诉了其他潜行者:幕后真凶并不是变异怪物,而是更加危险的敌人——人类.你追求事情真相的精神赢得了潜行者们对你的尊重</text>
+	</string>
+	<string id="st_sp_achievement_3_name">
+		<text>侦探</text>
+	</string>
+	<string id="st_sp_achievement_4_hint">
+		<text>潜行者们对你心怀感激.\n潜行者们要求交易商给你打折.\n大胡子以收购价向你出售神器.</text>
+	</string>
+	<string id="st_sp_achievement_4_descr">
+		<text>你给强盗以及他们的领导人苏丹上了一课,你告诉了他们谁才是真正的老大,这件事使得你在潜行者中获得了尊重,从今以后斯卡多夫斯克的大门永远向你敞开</text>
+	</string>
+	<string id="st_sp_achievement_4_name">
+		<text>好伙计</text>
+	</string>
+	<string id="st_sp_achievement_5_hint">
+		<text>你赢得了强盗的尊重.\n如今猫头鹰不得不给你打折,不然他很可能成为你枪下的下一个受害者.\n大胡子不得不定期给你保护费</text>
+	</string>
+	<string id="st_sp_achievement_5_descr">
+		<text>你帮助苏丹智胜了潜行者们并且控制了大胡子的生意.如今在扎通谁提起你的名字都得胆战心惊</text>
+	</string>
+	<string id="st_sp_achievement_5_name">
+		<text>黑道老大</text>
+	</string>
+	<string id="st_sp_achievement_6_hint">
+		<text>潜行者们决定把喜鹊通过谎言与欺诈骗取的所有物品送给你,他们认为比起他,你更适合拥有这些东西,他们把这些物品放到了你在亚诺夫的个人物品箱中</text>
+	</string>
+	<string id="st_sp_achievement_6_descr">
+		<text>你惩罚了这个叫喜鹊的潜行者败类,他欺诈蒙蔽了许多人.现在他得到了应有的惩罚.</text>
+	</string>
+	<string id="st_sp_achievement_6_name">
+		<text>正义使者</text>
+	</string>
+	<string id="st_sp_achievement_7_hint">
+		<text>潜行者和你的关系更好了.\n但是当你在特异区活动的时候,强盗们总是会想方设法干掉你</text>
+	</string>
+	<string id="st_sp_achievement_7_descr">
+		<text>在对特异区进行研究的过程中你收集到了所有已知种类的神器,这使你赢得潜行者们的尊重,但是同是你也引起了强盗们的密切关注</text>
+	</string>
+	<string id="st_sp_achievement_7_name">
+		<text>寻宝者</text>
+	</string>
+	<string id="st_sp_achievement_8_hint">
+		<text>卡丹可以为你进行一次特殊的改装,通过在外骨骼上安装液压马达助推器使得你可以在穿着外骨骼时也可以自由奔跑健步如飞了</text>
+	</string>
+	<string id="st_sp_achievement_8_descr">
+		<text>现在卡丹已经拥有了所有他需要的工具,这样他就可以进行更加复杂的改装了</text>
+	</string>
+	<string id="st_sp_achievement_8_name">
+		<text>战斗系统专家</text>
+	</string>
+	<string id="st_sp_achievement_9_hint">
+		<text>尼特罗可以进行一次对战术头盔的特殊改装:加装一个可以探测到附近人类的红外线扫描仪</text>
+	</string>
+	<string id="st_sp_achievement_9_descr">
+		<text>尼特罗得到了作为一个特异区技师所梦寐以求的一切工具,现在他可以进行高科技改装了</text>
+	</string>
+	<string id="st_sp_achievement_9_name">
+		<text>高新技术大师</text>
+	</string>
+	<string id="st_sp_achievement_10_hint">
+		<text>你的经验使得你可以更频繁的寻找到神器</text>
+	</string>
+	<string id="st_sp_achievement_10_descr">
+		<text>如今在特异区中心地带几乎没有你未涉足之地了,你的足迹几乎遍布了所有的特异点</text>
+	</string>
+	<string id="st_sp_achievement_10_name">
+		<text>资深潜行者</text>
+	</string>
+	<string id="st_sp_achievement_11_hint">
+		<text>你出众的领导能力让你的队友有更多的生存机会.</text>
+	</string>
+	<string id="st_sp_achievement_11_descr">
+		<text>当你需要伙伴的时候,你总能组织一个团结的队伍,事实证明你是一个真正的领袖</text>
+	</string>
+	<string id="st_sp_achievement_11_name">
+		<text>领袖</text>
+	</string>
+	<string id="st_sp_achievement_12_hint">
+		<text>自由团,纪律团,独行者,甚至强盗都被你的谈判技巧所折服,并且对你做出高度评价</text>
+	</string>
+	<string id="st_sp_achievement_12_descr">
+		<text>你知道如何用和平的方式去解决问题,当几句简单的话语就可以平息一场纷争的时候,又有谁需要使用武力呢?不过,你可得小心那些先开枪,再问话的人</text>
+	</string>
+	<string id="st_sp_achievement_12_name">
+		<text>外交官</text>
+	</string>
+	<string id="st_sp_achievement_13_descr">
+		<text>你为科学家们工作了这么久,现在可以称呼你为科研助理了,如今在科学家的掩体中每一名科学家都视你为同伴</text>
+	</string>
+	<string id="st_sp_achievement_13_name">
+		<text>科研助理</text>
+	</string>
+	<string id="st_sp_achievement_14_hint">
+		<text>你与纪律团相处融洽.当你遇到麻烦的时候,纪律团战士会试图帮助你脱离困境.\n纪律团的技师尼特罗会给你打折.\n但是由于你与自由团的关系恶化.\n自由团商人如今卖的东西更贵了.</text>
+	</string>
+	<string id="st_sp_achievement_14_descr">
+		<text>你为纪律团提供了大量帮助,这使得你在纪律团战士以及他们的朋友中有了很高的地位,不过别忘了,在特异区并不是所有人都是纪律团的粉丝.</text>
+	</string>
+	<string id="st_sp_achievement_14_name">
+		<text>纪律团之友</text>
+	</string>
+	<string id="st_sp_achievement_15_hint">
+		<text>\n你与自由团相处融洽.当你遇到麻烦的时候,自由团战士会试图帮助你脱离困境.\自由团商人会为你打折.\n你与纪律团的关系进一步恶化.\n纪律团技师尼特罗在为你改装的时候会收更多钱.</text>
+	</string>
+	<string id="st_sp_achievement_15_descr">
+		<text>你为自由团提供了大量帮助,这使得你在自由团战士以及他们的朋友中有了很高的地位,不过别忘了,在特异区并不是所有人都是自由团的粉丝</text>
+	</string>
+	<string id="st_sp_achievement_15_name">
+		<text>自由团之友</text>
+	</string>
+	<string id="st_sp_achievement_16_hint">
+		<text>亚诺夫的潜行者们在纪律团与自由团间的势力争斗中保持中立态度,这就是为什么技师和交易商都会为你打折.</text>
+	</string>
+	<string id="st_sp_achievement_16_descr">
+		<text>你没有站在任何势力的一方,你是一名独行者,你没有任何敌人,但同时你也没有任何朋友.</text>
+	</string>
+	<string id="st_sp_achievement_16_name">
+		<text>局外人</text>
+	</string>
+	<string id="st_sp_achievement_17_hint">
+		<text>交易商为你提供更加稀有且昂贵的商品.</text>
+	</string>
+	<string id="st_sp_achievement_17_descr">
+		<text>虽然你从未觉得缺钱,但也从不随便乱花.有时候,你那巨额的存款能招来羡慕的眼光.商人们都会非常欢迎你这种客人的</text>
+	</string>
+	<string id="st_sp_achievement_17_name">
+		<text>大款</text>
+	</string>
+	<string id="st_sp_achievement_18_hint">
+		<text>当史特列洛克得到笔记的时候,他有了继续奋斗的理由,并且把它作为目标,不惜一切代价.</text>
+	</string>
+	<string id="st_sp_achievement_18_descr">
+		<text>你非常有远见:当你在史特列洛克小组的遗物中发现笔记的时候,你决定保留它直到找到它的真正主人</text>
+	</string>
+	<string id="st_sp_achievement_18_name">
+		<text>守口如瓶</text>
+	</string>
+	<string id="st_sp_achievement_19_descr">
+		<text>电磁风暴来临时,在药物的帮助下,你没有利用掩体存活下来,你不知道这会在你的精神上造成什么样的副作用,你只注意到你的脑中异常的寂静,看来你再也不会听到脑海中那些回荡不已的细语了</text>
+	</string>
+	<string id="st_sp_achievement_19_name">
+		<text>特异区的烙印</text>
+	</string>
+	<string id="st_sp_achievement_20_hint">
+		<text>你是交易商最好的信息来源和搭档,于是他给你打折.</text>
+	</string>
+	<string id="st_sp_achievement_20_descr">
+		<text>当你到手一条信息后你总能找到正确的买家.很显然,在卖给那些需要它的人之前,你的心目中已经有了合适的价位.</text>
+	</string>
+	<string id="st_sp_achievement_20_name">
+		<text>信息贩子</text>
+	</string>
+	<string id="st_sp_achievement_21_hint">
+		<text>你与独行者的关系进一步好转.当你遇到麻烦的时候,独行者战士会试图帮助你脱离困境.\n独行者的医生同意为你提供打折的药品供给.</text>
+	</string>
+	<string id="st_sp_achievement_21_descr">
+		<text>你总是帮助独行者脱离困境.尽管独行者这个派系并不是十分有凝聚力,但他们已经承认是你独行者兄弟会的非正式成员了,并且当你与其它派系发生争斗时他们乐意帮助你.</text>
+	</string>
+	<string id="st_sp_achievement_21_name">
+		<text>独行者之友</text>
+	</string>
+	<string id="st_sp_achievement_1_hint">
+		<text>多样化的新信息为赫尔曼教授和奥泽斯基教授提供了帮助,使得他们可以创造出一种新的实验性药物,提高在特异区的生存能力.</text>
+	</string>
+	<string id="st_sp_achievement_19_hint">
+		<text>当电磁风暴来临时,你有一定几率在没有药物的帮助下也可以存活,假如你健康度足够的话.</text>
+	</string>
+	<string id="st_sp_achievement_13_hint">
+		<text>鉴于你是如此好的帮手,如今赫尔曼教授会为你提供只有掩体中科学家才有的待遇——成本价的药品和装备.\n诺维科夫很乐意帮助你进行他力所能及的改造,而且只需要你支付材料消耗费.</text>
+	</string>
+</string_table>

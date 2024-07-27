@@ -1,0 +1,1023 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+	<string id="dm_anomalies_10">
+		<text>在扎通有一个存在于水中的燃烧变异区.人们管它叫"锅炉",因为蒸汽和其他物质从地下源源不断地渗出来.如果你觉得这些蒸汽形同虚设,那么建议你摆正认识.按老练潜行者的说法,这些蒸汽变异区对你的伤害不比正常的高温变异区强就不错了!也许蒸汽的温度较低,但是它烧灼你的时间更长!至于神器,人们只发现了平常的火焰类神器.</text>
+	</string>
+	<string id="dm_anomalies_11">
+		<text>听他们说露天矿场里有个好地方,神器漫天飞舞,当然也是在铺的满地都是得变异点里.向下下到底的话,大量从化学变异点中逸出的气泡会让你的眼睛看不到明天的太阳.防毒面具?别搞笑了,那东西一点用都不顶!</text>
+	</string>
+	<string id="dm_anomalies_12">
+		<text>"燃灰"是科帕奇附近的老墓园.那里有许多火焰变异点,以及不时出现的僵尸.人们试图躲开那个地方,但是他们也在那边发现了神器.</text>
+	</string>
+	<string id="dm_anomalies_13">
+		<text>他们说停车场那边发现了神器.那里躺着切尔诺贝利第一次灾难中遗留下的车——那些宝贝儿们让辐射计量表心痛.而且,那地方也布满了静电变异点.</text>
+	</string>
+	<string id="dm_anomalies_14">
+		<text>在扭曲树林那里,树木都被酸性物质弄得歪歪扭扭的.去过那的人说那边都是化学变异点.空气中的毒气浓度太高以至于你不能看得很清楚,但是如果拥有足够的经验你也能找到想要的神器.</text>
+	</string>
+	<string id="dm_anomalies_15">
+		<text>如果你在找神器,那么去找酸类的吧.拿到那种东西最好的地方就是水泥池里.你不会碰上一窝蜂的竞争对手:没人喜欢那里,因为那里离朱皮特的建筑太近了.</text>
+	</string>
+	<string id="dm_anomalies_16">
+		<text>离朱皮特工厂不远的地方有一段过不去的路.人们管那个地方叫"沥青",因为那里的路面都融化了.当然这里有很多变异点——火焰变异点和重力变异点的强强联合.不过两种变异点共同作用产生的神器一定有所不同!</text>
+	</string>
+	<string id="dm_anomalies_17">
+		<text>在被叫做"碱沼水泥厂"的水泥厂对面有个小避风港.整个港现在变成了一摊恶臭的沼泽,水里到处都是化学变异点.那里的水已经不再是水了,倒是更像酸.以前有人在那里找到过神器,但是那边也有着成群的怪物.</text>
+	</string>
+	<string id="dm_anomalies_18">
+		<text>去拜访一下水泥厂吧.你得跟许多变异点打交道,但是也值了.真的,那里有很多比别的地方更容易得到神器的地点,但是也更容易遇到对手.不过你的对手唯一的成员就是老鼠,而且只是在你进入地下室之后.</text>
+	</string>
+	<string id="dm_anomalies_19">
+		<text>你应该到松橡变异区附近看看.那东西在山间的化学变异点上生长.人们都开始那么叫它是在几个土包子发现它的树皮既像橡树皮又像松树皮.你要是想在那找神器,得准备完备的化学防护手段.还得带上大量弹药,因为那些山丘是一大群狗的巢穴.</text>
+	</string>
+	<string id="dm_anomalies_2">
+		<text>有些时候你不用非得跳进变异点中去往神器旁边凑合.别人告诉我有个在开阔地被发现的神器.当时那个潜行者的探测器失灵了,所以他决定换块电池.当他换完的时候,探测器突然开始叫唤,一个神器几乎正好落在他手里.他是个幸运儿,不是吗?那是特异区送给你的:有时候它惩罚你,有时候它也会奖励你.</text>
+	</string>
+	<string id="dm_anomalies_20">
+		<text>我听老手潜行者说,有些时候神器会从变异点中移动到外边.于是你的探测器开始"哔哔哔",然后你拿出了探测器,但是那里空空如也.那表示一块"游牧民"神器从你身边溜走了,但是别对它那么执着,因为把它送给谁是特异区想好了的事.</text>
+	</string>
+	<string id="dm_anomalies_21">
+		<text>现在还没有人在普里皮亚特找过神器.每个去过那里的我认识的人都只是在那待一小会儿,而且还战战兢兢的.</text>
+	</string>
+	<string id="dm_anomalies_22">
+		<text>我不知道有没有人知道那里有没有好地方.普里皮亚特到目前为止还缺乏仔细的勘察.</text>
+	</string>
+	<string id="dm_anomalies_23">
+		<text>我想去那些地下通道里看看.听他们说城市的地下有海量的那些玩意!</text>
+	</string>
+	<string id="dm_anomalies_24">
+		<text>关于这部分,我所知的不多.多半都是加里讲的故事.他说有个地方,从酸雾变异点中长出了一根巨大的葡萄藤,跟一幢十层的公寓一样高.他说不定在耍我们,但是我或许应该去那根藤那里调查一下,能发现神器也说不定.</text>
+	</string>
+	<string id="dm_anomalies_3">
+		<text>最毫无疑问的地方就是这片酸性沼泽地.到处是重力变异点,但是那种变异点容易发现.只要好好看着水面你就不会失足.化学变异点才是更让人头疼的,因为那基本没有空气让你呼吸.一个人过去逞英雄可不是闹着玩的,相信我.那东西吞噬你防护服的速度可比硫酸快多了.</text>
+	</string>
+	<string id="dm_anomalies_5">
+		<text>山上烧毁的农场那里有大量的火焰变异点.人们在那能找到火焰神器.再看房子里面:一次电磁风暴过后,不管是哪都都是大量的变异点.那也会是个盛产神器的地方.</text>
+	</string>
+	<string id="dm_anomalies_6">
+		<text>或许大部分神器都在烧毁的农场下面的洞窟里.你要是拿着个探测器在山上走,它就响个不停.拿到他们也很简单——从上面的裂缝跳下去就好了.不过怎么出来就是个难题了,要知道下面可满是变异点.大多数是漩涡和酸雾.有人甚至宣称从缺口看到过像彗星一样的东西.诚然,那里混合了各式各样的危险,但是那意味着那里也混合了各种神器.</text>
+	</string>
+	<string id="dm_anomalies_7">
+		<text>你见过"火环"变异区吗?那是个巨大的跳板变异点,两个彗星围着它一圈一圈地飞——真是个值得一看的场景.当然,你得从远处观看,因为大圈里有许多火焰变异点,自然很热.里头肯定也有一大堆神器,但是那些神器被恶心的火焰鬼守卫着,想往里面走的话,它们会试着把你做成烤肉.</text>
+	</string>
+	<string id="dm_anomalies_9">
+		<text>如果你对重力神器感兴趣,那就去"利爪"变异区里去找吧.那种变异区容易发现——它在地面上留下了痕迹,除去了小山丘的一大半.山上被开了一些洞,史诺克们立刻就住了进去.谢天谢地,它们很少出来.</text>
+	</string>
+	<string id="dm_anomalies_do_not_know_1">
+		<text>在特异区里,伙计,想在特异区活下去,就千万不要放弃.</text>
+	</string>
+	<string id="dm_anomalies_do_not_know_2">
+		<text>很好的问题.你要是知道答案的时候就告诉我吧.</text>
+	</string>
+	<string id="dm_anomalies_do_not_know_3">
+		<text>在哪,何时,何故...记着:要是找到好东西,肥水不流外人田.</text>
+	</string>
+	<string id="dm_anomalies_general">
+		<text>我在哪能找到神器?</text>
+	</string>
+	<string id="dm_anomalies_no_more_1">
+		<text>我已经告诉过你了.</text>
+	</string>
+	<string id="dm_anomalies_no_more_2">
+		<text>不,我不知道别的了.</text>
+	</string>
+	<string id="dm_anomalies_no_more_3">
+		<text>我就知道这些.去问问别人吧.</text>
+	</string>
+	<string id="dm_hello_0">
+		<text>什么事,兄弟?</text>
+	</string>
+	<string id="dm_hello_1">
+		<text>你好.</text>
+	</string>
+	<string id="dm_hello_10">
+		<text>你好,潜行者.</text>
+	</string>
+	<string id="dm_hello_11">
+		<text>你好.</text>
+	</string>
+	<string id="dm_hello_12">
+		<text>你想要什么?</text>
+	</string>
+	<string id="dm_hello_13">
+		<text>什么事?</text>
+	</string>
+	<string id="dm_hello_14">
+		<text>说吧.</text>
+	</string>
+	<string id="dm_hello_15">
+		<text>下午好,少校长官!</text>
+	</string>
+	<string id="dm_hello_16">
+		<text>下午好!</text>
+	</string>
+	<string id="dm_hello_17">
+		<text>我在听着,少校长官.</text>
+	</string>
+	<string id="dm_hello_18">
+		<text>你好.</text>
+	</string>
+	<string id="dm_hello_19">
+		<text>嗯?我在听着.</text>
+	</string>
+	<string id="dm_hello_20">
+		<text>在听着呢.</text>
+	</string>
+	<string id="dm_hello_21">
+		<text>嘿.</text>
+	</string>
+	<string id="dm_hello_22">
+		<text>你好呀.</text>
+	</string>
+	<string id="dm_hello_23">
+		<text>嘿,潜行者.</text>
+	</string>
+	<string id="dm_hello_24">
+		<text>你好.</text>
+	</string>
+	<string id="dm_hello_25">
+		<text>在听着呢.</text>
+	</string>
+	<string id="dm_hello_26">
+		<text>嗯?我在听着.</text>
+	</string>
+	<string id="dm_hello_27">
+		<text>在听着呢.</text>
+	</string>
+	<string id="dm_hello_2">
+		<text>是的,嘿.</text>
+	</string>
+	<string id="dm_hello_3">
+		<text>什么?</text>
+	</string>
+	<string id="dm_hello_4">
+		<text>本人在此.</text>
+	</string>
+	<string id="dm_hello_5">
+		<text>嘿,潜行者.你这么急干吗?</text>
+	</string>
+	<string id="dm_hello_6">
+		<text>嗨,伙计.</text>
+	</string>
+	<string id="dm_hello_7">
+		<text>嗨.</text>
+	</string>
+	<string id="dm_hello_8">
+		<text>哦,嘿,哥们儿.</text>
+	</string>
+	<string id="dm_hello_9">
+		<text>你好.</text>
+	</string>
+	<string id="dm_hello_general">
+		<text>嘿!</text>
+	</string>
+	<string id="dm_help_0">
+		<text>兄弟,帮帮我!</text>
+	</string>
+	<string id="dm_help_1">
+		<text>兄弟,救救我,我快要死了....</text>
+	</string>
+	<string id="dm_help_10">
+		<text>我需要急救箱援助!</text>
+	</string>
+	<string id="dm_help_11">
+		<text>急救箱...快!</text>
+	</string>
+	<string id="dm_help_2">
+		<text>哥们儿,救我...啊,好疼!</text>
+	</string>
+	<string id="dm_help_3">
+		<text>给我急救箱...急救箱,快...</text>
+	</string>
+	<string id="dm_help_4">
+		<text>伙计...呃啊...过来一下,帮帮我!</text>
+	</string>
+	<string id="dm_help_5">
+		<text>啊,我需要个急救箱...快...</text>
+	</string>
+	<string id="dm_help_6">
+		<text>帮帮我,潜行者...请给我一个急救箱就好...</text>
+	</string>
+	<string id="dm_help_7">
+		<text>我受伤了...救命!</text>
+	</string>
+	<string id="dm_help_8">
+		<text>需要急救箱!!!</text>
+	</string>
+	<string id="dm_help_9">
+		<text>急救箱!!!</text>
+	</string>
+	<string id="dm_information_1">
+		<text>你听说过斯卡多夫斯克号东边的疏通站吗?他们说那边晚上有诡异的光摇曳不定...就算在这天方夜谭的变异区也十分诡异,你留点心.我真的不知道那里是否值得去调查一下.也许能证明那是个有价值的东西,但是它是否值得我去当那个冒险的傻瓜?这是个问题...</text>
+	</string>
+	<string id="dm_information_10">
+		<text>那边除了一堆破旧的东西以外没别的了.注意到断裂的大桥上的破烂的车队了吧——那些东西已经锈得底朝天了,当然,也包括那座破桥.许多人都会很乐意在那片区域闲逛的,如果那里没有史诺克和变异点的话...</text>
+	</string>
+	<string id="dm_information_11">
+		<text>你听说过苏丹要抢大胡子的生意这件事了吗?斯卡多夫斯克号没大倒能满足这头蠢驴的贪婪的程度,所以他想抢到馅饼上更大的一块...但是我们说,"没门儿,混蛋"大胡子和我们剩下的人毫无疑问地让他们下了地狱.苏丹的流氓行动在这不管用,哈哈!</text>
+	</string>
+	<string id="dm_information_12">
+		<text>哇噢,你听说过这事儿吗?那个卑鄙的苏丹想去钳制大胡子...我不知道他具体都做了些什么,但是看起来他给大胡子带来了麻烦.特异区以后会何去何从呢?要是再这样下去,在你认出斯卡多夫斯克号之前它就已经变成一个强盗基地了.</text>
+	</string>
+	<string id="dm_information_13">
+		<text>兄弟,你听说过"绿洲"吗?他们说那是一个很难找到的,并且就算知道在哪都很难到达的地方.人们相信那里有一个湖.只要你走进去,你的所有疾病就一扫而空,你的所有伤口就立即愈合!啊,不扯没用的了.你看没看到有多少菜鸟潜行者来到这里,想要到达变异区的中心?有些人想来这寻宝,有些人只是好奇,但是最多的是来找绿洲的.传言是,它藏在附近的某处...</text>
+	</string>
+	<string id="dm_information_14">
+		<text>有人说变异区就快要又一次大动静了...有人找到了绿洲并拿走了它的神器——绿洲之心.现在的变异区会转换到另一个维度中去,没有一个潜行者能从中逃出来...开玩笑的,伙计.但是他们的确找到了一些新品种的神器.我们说话的功夫,科学家们正在他们的碉堡里没头没脑地对着这些新神器敲敲打打呢.</text>
+	</string>
+	<string id="dm_information_15">
+		<text>听说过托波尔吗?他给他的小子们找了新的屎坑让他们去钻,当然,他们乐呵呵地去了.结果他们的冒险行为以被脑波怪煮熟了脑子而告终.要是没有那个潜行者陪着他们去的话,他们现在就得躺在医院的病床上了.托波尔察觉到那些恶心的僵尸的时候,那个潜行者正蹲在脑波怪的边上割它的耳朵.</text>
+	</string>
+	<string id="dm_information_16">
+		<text>你听说过科帕奇村吗?当时最初的那场灾难波及切尔诺贝利核电站的时候,那片区域变得十分糟糕以至于他们想埋了整个村子.现在在那里取代房子的只有一个个带有放射性的小土丘.听人说那个地方在灾难之前就是个阴森恐怖的地方,我只要一想现在能在那里发现什么就会浑身发抖.所有人都不敢去调查那里.但是如果他们错了会怎样呢——那将是一座我们都熟知的神器金矿!</text>
+	</string>
+	<string id="dm_information_17">
+		<text>你知道,在亚诺夫只有两个潜行者能感觉到电磁风暴的接近.接骨师,我们的医生,以及祖鲁,一名前纪律团成员."前"这个前缀还是最近才加上去的...当纪律团来到亚诺夫车站的时候,自由团的战士们已经在那里了.你可以想象得到,事情很快恶化了.双方损失都很惨重,连一些自由的潜行者也被流弹击中.这时是祖鲁告诉他们风暴就要来了.纪律团和自由团别无选择,只得宣布停战然后在车站挤在一起避风头.当这些都结束了,祖鲁就退出了纪律团,在车站附近的塔里住了下来.</text>
+	</string>
+	<string id="dm_information_18">
+		<text>有各种各样骇人听闻的诡异故事...这些鬼话估计你一个都不会相信.那些日子里特异区说书的多得很.但奇怪的是,居然有几个亚诺夫车站里的潜行者报告说看到了UFO.他们说那东西看起来像一个直径16英尺的黑碟子.其他人则声称那东西看起来像远处的飞机,他们很确定那东西是什么.一个不可辨驳的事实就是其中一个目击者曾是一名飞行员,他说他这辈子从来没见过像那样的东西.</text>
+	</string>
+	<string id="dm_information_2">
+		<text>最近除了坏消息以外就没别的了.优秀的人们一个接一个地消失,然后我们找到了他们的尸体——一滴血都不剩.这就是那些该死的吸血怪干的好事,除了它们还有谁?噢,我真想找到他们的巢然后喷他们满身铅弹!过一阵子我们上厕所都得两人一队,知道吗?谁落单谁傻瓜.</text>
+	</string>
+	<string id="dm_information_20">
+		<text>有你条闻所未闻的.是这样,自由团的家伙们拿到了纪律团传奇般的创建者的PDA.然后你知道怎么了吗?结果是这位传奇人物骗了它的手下,告诉他们,部队的上层已经把他们遗弃在了变异区.他那么干只是为了建立自己的组织!但是那样的混蛋在变异区活不长的.不久以后我们的英雄发现自己被困在了空间泡里,他就这么完蛋了.这就是事情的来龙去脉...亏了我还曾经考虑过加入纪律团!算了,让他们继续呕出那些自以为是的傻话去吧,离我远点.</text>
+	</string>
+	<string id="dm_information_21">
+		<text>那个纪律团的新小队,你知道...他们老是无中生有.想想吧:一队纪律员战士离开了亚诺夫,然后回来的却是三倍数量的人.他们克隆了自己还是用了什么别的手段?我猜你也应该料到了,纪律团就是那样,我想你也猜得到会变成这种情况.他们区分不同的人的标准只有等级!</text>
+	</string>
+	<string id="dm_information_22">
+		<text>那个自由团的新小队,你知道...他们老是无中生有.想想吧:一队自由团战士离开了亚诺夫,然后回来的却是三倍数量的人.他们克隆了自己还是用了什么别的手段?我有了个想法:他们是靠分裂成长的!你也这么想,不是吗?都是他们抽的烟在作怪,他们会先生根,然后像植物一样复制自己!</text>
+	</string>
+	<string id="dm_information_23">
+		<text>知道冈塔和他那伙人吗?人们有一阵子对他们的运气评价很差,达尼拉消失了,螃蟹也受了伤.但是他们最近却混得很好.那伙人跟科学家们相处的很好,为科学家们弄到令他们满意的测量结果.很好,不是吗?这是他们迈向正式认可的最轻松的一步.</text>
+	</string>
+	<string id="dm_information_24">
+		<text>听说过叫米泰,托巴和灰熊的潜行者吗?我听说他们从科学家那里接到了一份测量的工作.这又能怎么样?你要是问我,我只能说那些知识分子从来不干好事.但是,最起码那帮家伙现在都很轻松.他们有一天兴许会拿到正式认可的.</text>
+	</string>
+	<string id="dm_information_25">
+		<text>知道斯巴达克斯和他的船员们吗?好吧,你不会再在斯卡多夫斯克号看见他们了——他们现在正在科学家的碉堡给科学家们当看门狗.为什么不呢——他们可以轻松地应付变异生物,而且知道如何撵走港湾里的强盗.搞科学可是一门需要安静平和的有价值的事业啊!</text>
+	</string>
+	<string id="dm_information_26">
+		<text>你见过那帮在变电所里等活儿的佣兵吗?最近你应该见不到他们了.他们到朱皮特去守卫科学家们的碉堡了.在他们之前也有别的佣兵在守卫那里,但是我听说那帮人好像出了点事.你要是问我的话我倒不觉得这是坏趋势!有些佣兵消失了,别的佣兵去代替他们,然后也跟着消失了...在这么多来几次,扎通就可以彻底摆脱这帮恶心的佣兵了.</text>
+	</string>
+	<string id="dm_information_27">
+		<text>人们说现在科学家的碉堡正在被一群英勇的纪律团战士保护着...我就不明白这对他们有什么好处.难道他们真的相信里边的那帮"家"们能用全新的猎鼠用离子枪来回报他们?搞笑的卫兵,呵呵呵...</text>
+	</string>
+	<string id="dm_information_28">
+		<text>他们说现在科学家的碉堡被自由团保护着.难道科学家们就不怕他们的试验样本被烟熏黑吗——我说真的!尽管这样,好处还是有的.如果有人想攻击碉堡,那他们先得从烟幕里穿过去!哈哈哈!</text>
+	</string>
+	<string id="dm_information_29">
+		<text>你见过朱皮特吗,就是那个无线电电子学工厂?那可是个让人毛骨悚然的鬼地方!没人真正知道那里究竟发生了什么.变异点和变异生物跟别的地方也差不多...但是我还是觉得我不想去那里.我的直觉告诉我那去地方就是自找麻烦.</text>
+	</string>
+	<string id="dm_information_3">
+		<text>看看看看,你不就是那个揭发了斯卡多夫斯克号的医生的人吗?我很欣赏你,真的.你知道吗,我差点就成了他的下一个病人...我们都觉得变异生物对我们有威胁,但是我猜人类也好不到哪去.我们生活在一个人吃人的残酷世界里,我说得不对吗?</text>
+	</string>
+	<string id="dm_information_30">
+		<text>我应该跟你说说这个问题.在你进入朱皮特底下的那些隧道里之后,我们听说了你到达了离变异区中心很近的地方的传言.这引起了大骚动.想追随你的脚步的人有一大堆.但是尼特罗让他们冷静了下来——他说隧道的门被永远的关死了,他没有任何方法来把它重新打开.当然,有些亡命之徒想把那些门炸开,但是他们还得解决上哪弄到足够的炸药,以及他们真的下去以后怎么呼吸的问题.</text>
+	</string>
+	<string id="dm_information_31">
+		<text>哦,你听说过加里的最新新闻吗?那个曾经为科学家工作的潜行者.他已经不再是个"入侵者"了——他已经被特异区承认了,信不信由你!那么,你认为他应该卷起它的赃物和铺盖回老家,是吗?好吧,这个疯狂的家伙反而准备去普里皮亚特.每个人都认为他是去找一些好货色,像其他人一样,但是事实远非如此.他做到了,但是他的丰功伟绩对潜行者们来说没什么作用.后来他碰到了几个军方的家伙.现在加里在海军陆战队混的很逍遥,拥有了名誉以及其他的一切,但是那片区域对一般潜行者来说还是禁止入内的.</text>
+	</string>
+	<string id="dm_information_32">
+		<text>好吧...自由团和纪律团又打起来了,这次是为了几个重要的藏匿点.他们说那里有足以装备三个步兵队伍的设备器械.不知道谁是最开始建立那个藏匿点的,但是要摊牌实在不简单.这惊动了亚诺夫所有的潜行者,但是很走运的是,他们都很自觉地退居二线了,要不我们又得迎来一场大混战.我猜纪律团得到了最糟糕的结果,因为现在那个地方已经被自由团的小队把守着了.</text>
+	</string>
+	<string id="dm_information_33">
+		<text>好吧...纪律团和自由团又打起来了,这次是为了几个重要的藏匿点.他们说那里有足以装备三个步兵队伍的设备器械.不知道谁是最开始建立那个藏匿点的,但是要摊牌实在不简单.这惊动了亚诺夫所有的潜行者,但是很走运的是,他们都很自觉地退居二线了,要不我们又得迎来一场大混战.我猜纪自由团得到了最糟糕的结果,因为现在那个地方已经被纪律团的小队把守着了.</text>
+	</string>
+	<string id="dm_information_34">
+		<text>最近发生了一些事情.一个潜行者小组进入了朱皮特的地下隧道中去探险,结果他们被卷进了一件麻烦事——我是说有些人.首先他们的武器从他们的手里自己飞了出去,接着四周所有的废品都朝他们砸去.他们不知道这究竟是怎么回事,不过不幸的是他们还是损失了两名小伙子.</text>
+	</string>
+	<string id="dm_information_35">
+		<text>我听说他们在朱皮特北部的隧道里发现了一种恶心臃肿的变异生物.特拉皮尔派了其中的一个潜行者去调查,结果那里只不过是曾经的一个小矮人的巢穴罢了.为什么是"曾经"?因为一个潜行者已经把所有的小矮人都清扫干净了.就他自己...你的外貌好像很符合有关他的描述,只不过他更高一点,而且老是扛着一个榴弹发射器.</text>
+	</string>
+	<string id="dm_information_36">
+		<text>潜行者一点不顶用...怪物们不断从沼泽地里面涌出来.水泥厂的潜行者们亲眼目睹了它们把我们的一个人拖走了.它们最少有十二个,像你这样的大混蛋肯定不会相信的.他们看起来像是吸血怪,但是有吸血怪的两倍大而且移动更为迅速.我们正在祈祷特拉皮尔能指出怎么处理那类怪兽...</text>
+	</string>
+	<string id="dm_information_37">
+		<text>你听说过沼泽吸血怪吗?在碱沼水泥厂里的那种?好吧,他们都消失了.因为特拉皮尔去拜访了一下它们...当然,不是一个人——他雇用了几个潜行者.听他们说他组织了一群人,大概十个左右,然后一遍一遍地扫荡沼泽地区,不管是什么,只要出现在他们面前,他们就把它打回老家.那个地方现在连只青蛙都不剩了.</text>
+	</string>
+	<string id="dm_information_38">
+		<text>不久以前有传闻说有人逮到了一只奇美拉.变异怪物过去杀了不计其数的潜行者,但是我觉得我们最终还是变得聪明起来并且开始扭转局势.我还从别的路子听说了,那家伙是个很有经验的猎手,他杀掉的怪物比你一生中打死的蚊子数量还多!</text>
+	</string>
+	<string id="dm_information_39">
+		<text>这些天你听说过自由团新兵的事吗?有个叫打火石的小伙子,到处鼓吹他的那几次不起眼的冒险经历和战利品...好吧,最后他到底成了个人渣.他甩下了身陷变异点中的同伴,拿起所谓战利品飞似的跑了.后来人们揭露了更多他在扎通时的"光辉事迹",他差点将一整队的猎手送入奇美拉的口中.我还曾经认为自由团还不错...该死,让我有这种朋友还不如无组织的好.</text>
+	</string>
+	<string id="dm_information_4">
+		<text>嗯,他们在扎通撂倒了一只奇美拉.干这事的是冈塔那帮人和一个身份不明的潜行者.等一下,那就是你,不是吗?没准你可以给我提供第一手的讯息是吗?太感谢了,顺便说一下——那是少数的几种吃人的变异生物中最值得担心的!</text>
+	</string>
+	<string id="dm_information_40">
+		<text>不知道这事有没有说的价值,但是我们这有诺亚这小子在,他可能是你见过的最麻烦的疯子.他搞到了一个丑陋的驳船...看起来好像他有很多非法劳工在一周之内给他把这玩意建了起来,呵呵.你得当心点他,他见面都是先开枪,而且之后更是懒得问问题.要我说,让这个白痴跟他那破地方一起下地狱吧!</text>
+	</string>
+	<string id="dm_information_41">
+		<text>你知道那个神出鬼没的机灵鬼吗?是的,他的确够狡猾的.他总是在推销这附近毫无疑问的最好的枪.我真不明白他是怎么像那样走私它们的.我的意思是,你怎么能藏着一把VSS看起来还像没拿似的?你把它藏哪了?兄弟,这里边肯定有点小把戏.</text>
+	</string>
+	<string id="dm_information_42">
+		<text>这是道听途说的,苏丹已经陷进了更麻烦的情况中.达尼拉想要除掉大胡子然后抢了他的生意,但是他显然眼大肚子小.结果偷鸡不成蚀把米.现在他伴着手下们的侧目过着苦难的日子.他再也没有往日呼风唤雨的影响力了.</text>
+	</string>
+	<string id="dm_information_43">
+		<text>有传闻说,苏丹已经把大胡子捏在手心里了,正在逐渐消化着大胡子的生意.那真是个狗日的好消息,现在苏丹的影响力增强了不少,但是最好的事是我们现在可以用自己的方式来运作斯卡多夫斯克号了.情况会变得很好.想找地方躲避电磁风暴?没问题,只要交钱就行!</text>
+	</string>
+	<string id="dm_information_44">
+		<text>嗨伙计,你听说过绿洲吗?想象一下,那是一个能立刻治愈你所有的痛苦和伤病的好地方.它也许是一种戏法或者魔法...但是我有了另外的想法.到处都是关于绿洲的小传闻,但是人们对过去有关许愿机的传言却只字不提.这样的话,没准绿洲就是已经实现了的某个人的愿望呢.</text>
+	</string>
+	<string id="dm_information_45">
+		<text>在科学家之间流传着这样的说法:有的神器被从绿洲一路弄到了这里.而且看这个:他们准备用他们的研究来弄出一套治愈癌症的方法!不错!</text>
+	</string>
+	<string id="dm_information_46">
+		<text>一样的胡扯,不一样的日子...每个人都在发掘那些有关特异区中心的老故事.比如关于绿洲的——一个能瞬间恢复你的精力,治愈你的伤口的地方.这是个纯粹的,一点不掺假的胡话,但是听起来还算有意思.尤其是他们谈论绿洲的位置的时候.哦,我倒是希望真有那么个地方...这样我们能在自己的身上省下一大笔钱.</text>
+	</string>
+	<string id="dm_information_47">
+		<text>我听说他们通过葡萄藤找到了绿洲.我从不认可它的存在,但是事实是明摆着的事了.在那里有个神器被发现了.这时候科学家正在研究它.或许他们能靠那东西做出什么能飞速治疗的设备...我们的身体能够利用一下那东西.</text>
+	</string>
+	<string id="dm_information_48">
+		<text>科帕奇.对特异区来说这不是什么新闻,但是对我来说是.想象一下——整个村子的房子被完全埋进了地里...这得一路追溯到1986年...这些房子放出大量的辐射,人们不得不把它们埋起来.真是吓人...</text>
+	</string>
+	<string id="dm_information_49">
+		<text>你知道我们和纪律团是怎么最终一起挤在亚诺夫的吗?都是祖鲁一手促成的.当时他是纪律团的一员,不像一般人,他可以嗅到电磁风暴的来临...但是是我们先来到了亚诺夫,确切的说是在独行者们之后.我们刚点支烟的功夫,那帮二百五就出现了,对着我们疯狂地开枪.我最后一次见到那种大屠杀还是一年以前,在废弃区.双方都死了很多人.我们的电磁风暴专家就在当中,是上帝保住了他的小命.当时祖鲁喊道:"电磁风暴要来了!找掩护!"我们当时又能做什么呢?把他们扔在外面让他们送死?不管是不是纪律团的,他们最起码还是人.这就是我们现在的生活:平静的时候为一点小事就争论不休,但是要是电磁风暴来了,我们又得一个挨一个地挤在一起.祖鲁,他最后还是离开了纪律团.现在他在亚诺夫附近作为一名隐士生活着.</text>
+	</string>
+	<string id="dm_information_5">
+		<text>现在既没有新闻也没有什么秘密可言,但是技师卡丹却在把他自己往死里灌.他们说他刚来到斯卡多夫斯克号的时候干得很顺利,偶尔喝点酒只是为了减轻辐射的影响.后来他的两个朋友死了,他受了很大打击,开始没命地喝酒.他们的关系也许真的很亲密...</text>
+	</string>
+	<string id="dm_information_50">
+		<text>好吧,有个很有趣的故事.有个伙计正在谈论关于亚诺夫上空飞过的UFO的事.特异区真的能把人逼疯,不是吗?现在吵闹鬼和脑波怪对他们来说都不够了,不对,应该说他们没有那个UFO的故事都活不了了.好吧,最起码我们这里现在没有哪个跳大神的疯子想把恶灵从伏特加瓶子里赶出去.想象一下他们会做什么:"啊,上帝,去除邪恶的灵魂!留下纯净的灵魂!"...哈哈.</text>
+	</string>
+	<string id="dm_information_51">
+		<text>你听说过科帕奇村吗?当时最初的那场灾难波及切尔诺贝利核电站的时候,那片区域变得十分糟糕以至于他们想埋了整个村子.现在在那里取代房子的只有一个个带有放射性的小土丘.听人说那个地方在灾难之前就是个阴森恐怖的地方,我只要一想现在能在那里发现什么就会浑身发抖.所有人都不敢去调查那里.</text>
+	</string>
+	<string id="dm_information_52">
+		<text>这个不算什么新闻,但是你没准没听说过.我们跟自由团关系恶劣就是应为我们喜欢一起行动.这都是险恶的环境逼出来的.我满来到这的时候,自由团不管在哪都袭击我们...双方都损失惨重,但是尽管很缓慢,我们跟那些无政府主义者相比还是在逐渐占上风...但是战斗达到白热化的时候,祖鲁感觉到了一场电磁风暴的接近.你知道的,他从来不会搞错...我们别无选择,只能暂时休战.我唯一不明白的就是祖鲁在那次事件之后为什么离开了纪律团...</text>
+	</string>
+	<string id="dm_information_53">
+		<text>我们的斥候最近报告说亚诺夫上空有未确认的飞行物体飞过.用俗话说就是UFO.在你问出一些蠢问题之前,我得声明UFO可不是什么装满火星人的会飞的碟子.反正在目击者也不能确认那是什么,我们可以暂且认为那就是个飞行气象探测装置什么的.不是吗?</text>
+	</string>
+	<string id="dm_information_54">
+		<text>你就是那个把PDA交给洛基的家伙,对吧?朋友,这可真好极了.纪律团传奇般的创始人,塔琴科将军,像吸血怪似的杀了他自己的士兵.他毁了无线电设备,这样外界就无法找到他和他那帮愚蠢的追随者们了...结果他们只能在空间泡中嘶叫着来面对这道真正的屏障!哥们儿,你不能胡乱瞎编!</text>
+	</string>
+	<string id="dm_information_55">
+		<text>看见那帮二百五士兵组成的新小队了?现在他们还不能作为援兵——因为他们的意识形态还没有完全取代优秀的判断力.但是他们受过很好的训练,实力已经足以铲平潜行者了.谁知道怎么回事.他们会不会是从黑石组织来的?我知道,这听上去很疯狂!</text>
+	</string>
+	<string id="dm_information_56">
+		<text>看见我们的新战士了?哦,你把他们带到这里了,不是吗?你吓到我了.他们真的很酷,就是有点拘谨...不过那没关系,跟我们混几个月他们就能解放思想了.他们会很快的开始发觉我们的生活方式并且喜欢上我们这里.</text>
+	</string>
+	<string id="dm_information_57">
+		<text>我们找到了一些很棒的新兵:一小队原来黑石组织的战士.而且他们并不是新手,是老练的战士.当然,他们的脑袋在离开黑石之后还没完全恢复意识.但是那没关系,针对这个问题,我们有一个,或者更多特别的意识形态初级速成班.</text>
+	</string>
+	<string id="dm_information_58">
+		<text>听他们说自由团吸纳了一些原黑石组织的士兵.这真是难以置信,但是他们确实有个新小队,而且可以确定不是来自特异区外部的.我猜他们都不要命了...要么就是他们的脑袋已经被药烧坏了.那么他们的下一队新兵会是什么呢,一个僵尸旅吗?还是一个小矮人营?</text>
+	</string>
+	<string id="dm_information_59">
+		<text>这片区域很快就会重新拥有法律和秩序了.纪律团已经占领了这里的关键地域.我们已经在亚诺夫车站站稳了脚跟,而且我们在科学家的碉堡里受到了全天候无微不至的保护.现在自由团该卷铺盖回家了——无政府主义者在这里是不被欢迎的.</text>
+	</string>
+	<string id="dm_information_6">
+		<text>世界上最新的奇观——清醒的卡丹.你能相信他戒酒了吗?斯卡多夫斯克号的人问他还能不能记起来AA热线的号码,结果他回答说,"我需要记住的数字只是62".</text>
+	</string>
+	<string id="dm_information_60">
+		<text>我想是你帮我们的人找到了守卫科学家营地的工作,不是吗?真是谢谢了.看到我们的人接替了原来那些狗日的佣兵真是痛快.干得好!</text>
+	</string>
+	<string id="dm_information_61">
+		<text>让我们想想...我们对纪律团的秘密藏匿点产生了极大的兴趣.现在我们会让那个隐藏点发挥原定的作用——当做一个监狱,逼那些纪律团的渣滓们说出他们所有的秘密.呵呵.哦,顺便还得谢谢你提醒我们有关报警系统的事——没有援兵我们根本没有机会.</text>
+	</string>
+	<string id="dm_information_62">
+		<text>纪律团的又一场胜利!那帮无政府主义者这次是真的装大发了...潜入我们的秘密仓库,还觉得他们能全身而退.当然不行!我们给了他们点惊喜,然后像对待那些疯狂的老鼠一样把他们的脑袋吹飞了.</text>
+	</string>
+	<string id="dm_information_63">
+		<text>自由团都是一帮来历不明的人,这已经不算什么新闻了,但是我们最近又发现了一些关于他们中最疯的疯子的新轶事.这得谈到自由团中一个叫打火石的家伙,但是他加入自由团之前是叫作喜鹊的潜行者.最起码他来到扎通之前是叫这个名字,他把一队猎人直接送进了变异生物的嘴里.由于他干的好事,那些家伙差点被一只奇美拉撕成了碎片,然后那帮蠢货就这样拖着他们的装备来到了亚诺夫.加入了自由团以后,他把自己的同伴扔进了一个变异点里,然后抢走了他的神器.看见了吧,这就是自由团能对你做出来的事.</text>
+	</string>
+	<string id="dm_information_7">
+		<text>一个诺亚提出的新船屋计划.这是扎通最近比较有吸引力的焦点问题——一个名叫诺亚的潜行者.一个有经验的,有目的的而且彻头彻尾的疯子.他最新的疯点子是从末日中拯救所有的潜行者.为了那个目的,他把一艘破旧的驳船改造成了"方舟".一个不折不扣的疯子工厂.你要是决定去拜访一下的话,确定别弄烦了诺亚.只要你不那么做,他就没有半点危险.</text>
+	</string>
+	<string id="dm_information_8">
+		<text>你跟机灵鬼会过面吗?他现在正在斯卡多夫斯克号.在他所从事的交易方面,他可是个专家.他能搞到任何你想要的东西.好吧,几乎任何东西.最近他只关注武器和防护装,但是都是顶级货!特制物品,实用的设计,手工用品...他的东西都不便宜,但是为什么这样?都是垄断惹的祸!</text>
+	</string>
+	<string id="dm_information_9">
+		<text>领航员正在用一条新路在扎通和朱皮特之间来往?过去这得花很长时间——翻山越岭,躲避变异点之类的.但是现在却成了小菜一碟.不像是长途跋涉,倒像是在公园散步,更别说只用一半时间了.但是领航员却把这份功劳还给了它的主人——他不是发现这条路线的人.一名潜行者给他看了自己的地图.当然,这是要收费的,但是他也没要太多.</text>
+	</string>
+	<string id="dm_information_do_not_know_1">
+		<text>说实话,真的没什么.</text>
+	</string>
+	<string id="dm_information_do_not_know_2">
+		<text>你看看,不管在任何地方,特异区中总是有新鲜事.</text>
+	</string>
+	<string id="dm_information_do_not_know_3">
+		<text>好吧,你现在在这里.我猜这就是条新闻了.</text>
+	</string>
+	<string id="dm_information_general">
+		<text>变异区有什么新闻吗?</text>
+	</string>
+	<string id="dm_information_no_more_1">
+		<text>我不知道有什么能让你感兴趣的事.</text>
+	</string>
+	<string id="dm_information_no_more_2">
+		<text>我很乐意再跟你说点什么,但是这些就是我听说过的所有事了.</text>
+	</string>
+	<string id="dm_information_no_more_3">
+		<text>我已经告诉你我知道的所有事情了.</text>
+	</string>
+	<string id="dm_job_1">
+		<text>唔...没准你应该问问在斯卡多夫斯克号的松鸡.他正因为一件事到处寻求帮助——潜行者们消失得无影无踪.每个人都认为是吸血怪搞的鬼,因为当他们的尸体被发现的时候,里面都被吸干了.这实在是太过分了...它们隔两天就去抓一两个人.松鸡甚至雇佣了一个有经验的猎人去追捕那些吸血怪.</text>
+	</string>
+	<string id="dm_job_10">
+		<text>你知道,当一个潜行者需要钱的时候,他有两种方法可选:去找神器然后1卢布30戈比卖给商人,或者是为科学家们工作.他们经常能找到一些适合潜行者做的工作,像是运送稀有的神器,或是带来一具变异生物的尸体等等.比这些都重要的是,如果你跟他们混熟了,他们能给你提供一个来往特异区的许可证,这是完全正式合法的.想象一下你背着一大兜子的战利品,通过一个军事检查点,还能被热烈的欢迎!这真让我动心!不管怎么说,科学家的碉堡坐落在亚诺夫车站的西部.他们已经有了一个为他们工作的潜行者,但也许他们还能雇佣像你这样的家伙.</text>
+	</string>
+	<string id="dm_job_11">
+		<text>你的老本行干得很成功啊.如果你不介意去猎杀变异生物的话,你的订单会多得像下雪.去拜访一下亚诺夫的基地,找特拉皮尔谈谈吧——他能给你很多清理变异生物的报酬,但是别随便打死一只就回来索要报酬.特拉皮尔指定的都是一些特定的变异生物,比如说阻挠人们取得神器的,或者是位于潜行者们躲避电磁风暴的掩体中的变异生物.</text>
+	</string>
+	<string id="dm_job_14">
+		<text>像你这样的小伙子来到斯卡多夫斯克号都愿意去拜访一下大胡子.他对于神器会出相当不错的价钱...但我得告诉你一件事——他的经商头脑很差劲.他不会同一些有实力的人们分享他的利益...那帮人早晚有一天会回来反咬他一口的.你明白吗?</text>
+	</string>
+	<string id="dm_job_15">
+		<text>如果你需要大量的钱,那么去拜访一下猫头鹰吧.在斯卡多夫斯克号他几乎出售所有人们需要的东西——信息、枪支、以及其它任何东西.你要是找到了一些有价值的流行货色,比如说一份文件或者是一些潜行者的PDA——他么把这洗东西带给他然后去领报酬吧.接受他的私人委托也能拿到不错的报酬.只要问问他需要什么就好.</text>
+	</string>
+	<string id="dm_job_2">
+		<text>你可能想去见见冈塔.他和他的小弟们有很多值得一听的故事.前不久一只奇美拉出现在了扎通,然后冈塔和他的人去追它.他们分成两组去追踪那头野兽,同时派了其中的一名猎人去寻找吸血怪的巢穴.他们发现奇美拉的时候人手有点不足,所以另一名潜行者,喜鹊出现了.我不知道事情是怎么收场的,但是大多数人一致认为喜鹊一看到奇美拉就头也不回地跑了.冈塔也仅仅在那袖手旁观,他的人仅仅受了点轻伤.但是最后那只奇美拉仍然在逃,所以他们还在找人帮忙.</text>
+	</string>
+	<string id="dm_job_3">
+		<text>那很简单:如果你继续现金,苏丹会帮你.他是本地的帮派头目,如果你表现得像个能干的家伙,他能给你提供几个工作.</text>
+	</string>
+	<string id="dm_job_4">
+		<text>如果你擅长潜行——就是说,找神器什么的——跟大胡子谈谈吧.他在这附近很有名望.他是在这附近唯一的能给你的神器开个好价钱的人.他找到了把神器买到特异区外面的途径.此外,你知道,他还是个很好的人...总是给你提供好的建议和合适的工作.</text>
+	</string>
+	<string id="dm_job_5">
+		<text>在斯卡多夫斯克号有一个商人,他的名字是猫头鹰.他有点令人不快.因为他整天不停地抱怨为什么神器都跑到了大胡子而不是他的手里,但是如果你需要钱,亦可以去看看他想要什么.这只狐狸出售大量的弹药.他能告诉你不少事情,卖给你不少东西,但是你得知道他对你的事和你为了打听事情付出的代价也很感兴趣.去拜访一下他吧——他在船尾的第二个船舱里.我确信你们能一起商量点事情.</text>
+	</string>
+	<string id="dm_job_6">
+		<text>你可以去问问瓦诺,他应该在亚诺夫的酒吧里闲逛.他老是跟那帮强盗勾勾搭搭——试图偿还他那已经涨到三倍的债务.他有经验和所需的一切,他闭着眼睛都能确定变异点的位置...即便这样他还是总惹麻烦.有些人建议他离开这里.特异区很大,那帮暴徒想找到他根本是不可能的.但是他就是放不下自己的傲气,而且也没人想帮他解决他跟强盗们的梁子.</text>
+	</string>
+	<string id="dm_job_7">
+		<text>忘掉所谓的工作吧,朋友...强盗现在已经无法控制了——他们扣留了米泰,而且定下了苛刻的赎金.米泰是第一批到达亚诺夫的潜行者之一,是他创立了这个供潜行者躲避电磁风暴的地方,结果现在他有麻烦了却没人帮他哪怕一点小忙.别指望自由团或是纪律团了——他们都忙着掐住对方的喉咙...但是剩下的人们——他们应该做点什么!啊,光这么说有什么用呢...米泰自己的人都不知道怎么把他救出来.你要是想帮他们,就去跟灰熊谈谈,你可以在车站酒吧找到他.</text>
+	</string>
+	<string id="dm_job_8">
+		<text>亚诺夫的技师尼特罗需要点材料.他即精于武器又精于电子设备,这你得知道.但是有些时候巧妇难为无米之炊——他需要材料,所以他就四处询问.问题是安全的地方已经被扫荡干净了,剩下的地方大都很危险.尼特罗希望有人能冒一下这个险,但是我确定他会为这件麻烦事付出很好的价钱.</text>
+	</string>
+	<string id="dm_job_9">
+		<text>我听说亚诺夫车站的雅大叔想找一个老实的潜行者来帮他解决一些问题.不知道他为什么不找自己在自由团的哥们儿...不管怎么说,他是个像样的老手了,所以你或许应该跟他谈谈,看看你能不能做点什么.</text>
+	</string>
+	<string id="dm_job_do_not_know_1">
+		<text>嗯...没听说过有那样的人.</text>
+	</string>
+	<string id="dm_job_do_not_know_2">
+		<text>我更想自己去了解.</text>
+	</string>
+	<string id="dm_job_do_not_know_3">
+		<text>我怎么会知道?</text>
+	</string>
+	<string id="dm_job_general">
+		<text>你知道有谁能给我找个工作吗?</text>
+	</string>
+	<string id="dm_job_no_more_1">
+		<text>那个问题你已经问过我了.</text>
+	</string>
+	<string id="dm_job_no_more_2">
+		<text>没什么能告诉你的新东西了.</text>
+	</string>
+	<string id="dm_job_no_more_3">
+		<text>你已经从我这得到答案了.</text>
+	</string>
+	<string id="dm_universal_actor_exit">
+		<text>好吧,忘了它吧.</text>
+	</string>
+	<string id="dm_universal_actor_start">
+		<text>我想问你一些事.</text>
+	</string>
+	<string id="dm_universal_npc_start_0">
+		<text>去别处问问吧.</text>
+	</string>
+	<string id="dm_universal_npc_start_1">
+		<text>说吧.</text>
+	</string>
+	<string id="dm_universal_npc_start_2">
+		<text>请讲.</text>
+	</string>
+	<string id="dm_universal_npc_start_3">
+		<text>我听着呢.</text>
+	</string>
+	<string id="dm_wounded_general">
+		<text>帮帮忙!</text>
+	</string>
+	<string id="dm_wounded_medkit">
+		<text>拿着这个医用急救箱.</text>
+	</string>
+	<string id="dm_wounded_sorry">
+		<text>对不起,我什么也没有.</text>
+	</string>
+	<string id="dm_traveler_bye">
+		<text>我明白了.</text>
+	</string>
+	<string id="dm_traveler_what_are_you_doing">
+		<text>你忙什么呢?</text>
+	</string>
+	<string id="dm_traveler_can_i_go_with_you">
+		<text>我能跟你们一起走吗?</text>
+	</string>
+	<string id="dm_traveler_stalker_actor_companion_yes">
+		<text>当然.越多越好.</text>
+	</string>
+	<string id="dm_traveler_stalker_actor_companion_no">
+		<text>不行,抱歉.我得自己走.</text>
+	</string>
+	<string id="dm_traveler_actor_go_with_squad">
+		<text>那么我们走吧.</text>
+	</string>
+	<string id="dm_traveler_take_me_to">
+		<text>我想去几个地方,付点钱你能带我去吗?</text>
+	</string>
+	<string id="dm_traveler_stalker_where_do_you_want">
+		<text>没问题.你想去哪?随便挑吧.</text>
+	</string>
+	<string id="dm_traveler_actor_agree">
+		<text>我同意.那我们走吧.</text>
+	</string>
+	<string id="dm_traveler_actor_refuse">
+		<text>我改变主意了.</text>
+	</string>
+	<string id="dm_traveler_stalker_i_cant_travel">
+		<text>不了,我有个急事儿要办.</text>
+	</string>
+	<string id="dm_stalker_doing_nothing_1">
+		<text>我很方便.</text>
+	</string>
+	<string id="dm_stalker_doing_nothing_2">
+		<text>没什么别的事,只是坐下休息一会儿.</text>
+	</string>
+	<string id="dm_stalker_doing_nothing_3">
+		<text>我像在做什么?反正不是什么坏事.</text>
+	</string>
+	<string id="dm_stalker_chasing_squad_monster">
+		<text>跟踪变异怪物.</text>
+	</string>
+	<string id="dm_stalker_chasing_squad_bandit">
+		<text>我正在罩着两个白痴.碍事的废物...</text>
+	</string>
+	<string id="dm_stalker_chasing_squad_killer">
+		<text>追踪几个佣兵.这帮人真是混蛋.</text>
+	</string>
+	<string id="dm_stalker_chasing_squad_monolith">
+		<text>我正在尾随一队狂热者.就是说,黑石组织的士兵...</text>
+	</string>
+	<string id="dm_stalker_chasing_squad_zombied">
+		<text>我在跟着几个僵尸.这附近有很多那种混蛋玩意...</text>
+	</string>
+	<string id="dm_traveler_travel_cost">
+		<text>好吧,这会让你付出代价.</text>
+	</string>
+	<string id="dm_traveler_actor_dont_go_with_squad">
+		<text>你知道的,我改变主意了.</text>
+	</string>
+	<string id="dm_traveler_actor_has_no_money">
+		<text>我没有那么多钱.</text>
+	</string>
+	<string id="dm_freedom_doing_nothing_1">
+		<text>噢,我猜没关系.</text>
+	</string>
+	<string id="dm_freedom_chasing_squad_monster">
+		<text>我正在跟踪几个变异生物.有人想知道它们的位置.</text>
+	</string>
+	<string id="dm_freedom_chasing_squad_bandit">
+		<text>我正要去追几个当地的流氓.</text>
+	</string>
+	<string id="dm_freedom_chasing_squad_killer">
+		<text>我要去揭了那几个佣兵的头皮.他们的帐得亲自上门去算了.</text>
+	</string>
+	<string id="dm_freedom_chasing_squad_monolith">
+		<text>我正在跟着那些疯疯癫癫的黑石组织的人.</text>
+	</string>
+	<string id="dm_freedom_chasing_squad_duty">
+		<text>我正试着跟踪我的几个债务人.</text>
+	</string>
+	<string id="dm_duty_doing_nothing_1">
+		<text>我现在没事.</text>
+	</string>
+	<string id="dm_duty_chasing_squad_monster">
+		<text>我正猎杀变异生物,试着清除这片区域中的那帮恶心的东西.</text>
+	</string>
+	<string id="dm_duty_chasing_squad_bandit">
+		<text>我正在执行任务,追踪一个强盗小队.</text>
+	</string>
+	<string id="dm_duty_chasing_squad_killer">
+		<text>我的目标是佣兵.我正在尾随他们的小队.</text>
+	</string>
+	<string id="dm_duty_chasing_squad_monolith">
+		<text>我正跟着一个黑石小队.</text>
+	</string>
+	<string id="dm_duty_chasing_squad_freedom">
+		<text>我正追逐那些痴呆的疯子——就是自由团...</text>
+	</string>
+	<string id="dm_stalker_searching_artefacts_1">
+		<text>我正在寻找神器.</text>
+	</string>
+	<string id="dm_stalker_searching_artefacts_2">
+		<text>我可不是在采蘑菇...准确的说,是在找神器.</text>
+	</string>
+	<string id="dm_stalker_searching_artefacts_3">
+		<text>我正在搜寻神器.</text>
+	</string>
+	<string id="st_stalker_zat_sim_1">
+		<text>我正在往"锅炉"变异区走,一个小树丛旁边的那个.</text>
+	</string>
+	<string id="st_stalker_zat_sim_2">
+		<text>我正准备去北边的湖...想在那个半岛上休息休息.</text>
+	</string>
+	<string id="st_stalker_zat_sim_3">
+		<text>我正想去北方的湖——那边有一个很不错的营地.</text>
+	</string>
+	<string id="st_stalker_zat_sim_4">
+		<text>我要去湖那边的森林.</text>
+	</string>
+	<string id="st_stalker_zat_sim_5">
+		<text>我正去风车磨坊西边的小树林.</text>
+	</string>
+	<string id="st_stalker_zat_sim_6">
+		<text>我正往沼泽地西边的山那里走.在那里沼泽地的脏东西一点也沾不到我身上.</text>
+	</string>
+	<string id="st_stalker_zat_sim_7">
+		<text>我正往雷达站那里走.在它西边有一个不错的小地方.</text>
+	</string>
+	<string id="st_stalker_zat_sim_8">
+		<text>我正在往松橡西边的树林那儿走...要是你喜欢的话就一起来吧——我不介意有个伴.</text>
+	</string>
+	<string id="st_stalker_zat_sim_9">
+		<text>到铁森林和车间中间的小树林那去.</text>
+	</string>
+	<string id="st_stalker_zat_sim_10">
+		<text>前往那座大桥...那里的西边好像有一个安全,隐秘的小地方.</text>
+	</string>
+	<string id="st_stalker_zat_sim_11">
+		<text>去破旧的驳船南方的停车场.</text>
+	</string>
+	<string id="st_stalker_zat_sim_12">
+		<text>没什么特别的,只是旅行.我们正要去斯卡多夫斯克号东边的山上扎营.</text>
+	</string>
+	<string id="st_stalker_zat_sim_13">
+		<text>到马戏团和加油站中间的小树林那里.</text>
+	</string>
+	<string id="st_stalker_zat_sim_14">
+		<text>一个废料处理站附近的岔路那儿.</text>
+	</string>
+	<string id="st_stalker_zat_sim_15">
+		<text>到"锅炉"变异区那里.</text>
+	</string>
+	<string id="st_stalker_zat_sim_16">
+		<text>到补给站那里.那边有个建筑群,你或许见过它.其中的一个很是抢手——我不知道那边正搞什么鬼.</text>
+	</string>
+	<string id="st_stalker_zat_sim_17">
+		<text>到烧毁的农场西边的小树林.</text>
+	</string>
+	<string id="st_stalker_zat_sim_18">
+		<text>到"锅炉"变异区东边的小树林.</text>
+	</string>
+	<string id="st_stalker_zat_sim_19">
+		<text>到北边的湖那边的山上去.</text>
+	</string>
+	<string id="st_stalker_zat_sim_20">
+		<text>到烧毁的农场南边的小树林.</text>
+	</string>
+	<string id="st_stalker_zat_sim_21">
+		<text>我正打算去斯卡多夫斯克号西边...这些管子来的地方.</text>
+	</string>
+	<string id="st_stalker_zat_sim_22">
+		<text>我正在往斯卡多夫斯克号和打捞站中间的一个地方.</text>
+	</string>
+	<string id="st_stalker_zat_sim_23">
+		<text>到破旧的驳船附近的一个河口.</text>
+	</string>
+	<string id="st_stalker_zat_sim_24">
+		<text>到"断痕"变异区附近的小溪.</text>
+	</string>
+	<string id="st_stalker_zat_sim_25">
+		<text>到加油站.</text>
+	</string>
+	<string id="st_stalker_zat_sim_26">
+		<text>到松橡山谷.</text>
+	</string>
+	<string id="st_stalker_zat_b55">
+		<text>我想去"利爪"变异区中去找找神器.</text>
+	</string>
+	<string id="st_stalker_zat_a1">
+		<text>我正往"锅炉"变异区西侧的山上走.</text>
+	</string>
+	<string id="st_stalker_zat_a23_smart_terrain">
+		<text>到"铁森林"变异区.</text>
+	</string>
+	<string id="st_stalker_zat_b100">
+		<text>我正到"铁森林"变异区去寻找神器.</text>
+	</string>
+	<string id="st_stalker_zat_b101">
+		<text>我要去沼泽地带.当然,在那些毒气里不是那么容易呼吸的,但是神器的光辉让这点困难显得不值一提.</text>
+	</string>
+	<string id="st_stalker_zat_b103_merc_smart">
+		<text>我要去变电所那边.他们说那是个躲避电磁风暴的好地方,我打算去那试试.</text>
+	</string>
+	<string id="st_stalker_zat_b104_zombied">
+		<text>你知道这附近有个锯木厂,那里就是我要去的地方.我想好好调查一下那地方,看看有没有什么有价值的东西.</text>
+	</string>
+	<string id="st_stalker_zat_b106_smart_terrain">
+		<text>我觉得我想去胜地马戏团去放松一下.哦,那当然是个好去处...因为到处都是豚兽和野猪!哈哈!就算这样,我还是确定我可以在那露营几天.</text>
+	</string>
+	<string id="st_stalker_zat_b12">
+		<text>到大桥那边,我想地图上标的"列奥布拉任斯基"就是那个地方.</text>
+	</string>
+	<string id="st_stalker_zat_b14_smart_terrain">
+		<text>到打捞站.我打赌那片区域还会有很多有价值的东西.</text>
+	</string>
+	<string id="st_stalker_zat_b18">
+		<text>到破旧的驳船那去.</text>
+	</string>
+	<string id="st_stalker_zat_b20_smart_terrain">
+		<text>我想去烧毁的农场闯一闯,看看那边能不能突然发现什么新种类的神器.</text>
+	</string>
+	<string id="st_stalker_zat_b28">
+		<text>到南方的高原去.</text>
+	</string>
+	<string id="st_stalker_zat_b33">
+		<text>到加油站旁边的裂缝去.</text>
+	</string>
+	<string id="st_stalker_zat_b38">
+		<text>我要到克鲁格雷达站——是因为想要找一个能躲避电磁风暴的安全的地方.不幸的是,那边可能有一大堆怪物.</text>
+	</string>
+	<string id="st_stalker_zat_b38u">
+		<text>我要到克鲁格雷达站——是因为想要找一个能躲避电磁风暴的安全的地方.不幸的是,那边可能有一大堆怪物.</text>
+	</string>
+	<string id="st_stalker_zat_b39">
+		<text>我要到松橡附近去找到神器.如果顺利的话那帮蠢蛋会老老实实地躺在那里.</text>
+	</string>
+	<string id="st_stalker_zat_b40_smart_terrain">
+		<text>到污水池...你知道,那个旧处理厂.要躲电磁风暴的话那是个好地方.</text>
+	</string>
+	<string id="st_stalker_zat_b42_smart_terrain">
+		<text>我要去北边湖中的码头.到那里之后我会见机行事.</text>
+	</string>
+	<string id="st_stalker_zat_b52">
+		<text>我要去码头,就是起重机所在的那个地方.一个安营扎寨的好地方.</text>
+	</string>
+	<string id="st_stalker_zat_b53">
+		<text>我计划去"锅炉"变异区找神器.我只希望我的外套能让我在那个小温泉里多活一会儿.</text>
+	</string>
+	<string id="st_stalker_zat_b54">
+		<text>到"断痕"变异区.</text>
+	</string>
+	<string id="st_stalker_zat_b56">
+		<text>我想试试我的装备的耐热性,以便于找神器——在"圆圈"变异区里.</text>
+	</string>
+	<string id="st_stalker_zat_b5_smart_terrain">
+		<text>到补给站.</text>
+	</string>
+	<string id="st_stalker_zat_b7">
+		<text>我要去舍甫琴科号露营.那里对于躲避电磁风暴来说很安全,而且对于变异生物来说是一道坚不可摧的防线.</text>
+	</string>
+	<string id="st_stalker_zat_b7_stalker_raider">
+		<text>我要去舍甫琴科号露营.那里对于躲避电磁风暴来说很安全,而且对于变异生物来说是一道坚不可摧的防线.</text>
+	</string>
+	<string id="st_stalker_zat_medic_home_smart">
+		<text>我要去码头,就是起重机所在的那个地方.一个安营扎寨的好地方.</text>
+	</string>
+	<string id="st_stalker_zat_stalker_base_smart">
+		<text>我想找个地方倾销我的战利品然后喝一两杯.斯卡多夫斯克号正是我要找的地方.</text>
+	</string>
+	<string id="st_stalker_jup_a10_smart_terrain">
+		<text>我要去军方的检查点,在朱皮特工厂的旁边.</text>
+	</string>
+	<string id="st_stalker_jup_a12">
+		<text>到集装箱仓库.</text>
+	</string>
+	<string id="st_stalker_jup_a12_merc">
+		<text>我要去一个在集装箱仓库和南方隧道之间的一个总的来说不怎么起眼的地方.</text>
+	</string>
+	<string id="st_stalker_jup_a6">
+		<text>到亚诺夫车站.然后放松一下.</text>
+	</string>
+	<string id="st_stalker_jup_b1">
+		<text>到科帕奇北面的隧道.</text>
+	</string>
+	<string id="st_stalker_jup_b19">
+		<text>我要去一个真的很恐怖的地方,科帕奇村...或许有什么东西能剩下.是的,我已经准备了大量的抗辐射剂和弹药——我会用到它们的!</text>
+	</string>
+	<string id="st_stalker_jup_b200">
+		<text>到水泥厂.一个很好的观测点,那里没有任何人能偷袭你.</text>
+	</string>
+	<string id="st_stalker_jup_b200_tushkan_smart_terrain">
+		<text>到水泥厂.去那个地下室看看.</text>
+	</string>
+	<string id="st_stalker_jup_b202">
+		<text>到亚诺夫附近的小站台那里.</text>
+	</string>
+	<string id="st_stalker_jup_b203">
+		<text>我要去南方铁路隧道附近的一个地方.</text>
+	</string>
+	<string id="st_stalker_jup_b204">
+		<text>我要去朱皮特工厂附近的一个冷却池那边.</text>
+	</string>
+	<string id="st_stalker_jup_b205_smart_terrain">
+		<text>我正前往沃尔霍夫防空基地,想去猎点僵尸.</text>
+	</string>
+	<string id="st_stalker_jup_b205_smart_terrain_tushkano">
+		<text>到碉堡去,你知道的,就是在沃尔霍夫防空基地的那个.</text>
+	</string>
+	<string id="st_stalker_jup_b206">
+		<text>到露天矿场旁边那个小树林变异区那儿去.没准儿能找到一两个神器.</text>
+	</string>
+	<string id="st_stalker_jup_b207">
+		<text>我要去露天矿场,就是那帮建筑工的货车所在的地方.</text>
+	</string>
+	<string id="st_stalker_jup_b207_depot_attack">
+		<text>就是这个在亚诺夫车站和露天矿场中间的地方.我要去那儿躺一会儿.</text>
+	</string>
+	<string id="st_stalker_jup_b208">
+		<text>我要去东边的隧道,就是在朱皮特工厂下面的那个.</text>
+	</string>
+	<string id="st_stalker_jup_b209">
+		<text>到"沥青"变异区.去看看我的外套耐热性怎么样.</text>
+	</string>
+	<string id="st_stalker_jup_b211">
+		<text>我要去"毒沼"变异区找神器.我带了足够的解毒剂——我担心的是变异生物.</text>
+	</string>
+	<string id="st_stalker_jup_b212">
+		<text>到综合设施通风口,在工厂和集装箱仓库中间.你问我为什么?呃,我哪知道?</text>
+	</string>
+	<string id="st_stalker_jup_b219">
+		<text>我要去朱皮特车间.没准我能找出那个地方为什么那么臭名昭著的原因.</text>
+	</string>
+	<string id="st_stalker_jup_b25">
+		<text>我要去露天矿场的最底层.听潜行者们说他们在那下面找到了很多神器.</text>
+	</string>
+	<string id="st_stalker_jup_b32">
+		<text>到那些摆满一堆破车的停车场去.想去静电变异点里找点神器.</text>
+	</string>
+	<string id="st_stalker_jup_b4">
+		<text>在沃尔霍夫防空基地和集装箱仓库之间有个不错的小地方,那就是我要去的地方.</text>
+	</string>
+	<string id="st_stalker_jup_b41">
+		<text>到科学家的碉堡.</text>
+	</string>
+	<string id="st_stalker_jup_b46">
+		<text>到亚诺夫车站西北的冷却塔去.</text>
+	</string>
+	<string id="st_stalker_jup_b47">
+		<text>到朱皮特工厂去,但是我可不想去里面.我会在外面转转然后再看看做什么.</text>
+	</string>
+	<string id="st_stalker_jup_b6_anom_2">
+		<text>我要去"燃灰"变异区,在科帕奇的那边.</text>
+	</string>
+	<string id="st_stalker_jup_b8_smart_terrain">
+		<text>我要去朱皮特车间.他们说有架直升机在那片区域坠落了,所以我想去调查一下.</text>
+	</string>
+	<string id="st_stalker_jup_sim_1">
+		<text>我要去位于沃尔霍夫防空基地和停车场中间的旧火车那里.</text>
+	</string>
+	<string id="st_stalker_jup_sim_2">
+		<text>我要去南方的隧道,只是躲躲电磁风暴.</text>
+	</string>
+	<string id="st_stalker_jup_sim_3">
+		<text>我要去亚诺夫和科帕奇中间的这个地方去.</text>
+	</string>
+	<string id="st_stalker_jup_sim_4">
+		<text>我要去个离运河不远的地方,在水泥厂的南方.</text>
+	</string>
+	<string id="st_stalker_jup_sim_5">
+		<text>我要去一个运河附近的地方,在朱皮特工厂的北面.</text>
+	</string>
+	<string id="st_stalker_jup_sim_6">
+		<text>我要去调查露天矿场.</text>
+	</string>
+	<string id="st_stalker_jup_sim_7">
+		<text>我要去调查露天矿场.</text>
+	</string>
+	<string id="st_stalker_jup_sim_8">
+		<text>我要去调查亚诺夫北边的区域.</text>
+	</string>
+	<string id="st_stalker_jup_sim_9">
+		<text>到沃尔霍夫防空基地.那里有个露营的好地方,在基地和科帕奇村中间.</text>
+	</string>
+	<string id="st_stalker_jup_sim_10">
+		<text>哦,只是旅行...正前往集装箱仓库.</text>
+	</string>
+	<string id="st_stalker_jup_sim_11">
+		<text>我正观测这片区域.现在我正要去军方检查站的南边看看.</text>
+	</string>
+	<string id="st_stalker_jup_sim_12">
+		<text>到直升机停机坪,就是工厂和集装箱仓库中间的那个.</text>
+	</string>
+	<string id="st_stalker_jup_sim_13">
+		<text>我要去亚诺夫车站南边的这个地方,就在铁路旁边.</text>
+	</string>
+	<string id="st_stalker_jup_sim_14">
+		<text>到亚诺夫车站北边的一个地方.</text>
+	</string>
+	<string id="st_stalker_jup_sim_15">
+		<text>到小树林变异区.</text>
+	</string>
+	<string id="st_stalker_jup_sim_16">
+		<text>到防空基地南方的一个地方.</text>
+	</string>
+	<string id="st_stalker_jup_sim_17">
+		<text>到水泥池变异区旁边的冷却池.</text>
+	</string>
+	<string id="st_stalker_jup_sim_18">
+		<text>我要去调查工厂周边的区域.</text>
+	</string>
+	<string id="st_stalker_jup_sim_19">
+		<text>我要去调查工厂周边的区域.</text>
+	</string>
+	<string id="st_stalker_pri_a15">
+		<text>到洗衣店后面的院子去.</text>
+	</string>
+	<string id="st_stalker_pri_a16">
+		<text>到洗衣店,这附近最安全的地方.</text>
+	</string>
+	<string id="st_stalker_pri_a17">
+		<text>到医院去.我希望我中途别遭遇黑石那帮疯子.</text>
+	</string>
+	<string id="st_stalker_pri_a18_smart_terrain">
+		<text>到书店...我听说那里能提供对电磁风暴有效的防护.</text>
+	</string>
+	<string id="st_stalker_pri_a20">
+		<text>我想看看附近吸引人的地方——全民友好纪念碑.那里离书店不远.</text>
+	</string>
+	<string id="st_stalker_pri_a21_smart_terrain">
+		<text>到旧小卖店.这几天你在那可找不到新鲜的面包了,不过那里用来躲避电磁风暴倒是个不错的地方.</text>
+	</string>
+	<string id="st_stalker_pri_a22_smart_terrain">
+		<text>到拜瑞兹卡商店去.</text>
+	</string>
+	<string id="st_stalker_pri_a25_smart_terrain">
+		<text>到旧幼儿园去.</text>
+	</string>
+	<string id="st_stalker_pri_a28">
+		<text>到电影院广场,就是普罗米修斯纪念碑旁边的那个.</text>
+	</string>
+	<string id="st_stalker_pri_b301">
+		<text>我正要去学校那边.他们说那边聚集着变异生物,但是那里也能提供对电磁风暴的防护.</text>
+	</string>
+	<string id="st_stalker_pri_b303">
+		<text>我正要去旧服务中心.人们相信那里的一层有个变异点,那里没准也有什么神器.</text>
+	</string>
+	<string id="st_stalker_pri_b304">
+		<text>我正探索镇上的这片区域.现在我正前往老杂货店.</text>
+	</string>
+	<string id="st_stalker_pri_b304_monsters_smart_terrain">
+		<text>我正探索镇上的这片区域.现在我正前往老杂货店.</text>
+	</string>
+	<string id="st_stalker_pri_b305_dogs">
+		<text>我正调查这片地方.现在我想去调查一下公寓楼群后面的那栋建筑.</text>
+	</string>
+	<string id="st_stalker_pri_b306">
+		<text>我想调查一下公共娱乐中心,我认为那里就是以前叫做尤比雷尼的地方.</text>
+	</string>
+	<string id="st_stalker_pri_b307">
+		<text>我正在这片区域调查变异点.我听说院子里有一个火焰变异点,在幼儿园的西边...</text>
+	</string>
+	<string id="st_stalker_pri_b35_envoy">
+		<text>哦,我只是在镇上逛逛.现在正要去复式公寓楼那里.</text>
+	</string>
+	<string id="st_stalker_pri_b35_mercs">
+		<text>哦,我只是在镇上逛逛.现在正要去复式公寓楼那里.</text>
+	</string>
+	<string id="st_stalker_pri_b35_military">
+		<text>哦,我只是在镇上逛逛.现在正要去复式公寓楼那里.</text>
+	</string>
+	<string id="st_stalker_pri_b36_smart_terrain">
+		<text>我只是在附近闲逛,现在要去内河码头.希望我不会遭遇黑石那帮狂热者...</text>
+	</string>
+	<string id="st_stalker_pri_b302">
+		<text>我正在普里皮亚特找一个有很多神器而且没有烦人的变异生物和黑石士兵的地方...呵呵...说真的,我是想去调查一下我听说的那个变异点,就在内河码头的南方.</text>
+	</string>
+	<string id="st_stalker_pri_sim_1">
+		<text>到普罗米修斯电影院.</text>
+	</string>
+	<string id="st_stalker_pri_sim_2">
+		<text>到电影院广场,就是普罗米修斯纪念碑旁边的那个.</text>
+	</string>
+	<string id="st_stalker_pri_sim_3">
+		<text>我想歇一会儿喘口气.幼儿园南边的院子里有个小地方,那里是最完美的.</text>
+	</string>
+	<string id="st_stalker_pri_sim_4">
+		<text>公寓楼群南方.</text>
+	</string>
+	<string id="st_stalker_pri_sim_5">
+		<text>我正要去幼儿园和公寓楼群中间的这个地方.</text>
+	</string>
+	<string id="dm_anomalies_8">
+		<text>有个地方,地面像是被一把巨斧砍了一道伤痕,所以人们把那个地方叫做"断痕".人们在那边发现了神器,但是只要你一走进去就会发生一些离奇的事.什么东西会对你的大脑造成十分强烈的打击以至于你会忘了怎么呼吸,让想救你出来的蠢驴们都站一边去吧.</text>
+	</string>
+	<string id="dm_anomalies_1">
+		<text>你知道挖掘站在哪吗?那里已经被重力变异点弄得不成样子,但是对于有经验的潜行者来说还不算太糟.只要想平常一样扔螺栓就行.不管里外,那边还是有辐射——那里好像有大块的浓缩铀.</text>
+	</string>
+	<string id="dm_anomalies_4">
+		<text>这边有一个老变电所,也被叫作"铁森林".当你看到它的时候你就会明白为什么这么叫它了.有些人声称在一次电磁风暴过后,他们在那里发现了大量的神器.那里不是很危险,主要是闪电变异点和一点轻微的辐射...那里也有几个吵闹鬼,你要是躲闪不及就会被扔来的垃圾给埋了.</text>
+	</string>
+	<string id="dm_job_12">
+		<text>工作?说真的我不知道.不过你要是有机会帮自由团——去亚诺夫去找我们的帮派头目吧.去南边的侧厅然后去见洛基——就是他了.记住,如果你相信人类的前途,对特异区的恩赐有着很高的觉悟和理解,你会做出正确的选择的.</text>
+	</string>
+	<string id="dm_job_13">
+		<text>没什么想法.但是如果你能找到一些对我们于特异区的斗争中有帮助的,而且更多的人认为它是个礼物而不是个诅咒的东西,那么去见见纪律团远征队的指挥官吧——舒尔加中校.他是在亚诺夫车站的负责人.你可以在北侧的侧厅里找到他.有件事是确定的——帮助纪律团取得最终胜利的平民都会得到惊人的回报.</text>
+	</string>
+	<string id="dm_information_19">
+		<text>每个人都在谈论旧冷却塔上的一些诡异的东西.如果你调到一个一般的频段,你会收到断断续续的痛苦的叫声,听起来像是几个可怜的蠢货想从变异点里逃出来.你要是请求同调的话,那边就没回应了.最诡异的还是那声音.那种扭曲很难被解释清楚...</text>
+	</string>
+	<string id="st_stalker_zat_sim_27">
+		<text>我正前往斯卡多夫斯克号和舍甫琴科号中间的一个地方.</text>
+	</string>
+	<string id="st_stalker_jup_a9">
+		<text>到朱皮特.我大概不会在里面冒险走太远.</text>
+	</string>
+</string_table>

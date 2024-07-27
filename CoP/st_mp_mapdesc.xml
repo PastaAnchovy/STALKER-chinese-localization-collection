@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="mp_autostation">
+		<text>车站</text>
+	</string>
+	<string id="ui_map_desc_mp_agroprom_large">
+		<text>一个怪异的地方.这座寂静的建筑物可能掩盖了它的部分秘密,但是潜行者们竭尽全力到达这里是为了另一个目的——大量的神器在这个高风险/高回报的区域被找到.手脚麻利点,幸运之神自然而然的会站在你这边.</text>
+	</string>
+	<string id="ui_map_desc_mp_agroprom_short">
+		<text>一个怪异的地方.这座寂静的建筑物可能掩盖了它的部分秘密,但是潜行者们竭尽全力到达这里是为了另一个目的——大量的神器.</text>
+	</string>
+	<string id="ui_map_desc_mp_atp_large">
+		<text>一座仓库,位于特异区的入口.那些拖拉机,公共汽车和卡车永远的停在了路上...迄今为止没有在这里发现神器的踪影,但是这里很受强盗们的欢迎,他们猎杀新手并掠夺财物.在房子和车子后面寻找掩护,小心房顶上的敌人.</text>
+	</string>
+	<string id="ui_map_desc_mp_atp_short">
+		<text>一座仓库,位于特异区的入口.那些拖拉机,公共汽车和卡车永远的停在了路上...</text>
+	</string>
+	<string id="ui_map_desc_mp_autostation_large">
+		<text>荒废的仓库与其邻近的区域,在这里可以找到不少的装备和补给——如果你足够努力去寻找.小心那些高强度的变异点和仓库房顶上的狙击手——这个有利的地势可以监视到几乎所有接近该地区的事物.</text>
+	</string>
+	<string id="ui_map_desc_mp_autostation_short">
+		<text>荒废的仓库与其邻近的区域,在这里可以找到不少的装备和补给——如果你足够努力去寻找.小心那些高强度的变异点和仓库房顶上的狙击手.</text>
+	</string>
+	<string id="ui_map_desc_mp_bath_large">
+		<text>一个有极强吸引力的神秘地区.这个水池用来处理那些被作为试验品的人或其他东西,但建造它的真正目的将永远是个谜.没听说过这里有神器,所以潜行者们精疲力尽来到这里的唯一目的就是那些奇形怪状的残余零件和设备.小心观察房顶并牢记超高辐射区.</text>
+	</string>
+	<string id="ui_map_desc_mp_bath_short">
+		<text>一个有极强吸引力的神秘地区.这个水池用来处理那些被作为试验品的人或其他东西,但建造它的真正目的将永远是个谜.</text>
+	</string>
+	<string id="ui_map_desc_mp_darkvalley_large">
+		<text>这个黑暗山谷中的危险地带由一条长长的街道和一所废弃的研究院组成.谁知道这所研究院曾经研究什么?在这里的这些天唯一学到的就是如何活着!哦!别忘了注意房顶...</text>
+	</string>
+	<string id="ui_map_desc_mp_darkvalley_short">
+		<text>这个黑暗山谷中的危险地带由一条长长的街道和一所废弃的研究院组成...</text>
+	</string>
+	<string id="ui_map_desc_mp_factory_large">
+		<text>这座阴沉荒芜的工厂是无数潜行者们的休息之处.来访者的每一步都要小心变异点,但潜行者们像是被磁铁吸引一般蜂拥而至寻找价值不菲的神器.当心辐射!</text>
+	</string>
+	<string id="ui_map_desc_mp_factory_short">
+		<text>这座阴沉荒芜的工厂是无数潜行者们的休息之处.</text>
+	</string>
+	<string id="ui_map_desc_mp_firestation_large">
+		<text>在1986年这所消防站全部的力量都被调去救援切尔诺贝利核电站.那座高塔是一个极有力的地点,那里远近都可以监视到.很少有人到房子的上层和地下室去,尽管那里可能会好点.</text>
+	</string>
+	<string id="ui_map_desc_mp_firestation_short">
+		<text>在1986年这所消防站全部的力量都被调去救援切尔诺贝利核电站.那个车站是一个极佳的战术地点.</text>
+	</string>
+	<string id="ui_map_desc_mp_garbage_large">
+		<text>巨大垃圾站的一部分,自从1986年那场灾难后这里就堆满了含有放射性物质的垃圾,到处都是破旧的起重机和各式各样的器材.这里的其他景点包括残破的房屋和一个巨大的机库.靠近封锁线和相对丰富的神器吸引潜行者们来捡现成的便宜.</text>
+	</string>
+	<string id="ui_map_desc_mp_garbage_short">
+		<text>巨大垃圾站的一部分,自从1986年那场灾难后这里就堆满了含有放射性物质的垃圾和器材.</text>
+	</string>
+	<string id="ui_map_desc_mp_limansk_large">
+		<text>神秘的利曼斯克中的一小片区域——一栋被遗弃的公寓楼和一个还未完工的建筑矗立在那里.当许多昂贵的神器在这里被发现的那一刻,这条消息迅速的传遍了整个特异区.一部分通往利曼斯克的路被打开,然而枪声却一刻都没有停止过.</text>
+	</string>
+	<string id="ui_map_desc_mp_limansk_short">
+		<text>神秘的利曼斯克中的一小片区域——一栋被遗弃的公寓楼和一个还未完工的建筑矗立在那里.</text>
+	</string>
+	<string id="ui_map_desc_mp_lost_village_large">
+		<text>一个荒凉的被遗弃的村子在特异区的深处.一个又小又浅的荒疏的湖,散布着大量的残破的载具,让你潜意识地感觉到特异区恐怖的现实.小心那些狙击手,但是记住:特异区喜欢勇敢的人.</text>
+	</string>
+	<string id="ui_map_desc_mp_lost_village_short">
+		<text>一个荒凉的被遗弃的村子在特异区的深处.一个又小又浅的荒疏的湖,散布着大量的残破的载具,让你潜意识地感觉到特异区恐怖的现实.</text>
+	</string>
+	<string id="ui_map_desc_mp_military_1_large">
+		<text>一座废弃的军事基地陪伴着永远无法移动的卡车和装甲运兵车,还有残破的指挥部和兵营.不管怎么说,从外表上看是骗人的:这地方是一个真正的神器金矿,这意味着敌人会潜伏在任何角落.</text>
+	</string>
+	<string id="ui_map_desc_mp_military_1_short">
+		<text>一座废弃的军事基地陪伴着永远无法移动的卡车和装甲运兵车,还有残破的指挥部和兵营.</text>
+	</string>
+	<string id="ui_map_desc_mp_military_2_large">
+		<text>这个古老的村庄是一个真正险恶的地方.如果你有足够的勇气来到这里,准备好躲开以子弹穿头而过的形式欢迎你的到来.这里没有安全的地方,所以瞄准镜和消音器与你同在!</text>
+	</string>
+	<string id="ui_map_desc_mp_military_2_short">
+		<text>这个古老的村庄是一个真正险恶的地方.你可能已经到了这里,但这里没时间休息.</text>
+	</string>
+	<string id="ui_map_desc_mp_pool_large">
+		<text>这不是水池,更像是一个血池.子弹的响声,爆炸声和垂死尖叫声充斥着铺满瓦片的走廊...很少有潜行者知道这条路,但更少的知道怎样出去.</text>
+	</string>
+	<string id="ui_map_desc_mp_pool_short">
+		<text>这不是水池,更像是一个血池.子弹的响声,爆炸声充斥着铺满瓦片的走廊.</text>
+	</string>
+	<string id="ui_map_desc_mp_railraod_short">
+		<text>罗斯托克工厂的旁边有一个小型火车站.</text>
+	</string>
+	<string id="ui_map_desc_mp_railroad_large">
+		<text>罗斯托克工厂的旁边有一个小型火车站,到处都是生锈的轨道车和火车头,永远的停在了它们的轨道上.丰富的神器吸引着来自特异区各个角落的胆大的潜行者们.</text>
+	</string>
+	<string id="ui_map_desc_mp_rembasa_large">
+		<text>一个小村庄旁边的一个维修站.所有的车辆被留在这是切尔诺贝利事件产生的后果.随着时间的推移,剩下的装备被作为备用零件掠夺一空.这片区域充满危险,就像那些危险的沼泽地和被污染的芦苇丛,如果你足够幸运,你可能会在这里找到真正值钱的玩意.</text>
+	</string>
+	<string id="ui_map_desc_mp_rembasa_short">
+		<text>一个小村庄旁边的一个维修站.这片区域充满危险,就像那些危险的沼泽地和被污染的芦苇丛.</text>
+	</string>
+	<string id="ui_map_desc_mp_rostok_large">
+		<text>一堆生锈的金属被闲置在混凝土墙后面.在世纪之交以前,这座工厂是伴随在喇叭里喷涌而出的社会主义者的口号声中不断生长起来的,但这所建筑在很久以前就废弃了.</text>
+	</string>
+	<string id="ui_map_desc_mp_rostok_short">
+		<text>老旧的废弃工厂:锈迹斑斑的金属寂静地堆置在混凝土墙后面.</text>
+	</string>
+	<string id="ui_map_desc_mp_sport_center_large">
+		<text>普里皮亚的一个体育中心位于废弃学校的不远处.直到1986年之前,各种各样的体育项目在这里举行,体育爱好者们也热衷于参加比赛.潜行者们千辛万苦来到这里是为了冒风险的名誉,战利品和神器...然而,有的时候,一部分人永远的留在了那里.</text>
+	</string>
+	<string id="ui_map_desc_mp_sport_center_short">
+		<text>普里皮亚的一个体育中心位于废弃学校的不远处.</text>
+	</string>
+	<string id="ui_map_desc_mp_training_camp_large">
+		<text>一个非常奇特的地方.许多潜行者笑着称到过那里然而的确如此.重力变异点将地面撕碎从而创造出一个外星般的风景.这片区域受控于三座巨大的塔,残余的军事设施和拔地而起的浮岛.</text>
+	</string>
+	<string id="ui_map_desc_mp_training_camp_short">
+		<text>一个非常奇特的地方.重力变异点将地面撕碎从而创造出一个外星般的风景.</text>
+	</string>
+	<string id="ui_map_desc_mp_workshop_large">
+		<text>纪律团驻扎在这之前这里是罗斯托克工厂的外围.一个令人恐怖的地方,但是这里有丰富的神器.每一个空的飞机库和仓库都充满了致命的危险.要格外小心并密切注视那个白塔...</text>
+	</string>
+	<string id="ui_map_desc_mp_workshop_short">
+		<text>纪律团驻扎在这之前这里是罗斯托克工厂的外围.一个令人恐怖的地方,但是这里有丰富的神器.</text>
+	</string>
+	<string id="ui_map_desc_mp_pripyat_large">
+		<text>极少数人敢于冒险进入被遗弃的普里皮亚城,以前在切尔诺贝利核电站工作的员工居住的地方.尽管这样,最近这座死城的街道被来自普罗米修斯电影院,码头,科查多瓦街边的房屋之间一小片地方的激烈枪声扰乱着.</text>
+	</string>
+	<string id="ui_map_desc_mp_pripyat_short">
+		<text>普罗米修斯电影院,码头,科查多瓦街边的房屋间的一小片区域见证了让这个城市变为死城的战斗.</text>
+	</string>
+</string_table>

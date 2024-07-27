@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="st_antirad">
+		<text>抗辐射药</text>
+	</string>
+	<string id="st_antirad_descr">
+		<text>它的有效成分为5-甲氧基色胺盐酸盐,是特异区常见的抗辐射药物.使用后,它能促进人体血管收缩并降低呼吸的速率,从而减少辐射的吸收量以达到预防辐射的目的.根据报告,该药物可能会导致部分人产生轻度恶心,头晕,抽筋,胃痛等症状,但是它没有严重的副作用.</text>
+	</string>
+	<string id="st_bandage">
+		<text>绷带</text>
+	</string>
+	<string id="st_bandage_descr">
+		<text>普通弹性绷带,主要用于止血和预防伤口感染.普通伤口只需要小心包扎就可以了.动脉出血的话,必须立即使用绷带扎紧整个伤口.</text>
+	</string>
+	<string id="st_binocular_descr">
+		<text>标准的军用望远镜,放大倍数最大能达到7.5倍,可以进行远距离观察,在特异区中非常实用.</text>
+	</string>
+	<string id="st_binocular_name">
+		<text>双筒望远镜</text>
+	</string>
+	<string id="st_bread">
+		<text>面包</text>
+	</string>
+	<string id="st_bread_descr">
+		<text>虽然在特异区内找不到任何面包师,但是这些面包却相当新鲜,没有受到过放射性物质的污染.虽然不是很好吃,但至少没有人抱怨过它的味道.</text>
+	</string>
+	<string id="st_conserva">
+		<text>罐头</text>
+	</string>
+	<string id="st_conserva_descr">
+		<text>据说,这些罐头是潜行者们从军方仓库抢来的.罐头上没有任何标签,因此很难确认它们的安全性.如果你不介意它们的保质期的话,它们的味道相当的好吃.</text>
+	</string>
+	<string id="st_detector1">
+		<text>回声探测器</text>
+	</string>
+	<string id="st_detector1_descr">
+		<text>这种神器探测器内置了盖革计数器.虽然有点过时,但当你接近变异点时,它会发出报警,告诉你这里有异变点.它也有感应到神器的功能,它也侦测到距离最近的神器.探测器会通过声音的频率快慢你能分辨出你和神器之间的距离的长短.要切换到神器搜索模式,只需要打开设备的前护盖.由于设计简单,"回声"只能用来定位那些最常见的神器.</text>
+	</string>
+	<string id="st_detector2">
+		<text>"贝尔"探测器</text>
+	</string>
+	<string id="st_detector3">
+		<text>"维尔斯"探测器</text>
+	</string>
+	<string id="st_detector3_descr">
+		<text>新一代的科学探测器.它具有三个先进的感应器,能够将神器的位置显示在一个特制的屏幕上.当屏幕关闭时,它只能探测辐射和变异点的情况.要切换到神器搜索模式,需要打开LED显示屏.在神器搜索模式下,它能准确定位附近的神器.该探测器可以发现所有已知类型的神器.</text>
+	</string>
+	<string id="st_detector4">
+		<text>斯瓦罗格探测器原型</text>
+	</string>
+	<string id="st_detector4_descr">
+		<text>这是功能扩展后的探测器原型.在保留原来的神器定位的功能的前提下,在探测器内新增了一个数据库,用于识别变异点的活动.变异点的活动和神器的位置会显示在一个特制的屏幕上.打开LED显示屏即可启动神器搜索模式,可以探测所有已知类型的神器和目前还未知的神器.</text>
+	</string>
+	<string id="st_device_torch_descr">
+		<text>标准的头戴式电筒.对需要在夜间外出的潜行者来说非常有用,但是使用不当也会招来不必要的麻烦.</text>
+	</string>
+	<string id="st_device_torch_name">
+		<text>手电筒</text>
+	</string>
+	<string id="st_drug_anabiotic">
+		<text>抗生素</text>
+	</string>
+	<string id="st_drug_antidot">
+		<text>抗毒剂</text>
+	</string>
+	<string id="st_drug_antidot_descr">
+		<text>IP2是一种复方解毒剂,它里面包含了多种成分:胃复安、维生素B6、维生素B1、次黄苷等.这种药物包含多种抗生素,能够中和毒素,并与毒素发生反应,结合成吸收毒素的化学物.IP2在特异区并不受欢迎,因为大多数潜行者依靠防毒面具和防护服来保护自己就够了.这种药物具有较长时间的药效.</text>
+	</string>
+	<string id="st_drug_booster">
+		<text>类固醇</text>
+	</string>
+	<string id="st_drug_coagulant">
+		<text>止血剂</text>
+	</string>
+	<string id="st_drug_coagulant_descr">
+		<text>乌克兰止血剂是一种相当于维生素K的人造化合物.它的主要作用是增加血液凝固速度.这种药能够加快伤口的凝结,对付变异怪物或者在特异点探索神器时特别有用,因此在潜行者中这种药非常抢手.这种药物具有较长时间的药效.</text>
+	</string>
+	<string id="st_drug_psy_blockade">
+		<text>PSY抗剂</text>
+	</string>
+	<string id="st_drug_psy_blockade_descr">
+		<text>这种药物可以抑制异常的神经冲动.它能在短时间内将神经系统中的神经电荷中和.在特异区中主要用于抵抗PSY辐射的影响.这种药物具有较长时间的药效.</text>
+	</string>
+	<string id="st_drug_radioprotector">
+		<text>辐射防护剂</text>
+	</string>
+	<string id="st_energy_drink">
+		<text>抗疲劳饮料</text>
+	</string>
+	<string id="st_energy_drink_descr">
+		<text>当潜行者们需要长途跋涉却又没时间恢复体力的时候,他们经常要用到这种饮料.它含有极易吸收的碳水化合物,同时包含了能刺激肾上腺素释放的药物.</text>
+	</string>
+	<string id="st_guitar_descr">
+		<text>一个可靠的吉他</text>
+	</string>
+	<string id="st_guitar_name">
+		<text>吉他</text>
+	</string>
+	<string id="st_kolbasa">
+		<text>香肠</text>
+	</string>
+	<string id="st_kolbasa_descr">
+		<text>这是一种用鸡肉和大豆混合制成的香肠,被作为肉类食品的替代品.好也罢坏也罢,它们通常作为潜行者们的早餐、中餐或者是晚餐.多亏了大剂量的防腐剂,它能储存很长时间.</text>
+	</string>
+	<string id="st_medkit">
+		<text>急救箱</text>
+	</string>
+	<string id="st_medkit_army">
+		<text>军用急救箱</text>
+	</string>
+	<string id="st_medkit_army_descr">
+		<text>一种专门用于战斗的医疗包.医疗包里包括含了具有甲萘醌成分的凝血剂、止痛药、抗生素和免疫增强剂,还带有用于去除体内子弹和碎片的工具.这种急救包是专门配给军队的标准装备,有时候纪律团也会使用它.</text>
+	</string>
+	<string id="st_medkit_descr">
+		<text>一种普通的一次性医疗包.可以方便地治疗各种病痛、伤口、青肿、火焰或是化学灼伤还有各种中毒症状.非常受潜行者欢迎.</text>
+	</string>
+	<string id="st_medkit_science">
+		<text>科学家急救箱</text>
+	</string>
+	<string id="st_medkit_science_descr">
+		<text>这种急救箱是专门针对变异区设计的.其中也包含处理伤口的产品,但它主要还是用于阻止辐射量的过量吸收以及减少积累在体内的辐射.与别的急救箱不同,它其中包含了止血剂、维生素B4和萘甲唑啉.</text>
+	</string>
+	<string id="st_pda_descr">
+		<text>没有储存数据.</text>
+	</string>
+	<string id="st_pda_name">
+		<text>PDA</text>
+	</string>
+	<string id="st_vodka">
+		<text>哥萨克伏特加</text>
+	</string>
+	<string id="st_vodka_descr">
+		<text>GSC制造.干洌爽口并且能够有效地降低辐射.如果还有正事要办的话,还是使用抗辐射药吧.</text>
+	</string>
+	<string id="st_detector2_descr">
+		<text>这是上一代探测器,可以用来探测变异点.它拥有彩色的二极管显示屏,不仅能表明神器的方向,还可以测算出它与你之间的距离.同样,要切换到神器搜索模式,需要打开显示屏.不过遗憾的是,它的程序中包含的神器清单有些过时.所以有小部分神器无法探测.</text>
+	</string>
+	<string id="st_drug_anabiotic_descr">
+		<text>由奥泽斯基教授研发,专门给在特异区进行科研活动的研究小组使用的试验性药物.其核心药物含有河豚毒素,就是所谓的"僵尸粉".这种药物能导致人体中枢神经系统的暂时性休眠,在野外遭遇电磁风暴时,它或许能帮助你活下来.这种药物尚未进行过临床或是现实测试,这使得人们对这种药物的有效性和可能会引发的副作用抱有怀疑态度.</text>
+	</string>
+	<string id="st_bolt">
+		<text>螺栓</text>
+	</string>
+	<string id="st_drug_booster_descr">
+		<text>这种产品的主要成分是人工合成的可代谢雄性激素,其化学成分类似睾丸酮.它通常被潜行者们用在长途行动中以减少肌肉疲劳.另外,它能显著提高负重能力.这种药物具有很长时间的药效.</text>
+	</string>
+	<string id="st_drug_radioprotector_descr">
+		<text>B190是装在核电站工作人员急救箱里的辐射防护药.在特异区中,人们用它代替胱胺盐酸盐PC1氢氯化物,因为后者多次使用会导致死亡.它能减少伽马射线对体内组织的影响.最好在被辐射照射前服用,因为这种药不是立即起效的,它将在服用后的一段时间内持续发挥效用.</text>
+	</string>
+	<string id="st_harmonica_name">
+		<text>口琴</text>
+	</string>
+	<string id="st_harmonica_descr">
+		<text>献给热爱蓝调音乐和被囚禁在爱河中的浪漫情人.</text>
+	</string>
+</string_table>

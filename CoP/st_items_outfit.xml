@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="csky_heavy_outfit_name">
+		<text>CS-3a防弹衣</text>
+	</string>
+	<string id="dolg_heavy_outfit_name">
+		<text>PSZ-9d纪律团防弹衣</text>
+	</string>
+	<string id="dolg_outfit_name">
+		<text>PS5-M全方位防弹衣</text>
+	</string>
+	<string id="exo_outfit_name">
+		<text>外骨骼</text>
+	</string>
+	<string id="military_outfit_name">
+		<text>军用战斗防弹衣</text>
+	</string>
+	<string id="mp_exo_outfit_description">
+		<text>外骨骼装甲可以为穿戴者提供优异的防弹效果并减少破片的杀伤,代价是牺牲了移动速度.弱点是穿甲弹.</text>
+	</string>
+	<string id="mp_exo_outfit_name">
+		<text>外骨骼</text>
+	</string>
+	<string id="mp_military_outfit_description">
+		<text>专门为突击行动设计的军用装甲.对全金属包覆的子弹和破片有出色的防护能力,并且不会降低使用者的移动能力.弱点是穿甲弹.</text>
+	</string>
+	<string id="mp_military_outfit_name">
+		<text>军用防弹衣</text>
+	</string>
+	<string id="novice_outfit_description">
+		<text>一件普通的黑色皮风衣.没有什么特殊的用途,除了能在夜间保暖和防止被盲狗咬伤.这种风衣穿起来不是特别舒服,但是特异区的强盗们都很喜欢穿着它,可能是因为这件衣服能让他们在黑暗中隐匿,也有可能是它拉风的造型吸引了他们.</text>
+	</string>
+	<string id="novice_outfit_name">
+		<text>皮风衣</text>
+	</string>
+	<string id="scientific_outfit_name">
+		<text>SEVA防护服</text>
+	</string>
+	<string id="specops_outfit_name">
+		<text>Berill-5M作战装甲</text>
+	</string>
+	<string id="st_helm_battle">
+		<text>Sphere M12头盔</text>
+	</string>
+	<string id="st_helm_battle_descr">
+		<text>用迷彩布包裹的钛铝合金头盔,带有数个袋子用来安放额外的防弹钢板和一个防护面罩.Sphere M12头盔通常用来作为PSZ系列一部分和Spetsnaz防弹衣搭配使用.由于带有呼吸器和内置第一代夜视仪,能给头部提供相当好的保护.诸多的优点使得它在特异区里很受欢迎.带有电子插槽.</text>
+	</string>
+	<string id="st_helm_hardhat">
+		<text>钢盔</text>
+	</string>
+	<string id="st_helm_hardhat_descr">
+		<text>这种极度落伍的军用钢盔没办法安装任何可加附件.缺乏变异点和辐射的防护,但是拥有不错的防弹能力.在特异区内除了小规模的派系冲突之外,几乎没有人使用这种头盔.</text>
+	</string>
+	<string id="st_helm_protective">
+		<text>全保护式头盔</text>
+	</string>
+	<string id="st_helm_protective_descr">
+		<text>这款配备封闭面罩的轻型头盔主要用于变异点防护.从设计上来看,这个头盔和SEVA防护服同样出自基辅防御研究中心.为了能在高度变异区域行动,军用防护服一般都需要和它一起配套使用.</text>
+	</string>
+	<string id="st_helm_respirator">
+		<text>防毒面具</text>
+	</string>
+	<string id="st_helm_respirator_descr">
+		<text>一个普通的防毒面具,用塑料和橡胶制成.用于过滤含有放射性粒子和有毒物质的空气.广泛地被各个派系的新老手使用,虽然它有广泛的使用范围.但是却不提供任何物理防护.</text>
+	</string>
+	<string id="st_helm_tactic">
+		<text>战术头盔</text>
+	</string>
+	<string id="st_helm_tactic_descr">
+		<text>一个没有任何伪装物的西式现代战术头盔.我们不知道它是通过什么渠道进入特异区的.这种头盔可以通过一系列扫描设备和卫星通讯装置等其他头盔所没有的战略设备给指挥官提供良好的保护.头盔内的凯夫拉复合装甲可以保护电子元件.还自带了呼吸器和第一代夜视仪.</text>
+	</string>
+	<string id="stalker_outfit_name">
+		<text>潜行者防护服</text>
+	</string>
+	<string id="svoboda_heavy_outfit_name">
+		<text>守护者-自由团防护服</text>
+	</string>
+	<string id="svoboda_light_outfit_description">
+		<text>这款轻巧潜行者服装是由自由团工匠所作.该防护服的布料经过了特殊的混合处理,这种特殊的方法是自由团通过无数次失败的尝试之后才成功研究出来的,可以增加对变异点的防护.像潜行者防护服一样,风魂-自由团防护服带有内置的防弹衣和神器栏.</text>
+	</string>
+	<string id="svoboda_light_outfit_name">
+		<text>风魂-自由团防护服</text>
+	</string>
+	<string id="dolg_outfit_description">
+		<text>这件新版的纪律团防弹衣对于那些喜欢使用轻型护甲的新手潜行者来说是个不错的选择.与PSZ系列不同,这种护甲对变异点有良好的防御作用并且能抵御手枪子弹.这种护甲不能安装神器储存器,但是可以升级作战辅助系统.</text>
+	</string>
+	<string id="military_outfit_description">
+		<text>这件现代军用防弹衣主要设计用于变异区的突击行动.它包含有PSZ-12p重型军用护甲、内置一体式服装和变异点防护服.它提供了良好的防弹和防破片功能,并且不会降低装备者的移动能力.没有神器栏.</text>
+	</string>
+	<string id="mp_scientific_outfit_description">
+		<text>这件特别的防护服主要用于特异区的科研活动,结合了封闭式循环呼吸系统模块和外部隔离层,对变异点有出色的防御能力.但是只有少得可怜的物理防护,这件防护服防弹和防破片能力很差.带有一个内置的神器栏.</text>
+	</string>
+	<string id="scientific_outfit_description">
+		<text>这件防护服是由基辅防御研究中心生产的,是潜行者手工制护甲的最佳选择.虽然只能防御手枪弹,但是对于变异点和辐射的防护却是首屈一指的.经过全面升级并拥有两个神器栏,这件防护服是多数潜行者老手的首选.</text>
+	</string>
+	<string id="specops_outfit_description">
+		<text>这件防弹衣是使用镀铍工艺改进的PS5系列的防弹衣,更方便人们在特异区的使用.它被设计用来在高辐射地区进行突击行动,不能在高度变异的地区进行活动.这是潜行者们通过掠夺军方获得的战利品.没有神器栏.</text>
+	</string>
+	<string id="stalker_outfit_description">
+		<text>这件DIY的潜行者防护服是由上胶树脂衬里布料和防弹衣结合而成,分层橡胶用有机玻璃布衬还内置了防弹衣.这件防护服甚至不能为穿戴者提供防护手枪子弹的能力,但是由于它低廉的价格以及较大的改装潜力,还是比较受欢迎的.带有神器栏.</text>
+	</string>
+	<string id="svoboda_heavy_outfit_description">
+		<text>这件防护服使用了网状金属线,出自自由工匠之手,它较好的平衡了战斗和变异点的防护能力.防弹衣内置了防弹钢板和10层凯夫拉材料,能抵御手枪弹.它使用了相对昂贵的化合物来防御变异点.配备了神器栏.</text>
+	</string>
+	<string id="dolg_heavy_outfit_description">
+		<text>这件早期纪律团护甲是Spetsnaz PSZ-9防弹衣的特异区改进版.该护甲可以抵御步枪子弹,但是,这种程度的防护需要增加重量作为代价的,它相当笨重而且对变异点几乎没有防御作用.这种护甲不能加装神器储存器取而代之的是可升级的作战辅助系统.</text>
+	</string>
+	<string id="csky_heavy_outfit_description">
+		<text>曾经是晴空组织突击队的标准装备,该组织的灭亡提醒我们,即便是最优秀的护甲也不能保证你的安全.这件防弹衣可以抵御手枪子弹并且对变异点有良好的防御作用.内置一个神器栏</text>
+	</string>
+	<string id="exo_outfit_description">
+		<text>军用外骨骼的原型样本.由于高昂的成本和一些设计上的错误,它从未投入量产.尽管如此,由于它可以承受所有搭载的设备的重量,因此,它曾在乌克兰境外的地下工厂非法生产了一小批.内置一个神器栏.</text>
+	</string>
+	<string id="mp_scientific_outfit_name">
+		<text>SEVA防护服</text>
+	</string>
+</string_table>

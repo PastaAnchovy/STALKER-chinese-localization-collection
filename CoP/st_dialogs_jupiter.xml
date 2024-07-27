@@ -1,0 +1,3885 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="jup_a10_guard_dialog_11">
+		<text>你想干什么?</text>
+	</string>
+	<string id="jup_a10_guard_dialog_111">
+		<text>我得和杰克谈谈.谈谈关于瓦诺的债务问题.</text>
+	</string>
+	<string id="jup_a10_guard_dialog_1111">
+		<text>那么,继续.</text>
+	</string>
+	<string id="jup_a10_guard_dialog_11111">
+		<text>好吧.</text>
+	</string>
+	<string id="jup_a10_guard_dialog_112">
+		<text>我只是散散步而已.</text>
+	</string>
+	<string id="jup_a10_guard_dialog_1121">
+		<text>这不是公园,老兄.赶紧离开!</text>
+	</string>
+	<string id="jup_a10_stalker_vano_about_stolen_items_0">
+		<text>你知道谁可能从个人储物箱里偷东西吗?</text>
+	</string>
+	<string id="jup_a10_stalker_vano_about_stolen_items_1">
+		<text>不知道,但我有我自己需要担心的事...你大不了丢点东西,但我可能会丢掉自己的性命...</text>
+	</string>
+	<string id="jup_a10_stalker_vano_about_stolen_items_2">
+		<text>盗窃,骗局...老兄,这个世界到底会变成什么样子?我没看到任何人,但是我确信不管是谁,都早就跑了.</text>
+	</string>
+	<string id="jup_a10_stalker_vano_goto_zulus_0">
+		<text>我们一起去见祖鲁.</text>
+	</string>
+	<string id="jup_a10_stalker_vano_goto_zulus_1">
+		<text>当然.我们可以去找哈瓦伊恩一趟,好赎回我的防护服.</text>
+	</string>
+	<string id="jup_a10_stalker_vano_goto_zulus_11">
+		<text>走吧.</text>
+	</string>
+	<string id="jup_a10_stalker_vano_goto_zulus_2">
+		<text>我很愿意去,但是我可不喜欢被电磁风暴打倒在地.我们等一会再走也不迟.</text>
+	</string>
+	<string id="jup_a10_stalker_vano_need_outfit_0">
+		<text>我们需要一套拥有封闭式循环呼吸系统的防护服来帮助我们到达普里皮亚特.</text>
+	</string>
+	<string id="jup_a10_stalker_vano_need_outfit_1">
+		<text>兄弟,那实在太糟了!我的防护服有那东西——你可以把脑袋伸进呼吸罩里尽情呼吸,但是我在哈瓦伊恩那把它典当出去了.真希望我们能把它拿回来——我们需要5000,但我现在身无分文...</text>
+	</string>
+	<string id="jup_a10_stalker_vano_outfit_money_yes_0">
+		<text>我可以给你这些钱取得那套防护服.</text>
+	</string>
+	<string id="jup_a10_stalker_vano_outfit_money_yes_1">
+		<text>真的吗?你是认真的?</text>
+	</string>
+	<string id="jup_a10_stalker_vano_outfit_money_yes_11">
+		<text>给,这里有5000.</text>
+	</string>
+	<string id="jup_a10_stalker_vano_outfit_money_yes_111">
+		<text>你帮我解决了麻烦,朋友.现在无论你到哪儿我都跟着你.</text>
+	</string>
+	<string id="jup_a10_stalker_vano_outfit_money_yes_12">
+		<text>我可以给你些钱但我没有5000.</text>
+	</string>
+	<string id="jup_a10_stalker_vano_outfit_money_yes_121">
+		<text>没什么,朋友...不是每个人都那么有钱,我知道.</text>
+	</string>
+	<string id="jup_a10_stalker_vano_outfit_money_yes_13">
+		<text>我会考虑的.</text>
+	</string>
+	<string id="jup_a10_stalker_vano_outfit_money_yes_131">
+		<text>当然...毕竟,这是你的钱.</text>
+	</string>
+	<string id="jup_a10_stalker_vano_outfit_money_yes_2">
+		<text>那么,你是打算把它直接给我,还是?</text>
+	</string>
+	<string id="jup_a10_stalker_vano_pripyat_group_0">
+		<text>我想组织一个队伍进入普里皮亚特.想加入吗?</text>
+	</string>
+	<string id="jup_a10_stalker_vano_pripyat_group_1">
+		<text>你帮了我,朋友,所以我也会帮助你的.</text>
+	</string>
+	<string id="jup_a10_stalker_vano_pripyat_group_2">
+		<text>我也想,兄弟,但是我欠下了一笔债,我不能离开.那样不好,而且如果我们在路上碰见他们了,他们会像杀条狗一样杀了我的.那些混蛋根本不在乎杀了谁.</text>
+	</string>
+	<string id="jup_a10_stalker_vano_pripyat_ready_0">
+		<text>那么,你准备好去普里皮亚特了?</text>
+	</string>
+	<string id="jup_a10_stalker_vano_pripyat_ready_1">
+		<text>我已经准备得不能再好了.</text>
+	</string>
+	<string id="jup_a10_stalkers_dialog_11">
+		<text>哦,欢迎.你想要点什么?</text>
+	</string>
+	<string id="jup_a10_stalkers_dialog_12">
+		<text>你的债还清了,现在,滚出这儿.</text>
+	</string>
+	<string id="jup_a10_vano_back_1_0">
+		<text>他们是一些自大的混蛋——我要干掉他们.</text>
+	</string>
+	<string id="jup_a10_vano_back_2_0">
+		<text>我已经帮你还过钱了,所以你现在谁也不欠.</text>
+	</string>
+	<string id="jup_a10_vano_back_2_1">
+		<text>哇,谢谢你,我的兄弟!我不会忘记你的.</text>
+	</string>
+	<string id="jup_a10_vano_back_3_0">
+		<text>不太好,他们还向我收了利息.</text>
+	</string>
+	<string id="jup_a10_vano_back_3_1">
+		<text>那样是不太好...但是请相信我,如果是我的话,他们还会要的更多.谢谢你的帮助!我不会忘记你的.</text>
+	</string>
+	<string id="jup_a10_vano_back_4_0">
+		<text>我还没见到他们.</text>
+	</string>
+	<string id="jup_a10_vano_back_4_1">
+		<text>在他们勒索地更多之前,请你赶紧去吧.</text>
+	</string>
+	<string id="jup_a10_vano_back_5_0">
+		<text>我见到他们了,但是他们正在打这笔债务利息的主意.</text>
+	</string>
+	<string id="jup_a10_vano_back_5_1">
+		<text>他们怎么了?疯了吗?那些已经是我仅有的东西了...你认为你能说服他们忘记它吗?你需要一件好武器——武力是唯一能让他们敬畏的东西.</text>
+	</string>
+	<string id="jup_a10_vano_give_duty_0">
+		<text>你的债务是怎么回事?</text>
+	</string>
+	<string id="jup_a10_vano_give_duty_1">
+		<text>好吧...我有一套快要穿坏掉的防护服,所以我非常想要一套新的.正当我想到那的时候,我看见有一套崭新的服装正在待售...它上面有包括封闭式循环呼吸系统在内的一切设施...我想尽一切办法凑钱,但不管我怎么努力,钱总是不够...然后杰克——那个卖家——对我说:"别担心瓦诺,你可以以后再把余款付清."我很高兴,"你真是个好人!"然后...</text>
+	</string>
+	<string id="jup_a10_vano_give_duty_11">
+		<text>好的,后来呢?</text>
+	</string>
+	<string id="jup_a10_vano_give_duty_111">
+		<text>我把我的旧防护服卖掉了,拿上我所有的钱,带给杰克.杰克很高兴,"干的好,瓦诺,但是利息怎么办?"我想,"是啊,他是对的...我应该给他利息..."我凑了更多的钱给他.当我见到他时他说,"瓦诺,当你不在的时候,利息又涨了."看上去利息涨的太快了,我还不起...我需要当掉我的新防护服,而且,还要加上我的武器...</text>
+	</string>
+	<string id="jup_a10_vano_give_duty_1111">
+		<text>那么,现在怎么样了?</text>
+	</string>
+	<string id="jup_a10_vano_give_duty_11111">
+		<text>我想把我挣到的钱付给他.对我来说,没有什么比我的名声更重要些...但是我害怕了.你能代替我去见杰克,把我的债务还清吗?</text>
+	</string>
+	<string id="jup_a10_vano_give_duty_111111">
+		<text>好的,我会的.</text>
+	</string>
+	<string id="jup_a10_vano_give_duty_1111111">
+		<text>唯一要注意的是,当你见到他时要马上拿出你强大的武器或别的什么东西.让他们知道你不是可以随随便便就能打发掉的,他们才会尊重你...</text>
+	</string>
+	<string id="jup_a10_vano_give_duty_11111111">
+		<text>我会的.</text>
+	</string>
+	<string id="jup_a10_vano_give_duty_111112">
+		<text>我现在很忙.</text>
+	</string>
+	<string id="jup_a10_vano_give_duty_1112">
+		<text>我已经有足够的钱了.</text>
+	</string>
+	<string id="jup_a10_vano_give_duty_2">
+		<text>那么,你能代替我去见杰克,把我的债务还清吗?</text>
+	</string>
+	<string id="jup_a10_vano_help_dialog_11">
+		<text>好吧,好吧,别开枪,我会付这笔账的...呃,抱歉,我以为你是其他人...</text>
+	</string>
+	<string id="jup_a10_vano_help_dialog_12">
+		<text>强盗们怎么样了?</text>
+	</string>
+	<string id="jup_a10_vano_help_dialog_13">
+		<text>嘿,兄弟,你来了真好!</text>
+	</string>
+	<string id="jup_a10_vano_help_dialog_14">
+		<text>嘿.</text>
+	</string>
+	<string id="jup_a12_bandit_chief_dialog_11">
+		<text>我们有客人了...一个想见希沙克并和他谈谈的潜行者.你是来送礼还是来做生意的?不管你要做什么,说出来,老兄.</text>
+	</string>
+	<string id="jup_a12_bandit_chief_dialog_12">
+		<text>我没想到你还会回来...那么,你为我带来什么了?</text>
+	</string>
+	<string id="jup_a12_bandit_chief_dialog_13">
+		<text>还有什么要说的吗,潜行者?</text>
+	</string>
+	<string id="jup_a12_bandit_guard_start_0">
+		<text>你想要什么?你对你身边那些拖累你的战利品感到厌烦了?如果是那样的话,我们可以帮你.</text>
+	</string>
+	<string id="jup_a12_bandit_guard_start_1">
+		<text>我想和你的老板谈谈.</text>
+	</string>
+	<string id="jup_a12_bandit_guard_start_11">
+		<text>嘿,伙计,我没时间和你耗着.不要让我再看见你,快滚吧!赶紧走开,不然我就用我的霰弹枪让你滚开.</text>
+	</string>
+	<string id="jup_a12_bandit_guard_start_111">
+		<text>好吧,好吧——我马上走.</text>
+	</string>
+	<string id="jup_a12_bandit_guard_start_2">
+		<text>我来是为了那些被俘获的潜行者——我要见你的老大.</text>
+	</string>
+	<string id="jup_a12_bandit_guard_start_21">
+		<text>唔...继续,但是最好拣重要的简单说,不然我们就立刻把你扔出去...直接说重点.明白了吗?</text>
+	</string>
+	<string id="jup_a12_bandit_guard_start_211">
+		<text>是的.</text>
+	</string>
+	<string id="jup_a12_bandit_guard_start_3">
+		<text>我只是路过,我马上就走.</text>
+	</string>
+	<string id="jup_a12_bandit_guard_start_4">
+		<text>我来是为了那些被俘获的潜行者——我要见你的老大.</text>
+	</string>
+	<string id="jup_a12_bandit_guard_visited_0">
+		<text>你还想要什么?走开!</text>
+	</string>
+	<string id="jup_a12_bandit_guard_visited_1">
+		<text>好吧...</text>
+	</string>
+	<string id="jup_a12_bandit_payment_dialog_0">
+		<text>听着,你这家伙,你在试着羞辱我?你为你那狗屁朋友带够钱了,但是你自己的安全可是要另加钱的!你想的可太简单了,懂吗年轻人?</text>
+	</string>
+	<string id="jup_a12_bandit_payment_dialog_1">
+		<text>你到底要多少?不管怎样我必须要到基地去,所以请你记住.</text>
+	</string>
+	<string id="jup_a12_bandit_payment_dialog_11">
+		<text>噢,你真是个有意思的家伙!这不是妓院,伙计,这里可没有明码标价这回事...把口袋里所有的东西都交出来吧,蠢货!</text>
+	</string>
+	<string id="jup_a12_bandit_payment_dialog_111">
+		<text>好吧,就这些.</text>
+	</string>
+	<string id="jup_a12_bandit_payment_dialog_11111">
+		<text>好吧,我就走.</text>
+	</string>
+	<string id="jup_a12_bandit_payment_dialog_112">
+		<text>什么?!你想把我所有的战利品都拿走吗?绝不!</text>
+	</string>
+	<string id="jup_a12_bandit_payment_dialog_2">
+		<text>我付赎金.没有其它要谈的了.</text>
+	</string>
+	<string id="jup_a12_merc_done_dialog_11">
+		<text>好吧,潜行者,我们已经拿到钱了.你可以走了.</text>
+	</string>
+	<string id="jup_a12_merc_done_dialog_111">
+		<text>谢谢,伙计.下次再见.</text>
+	</string>
+	<string id="jup_a12_merc_done_dialog_112">
+		<text>等等.可能还有更多的强盗还躲着的.</text>
+	</string>
+	<string id="jup_a12_merc_done_dialog_12">
+		<text>好吧,该走了.那个年轻人没有成功,但我们已经作了最大的努力了...</text>
+	</string>
+	<string id="jup_a12_merc_done_dialog_13">
+		<text>等等,还没结束呢!</text>
+	</string>
+	<string id="jup_a12_merc_done_dialog_131">
+		<text>明白!</text>
+	</string>
+	<string id="jup_a12_stalker_assaulter_after_scene_actor_dialog_0">
+		<text>和我一起去普里皮亚特吧.</text>
+	</string>
+	<string id="jup_a12_stalker_assaulter_after_scene_actor_dialog_1">
+		<text>我现在最好留在这,我要确保米泰没有麻烦.</text>
+	</string>
+	<string id="jup_a12_stalker_assaulter_after_scene_dialog_11">
+		<text>嘿,潜行者!非常感谢你把米泰救出来!我们正打算组织一个小队呢...来吧,作为我们的感谢,拿上这个.</text>
+	</string>
+	<string id="jup_a12_stalker_assaulter_after_scene_dialog_12">
+		<text>嘿,潜行者!非常感谢你把米泰救出来!你像一只野兽,独自一人对付那些强盗...来吧,作为我们的感谢,拿上这个.</text>
+	</string>
+	<string id="jup_a12_stalker_assaulter_after_scene_dialog_13">
+		<text>嘿,潜行者!谢谢你帮助我去救米泰!就我个人而言,我不认为支付赎金能很好地解决这件事...我想你会用上这些钱的,所以,拿上这些.我们感谢你.</text>
+	</string>
+	<string id="jup_a12_stalker_assaulter_after_scene_dialog_14">
+		<text>嘿,潜行者!谢谢你帮助我去救米泰!对整件事情我从头到尾都是对的.你绝对不会对强盗们让步!你应该给他们制造一些麻烦...而且你也会从中得到一些意外的收获.来吧,拿上这些——每个人都得到了一份,所以并不是很多,但我们真的很感谢你.</text>
+	</string>
+	<string id="jup_a12_stalker_assaulter_after_scene_dialog_15">
+		<text>那么,赎金怎么样了?</text>
+	</string>
+	<string id="jup_a12_stalker_assaulter_after_scene_dialog_151">
+		<text>仍然在努力筹钱.</text>
+	</string>
+	<string id="jup_a12_stalker_assaulter_after_scene_dialog_16">
+		<text>那么,发生什么事了?你什么时候能敲打敲打一下那些强盗们?</text>
+	</string>
+	<string id="jup_a12_stalker_assaulter_after_scene_dialog_161">
+		<text>马上.</text>
+	</string>
+	<string id="jup_a12_stalker_assaulter_after_scene_dialog_17">
+		<text>你改变主意了还是你对付不了那些强盗?...噢好吧,去做你该做的事情,但是请快点——我们不希望他们失去耐心开始折磨米泰.</text>
+	</string>
+	<string id="jup_a12_stalker_assaulter_after_scene_dialog_171">
+		<text>我会解决的.马上就会没事了.</text>
+	</string>
+	<string id="jup_a12_stalker_assaulter_after_scene_dialog_18">
+		<text>我很乐意看到你这样的专家,潜行者!</text>
+	</string>
+	<string id="jup_a12_stalker_assaulter_after_scene_dialog_19">
+		<text>兄弟,我们在那失去了一个好伙计...可怜的米泰...我们救不了他——我们是好朋友!</text>
+	</string>
+	<string id="jup_a12_stalker_assaulter_after_scene_dialog_191">
+		<text>你能做什么?</text>
+	</string>
+	<string id="jup_a12_stalker_diplomat_after_scene_actor_dialog_0">
+		<text>和我一起去普里皮亚特吧.</text>
+	</string>
+	<string id="jup_a12_stalker_diplomat_after_scene_actor_dialog_1">
+		<text>我只是来和我的朋友们待在一起的,所以我要和他们一起留在这.</text>
+	</string>
+	<string id="jup_a12_stalker_diplomat_after_scene_dialog_11">
+		<text>嘿,为了米泰,谢谢你...我们正想带着赎金到那里去.毫无疑问,事情解决得相当漂亮...</text>
+	</string>
+	<string id="jup_a12_stalker_diplomat_after_scene_dialog_12">
+		<text>嘿,为了米泰,谢谢你...你是怎么说服他们的?兄弟,看来我有很多地方要向你学习...</text>
+	</string>
+	<string id="jup_a12_stalker_diplomat_after_scene_dialog_13">
+		<text>嘿,为了米泰,谢谢你...我是对的,不是吗?谈判才是成功的秘诀!</text>
+	</string>
+	<string id="jup_a12_stalker_diplomat_after_scene_dialog_14">
+		<text>嘿,为了米泰,谢谢你...我仍然认为谈判比较好一点,但是事情最后还是很好地解决了,所以一切都好.</text>
+	</string>
+	<string id="jup_a12_stalker_diplomat_after_scene_dialog_15">
+		<text>走开——我现在不想和你说话.</text>
+	</string>
+	<string id="jup_a12_stalker_diplomat_after_scene_dialog_151">
+		<text>好吧,放轻松点.</text>
+	</string>
+	<string id="jup_a12_stalker_diplomat_after_scene_dialog_16">
+		<text>你好啊,专家先生!</text>
+	</string>
+	<string id="jup_a12_stalker_diplomat_after_scene_dialog_17">
+		<text>可怜的米泰...他仅仅是一个孩子...他几乎还有一生的时间等着他去体验...</text>
+	</string>
+	<string id="jup_a12_stalker_diplomat_after_scene_dialog_171">
+		<text>你能做什么?</text>
+	</string>
+	<string id="jup_a12_stalker_give_art_dialog_0">
+		<text>棒极了,我们全部都在这里了.灰熊告诉了我有关你的事...计划很简单:我的人在周围进攻,而我负责在我的位置干掉哨兵——那就是袭击开始的信号...留意我们的位置,无论你觉得怎么做是最好的,都可以尽情去做.我想你知道自己要做什么的...准备好了吗?</text>
+	</string>
+	<string id="jup_a12_stalker_give_art_dialog_1">
+		<text>我会记在心里的.我们行动吧.</text>
+	</string>
+	<string id="jup_a12_stalker_give_art_dialog_2">
+		<text>等等,让我想想.</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_come_with_me_0">
+		<text>你想不想和我一起去一趟普里皮亚特呢,米泰?</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_employ_stalkers_0">
+		<text>科学家们正依靠雇佣一些人来工作,去帮他们工作怎么样?</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_employ_stalkers_1">
+		<text>是什么工作?</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_employ_stalkers_11">
+		<text>保卫他们的驻地.</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_employ_stalkers_111">
+		<text>不,兄弟,我在强盗那里已经够刺激了,我只想在这里轻松一下.</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_employ_stalkers_12">
+		<text>保护测量人员.</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_employ_stalkers_121">
+		<text>唔...很有意思.我以前为科学家工作过,而且,既然是你请求的——好吧,我接下了.我,灰熊和托巴会前往驻地的.</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_free_actor_dialog_0">
+		<text>告诉我你是怎么被俘虏的.</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_free_actor_dialog_1">
+		<text>兄弟,别问!这都是我自己的错.那些强盗警告过我,但你知道...他们想要瓜分我的战利品,但特异区并不属于任何人,凭什么我要把我自己的东西分给他们?</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_free_actor_dialog_111">
+		<text>我和我的兄弟们假意地告诉他们获得神器的地点,并且看上去那次我们侥幸逃脱了.但是强盗们变得相当狡猾——他们组织了一次伏击.所以,当我愚蠢地独自上路去寻找神器的时候,他们从我背后跳了出来,然后还没等我把枪掏出来就被他们捆起来了...这就是经过.</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_free_dialog_11">
+		<text>谢谢你为我付赎金!我不会忘记的.</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_free_dialog_12">
+		<text>谢谢你释放了我,潜行者!我不会忘记的.</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_free_dialog_13">
+		<text>谢谢你帮助他们为我付赎金!</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_free_dialog_14">
+		<text>谢谢你帮助他们释放我,潜行者!</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_free_dialog_15">
+		<text>谢谢你的帮助,潜行者...当我们回去的时候,我的朋友们一定会报答你...让我们一起去基地吧,那条路会更快一些.</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_free_dialog_151">
+		<text>走吧.</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_free_dialog_152">
+		<text>你先走吧,我随后就来.我在这里还有些事要解决.</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_hide_until_walk_out_dialog_11">
+		<text>兄弟,我想我刚刚就要死在这了...哇,灰熊和托巴请了这些人吗?不会吧!我这一生从来没见过这样大规模的枪战!我们现在可以离开这了么?</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_hide_until_walk_out_dialog_111">
+		<text>等一会,这附近可能会有更多的强盗.</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_hide_until_walk_out_dialog_112">
+		<text>是的,走吧.</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_hide_until_walk_out_dialog_12">
+		<text>兄弟,我以为这次我死定了...哇,你独自解决了所有的强盗么?你是个真男人!当我提起这件事的时候一定不会有人相信我的...现在我们可以离开了么?</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_hide_until_walk_out_dialog_121">
+		<text>等一会,这里可能还有人.</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_hide_until_walk_out_dialog_122">
+		<text>是的,我们现在就离开吧.</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_thank_bandits_base_dialog_11">
+		<text>谢谢你,潜行者!趁着强盗们还没改变主意,我们走吧.</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_thank_bandits_base_dialog_111">
+		<text>走吧.</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_thank_bandits_base_dialog_21">
+		<text>我们要离开这,快点!</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_actor_power_dialog_0">
+		<text>我们不能向强盗们妥协.这样的问题还是需要用暴力来解决.</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_actor_power_dialog_1">
+		<text>完全正确!我知道有些家伙很乐意帮忙...如果你不介意加入我们而像一个队伍一样行动的话,我们也会酬谢你的.</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_actor_power_take_dialog_0">
+		<text>我已经准备好出发了.</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_actor_power_take_dialog_1">
+		<text>很好!我知道一队曾经在特别警察部队任职的潜行者.你必须在凌晨一点之后在约定的地点和他们见面——他们会等着你.</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_actor_power_take_dialog_11">
+		<text>好的.</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_actor_ransom_dialog_0">
+		<text>托巴是对的.当他们抓到人质的时候,没有必要进行屠杀.我们必须进行谈判.</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_actor_ransom_dialog_1">
+		<text>唔,也许你们俩是对的...唯一的问题是,由于我们拒绝遵从他们的规矩,如果我和托巴要去的话,那些强盗不会让我们离开的.他们说他们下次看见我们的时候会把我们活埋.现在,如果你可以去谈判的话...</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_actor_ransom_take_dialog_0">
+		<text>好,我会去的.把神器给我.</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_actor_ransom_take_dialog_1">
+		<text>小心.</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_actor_ransom_take_dialog_11">
+		<text>一切都会好起来的.</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_actor_self_dialog_0">
+		<text>我们会没完没了地争论...我们的成功取决于是谁处理这件事.我会自己解决那些混蛋的.</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_actor_self_dialog_1">
+		<text>兄弟,我没有料到会那样...祝你好运.</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_actor_self_dialog_11">
+		<text>我会很快回来的.</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_actor_wait_dialog_0">
+		<text>我同意,但我需要一些时间来准备一下.</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_dialog_11">
+		<text>潜行者,帮助我们的兄弟米泰摆脱麻烦,好吗?</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_dialog_111">
+		<text>出了什么事?</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_dialog_1111">
+		<text>米泰真的遇到麻烦了...那些强盗们下定决心要潜行者们把他们找到的神器分出来.我们让他们滚开,我们这些潜行者又没有欠他们什么东西,看起来事情就这么算了...但是他们却趁着那个可怜孩子独自外出寻宝的时候伏击了他,现在他们要挟我们要赎金.</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_dialog_11111">
+		<text>你打算怎么办?</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_dialog_111111">
+		<text>托巴建议给他们一个神器作为赎金...我觉得我们不能给他们.如果我们给了,那就意味着潜行者们在为了强盗工作...我们应该卖掉神器,好雇佣一队可靠的伙计去端掉强盗们的老窝.</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_dialog_112">
+		<text>我们等会再谈这件事吧.</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_dialog_12">
+		<text>那么,你会帮我们救米泰吗?托巴觉得我们应该给他们一个神器作为赎金.而且我们坚决认为我们必须攻击强盗的老窝.我们应该卖掉神器去雇佣一些战士...我们仍然没有决定要做什么.</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_dialog_13">
+		<text>你准备好了?我们会把神器给你去赎回米泰,我们会在酒吧等你.</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_dialog_15">
+		<text>你已经去过强盗那了吗?</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_dialog_151">
+		<text>还没呢,我正在准备.</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_dialog_152">
+		<text>是啊,但是现在还没多少进展.如果有什么好消息的话我会通知你的.</text>
+	</string>
+	<string id="jup_a6_barmen_oasis_art_sell_0">
+		<text>我最近在绿洲发现了一个神器.你有兴趣吗?</text>
+	</string>
+	<string id="jup_a6_barmen_oasis_art_sell_1">
+		<text>哈,你并不指望我会相信它,是吗?我听说过很多关于绿洲的事情,但是,我从来,没听说过有任何人到过那.我无意冒犯,但是我不会相信你的.</text>
+	</string>
+	<string id="jup_a6_duty_leader_a9_sell_info_0">
+		<text>我有朱皮特工业区的文件.</text>
+	</string>
+	<string id="jup_a6_duty_leader_a9_sell_info_11">
+		<text>是的,全部带上.</text>
+	</string>
+	<string id="jup_a6_duty_leader_a9_sell_info_12">
+		<text>是的,拿上撤退命令.</text>
+	</string>
+	<string id="jup_a6_duty_leader_a9_sell_info_13">
+		<text>是的,拿上会议记录.</text>
+	</string>
+	<string id="jup_a6_duty_leader_a9_sell_info_14">
+		<text>是的,拿上交货计划.</text>
+	</string>
+	<string id="jup_a6_duty_leader_a9_sell_info_15">
+		<text>是的,拿上维修站的笔记.</text>
+	</string>
+	<string id="jup_a6_duty_leader_a9_sell_info_16">
+		<text>也许下次吧.</text>
+	</string>
+	<string id="jup_a6_duty_leader_about_stolen_items_0">
+		<text>谁会从私人储物箱里偷东西呢?</text>
+	</string>
+	<string id="jup_a6_duty_leader_about_stolen_items_1">
+		<text>不是我的人,这是肯定的.可能是自由团的某个人.如果我们完全控制了亚诺夫车站,像这样的事情就不会发生.</text>
+	</string>
+	<string id="jup_a6_duty_leader_about_you_0">
+		<text>告诉我关于纪律团的事情.</text>
+	</string>
+	<string id="jup_a6_duty_leader_about_you_1">
+		<text>你究竟想知道什么?</text>
+	</string>
+	<string id="jup_a6_duty_leader_about_you_1111">
+		<text>你在这做什么?</text>
+	</string>
+	<string id="jup_a6_duty_leader_about_you_11111">
+		<text>我们一直在做着相同的事情.保护潜行者们不会被各种东西伤害.你已经见到了,这里到处是变异生物还有你在封锁线见过的那些并不可爱的小狗.举个例子,我昨天晚上亲眼看见了一只奇美拉.那时天黑了,所以我们没敢追捕它...变异生物也不是这里的唯一危险.我们也开始在那些自由团的傻瓜到达废弃实验室之前调查并收集来自那里的证据.</text>
+	</string>
+	<string id="jup_a6_duty_leader_about_you_1112">
+		<text>是什么把你带到特异区的中心来的?</text>
+	</string>
+	<string id="jup_a6_duty_leader_about_you_11121">
+		<text>你在耍我吗?那么是什么把你带来的?我猜我们来着都是有着相同的目的.特异区的中心始终有一个无法到达的地方,一个我们有希望找到我们所有问题的答案.我们想找到特异区是如何形成的,还有如何才能把它毁灭.那就是为什么当我们听到焦脑器毁灭的时候我们开始向中心地区移动.</text>
+	</string>
+	<string id="jup_a6_duty_leader_about_you_111211">
+		<text>那么,你查到什么了?</text>
+	</string>
+	<string id="jup_a6_duty_leader_about_you_1112111">
+		<text>相当多,但是那是秘密.我唯一能说的是特异区更加受到关注了.我们中的一些人相信特异区是一块肿瘤,它无论如何都必须被除掉.但依我所见,我更倾向于相信这个特异区是一个有生命的有机体,而我们只不过是生活在其中的细菌.即使我们集合了全世界所有国家的军队都无法毁灭特异区.那么我们必须比其它人更聪明些:我们必须找到特异区存在的原因,然后,毁灭它.</text>
+	</string>
+	<string id="jup_a6_duty_leader_about_you_11121111">
+		<text>如果你无法毁灭它,怎么办?</text>
+	</string>
+	<string id="jup_a6_duty_leader_about_you_111211111">
+		<text>好吧,如果我们做不到,我们就要考虑点别的办法了,但是这件事仍然有希望.我们必须完成我们的职责,要对我们有信心.</text>
+	</string>
+	<string id="jup_a6_duty_leader_about_you_1113">
+		<text>你怎么成为纪律团成员的?</text>
+	</string>
+	<string id="jup_a6_duty_leader_about_you_11131">
+		<text>那是一个糟糕的故事,没有任何英雄.当特异区被发现的时候,兰雅,我的一位朋友,决定来这里调查.我当时是一位陆军校级军官,兰雅在情报部门工作.庆幸的是,我们没有变成吸血怪或者其它怪物,但是我们最终还是陷入了麻烦.我们浑身伤口,流着血爬了几个小时,直到纪律团救了我们.我活下来了,但兰雅没有.我在特异区里没有朋友了,所以我决定和纪律团一起留在这.另外,从那时开始,我必须有一个可以用来对抗特异区的有力的支持.</text>
+	</string>
+	<string id="jup_a6_duty_leader_about_you_1114">
+		<text>你和自由团的关系怎么样?</text>
+	</string>
+	<string id="jup_a6_duty_leader_about_you_11141">
+		<text>老实讲,我们通常水火不容,但在特异区中生活有它自己的规则.这里有几个安全的地方,在那里,无论自由团还是纪律团都不会使用武力.大家都说为什么我们总是要互相残杀呢?于是,在那里,我们互相之间相安无事,这是大家默认的潜规则.尽管如此,这个规则在亚诺夫车站外是不起作用的:在外面我们仍然在互相敌视,而且是动不动就大打出手.</text>
+	</string>
+	<string id="jup_a6_duty_leader_about_you_1115">
+		<text>好吧,忘了它吧.</text>
+	</string>
+	<string id="jup_a6_duty_leader_about_you_11151">
+		<text>噢...好的.</text>
+	</string>
+	<string id="jup_a6_duty_leader_b106_info_about_soroka_0">
+		<text>我想谈谈一个叫打火石的自由团成员.</text>
+	</string>
+	<string id="jup_a6_duty_leader_b106_info_about_soroka_1">
+		<text>我从不关心自由团,他们和我们不是一路人.</text>
+	</string>
+	<string id="jup_a6_duty_leader_b106_info_about_soroka_11">
+		<text>打火石,也就是喜鹊,他在扎通袭击潜行者,抢夺他们的战利品然后匆匆逃掉.</text>
+	</string>
+	<string id="jup_a6_duty_leader_b106_info_about_soroka_111">
+		<text>是么?那并不能使我感到惊讶,因为自由团到处都是那样的人渣.</text>
+	</string>
+	<string id="jup_a6_duty_leader_b106_info_about_soroka_1111">
+		<text>还有其它的事:我在露天矿场见到了一个潜行者.他临死之前告诉我,打火石把他一个人留在变异点里,拿着他的战利品然后离开了.</text>
+	</string>
+	<string id="jup_a6_duty_leader_b106_info_about_soroka_11111">
+		<text>啊哈,看到了吧,这种让人难忘的潜行者败类...即使是在自由团中.谢谢那条信息——我们会确定它很有用.</text>
+	</string>
+	<string id="jup_a6_duty_leader_b106_info_about_soroka_1112">
+		<text>他的丑闻实在太多了.我的意思是,这个傻瓜居然有胆量在大庭广众之下把我做的那些事情用来自夸.</text>
+	</string>
+	<string id="jup_a6_duty_leader_b106_info_about_soroka_11121">
+		<text>那将会给自由团的名声带来极大的打击.谢谢你的消息.我们确定它很有用.</text>
+	</string>
+	<string id="jup_a6_duty_leader_b106_info_about_soroka_13">
+		<text>不客气.</text>
+	</string>
+	<string id="jup_a6_duty_leader_b106_info_about_soroka_131">
+		<text>好吧,尊重你的选择.</text>
+	</string>
+	<string id="jup_a6_duty_leader_b207_hiding_place_0">
+		<text>我有你要的军需官的PDA,莫甘.</text>
+	</string>
+	<string id="jup_a6_duty_leader_b207_hiding_place_11">
+		<text>我同意.</text>
+	</string>
+	<string id="jup_a6_duty_leader_b207_hiding_place_12">
+		<text>我会考虑的.</text>
+	</string>
+	<string id="jup_a6_duty_leader_b207_hiding_place_21">
+		<text>我同意.</text>
+	</string>
+	<string id="jup_a6_duty_leader_b207_hiding_place_2111">
+		<text>好吧.</text>
+	</string>
+	<string id="jup_a6_duty_leader_b207_hiding_place_3">
+		<text>我们来看一看...那个混蛋用我们的名义作为掩护,暗地里做交易...如果这件事被揭露出来,我们的名声会一落千丈.把PDA卖给我怎么样?我会出一个好价钱的,4000如何?</text>
+	</string>
+	<string id="jup_a6_duty_leader_b207_merc_pda_1">
+		<text>那真的非同小可.把PDA给我看看.</text>
+	</string>
+	<string id="jup_a6_duty_leader_b207_merc_pda_11">
+		<text>在这儿.</text>
+	</string>
+	<string id="jup_a6_duty_leader_b207_merc_pda_111">
+		<text>老实讲,我早就开始怀疑他了...现在我们终于知道他们的位置了.谢谢你,潜行者!我希望不会有第三个人会知道这次交谈.我会给你一定的报酬——毕竟你救了纪律团的名声...</text>
+	</string>
+	<string id="jup_a6_duty_leader_b207_merc_pda_12">
+		<text>现在还在我手上呢.</text>
+	</string>
+	<string id="jup_a6_duty_leader_b207_merc_pda_2">
+		<text>另一个...非常有意思...我会把它加到档案里面的.</text>
+	</string>
+	<string id="jup_a6_duty_leader_b207_merc_pda_21">
+		<text>给你.</text>
+	</string>
+	<string id="jup_a6_duty_leader_b207_merc_pda_211">
+		<text>谢谢!这是你的努力得来的报酬.</text>
+	</string>
+	<string id="jup_a6_duty_leader_b207_merc_pda_22">
+		<text>我要它当作纪念品收藏起来.</text>
+	</string>
+	<string id="jup_a6_duty_leader_b4_monolith_squad_dialog_0">
+		<text>我见到一群想加入纪律团的战士.</text>
+	</string>
+	<string id="jup_a6_duty_leader_b4_monolith_squad_dialog_1">
+		<text>我们一直欢迎优秀的人加入.他们需要和我见一面,我来和他们们谈谈.</text>
+	</string>
+	<string id="jup_a6_duty_leader_b4_monolith_squad_dialog_11">
+		<text>但是有一个问题...他们曾经是黑石的人.</text>
+	</string>
+	<string id="jup_a6_duty_leader_b4_monolith_squad_dialog_111">
+		<text>"曾经的"黑石的人是什么意思?依我看来黑石组织的人只有两种:活着的和死掉的.我从来没见过"过去的"这种.</text>
+	</string>
+	<string id="jup_a6_duty_leader_b4_monolith_squad_dialog_1111">
+		<text>看起来他们过去被什么人控制了——因为他们不记得他们离开切尔诺贝利核电站之后出了什么事.现在他们一点侵略性都没了,甚至他们连要做什么都不知道.</text>
+	</string>
+	<string id="jup_a6_duty_leader_b4_monolith_squad_dialog_11111">
+		<text>好吧,如果他们不再具有攻击性,那真是一件好事情...我的意思是,我应该给他们找一些轻松的活儿干,好确认一下他们已经恢复了神智.我现在只是不能100%相信他们...你能为他们担保吗?</text>
+	</string>
+	<string id="jup_a6_duty_leader_b4_monolith_squad_dialog_111111">
+		<text>是的.我相信他们.</text>
+	</string>
+	<string id="jup_a6_duty_leader_b4_monolith_squad_dialog_1111111">
+		<text>唔...麻烦的是,我也不能相信你...目前.对不起.</text>
+	</string>
+	<string id="jup_a6_duty_leader_b4_monolith_squad_dialog_1111112">
+		<text>好吧,但是请记住,如果他们惹出了麻烦,你要付出代价.事实上凭他们自己是不可能到达亚诺夫车站的.你要做的是带着我的人到那个黑石小队那里去.他们会同他们交谈,如果一切事情都正常的话,他们应该被接纳到纪律团中.如果你准备好出发的话告诉我.</text>
+	</string>
+	<string id="jup_a6_duty_leader_b4_monolith_squad_dialog_111112">
+		<text>不.我一点都不相信他们.</text>
+	</string>
+	<string id="jup_a6_duty_leader_b4_monolith_squad_dialog_3">
+		<text>不是什么人都可以加入我们的派系的.</text>
+	</string>
+	<string id="jup_a6_duty_leader_b4_monolith_squad_dialog_redy_to_go_0">
+		<text>我准备好带你的人到那个黑石小队那里去了.</text>
+	</string>
+	<string id="jup_a6_duty_leader_b4_monolith_squad_dialog_redy_to_go_1">
+		<text>很好.我派两个人和你一起去.</text>
+	</string>
+	<string id="jup_a6_duty_leader_b4_monolith_squad_dialog_redy_to_go_11">
+		<text>好.</text>
+	</string>
+	<string id="jup_a6_duty_leader_b4_monolith_squad_dialog_redy_to_go_12">
+		<text>等会再说吧,有事情发生了.</text>
+	</string>
+	<string id="jup_a6_duty_leader_b4_monolith_squad_dialog_redy_to_go_2">
+		<text>站住!你想做什么都无所谓,但是我不会让我的人就这么走出去死在电磁风暴下.</text>
+	</string>
+	<string id="jup_a6_duty_leader_duty_founder_pda_0">
+		<text>我发现了纪律团创始人的PDA.你有兴趣吗?</text>
+	</string>
+	<string id="jup_a6_duty_leader_duty_founder_pda_1">
+		<text>让我看看...原来它是这样堕落的...我不认为还有其它人需要知道这个.如果不再有人见到这个PDA,那就再好不过了.让纪律团创立的传奇保持在现在的状态吧.你能把这个PDA卖给我吗?</text>
+	</string>
+	<string id="jup_a6_duty_leader_duty_founder_pda_11">
+		<text>成交.</text>
+	</string>
+	<string id="jup_a6_duty_leader_duty_founder_pda_111">
+		<text>谢谢.这是你的报酬.</text>
+	</string>
+	<string id="jup_a6_duty_leader_duty_founder_pda_12">
+		<text>我会考虑你的报价的.</text>
+	</string>
+	<string id="jup_a6_duty_leader_duty_founder_sell_pda_0">
+		<text>把这个纪律团创建者的PDA拿去吧.</text>
+	</string>
+	<string id="jup_a6_duty_leader_duty_founder_sell_pda_1">
+		<text>谢谢!你让我太感动了.这是你的报酬.</text>
+	</string>
+	<string id="jup_a6_duty_leader_employ_stalkers_0">
+		<text>我需要能帮助科学家的战士.你能帮忙吗?</text>
+	</string>
+	<string id="jup_a6_duty_leader_employ_stalkers_1">
+		<text>我们总是乐于为科学家服务.要做什么?</text>
+	</string>
+	<string id="jup_a6_duty_leader_employ_stalkers_11">
+		<text>他们正在寻找能保卫营地的人.</text>
+	</string>
+	<string id="jup_a6_duty_leader_employ_stalkers_111">
+		<text>当然,我会把我的人派过去的.</text>
+	</string>
+	<string id="jup_a6_duty_leader_employ_stalkers_121">
+		<text>很好,我会把我的人派过去的.</text>
+	</string>
+	<string id="jup_a6_duty_leader_employ_stalkers_2">
+		<text>我乐意效劳,但是他们已经雇佣了自由团了.把我们的小队派过去只会加剧已经非常紧张的局势.</text>
+	</string>
+	<string id="jup_a6_duty_leader_pripyat_group_0">
+		<text>我正计划前往普里皮亚特.你愿意给我几名战士去执行任务吗?</text>
+	</string>
+	<string id="jup_a6_duty_leader_pripyat_group_1">
+		<text>我们现在缺人手!和神行客谈谈——看起来他一点都没有把纪律团当家来看待,所以他也许会发现,他要找的人就是你.</text>
+	</string>
+	<string id="jup_a6_duty_leader_pripyat_group_2">
+		<text>我们现在缺人手!我不会为了一个希望渺茫的任务而派出任何人.</text>
+	</string>
+	<string id="jup_a6_duty_leader_start_dialog_11">
+		<text>有话快说,说完赶紧走.你想干什么?</text>
+	</string>
+	<string id="jup_a6_duty_leader_start_dialog_12">
+		<text>我在听.</text>
+	</string>
+	<string id="jup_a6_duty_leader_start_dialog_13">
+		<text>看到你还活着真好.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_a9_sell_info_0">
+		<text>我有朱皮特工业区的文件.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_a9_sell_info_1">
+		<text>我真怀疑那里会有什么有意思的事情.在潜行者到达那里之前,那个工业区就已经就已经是那样了.虽然......唔,现在还没有正式的记录.我想要把它们给其它人看看.把他们卖给我,好吗?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_a9_sell_info_11">
+		<text>是的,全部拿上.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_a9_sell_info_12">
+		<text>是的,拿上撤退命令.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_a9_sell_info_13">
+		<text>是的,拿上会议记录.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_a9_sell_info_14">
+		<text>是的,拿上交货计划.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_a9_sell_info_15">
+		<text>是的,拿上维修站的笔记.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_a9_sell_info_16">
+		<text>也许下次吧.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_stolen_items_0">
+		<text>谁会从私人储物箱里偷东西?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_stolen_items_1">
+		<text>我不是看门的,我也没有义务帮你看管你的储物箱!我的人肯定没有偷——这是肯定的.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_0">
+		<text>告诉我有关自由团的事情.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_1">
+		<text>说来话长.你想知道什么?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_1111">
+		<text>你在这做什么?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_11111">
+		<text>我们在这确保某些政府的人掩盖事实.你知道会怎么样:他们一旦找到了新的实验室或者揭示了特异区秘密的文件,他们马上组织军队,然后把一切清扫得比那该死的吸尘器扫过还要干净.能阻止这样的事的唯一方法是抢先到达那个地方.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_1112">
+		<text>是什么把你带到了特异区的中心?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_11121">
+		<text>好吧,我的兄弟们喜欢到新的地方旅行.哈哈,只是开玩笑而已.这是一个找到以前这个世界上没有的物质的绝妙的机会.军队或者潜行者们以前从来没有来过这里,所以在这里你能看到一些新的东西.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_111211">
+		<text>你找到什么了吗?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_1112111">
+		<text>几个锁起来的门和一些古怪的神器.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_1113">
+		<text>你怎么加入自由团的?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_11131">
+		<text>好吧,还没有特异区的时候,我就是自由团老大的朋友了.听着,那时候他们可不像是领导者,他们更像是普通的嬉皮士.所以当我去特异区寻找神器却偶然遇见这几个熟悉的面孔的时候,我想我更愿意和我认识的人一起走.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_1114">
+		<text>你觉得纪律团怎么样?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_11141">
+		<text>他们是傻瓜,那就是我的想法.我的意思是,到底为什么他们非要毁灭特异区?它又不会破坏珍贵的资源或者向外扩张......或者类似的事情.他们坐下来,安心研究这一切——想想会有多少科学发现......我的意思是,在人类历史中,从来没有人能够理解零重力现象,对吧?可是在特异区中,已经形成的重力变异点到处都是.把傻瓜赶出这里并不需要多大代价,但是却存在着很多麻烦.顺便提一下,在亚诺夫车站,不要把我们的关系搞混了,我们正在打仗......是亚诺夫车站成为了天然的安全区而已,你知道我指什么.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_1115">
+		<text>好吧,忘了它吧.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_11151">
+		<text>没问题.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b106_info_about_soroka_0">
+		<text>我想和你谈谈关于你手下一个潜行者的事.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b106_info_about_soroka_1">
+		<text>真的吗?请便.我希望你不是来告谁的密的.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b106_info_about_soroka_11">
+		<text>你的一个手下打火石在扎通化名为喜鹊.当地的潜行者猎手们正在找他,因为他挑衅他们,卷着所有的战利品跑了.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b106_info_about_soroka_111">
+		<text>你指望我相信你吗?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b106_info_about_soroka_1111">
+		<text>你听听他在酒吧说的故事吧.先开始他欺骗了那些潜行者,而现在他连你一起骗了.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b106_info_about_soroka_11111">
+		<text>好吧,你吓到我了.我会把所有讯息比较一下看看究竟是怎么回事.如果你所说的被证明是真的话,我们会用自由团的方式来对付打火石.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b106_info_about_soroka_11121">
+		<text>唔......我也纳闷他是怎么这么快就能得到那件神器的.我猜他有一半的故事是完全瞎说的.我会和我的人说的.如果你所说的被证实了,我们会用自由团的方式来对付他.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b106_info_about_soroka_13">
+		<text>不客气.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b106_info_about_soroka_131">
+		<text>好的.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b207_hiding_place_11">
+		<text>我同意.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b207_hiding_place_12">
+		<text>我会考虑的.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b207_hiding_place_21">
+		<text>肯定是.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b207_hiding_place_2111">
+		<text>好的.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b4_monolith_squad_dialog_0">
+		<text>我见到了一队想加入自由团的战士.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b4_monolith_squad_dialog_1">
+		<text>好的,我们总是欢迎优秀的人.如果他们打算加入的话,我们非常欢迎.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b4_monolith_squad_dialog_11">
+		<text>但是有一个小问题——他们过去是黑石组织的战士.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b4_monolith_squad_dialog_111">
+		<text>一个"小"问题?我只愿意从瞄准镜中观察黑石组织的战士.不可能!</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b4_monolith_squad_dialog_1111">
+		<text>这些家伙很安静.看上去他们过去似乎是被什么人控制了——因为他们不记得他们离开切尔诺贝利核电站之后出了什么事.现在他们一点侵略性都没了,甚至他们连要做什么都不知道.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b4_monolith_squad_dialog_11111">
+		<text>对不起,但我仍然怀疑.如果你故意骗我怎么办?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b4_monolith_squad_dialog_11112">
+		<text>好吧,也许和他们谈谈,找出事实的真相并不坏.我会派几个人和你一起去.让他们互相谈谈,如果证实了他们并无恶意,我们会接受你的黑石组织的战士.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b4_monolith_squad_dialog_3">
+		<text>请你滚开这里?我简直不敢相信,你居然要我们把各种人渣都接纳到自由团里.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b4_monolith_squad_dialog_redy_to_go_0">
+		<text>我来是为了接受黑石小队加入自由团的事.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b4_monolith_squad_dialog_redy_to_go_1">
+		<text>我的人准备好出发了.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b4_monolith_squad_dialog_redy_to_go_11">
+		<text>好的,让他们跟着我.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b4_monolith_squad_dialog_redy_to_go_12">
+		<text>稍等一会.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b4_monolith_squad_dialog_redy_to_go_2">
+		<text>我们等一会.电磁风暴可不太友善.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_duty_founder_pda_0">
+		<text>我发现了纪律团创建者的PDA.你有兴趣吗?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_duty_founder_pda_1">
+		<text>好吧,如果里面有什么有用的东西的话......哇,真有意思.他们一直在特异区中散播他们那些完全是胡说八道的宣传,结果他们自己的历史居然是一堆废物.我真想好好看个彻底.听着,我会给这个PDA出个好价钱.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_duty_founder_pda_11">
+		<text>成交.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_duty_founder_pda_111">
+		<text>谢谢.这是你的钱.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_duty_founder_pda_12">
+		<text>我会考虑的.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_duty_sell_founder_pda_0">
+		<text>把这个纪律团创建者的PDA拿走吧.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_duty_sell_founder_pda_1">
+		<text>谢谢.这是你的钱.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_employ_stalkers_0">
+		<text>科学家正在招聘人手.你这有人愿意去吗?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_employ_stalkers_1">
+		<text>嗯,那要看看是什么工作了.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_employ_stalkers_11">
+		<text>科学家们需要人手保卫营地.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_employ_stalkers_111">
+		<text>好的,我会把我的人派过去的.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_employ_stalkers_121">
+		<text>好的,我会把我的人派过去的.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_employ_stalkers_2">
+		<text>我乐意效劳,但是已经有纪律团在那了.我们在亚诺夫车站和那些混蛋们待在一起的时间够多了,所以我们不去,谢谢.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_pripyat_group_0">
+		<text>你能给我一支小队和我一起去普里皮亚特吗?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_pripyat_group_1">
+		<text>和我们的新兵,神行客谈谈吧.他在这里不快乐,也许你能给他想要的.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_pripyat_group_2">
+		<text>如果我有多于的人手,我会的,可我不能——抱歉.我们的领地里刚好需要这么多人.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_start_dialog_11">
+		<text>那么,你想说什么?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_start_dialog_12">
+		<text>你在这干什么?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_start_dialog_13">
+		<text>很高兴见到你,兄弟!我听说了你在自由团的事.我能为你做什么?</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_about_halfartefact_jup_b1_0">
+		<text>我在铁路隧道里发现了一个奇怪的东西.你有兴趣吗?</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_about_halfartefact_jup_b1_1">
+		<text>唔,不.那是垃圾.看上去像是神器但却没有任何作用.我们通常把那种垃圾送给科学家.</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_about_halfartefact_zat_b14_0">
+		<text>我在扎通发现了一个奇怪的东西,你有兴趣吗?</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_about_halfartefact_zat_b14_1">
+		<text>我要它们干嘛?我对普通的神器不感兴趣,你知道的......它给科学家看看——他们对各种垃圾都会开出一个好价钱.</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_about_sci_guards_0">
+		<text>我正在找人保卫科学家的营地,你知道有什么人愿意去吗?</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_about_sci_guards_1">
+		<text>你不可能找到比自由团还好的组织了.你也可以试着和独行者们一起解决问题,但是他们并不是十分可靠.如果他们失信于你,你怎么可能在事后找到他们?我明确的告诉你不要和纪律团谈这件事.那些狂热的家伙只是对于剿灭变异生物这一类的事情在行.</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_about_sci_helpers_0">
+		<text>我正在找人为科学家搜集标本,你知道有什么人愿意吗?</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_about_sci_helpers_1">
+		<text>当然.去看看洛基——他会很高兴帮你做那件事的.你也可以试着和独行者们一起解决问题,但是他们中有些人并不是十分可靠.</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_b202_about_stole_0">
+		<text>有人从我的储物箱里偷了东西.你知道谁会这么做吗?</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_b202_about_stole_1">
+		<text>这到底是个什么样的鬼地方,兄弟?我怀疑是纪律团中的某个人干的,因为他们派系对纪律性的要求非常严格,而对我来说,实在是太严格了.在自由团中可没人会要你的那些垃圾的,所以肯定是那些潜行者中的一个.</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_b4_monolith_squad_dialog_0">
+		<text>我最近碰到一对黑石组织小队了.</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_b4_monolith_squad_dialog_1">
+		<text>哇,我从来没见过!虽然我听说过一些关于那些家伙的毛骨悚然的故事.因为黑石组织的人都成了彻底的疯子.那一定是一场艰苦的战斗吧,嗯?</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_b4_monolith_squad_dialog_11">
+		<text>没有战斗.他们是非常安静的家伙.他们告诉我就像是失明的眼睛突然又重见天日了,他们又重新可以控制自己的身体了.他们甚至不知道现在要做什么,所以我正在帮助他们加入某个派系之类的.</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_b4_monolith_squad_dialog_111">
+		<text>哇,真有趣.千万别选择独行者,因为他们通常都是直接将出现在他们眼前的所有敌人都击倒的......和洛基谈谈.只要他们穿上自由团的衣服就没有人敢动他们了.</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_duty_founder_pda_0">
+		<text>谁会对纪律团的创建感兴趣?</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_duty_founder_pda_1">
+		<text>我真的不知道.这完全取决于事实的真相和纪律团的官方渠道的信息有多大差异.把它给洛基看看,他会直接告诉你.</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_jup_b217_pda_sell_0">
+		<text>我有纪律团军需官的PDA.你有兴趣吗?</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_jup_b217_pda_sell_1">
+		<text>没兴趣?那要过八百年后才会发生在我身上.我知道哪里能买到廉价的物品.除了这个之外,没有什么比那个PDA还要让我更感兴趣了.</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_pripyat_group_0">
+		<text>谁能和我一起去普里皮亚特?</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_pripyat_group_1">
+		<text>普里皮亚特?哇!好吧,我真想丢下一切和你去,但是我现在真的很忙......</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_pripyat_group_2">
+		<text>普里皮亚特?哇!你应该向洛基要人.我想他不会拒绝像你这样的好人.</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_start_dialog_12">
+		<text>你来放松的吗?我的酒吧没什么特别的,但是这是个友好而又温馨的地方!</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_start_dialog_13">
+		<text>我这有你要的所有的东西.你需要什么?想要大吃一顿,喝点什么或者你想要知道什么讯息?</text>
+	</string>
+	<string id="jup_a6_stalker_medik_about_sci_guards_0">
+		<text>我想找些人去保卫科学家的营地,你能推荐几个人吗?</text>
+	</string>
+	<string id="jup_a6_stalker_medik_about_sci_guards_1">
+		<text>和独行者们谈谈.我猜他们会很乐意为这些知识分子做些事的......毕竟,这样可以给他们一个留在特异区的正当的理由.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_about_sci_helpers_0">
+		<text>我正在找人帮助科学家们搜集标本,你能推荐几个人吗?</text>
+	</string>
+	<string id="jup_a6_stalker_medik_about_sci_helpers_1">
+		<text>我建议你不要让毫无经验的独行者参与其中.他们不可能会发现任何有价值的东西,甚至他们还可能还会丢掉一些东西,如果你明白我的意思的话.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_b4_monolith_squad_dialog_0">
+		<text>我最近遇见了一支黑石小队,并且我想问你一些事情.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_b4_monolith_squad_dialog_1">
+		<text>你知道,我见过的所有遭遇过黑石组织的战士的人身上都有些不该有的洞,都没有了脉搏.而你,在另一方面,看上去却是活的很好,那么你想问什么呢?</text>
+	</string>
+	<string id="jup_a6_stalker_medik_b4_monolith_squad_dialog_11">
+		<text>这支小队不是那样的.我和他们谈过,我并不需要和他们战斗.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_b4_monolith_squad_dialog_111">
+		<text>不需要!?</text>
+	</string>
+	<string id="jup_a6_stalker_medik_b4_monolith_squad_dialog_1111">
+		<text>是这样.他们告诉我就像是失明的眼睛突然又重见天日了,然后他们不知道现在要做什么.他们让我给些建议.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_b4_monolith_squad_dialog_11111">
+		<text>好吧,我的建议是离独行者们远远的,因为他们为了生存下去,他们牢牢地记住了黑石组织的名字.我想你可以试着让他们加入一个派系,但是我不知道纪律团或者自由团会不会愿意接纳他们.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_duty_founder_pda_0">
+		<text>我有一个记载着纪律团建立的真相的PDA,你有兴趣吗?</text>
+	</string>
+	<string id="jup_a6_stalker_medik_duty_founder_pda_1">
+		<text>请记住,我不爱说长道短.如果你想卖什么讯息的话,你可以去猫头鹰那看看.他喜欢这一类的东西.还有,看你信息的性质,洛基或者舒尔加也可能会对它感兴趣.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_jup_b217_pda_sell_0">
+		<text>我有纪律团军需官的PDA,你有兴趣吗?</text>
+	</string>
+	<string id="jup_a6_stalker_medik_jup_b217_pda_sell_1">
+		<text>我有个感觉,这个PDA代表着纪律团的麻烦,我不需要那个.试试和猫头鹰谈谈.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_0">
+		<text>我需要医疗救助.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_1">
+		<text>我看看...</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_111">
+		<text>好多了.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_pripyat_group_0">
+		<text>谁会和我一起去普里皮亚特?</text>
+	</string>
+	<string id="jup_a6_stalker_medik_pripyat_group_1">
+		<text>和瓦诺,一个潜行者谈谈吧.他很豪爽,不过那可给他带来了不少麻烦.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_pripyat_group_2">
+		<text>这里的疯子可不太多,老兄,你应该去别的地方找找.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_start_dialog_0">
+		<text>你来找医疗用品的还是只是来聊天的?</text>
+	</string>
+	<string id="jup_a6_stalker_medik_tech_b202_about_stole_0">
+		<text>有人从我的私人储物箱里偷了些东西.你知道有谁可能这么做吗?</text>
+	</string>
+	<string id="jup_a6_stalker_medik_tech_b202_about_stole_12">
+		<text>你知道那个潜行者的名字吗?</text>
+	</string>
+	<string id="jup_a6_stalker_medik_tech_b202_about_stole_121">
+		<text>我听说他是第一次来这...他到底叫什么鬼名字来着...是斯纳毕吗?斯纳克...不不.真该死...斯纳戈,就是它!他的名字叫斯纳戈.</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_11">
+		<text>什么事,老兄?</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_111">
+		<text>嘿.我有件事想和你谈谈.</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_1111">
+		<text>不错,我们先喝一杯吧,这样我们可以尽可能地认真谈谈!</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_11111">
+		<text>好吧,干杯!</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_11112">
+		<text>不,我现在还不想喝酒.</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_12">
+		<text>那么,你说的是什么事?</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_121">
+		<text>我计划从朱皮特工业区地下的地下通道中前往普里皮亚特.尼特罗能打开入口.</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_1211">
+		<text>唔...从地下去普里皮亚特...是个好主意...那么我们再来一杯吧.</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_12111">
+		<text>干杯.</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_13">
+		<text>呃,这真是个好东西.我希望你不是计划自己承担这个任务吧?不...不会那样的...我会和你一起去...而且我们也还需要其它人.这样的事情总是需要几个值得相信的朋友...</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_131">
+		<text>尼特罗建议我组织一支小队...</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_1311">
+		<text>哈,真是个好主意...为了任务的成功,再干一杯...</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_13111">
+		<text>干了!</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_132">
+		<text>你知道,我能自己干...我的意思是,在扎通我自己甚至能独自干倒一只吸血怪...几只汽油桶,接下来就是看好戏的时间啦.</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_1321">
+		<text>哇,牛人.为了手边随时都有汽油桶,干杯.</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_13211">
+		<text>阿门!</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_133">
+		<text>嘿,值得相信吗?好吧,这里到出都是人渣...我在扎通遇到了一个商人,结果他居然是纪律团的人...</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_1331">
+		<text>哇,那么纪律团也正在逐渐腐化了,嘿...这个世界会变得怎么样?噢,好吧,不要考虑这个了,我们喝一杯.</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_13311">
+		<text>我对你的智慧五体投地.干杯.</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_14">
+		<text>唔...漂亮,不是吗?一支小队,真是个好主意,我们至少需要三个人...你还有其它人选吗?</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_141">
+		<text>我会去找几个人的...我们还需要几套带有封闭式循环呼吸系统的防护服...</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_1411">
+		<text>哈,安全重要到那种地步...关于这个嘛,不要考虑我啦,因为我的防护服很好,但我们还是要为其它人弄到几套,这要费点劲了——在这里,那样的防护服还真不好找.祝我们成功找到.</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_14111">
+		<text>干杯.</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_142">
+		<text>你知道这里一个叫诺亚的古怪的家伙吗?他独自住在一条驳船里,什么都自给自足...他打招呼的方式就是对着你把霰弹枪的子弹打光.</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_1421">
+		<text>哈,我暂时还没见过他.我和他以前并肩作战过.他是个好战士...他变成那样实在太糟了.为了他的精神早日振作起来,干杯!</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_14211">
+		<text>为了诺亚!</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_143">
+		<text>我前段时间在亚诺夫车站见到了瓦诺,而且他看起来不能偿还欠强盗的债务...不管怎么样,我帮了这个可怜的家伙.</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_1431">
+		<text>不错,有了这个家伙,这次旅行肯定会很有趣,另外他可以把所有的补给都扛上.为了瓦诺!</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_14311">
+		<text>你可以再干一杯,兄弟!</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_144">
+		<text>科学家营地里有一个军人...他没有事情做,所以他可能会同意...</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_1441">
+		<text>哈,我们能雇佣一个军人一样的家伙...为了他加入我们的希望干杯.</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_14411">
+		<text>干!</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_145">
+		<text>你不会相信的,但是我有一天帮了一队黑石组织小队...突然之间,他们脑袋里松掉的螺栓突然又重新拧紧了,他们恢复了神志,并且他们不知道要做什么...所以我救了他们,现在他们在亚诺夫车站吓人玩呢.</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_1451">
+		<text>唔...看样子你直接把伏特加灌到脑子里去了,哈!就算是好东西也不能多喝啊!</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_14511">
+		<text>是的.</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_15">
+		<text>好吧,看上去不错——要确定的唯一的事情是我们不会在地下迷路...</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_151">
+		<text>别担心——我有地图.</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_1511">
+		<text>真棒.为了任务成功,干杯.</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_15111">
+		<text>我会为了它干杯的!</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_152">
+		<text>哈,放松兄弟...我有天发现了绿洲...又是个没有人能到达的地方...</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_1521">
+		<text>哇,你是一个真正的探险者,兄弟.有你在身边,我们能立刻找到去普里皮亚特的路.干杯.</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_15211">
+		<text>干杯.</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_21">
+		<text>你好!</text>
+	</string>
+	<string id="jup_b15_zulus_go_to_pripyat_0">
+		<text>我想我们的人够了.我们可以出发了.</text>
+	</string>
+	<string id="jup_b15_zulus_go_to_pripyat_1">
+		<text>你确定?多几个人不坏事.</text>
+	</string>
+	<string id="jup_b15_zulus_go_to_pripyat_11">
+		<text>我确定.走吧.</text>
+	</string>
+	<string id="jup_b15_zulus_go_to_pripyat_12">
+		<text>你是对的.我会试着找些更多的人来.</text>
+	</string>
+	<string id="jup_b15_zulus_go_to_pripyat_2">
+		<text>好的.我们行动,各位!</text>
+	</string>
+	<string id="jup_b15_zulus_go_to_pripyat_21">
+		<text>走吧.</text>
+	</string>
+	<string id="jup_b15_zulus_go_to_pripyat_3">
+		<text>战士们很好,但是你确定你能保护你自己吗?在我们出发前,你也需要一个有封闭式循环呼吸系统的防护服...如果你死了,我不会把你拖到任何地方的——对我来说,我的武器和弹药已经够重了.</text>
+	</string>
+	<string id="jup_b15_zulus_go_to_pripyat_31">
+		<text>是啊,我明白.</text>
+	</string>
+	<string id="jup_b15_zulus_go_to_pripyat_4">
+		<text>等一会.电磁风暴对健康可不好!</text>
+	</string>
+	<string id="jup_b15_zulus_group_fighters_0">
+		<text>我到哪可以找到能加入我们小队的战士?</text>
+	</string>
+	<string id="jup_b15_zulus_group_fighters_1">
+		<text>问问朱皮特附近的家伙...那些待在扎通的家伙肯定不会去普里皮亚特的.我们需要无所畏惧的家伙...这样的人会非常愿意加入基本上是拼命的任务.你记得曾经和那样的人见过面吗?也许有人会记得你的恩情或者你知道哪些并不安于现状的人...</text>
+	</string>
+	<string id="jup_b15_zulus_group_fighters_2">
+		<text>我们现在有足够的人手了.没有必要分成几个部分...我们用的是小队策略.</text>
+	</string>
+	<string id="jup_b15_zulus_group_monolith_about_0">
+		<text>你认为神行客怎么样?</text>
+	</string>
+	<string id="jup_b15_zulus_group_monolith_about_1">
+		<text>黑石组织的人通常是狂热的,凶残的战士...但是我不确定他们曾经的成员会怎么样.神行客在外面看上去很平静,但是知人知面不知心.</text>
+	</string>
+	<string id="jup_b15_zulus_group_monolith_start_11">
+		<text>哇!黑石组织装甲.你在哪找到它的?</text>
+	</string>
+	<string id="jup_b15_zulus_group_monolith_start_111">
+		<text>这只是一套装甲的一部分.这是神行客,一个曾经的黑石战士.</text>
+	</string>
+	<string id="jup_b15_zulus_group_monolith_start_1111">
+		<text>我从未意识到还有"曾经的"黑石组织的战士.哦,好吧,当真正的麻烦开始的时候我们会看出来他究竟怎么样.</text>
+	</string>
+	<string id="jup_b15_zulus_group_soldier_about_0">
+		<text>你觉得索科洛夫怎么样?</text>
+	</string>
+	<string id="jup_b15_zulus_group_soldier_start_11">
+		<text>那个伙计穿着一套有意思的防护服,很科学的样子.我至少有好几年没见过那样的家伙了.</text>
+	</string>
+	<string id="jup_b15_zulus_group_soldier_start_111">
+		<text>那就是索科洛夫,坠落的军队直升机副驾驶员.</text>
+	</string>
+	<string id="jup_b15_zulus_group_soldier_start_1111">
+		<text>好吧,我能从他的举止中看出来他是一个科学家.一个好的战士总是受欢迎的.</text>
+	</string>
+	<string id="jup_b15_zulus_group_stalker_about_0">
+		<text>你知道瓦诺多久了?</text>
+	</string>
+	<string id="jup_b15_zulus_group_stalker_about_1">
+		<text>我们一段时间之前在100辐射酒吧见面的.他们说他很忠诚,很乐观,是一个优秀的潜行者...但是他太容易上别人的当了,在特异区,这是个致命的缺点.</text>
+	</string>
+	<string id="jup_b15_zulus_group_stalker_start_11">
+		<text>所以瓦诺和我们一起外出,嗯?好极了,我们自己找到了一个能把我们所有的补给都带上的人...哈,放轻松兄弟——我只是开个玩笑.</text>
+	</string>
+	<string id="jup_b15_zulus_tech_b202_about_stole_0">
+		<text>谁会从私人储物箱里偷东西?</text>
+	</string>
+	<string id="jup_b15_zulus_tech_b202_about_stole_1">
+		<text>你的东西被偷了吗?见鬼.我不知道该说什么.我在这附近没见过任何可疑的东西...如果我查出了什么,我一定会让你知道的.我们可不需要在基地里面养老鼠.</text>
+	</string>
+	<string id="jup_b15_zulus_tech_b202_about_testimony_0">
+		<text>我听说最近这附近有枪声.</text>
+	</string>
+	<string id="jup_b15_zulus_tech_b202_about_testimony_1">
+		<text>哈,那是我做的.有几个傻瓜决定在塔的附近集合...他们之间起了争执,开始互相射击.我发射了几发机枪子弹,然后他们散开,往火车站方向去了.那是对付白痴们的好方法,呵呵.</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_give_artefact_0">
+		<text>我决定让出绿洲之心神器.</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_give_artefact_1">
+		<text>很明智的决定——请把它给我.</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_give_artefact_11">
+		<text>在这.</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_give_artefact_111">
+		<text>太壮观了,我们要马上开始研究这个奇迹...噢,顺便,谢谢你的帮助——这是你的酬金.</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_legend_0">
+		<text>你有什么事需要效劳的吗?</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_legend_1">
+		<text>谢谢——我们已经有一位潜行者为我们工作了.然而...有一个理论上的,事实上它更像是一个传奇...你曾经听说过绿洲之心吗?</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_legend_1111">
+		<text>我会试着找到绿洲之心的.</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_legend_1112">
+		<text>对不起,目前占用我时间的事情太多了.</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_legend_12">
+		<text>不,我没听说过.</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_legend_121">
+		<text>那么听着.很多人谈论它,但是似乎没有人曾见过它.它就像是治疗水.如果你走进去,你的伤口会痊愈,力量会得到补充.有很多传闻在流传,一个比一个玄乎...有人声称曾经在梦里见过它...但是作为一个科学家,我不得不问,"怎么知道究竟绿洲之心是否存在?"如果你愿意去寻找它...好吧,我不能给你许诺大量的酬金,但是如果绿洲之心真的存在,它的发现会让我们的探索迈进一大步.</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_proof_0">
+		<text>我找到了绿洲之心.</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_proof_1">
+		<text>真的吗?那么,它确实存在?请不要以为我是怀疑你,但是你有带回标本一类的东西吗?</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_proof_11">
+		<text>是的,我找到了一些像是神器的东西.</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_proof_111">
+		<text>把它给我,快!</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_proof_1111">
+		<text>拿着.</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_proof_11111">
+		<text>太壮观了,我们要马上开始研究这个奇迹...噢,顺便,谢谢你的服务——这是你的酬金.</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_proof_1112">
+		<text>我可不这么想.也需它对我还有用.</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_proof_11121">
+		<text>你真的太自私了.不要提什么危险.这件神器的确切性能尚未可知.如果明天你突然发现你的腿瘫痪了怎么办?或者你的皮肤变成绿色的呢?我能非常肯定地对你说,这样的东西交给科学家处理是最好的——最起码我们能努力保护我们自己不会被它伤害到.</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_proof_111211">
+		<text>你的恐吓手法对我不起作用.我要保管这件神器.</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_proof_111212">
+		<text>好吧.你自己拿着.</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_proof_12">
+		<text>不,我没有.</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_proof_121">
+		<text>你没有?那么你指望我研究什么呢?你知道是什么让科学家与众不同吗?对我们来说实际上就是所有的理论必须由事实来支撑!我需要样本!</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_proof_1211">
+		<text>好的,我会回那去的.</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_proof_1212">
+		<text>我在它上面花了太多的时间了.我现在不能再回去了.</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_proof_12121">
+		<text>如果你不关心你的酬金的话,那么想象一下绿洲之心可能会带来的救护机会.如果我没猜错的话,绿洲之心是天然的变异体...那就是特异区内事物存在的方式.如果这是真的话,这是有史以来第一个有医疗功能的神器!</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_start_11">
+		<text>什么风把你吹来了?</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_start_12">
+		<text>看见了保护我们的雇佣兵了吗?</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_start_13">
+		<text>很高兴能见到另一个聪明人.我能为你做什么?</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_start_14">
+		<text>你相信吗?保卫我们的雇佣兵们就在我们的营地外被杀了!</text>
+	</string>
+	<string id="jup_b16_nuclear_physicist_oasis_legend_0">
+		<text>嘿,朋友,知道绿洲之心吗?</text>
+	</string>
+	<string id="jup_b16_nuclear_physicist_oasis_legend_1">
+		<text>绿洲之心?哈...那只是一个谎言,简简单单完完全全.人们总是愿意相信万灵药的存在,所以他们编织了这些童话.相信我,绿洲之心只是个一被什么人的丰富的想象力杜撰出来的东西而已.</text>
+	</string>
+	<string id="jup_b16_nuclear_physicist_oasis_legend_11">
+		<text>很多人谈论它.</text>
+	</string>
+	<string id="jup_b16_nuclear_physicist_oasis_legend_111">
+		<text>太多了.但是没有一个人曾经见过它.我坚信一个科学观点:只要没有被证实的确存在的,绝对不存在.</text>
+	</string>
+	<string id="jup_b16_nuclear_physicist_oasis_legend_12">
+		<text>好吧,我知道了...谢谢.</text>
+	</string>
+	<string id="jup_b19_freedom_yar_base_agreed_0">
+		<text>好的,走吧.</text>
+	</string>
+	<string id="jup_b19_freedom_yar_base_agreed_1">
+		<text>不错...我们会在你喊出"吸血怪"之前赶回来——哈哈!</text>
+	</string>
+	<string id="jup_b19_freedom_yar_base_agreed_11">
+		<text>我们会知道的.</text>
+	</string>
+	<string id="jup_b19_freedom_yar_base_agreed_2">
+		<text>不错...但是我们还是等电磁风暴结束了再走吧.</text>
+	</string>
+	<string id="jup_b19_freedom_yar_base_start_11">
+		<text>日安,潜行者.我是雅大叔...我猜你路上很辛苦,呃...既然来这了,吃点什么吧.你来的正好——我需要一些帮助.在我这个年纪,会有很多事情不可能独自完成.但是,还是白天回来吧...</text>
+	</string>
+	<string id="jup_b19_freedom_yar_base_start_12">
+		<text>那么,觉得很新鲜吗?你想要走走吗?你要帮助一个老人走出去...</text>
+	</string>
+	<string id="jup_b19_freedom_yar_base_start_13">
+		<text>生活怎么样?你白天看起来好多了...</text>
+	</string>
+	<string id="jup_b19_freedom_yar_base_where_to_0">
+		<text>是什么工作?</text>
+	</string>
+	<string id="jup_b19_freedom_yar_base_where_to_1">
+		<text>就像吃馅饼一样简单...我们俩去一趟科帕奇废墟——离这不远.剩下的你会在我们到达的时候你自己就能看到.</text>
+	</string>
+	<string id="jup_b19_freedom_yar_base_why_me_0">
+		<text>你的自由团朋友不会帮你吗?</text>
+	</string>
+	<string id="jup_b19_freedom_yar_base_why_me_1">
+		<text>我不想让这件事麻烦他们...我们俩就可以处理了,没问题.</text>
+	</string>
+	<string id="jup_b19_freedom_yar_come_with_me_0">
+		<text>你会和我一起去普里皮亚特吗?</text>
+	</string>
+	<string id="jup_b19_freedom_yar_come_with_me_1">
+		<text>不...如果我年轻一点就好了...我曾经走着去西伯利亚并且走着回来,但是这些日子以来我却只能尽可能地少走些路...我猜,我老了.</text>
+	</string>
+	<string id="jup_b19_freedom_yar_done_bye_0">
+		<text>保重.</text>
+	</string>
+	<string id="jup_b19_freedom_yar_done_bye_1">
+		<text>等等.如果你去亚诺夫车站的话,也许我们可以一起去?有人说说话总是好的...</text>
+	</string>
+	<string id="jup_b19_freedom_yar_done_bye_11">
+		<text>谢谢,我宁愿自己走.</text>
+	</string>
+	<string id="jup_b19_freedom_yar_done_bye_12">
+		<text>我们一起去亚诺夫车站吧.</text>
+	</string>
+	<string id="jup_b19_freedom_yar_done_start_11">
+		<text>谢谢你帮我这个老人...拿上这个.如果你有什么问题的话——随便问.我尽我所能地回答...</text>
+	</string>
+	<string id="jup_b19_freedom_yar_done_why_me_0">
+		<text>为什么你不向自由团成员求助?</text>
+	</string>
+	<string id="jup_b19_freedom_yar_done_why_me_1">
+		<text>让雇佣兵和自由团开战有什么意义呢?我们有一场战争就够了.这只是私事...不能再给他们惹麻烦,知道吗?</text>
+	</string>
+	<string id="jup_b19_freedom_yar_done_why_mercs_0">
+		<text>这里究竟发生了什么事?</text>
+	</string>
+	<string id="jup_b19_freedom_yar_done_why_mercs_1">
+		<text>有几个小家伙来这里袭击我...你知道,当那队雇佣兵出现时,我正躲在灌木丛中思考我自己的事情.他们的领队对着PDA大喊着关于普里皮亚特的中心实验室的事情,一个紧急命令,或是之类的东西...然后我踩到了一个该死的树枝,让他们发觉到我在那.所以我抓紧我的步枪,然后逃掉了,但是我总觉得他们会跟上我.所以这些日子以来东躲西藏就是我们为偷听付出的代价.</text>
+	</string>
+	<string id="jup_b19_freedom_yar_prepare_start_11">
+		<text>最主要的事情是不要瞎想任何东西.安静地跟着我...如果我们一直保持安静不要移动的话,事情会变得漂亮而又简单.</text>
+	</string>
+	<string id="jup_b19_freedom_yar_prepare_start_111">
+		<text>好的.</text>
+	</string>
+	<string id="jup_b1_st_go_to_exit_0">
+		<text>我们需要离开这里.稍后再说.</text>
+	</string>
+	<string id="jup_b1_st_go_to_exit_1">
+		<text>好吧.</text>
+	</string>
+	<string id="jup_b1_stalker_1_come_with_me_0">
+		<text>我正在组织一个小队一起前往普里皮亚特.想加入我吗?</text>
+	</string>
+	<string id="jup_b1_stalker_1_come_with_me_1">
+		<text>很吸引人...但是还是不了,谢谢.科学家们给了我一个承诺,我可以待在特异区内,而且他们给的报酬也不错.对不起,我还是要待在这.</text>
+	</string>
+	<string id="jup_b1_stalker_about_scrutiny_0">
+		<text>准备好保护测量人员了吗?</text>
+	</string>
+	<string id="jup_b1_stalker_about_scrutiny_1">
+		<text>我们总是整装待发,只要你需要我们.我们要去哪个变异点?</text>
+	</string>
+	<string id="jup_b1_stalker_about_scrutiny_11">
+		<text>我们去沼泽.</text>
+	</string>
+	<string id="jup_b1_stalker_about_scrutiny_12">
+		<text>我们从科帕奇废墟镇前往燃灰变异区.</text>
+	</string>
+	<string id="jup_b1_stalker_about_scrutiny_13">
+		<text>等等,我改变主意了,现在不去.</text>
+	</string>
+	<string id="jup_b1_stalker_about_scrutiny_2">
+		<text>我们一切就绪,但是我们还是等电磁风暴过去吧...</text>
+	</string>
+	<string id="jup_b1_stalker_about_scrutiny_21">
+		<text>好吧.</text>
+	</string>
+	<string id="jup_b1_stalker_about_scrutiny_2_0">
+		<text>接了测量任务,我们出发吧.</text>
+	</string>
+	<string id="jup_b1_stalker_about_scrutiny_2_1">
+		<text>我也不喜欢在这附近晃悠.接下来去哪?</text>
+	</string>
+	<string id="jup_b1_stalker_about_scrutiny_2_11">
+		<text>我们去沼泽.</text>
+	</string>
+	<string id="jup_b1_stalker_about_scrutiny_2_12">
+		<text>我们从科帕奇废墟镇前往燃灰变异区.</text>
+	</string>
+	<string id="jup_b1_stalker_about_scrutiny_2_13">
+		<text>去科学家的营地.</text>
+	</string>
+	<string id="jup_b1_stalker_about_scrutiny_2_14">
+		<text>等等,让我想想.</text>
+	</string>
+	<string id="jup_b1_stalker_about_scrutiny_3_0">
+		<text>你准备返回营地吗?</text>
+	</string>
+	<string id="jup_b1_stalker_about_scrutiny_3_1">
+		<text>我们准备非常充分...</text>
+	</string>
+	<string id="jup_b1_stalker_about_scrutiny_3_11">
+		<text>好吧,我们走吧.</text>
+	</string>
+	<string id="jup_b1_stalker_about_scrutiny_3_12">
+		<text>好吧,只要等我一会...</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_0">
+		<text>我有几个问题.</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_1">
+		<text>问吧,我尽我所能地回答.</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_1110">
+		<text>我没问题了.</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_1111">
+		<text>我想问问有关科学家的任务的事.</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_11111">
+		<text>啊,隧道...那里有什么东西,一个奇怪的神器或是之类的东西.那个地方太古怪了.刚开始真的很平静,然后我感到脑袋里有什么东西在响...那里还有乱糟糟的老鼠,但并不需要为它们担心——我们能轻易地解决它们.</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_111111">
+		<text>你曾经到过那?</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_1111111">
+		<text>是的.我没有走得太深入——当那些老鼠大规模地逃出来的时候我们正在为赫尔曼做一些测量工作.当我们回来的时候科学家们对这个结果非常兴奋,我想他们是不是快疯了.他们想让我们从头到尾把整个隧道探索完,但我绝不到那里去!现在他们雇佣了你,我们只是到那去提供掩护.</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_111112">
+		<text>我明白.</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_11112">
+		<text>好吧,我们以前曾经测量过,所以我们会设法应付的.</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_111121">
+		<text>你以前在哪测量?</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_1111211">
+		<text>好吧,测量这个词对这种小活来说有点小题大做.我们真的只做过一次——那个该死的隧道里的变异点PSY辐射区.然而就是那次,当我们一打开设备,老鼠开始从每一个洞里面涌出来——太惨了,我们甚至只能找到梅斯的一小块碎片.</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_11112111">
+		<text>你觉得那奇怪么?</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_111121111">
+		<text>不,为什么我会这么觉得?特异区不像是那种爱管闲事的人,所以那很正常.那是奥泽斯基告诉我的,而且它已经得到了证实了.如果你愿意的话就去问他,也许他知道一些没有和我们这些剩下的人说的消息.</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_11112112">
+		<text>我懂了.</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_111122">
+		<text>我明白.</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_1112">
+		<text>对于在营地里生活的人们,你能告诉我什么?</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_11121">
+		<text>好吧,有几群,我会告诉你的...两个科学家,赫尔曼,这儿的主要任务,还有奥泽斯基.他们雇佣了有点技术的诺维科夫,加里是向导.然后就是我们了——他们最近聘用了我们去做测量或者其它的科学实验.噢,有一天加里把几个军队的家伙带到了营地里.就是这些.</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_111211">
+		<text>能告诉我更多关于赫尔曼的事情吗?</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_1112111">
+		<text>赫尔曼是这的头——他是某个研究院的教授,也许是不为人知的那种研究所...他组织了考察,所以在焦脑器被摧毁后他马上就在这里建立了营地.他也是雇佣了加里和我们的人——他的酬金很高,并且他甚至给了我们允许进入特异区的官方承诺.</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_11121111">
+		<text>我们谈点别的.</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_111212">
+		<text>能告诉我更多关于奥泽斯基的事情吗?</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_1112121">
+		<text>他是一个很好的,友善的家伙,他是这里的二号人物.甚至赫尔曼有时也会听他的建议.关于他,我是太清楚——我们大多数时间都在和赫尔曼打交道.</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_111213">
+		<text>能告诉我更多关于诺维科夫的事情吗?</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_1112131">
+		<text>他就像是在休假的爱因斯坦,兄弟.当他接触到高科技装置的时候他相当清楚要做什么;事实上,他几乎比你认识的任何人还要好.我不知道他是怎么来到这里的,但是我可以告诉你他在特异区可不是个陌生人——他比我们更了解它.</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_111214">
+		<text>你能告诉我关于加里的事吗?</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_1112141">
+		<text>加里是个很棒的家伙,他是最先到这里的人之一.他告诉我当他来到这的时候,科学家就被落在这了,所以他那时候就加入了他们.他后来变得不耐烦了,因为他不是个可以闲下来的人,但是在他与科学家的合约到期之前,他无法离开.如果你还想知道什么,请自己问他吧.</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_111215">
+		<text>告诉我有关军队的家伙的事情.</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_1112151">
+		<text>哈.在他从僵尸堆里逃出来的时候他遇到了加里.他也很幸运那是加里,因为其它人肯定不会把他从那个地方带出来.他再也没离开过营地,我也不怪他.</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_111216">
+		<text>雇佣兵们在这干什么?</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_1112161">
+		<text>那些该死的残暴的罪犯正在保卫营地.他们前段时间来的,和赫尔曼谈了一回就留在这了.我猜和他们相处,连赫尔曼也不会太高兴...他们的头叫布莱克,黑鬼的意思,而且他的人品和他的名字很相称.</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_1116">
+		<text>你能告诉我有关这片区域的事情吗?</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_11161">
+		<text>好吧,离这里不远有一个旧军队基地...科帕奇废墟镇在它的北面,再往东面走是火车站,那里是独行者的驻地.噢,附近铁轨上还有一列火车...相信我,那并不是个有趣的地方.</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_111611">
+		<text>告诉我关于旧军事基地的事情.</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_1116111">
+		<text>好吧,不过没太多可说的...很久以前一切有价值的东西都被掠夺走了,所以那里除了变异生物和僵尸以外再没有其它的东西了.哪里也有个小型掩体——足够掩护你躲过电磁风暴了.</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_111612">
+		<text>告诉我关于小镇的事情.</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_1116121">
+		<text>好吧,说它是小镇可是它并不合格——只有几个几个土堆而已,真的.它在1986年被埋入地下,防止它向外发射辐射.人们不去那里因为那不是个有益健康的地方,而且那里也没什么有价值的东西.</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_111613">
+		<text>告诉我关于车站的事情.</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_111614">
+		<text>你能告诉我一些关于列车的事情吗?</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_116131">
+		<text>好吧...如果你没去过的话,亚诺夫车站车站是值得一游的.那是个连再冷酷的人都能吸引的地方,并且很容易遇见其它潜行者,另外它还是附近区域内除了我们的营地之外的唯一一个安全的地方.</text>
+	</string>
+	<string id="jup_b1_stalker_squad_thanks_0">
+		<text>我看见你在摆弄新的设备?</text>
+	</string>
+	<string id="jup_b1_stalker_squad_thanks_1">
+		<text>是啊宝贝.我们现在是知名的火花科学探索研究小组!不要以为我们忘了你哦,现在我们是科学家了,哈哈!我的"同僚"们和我一起极其深入地讨论了这个问题,我们的结论...那就是,你得到了这个,老兄!如果你发现自己陷入了变异点或者被电磁风暴伤害到了,上帝保佑,花点时间给我们发一条感谢信息吧,那玩意可以救你一命.相信我,我们绝对可以会收到的哦!</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_11">
+		<text>嘿.</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_12">
+		<text>你好.</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_13">
+		<text>那么你准备好出发还是我们需要等一会?</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_14">
+		<text>我觉得我会被留在那个隧道里像一个无脑僵尸一样腐烂!我怎么才能报答我的救命恩人呢?</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_15">
+		<text>想出去散散步吗?</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_16">
+		<text>嘿兄弟.</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_17">
+		<text>我们感激你,我不会忘记你的.</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_18">
+		<text>我有个感觉,我们会在这完蛋,我们应该离开这鬼地方...</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_ab_tu_2_0">
+		<text>那么,隧道有着什么样的故事?</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_ab_tu_2_1">
+		<text>哪里没有灰尘,一丁点都没有.赫尔曼说那是因为特斯拉变异点的缘故,但我很难相信那样的解释.</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_ab_tu_2_2">
+		<text>问头吧,我不知道什么可以告诉你,什么应该保密.</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_ab_tu_3_0">
+		<text>告诉我你在测量PSY辐射区的时候发现了什么.</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_ab_tu_3_1">
+		<text>我发现了地上的脚印.看上去像是人类的,但是谁会疯到在那种地方赤脚走路?</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_ab_tu_3_2">
+		<text>你会有一点神志不清,你看到的一切东西都好像是古怪的形状.那就是该死的PSY辐射区,你知道我的意思吗?</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_ab_tu_4_0">
+		<text>那么你在地下找到什么了?</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_ab_tu_4_1">
+		<text>没什么,只有几只死老鼠.</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_ab_tu_4_2">
+		<text>嗨...在特异区里你什么都有可能见到.</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_after_end_1_0">
+		<text>你还好吧?</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_after_end_1_1">
+		<text>我很好,谢谢你!作为我的感谢,我给你一个隐藏点坐标.你在那找到的任何东西都是你的——不多,但是那是我的真心实意...</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_after_end_2_0">
+		<text>你觉得怎么样?</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_after_end_2_1">
+		<text>兄弟,十分感激!谢谢你...我不知道能说什么.拿上我们的藏匿物的坐标——这是我们的感谢.</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_after_end_3_0">
+		<text>你还活着吧?</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_after_end_3_1">
+		<text>谢谢,我不会忘记的.这,拿上我们藏匿物的坐标——这是你应得的...</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_after_end_4_0">
+		<text>你脑袋还行吧?</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_after_end_4_1">
+		<text>兄弟,那些该死的东西...我这辈子都忘不了了...</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_after_end_go_home_0">
+		<text>那么,回营地吧?</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_after_end_go_home_1">
+		<text>那还用说!</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_after_end_go_home_11">
+		<text>那么,走吧.</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_after_end_go_home_12">
+		<text>你先请吧,我会在那和你碰面.</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_go_to_0">
+		<text>你的小队准备好前往隧道了吗?</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_go_to_1">
+		<text>就等你说出发了.</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_go_to_11">
+		<text>既然如此,我们出发.</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_go_to_12">
+		<text>再等一会.</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_go_to_13">
+		<text>我自己去.在那会面吧.</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_go_to_14">
+		<text>我自己去.在那会面吧.</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_go_to_141">
+		<text>不,我们不相信你,时间就是金钱,除非你和我们一起去,否则我们就在这待着.</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_go_to_1411">
+		<text>如果是那样的话,我们一起去吧.</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_go_to_1412">
+		<text>如果是那样的话,你们还是在这待着吧.</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_go_to_2">
+		<text>不行...电磁风暴时绝不能出去冒险.</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_start_miss_0">
+		<text>那么,我们在这待着吧.</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_start_miss_1">
+		<text>那么...我们开始吧?</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_start_miss_11">
+		<text>好的,当然.</text>
+	</string>
+	<string id="jup_b1_stalkers_about_tunnel_dialog_start_miss_12">
+		<text>给我几秒钟,我要确定方向.</text>
+	</string>
+	<string id="jup_b202_bandit_meet_actor_11">
+		<text>你到底要什么?</text>
+	</string>
+	<string id="jup_b202_bandit_meet_actor_111">
+		<text>我只是路过.</text>
+	</string>
+	<string id="jup_b202_bandit_meet_actor_1111">
+		<text>好吧,继续走吧</text>
+	</string>
+	<string id="jup_b202_bandit_meet_actor_11111">
+		<text>好.</text>
+	</string>
+	<string id="jup_b202_bandit_meet_actor_11112">
+		<text>放松点,白痴.</text>
+	</string>
+	<string id="jup_b202_bandit_meet_actor_112">
+		<text>不关你事!</text>
+	</string>
+	<string id="jup_b202_snag_b202_about_stole_11">
+		<text>哦...你好...</text>
+	</string>
+	<string id="jup_b202_snag_b202_about_stole_111">
+		<text>机灵鬼告诉我你是个狡猾的混蛋.我猜你已经骗过了很多潜行者...</text>
+	</string>
+	<string id="jup_b202_snag_b202_about_stole_1111">
+		<text>你想说什么?我一生中从来没做过那样的事情!机灵鬼的脑子有毛病!</text>
+	</string>
+	<string id="jup_b202_snag_b202_about_stole_112">
+		<text>你把我的什么事情告诉强盗了?为什么他们会在吊船码头等着我?</text>
+	</string>
+	<string id="jup_b202_snag_b202_about_stole_1121">
+		<text>你一定把我和其它人弄混了——我从来不和强盗打交道!</text>
+	</string>
+	<string id="jup_b202_snag_b202_about_stole_113">
+		<text>机灵鬼告诉我你的事情...我建议你把枪还给我,这样我们大家都会简单的多.</text>
+	</string>
+	<string id="jup_b202_snag_b202_about_stole_1131">
+		<text>他告诉你什么了?不是我的东西我从来不拿!</text>
+	</string>
+	<string id="jup_b202_snag_b202_about_stole_11312">
+		<text>出去走一走,老兄...</text>
+	</string>
+	<string id="jup_b202_snag_b202_about_stole_21">
+		<text>帮我一把,兄弟——我需要一个药箱!</text>
+	</string>
+	<string id="jup_b202_snag_b202_about_stole_211">
+		<text>先告诉我你把我的东西藏到哪去了!</text>
+	</string>
+	<string id="jup_b202_snag_b202_about_stole_2111">
+		<text>对不起兄弟,我真的需要那笔钱...只要你救救我,我愿意告诉你所有事情!老实讲,那件事是我做的,我无计可施!</text>
+	</string>
+	<string id="jup_b202_snag_b202_about_stole_21111">
+		<text>好吧,拿着.</text>
+	</string>
+	<string id="jup_b202_snag_b202_about_stole_211111">
+		<text>谢谢,兄弟!我把东西藏在火车站后面的下水管道里的藏匿点中.</text>
+	</string>
+	<string id="jup_b202_snag_b202_about_stole_2111111">
+		<text>我知道了.</text>
+	</string>
+	<string id="jup_b202_snag_b202_about_stole_21112">
+		<text>我不相信你.我不会给你药箱的.</text>
+	</string>
+	<string id="jup_b202_snag_b202_about_stole_212">
+		<text>拿着.</text>
+	</string>
+	<string id="jup_b202_snag_b202_about_stole_213">
+		<text>你不会得到的.</text>
+	</string>
+	<string id="jup_b202_snag_b202_about_stole_31">
+		<text>谢谢.我以为你不会救我...</text>
+	</string>
+	<string id="jup_b217_stalker_tech_about_sci_guards_0">
+		<text>我能雇佣谁去保护科学家?</text>
+	</string>
+	<string id="jup_b217_stalker_tech_about_sci_guards_1">
+		<text>当然是纪律团了.还有谁?毕竟,他们是特异区最好的战士!强袭警卫队——听起来如何?</text>
+	</string>
+	<string id="jup_b217_stalker_tech_about_sci_guards_2">
+		<text>这时候他们还雇佣自由团?如果是那样的话,我真的不知道该怎么办了.我想推荐纪律团,但是他们之间相处的并不好.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_about_sci_helpers_0">
+		<text>我能雇佣谁去为科学家测量?</text>
+	</string>
+	<string id="jup_b217_stalker_tech_about_sci_helpers_1">
+		<text>试着和舒尔加谈谈.他们那没有那种懂火箭的科学家,但是他手下有一批生龙活虎的家伙.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_about_sci_helpers_2">
+		<text>他们仍然在付钱给自由团来保护他们吗?如果是那样的话,我只有一个针锋相对地想法,雇佣纪律团...那就是我能给你的建议.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_about_underpass_0">
+		<text>当我们进入地下通道的时候,升降机停止工作了...</text>
+	</string>
+	<string id="jup_b217_stalker_tech_about_underpass_1">
+		<text>嘿,你下去的时候用的是唯一可用的发电机了...而且那就是备用的那个.我仅仅能让他工作而已,所以它做了它该做的工作,然后报废了.你应该庆幸它没有在半路上停止运转...那个升降机可没有任何紧急出口!</text>
+	</string>
+	<string id="jup_b217_stalker_tech_b202_about_stole_0">
+		<text>谁会从私人储物箱里偷东西?</text>
+	</string>
+	<string id="jup_b217_stalker_tech_b202_about_stole_1">
+		<text>该死的!我真的不知道.我能告诉你的是如果舒尔加在亚诺夫车站的话,那种事情绝不会发生.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_b33_open_package_dialog_0">
+		<text>你能撬开铁盒子吗?</text>
+	</string>
+	<string id="jup_b217_stalker_tech_b33_open_package_dialog_1">
+		<text>我不是干这个的,兄弟.金属不是我在行的...如果你有什么电子方面的问题——尽管问.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_b4_monolith_squad_dialog_0">
+		<text>一队安静的黑石组织的战士正在寻求庇护.谁能帮助他们?</text>
+	</string>
+	<string id="jup_b217_stalker_tech_b4_monolith_squad_dialog_1">
+		<text>你疯了吗?我听说他们是禽兽...好吧,独行者们不会给他们一天多余的时间,这是肯定的...你应该和舒尔加谈谈.如果中校先生让他们加入纪律团,他们会安全的.他们甚至能找到对他们有用的事情做.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_0">
+		<text>你能把这个黑匣子解锁吗?</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_1">
+		<text>我们来看看...这需要花一些功夫.可能需要三个小时,而且不便宜.我来做这项工作,之后我们再谈谈...我在做的时候出去走走吧,这样我也能专心地做...</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_2">
+		<text>我们来看看...这需要花一些功夫.可能需要三个小时,而且不便宜.我来做这项工作,之后我们再谈谈...同时你为什么不找找我需要的元件呢?你会得到一些钱,而且我也不会为这项工作要价太高.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_start_11">
+		<text>什么?我仍然在研究它.该死的,这个盒子真TM可怕...</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_start_12">
+		<text>我已经完成了...这是我做过的最棘手的工作了...</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_start_121">
+		<text>我要付多少?</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_start_1210">
+		<text>3000,至少.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_start_12101">
+		<text>拿去.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_start_12102">
+		<text>我没有那么多.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_start_121021">
+		<text>好吧,如果你把那些元件带来的话我能给你打折.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_start_121022">
+		<text>好吧,可别宰我.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_start_12103">
+		<text>对我来说可太奢侈了...我会考虑的.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_start_1211">
+		<text>我会给你打折.只要2850.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_start_1212">
+		<text>我会给你打折.只要2700.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_start_1213">
+		<text>我会给你打折.只要2550.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_start_1214">
+		<text>我会给你打折.只要2400.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_start_1215">
+		<text>我会给你打折.只要2250.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_start_1216">
+		<text>我会给你打一个大折.只要2100.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_start_1217">
+		<text>我会给你打一个大折.只要1950.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_start_1218">
+		<text>我会给你打一个大折.只要1800.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_start_1219">
+		<text>我会给你一个最最实惠的价格了.只要1650.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_start_13">
+		<text>嘿,显然我不知道为什么你需要这些记录,但是看你付出这么多,我真希望它会有用.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_start_131">
+		<text>我们会知道的.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_blackbox_start_14">
+		<text>我仍然在研究这个黑盒子...为什么你不能让你自己更有用些,去帮我拿到那些元件呢?</text>
+	</string>
+	<string id="jup_b217_stalker_tech_drunk_1">
+		<text>森卡?以前我在扎通赶路的时候他遇见了我,然后他从那时起一直听我的...他是一个有丰富经验的专业酒鬼...嘿,我一直让他帮我跑腿...</text>
+	</string>
+	<string id="jup_b217_stalker_tech_duty_founder_pda_0">
+		<text>谁会对纪律团创建者的PDA感兴趣?</text>
+	</string>
+	<string id="jup_b217_stalker_tech_duty_founder_pda_1">
+		<text>当然是舒尔加...纪律团牢记他们的起源.你知道,他们说:除非你研究过历史,否则它会重演...最主要的是自由团绝不会插手这条信息,因为他们会歪曲它,这是肯定的.倒不是有什么恶意,这只是记性差的结果...</text>
+	</string>
+	<string id="jup_b217_stalker_tech_instruments_0">
+		<text>我带来了你的工具.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_instruments_1">
+		<text>好极了...那么,哪些是给我的?</text>
+	</string>
+	<string id="jup_b217_stalker_tech_instruments_11">
+		<text>基础的那个.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_instruments_111">
+		<text>好极了!现在我只需要进阶和精密的工具了...</text>
+	</string>
+	<string id="jup_b217_stalker_tech_instruments_12">
+		<text>进阶的那个.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_instruments_121">
+		<text>好极了!现在我只需要基础和精密的工具了...</text>
+	</string>
+	<string id="jup_b217_stalker_tech_instruments_13">
+		<text>精密的那个.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_instruments_131">
+		<text>好极了!现在我只需要基础还有一个进阶的工具了...</text>
+	</string>
+	<string id="jup_b217_stalker_tech_instruments_14">
+		<text>暂时没了.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_instruments_141">
+		<text>漂亮!只需要一些精密工具,其它一切都已经准备就绪了.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_instruments_151">
+		<text>漂亮!只需要一些进阶工具,其它一切都已经准备就绪了.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_instruments_161">
+		<text>漂亮!只需要一些基础工具,其它一切都已经准备就绪了.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_instruments_171">
+		<text>哇!你究竟在哪找到他们的?</text>
+	</string>
+	<string id="jup_b217_stalker_tech_instruments_work_0">
+		<text>如果你需要一些工具,我能帮你找到它们.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_instruments_work_1">
+		<text>那会棒极了.现在,就像在石器时代工作一样.唯一不同的是烙铁代替了萨满巫师的那些东西...如果我有工具的话,我能做一些顶尖的升级,而且你会发现,它们就像是专门为你而创造的...</text>
+	</string>
+	<string id="jup_b217_stalker_tech_instruments_work_11">
+		<text>好吧,我会去找它们的.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_instruments_work_12">
+		<text>我改变主意了.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_instruments_work_3">
+		<text>好主意.我能升级,而你能得到钱...</text>
+	</string>
+	<string id="jup_b217_stalker_tech_jup_b207_pda_sell_0">
+		<text>我有纪律团商人的PDA.你知道有谁会对它感兴趣吗?</text>
+	</string>
+	<string id="jup_b217_stalker_tech_jup_b207_pda_sell_1">
+		<text>纪律团商人的PDA?别开玩笑了...把PDA给舒尔加,然后他会处理它的.千万别对自由团的人提起,明白吗?他们会用一张臭嘴蓄意破坏整个派系的名声...</text>
+	</string>
+	<string id="jup_b217_stalker_tech_main_info_0">
+		<text>我找到了一些文件.里面描述的是前往普里皮亚特的方式.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_main_info_1">
+		<text>我们来看看...哦,哦,哦...那么,大概是说,有一个标记为普里皮亚特1号的地下通道,贯穿了普里皮亚特城的下方,它有一部分连接到已经被关闭的朱皮特工业区运输通道.真叫人印象深刻!根据这些被封存起来的讯息推断,它里面应该充满了毒气,它的电力也被切断了.我想我们应该重新启动发电机,然后打开封锁.只要...</text>
+	</string>
+	<string id="jup_b217_stalker_tech_main_info_3">
+		<text>...只要我们不是毫无防护措施就穿过朱皮特,而且我建议你连想都不要想你能自己一个人穿越地下.至少,你需要找几个家伙跟你一起去.你们都还需要拥有封闭式循环呼吸系统的防护服,否则你在那里可撑不了几分钟...听着,祖鲁住在离这不远的塔里——试试和他谈谈.如果你们这些家伙合得来的话,他会告诉你怎么组建一个小队.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_materials_about_0">
+		<text>你提到了材料...</text>
+	</string>
+	<string id="jup_b217_stalker_tech_materials_about_1">
+		<text>对,在这里找到能用于无线电设备的材料几乎是件不可能的事情.我已经用掉了我能找到的所有的东西,而且这里没有人能提供任何材料,因为卖武器更能挣钱...但是,我听说水泥工厂可能还剩下一些东西...</text>
+	</string>
+	<string id="jup_b217_stalker_tech_materials_transfer_all_0">
+		<text>我找到了材料,给你.我把水泥工厂从头翻到尾!</text>
+	</string>
+	<string id="jup_b217_stalker_tech_materials_transfer_all_1">
+		<text>哇,兄弟——我真感动!我会在我的日记本上记下:无偿为我亲爱的潜行者提供修理和升级服务!</text>
+	</string>
+	<string id="jup_b217_stalker_tech_materials_transfer_some_0">
+		<text>我设法找到了你要的一些材料.给你.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_materials_transfer_some_1">
+		<text>哇!我会为你打很大的折扣的,我的朋友!</text>
+	</string>
+	<string id="jup_b217_stalker_tech_materials_volunteer_0">
+		<text>我能给你那些材料.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_materials_volunteer_1">
+		<text>那是在太好了!如果你能找到一些像是助焊剂或者电容器之类的东西的话,把它们带给我...该死,我连见到层压胶板都会兴奋半天.我不可能给你许多很多钱,但是你肯定能在我这打折.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_materials_what_for_0">
+		<text>你要这些材料干什么?</text>
+	</string>
+	<string id="jup_b217_stalker_tech_materials_what_for_1">
+		<text>好吧,我研究枪械和各种设备...我的意思是,有人需求就有人供应...但是我酷爱无线电设备.你知道当你把所有东西集合在一起,然后它们开始工作的感觉吗?我记得我甚至有一次创造出一台干扰发射台...它真的很有用——当100辐射酒吧的通告把我吵醒的时候,我会把它打开.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_materials_where_from_0">
+		<text>为什么水泥工厂会有无线电的材料?</text>
+	</string>
+	<string id="jup_b217_stalker_tech_materials_where_from_1">
+		<text>水泥工厂只是个名字...它在切尔诺贝利灾难发生前很长时间就停止生产水泥了.他们把所有东西拆掉,然后开始用那栋建筑物制造电子装置.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_minor_info_0">
+		<text>我在朱皮特找到了一些文件.你要看看吗?</text>
+	</string>
+	<string id="jup_b217_stalker_tech_minor_info_1">
+		<text>嗯...这里没什么有意思的东西...只有一些行政文件...</text>
+	</string>
+	<string id="jup_b217_stalker_tech_minor_info_2">
+		<text>唔...到处都有有意思的东西,但是我不能什么都要...我们需要完整的信息.试着去文件里提到的地方搜索一下.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_start_11">
+		<text>我真的需要那些该死的材料.为什么我会想要做这种该死的工作?...哦,你好.出什么事了?</text>
+	</string>
+	<string id="jup_b217_stalker_tech_start_12">
+		<text>你好!你需要一些有技术性的事情做吗?显然,我没有什么材料,但是我仍然能够修理你的装备和一些低级的升级.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_start_13">
+		<text>哦,嘿,听着,我在想...原来我需要的所有的材料都可以在水泥厂找到!只需要简单地清扫垃圾...只要想想就会让我发疯...</text>
+	</string>
+	<string id="jup_b217_stalker_tech_start_14">
+		<text>嘿!有什么东西坏了或者有什么东西要升级吗?记住,你终身都可以在我这里得到优惠!</text>
+	</string>
+	<string id="jup_b217_stalker_tech_start_15">
+		<text>你好,兄弟!我能为你做什么?记住,你终身都可以在我这里得到最优惠的价格.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_ufo_memory_repair_0">
+		<text>你能为一个储存器模组解锁吗?</text>
+	</string>
+	<string id="jup_b217_stalker_tech_ufo_memory_repair_1">
+		<text>我想是的...我以前从来没做过,所以我至少需要三个小时.但是,我很高兴能尝试一下...正因为我有这样的想法,我会给你一个公道价——只要1000.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_ufo_memory_repair_11">
+		<text>我等不及了,赶快开始吧,成交!</text>
+	</string>
+	<string id="jup_b217_stalker_tech_ufo_memory_repair_111">
+		<text>好极了!我去研究然后你请自便...我做好了会通知你的.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_ufo_memory_repair_12">
+		<text>我没有那么多.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_ufo_memory_repair_121">
+		<text>好吧,如果你还想要做这件交易的话可以随时回来.不过你现在可不能再便宜了.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_ufo_memory_repair_13">
+		<text>我会考虑的.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_ufo_memory_repair_2">
+		<text>我告诉你了,我大概需要三个小时.1000已经很便宜了,所以如果我是你我会非常乐意接受.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_ufo_memory_repaired_0">
+		<text>那么,你为那个储存器模组解锁了吗?</text>
+	</string>
+	<string id="jup_b217_stalker_tech_ufo_memory_repaired_1">
+		<text>不,我仍然在研究它...不要担心,完成的时候我会通知你的.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_ufo_memory_repaired_2">
+		<text>唔...你没有拿到模组吗?...你一定和森卡错过了——我让他把模组送给你...好吧,没关系.基本上,除了土壤层厚度和植被密度指数外,它里面还包括了三个无线电信号塔的坐标.我会把它们上传到你的PDA里的...</text>
+	</string>
+	<string id="jup_b220_trapper_about_chimera_0">
+		<text>你追查到了那些奇美拉了吗?</text>
+	</string>
+	<string id="jup_b220_trapper_about_chimera_1">
+		<text>受伤的那只去了扎通.冈塔的队伍跟着它...还有,我听说他们缺少有经验的猎手.如果你帮助他们,我会让你觉得值得那么做的...另外,杀了福克斯的那只...嗯,我跟丢了.好像就那样消失了...可怜的福克斯...他是个好人,但是年纪毕竟有些大了...</text>
+	</string>
+	<string id="jup_b220_trapper_about_chimera_2">
+		<text>嗯,你解决了一只,受伤的那只...而另一只,杀了福克斯的那只...嗯,我跟丢了.好像就那样消失了...可怜的福克斯...他是个好人,但是年纪毕竟有些大了...</text>
+	</string>
+	<string id="jup_b220_trapper_about_himself_0">
+		<text>你在做什么?</text>
+	</string>
+	<string id="jup_b220_trapper_about_himself_1">
+		<text>嗯,我一直是个猎人,而最近我猎杀那些对潜行者来说危险的变异生物...这些日子我接下订单,然后把它们交给年轻的猎人.我训练他们,教他们捕猎方法...</text>
+	</string>
+	<string id="jup_b220_trapper_about_mutants_0">
+		<text>告诉我关于猎捕变异生物的事情...</text>
+	</string>
+	<string id="jup_b220_trapper_about_mutants_1">
+		<text>嗯,变异生物需要不同的处理方式...小矮人和吵闹鬼需要一种,巨型地狱犬和脑波怪需要另一种...然后奇美拉是真的需要特殊的处理方法.</text>
+	</string>
+	<string id="jup_b220_trapper_about_mutants_1111">
+		<text>告诉我关于小矮人的事情.</text>
+	</string>
+	<string id="jup_b220_trapper_about_mutants_11111">
+		<text>小矮人使用引力来攻击...当你们处于极为接近的距离的时候它们会把你扔出去,当它们离你很远的时候它们则会把其它的东西丢过来砸你...你最好和它们保持在中等距离并且不停地移动,除非你有被重型物体砸到的受虐欲望...但是小心节省你的精力!小矮人可以利用定向的万有引力的冲力把武器从你的手里拉出去,如果你累了,那就很有可能会对你起作用.</text>
+	</string>
+	<string id="jup_b220_trapper_about_mutants_1112">
+		<text>告诉我关于吵闹鬼的事情.</text>
+	</string>
+	<string id="jup_b220_trapper_about_mutants_11121">
+		<text>有两种类型的吵闹鬼.第一种用万有引力把东西砸向敌人,而第二种是火吵闹鬼,用火烧落在它手里的受害者.没有经验的猎手试着绕着它们转圈来躲避攻击...真正的技巧是,吵闹鬼不能用传统意义上的看或者听等普通的感觉,这可以成为你的优势.他们能感觉到大地上正在移动的物体...因此老练的猎手一看到吵闹鬼就立马停止不动,开火然后又不动,如是再三.</text>
+	</string>
+	<string id="jup_b220_trapper_about_mutants_1114">
+		<text>告诉我关于脑波怪的事情.</text>
+	</string>
+	<string id="jup_b220_trapper_about_mutants_11141">
+		<text>他们用你自己的大脑对付你.当你猎杀一只脑波怪的时候,灵活使用掩体是非常重要的,因为它要影响你的大脑就必须看见你...还有,它们移动得非常缓慢,所以如果你已经到了性命攸关的时刻,使用手雷吧.</text>
+	</string>
+	<string id="jup_b220_trapper_about_mutants_1115">
+		<text>告诉我关于奇美拉的事情.</text>
+	</string>
+	<string id="jup_b220_trapper_about_mutants_11151">
+		<text>他们是非常危险的夜行食肉动物.他们会在夜色的掩护下从背后接近你,然后跳到你的头上.如果你知道附近有奇美拉的存在的话,记得查看你的背后,还有,跟在你的朋友的屁股后面来保护他们.</text>
+	</string>
+	<string id="jup_b220_trapper_about_mutants_1116">
+		<text>告诉我关于巨型地狱犬的事情.</text>
+	</string>
+	<string id="jup_b220_trapper_about_mutants_11161">
+		<text>关于猎杀巨型地狱犬,最困难的事情就是杀死它们.它们能不可思议地承受各种打击却眼都不眨一下...我想说的是也许你会想在近距离使用霰弹枪尝试一下.请记住,巨型地狱犬的攻击可以撕开像混凝土一样结实的东西.最好从上面攻击它......而且要确保无论你站在什么东西上面,它要能够承受相当程度的攻击.</text>
+	</string>
+	<string id="jup_b220_trapper_about_mutants_1117">
+		<text>好吧,忘了它吧.</text>
+	</string>
+	<string id="jup_b220_trapper_about_retire_0">
+		<text>为什么你不再打猎了?</text>
+	</string>
+	<string id="jup_b220_trapper_about_retire_1">
+		<text>我老了,兄弟.那就是为什么福克斯死了...他是我的搭档和朋友.我们一起猎杀了许多猛兽,肩并着肩...然后我们在扎通碰到了那两只奇美拉,在特异区已经销声匿迹了18个月的东西...我还没来得及拿出我的霰弹枪,其中一个就把福克斯砸到了地上.当我打伤了另一个的时候,它们逃掉了...我诅咒它们下地狱去接受永远的煎熬!</text>
+	</string>
+	<string id="jup_b220_trapper_about_stolen_items_0">
+		<text>谁可能会从私人储物箱里偷东西?</text>
+	</string>
+	<string id="jup_b220_trapper_about_stolen_items_1">
+		<text>唔...不知道...那种事情不可能在猎人之间发生.如果惹恼了别人,你会发现在吸血怪接近你并对你发动攻击的时候,他们会变得非常珍惜自己的子弹.</text>
+	</string>
+	<string id="jup_b220_trapper_bloodsucker_lair_hunted_1">
+		<text>兔子急了还会咬人呢...我印象中的吸血怪,它们总是结伴外出觅食...但是现在它们再也无处可回了,它们不再是潜行者们的威胁了.</text>
+	</string>
+	<string id="jup_b220_trapper_burers_hunt_0">
+		<text>你有其它的工作要我做吗?</text>
+	</string>
+	<string id="jup_b220_trapper_burers_hunt_1">
+		<text>当然.有一天一支潜行者小队闯入了工业区北面的隧道里,他们不幸地进入了变异生物的巢穴.他们也被吓到了,甚至连碰到了哪种变异生物都说不出来,但是有两个潜行者没能从那里活着逃出来.之后亚诺夫车站的家伙真的对整个事情感到害怕,所以他们筹集了5000的赏金来悬赏召集愿意解决那个巢穴的人.这是个危险的工作,所以你自己决定...你愿意做吗?</text>
+	</string>
+	<string id="jup_b220_trapper_burers_hunt_11">
+		<text>我来做.</text>
+	</string>
+	<string id="jup_b220_trapper_burers_hunt_111">
+		<text>你真是个勇敢的人...祝你好运吧,你会需要它的.</text>
+	</string>
+	<string id="jup_b220_trapper_burers_hunt_12">
+		<text>现在不行.</text>
+	</string>
+	<string id="jup_b220_trapper_burers_hunt_121">
+		<text>我不怪你...我怀疑是否有人能有能耐对付整个巢穴的变异生物.</text>
+	</string>
+	<string id="jup_b220_trapper_burers_hunt_2">
+		<text>和以前一样.朱皮特工业区北部隧道内的不明变异生物.5000赏金...究竟你要不要做呢?</text>
+	</string>
+	<string id="jup_b220_trapper_burers_hunt_3">
+		<text>目前潜行者们对隧道内的变异生物感到担心...</text>
+	</string>
+	<string id="jup_b220_trapper_burers_hunted_0">
+		<text>隧道里的生物是变异矮人.现在它们已经是死掉的变异矮人尸体了.</text>
+	</string>
+	<string id="jup_b220_trapper_burers_hunted_1">
+		<text>我猜它们一定是小矮人呢.那就解释了为什么亚诺夫车站的那些家伙会对整个事情那么兴奋了...好吧,既然它们都死了,赏金是你的了!</text>
+	</string>
+	<string id="jup_b220_trapper_burers_hunted_2">
+		<text>我猜它们一定是小矮人呢...就是最近杀了两个潜行者的那个.那就解释了为什么亚诺夫车站的家伙们为了解决它们而凑赏金了.好吧,既然它们都死了,赏金是你的了!</text>
+	</string>
+	<string id="jup_b220_trapper_jupiter_chimera_hunt_0">
+		<text>我准备好解决奇美拉了.</text>
+	</string>
+	<string id="jup_b220_trapper_jupiter_chimera_hunt_1">
+		<text>好极了.找到那个混蛋的猎手在天刚好要黑的时候看见了它.它当时正朝综合设施通风口前进.奇美拉是夜行的领地性动物,所以它可能正要去它的捕猎区...我想那就是你在傍晚时需要巡查的地段.而且,天黑的时候它会变得更加活跃...小心,祝你捕猎成功.</text>
+	</string>
+	<string id="jup_b220_trapper_jupiter_chimera_hunted_0">
+		<text>奇美拉死了.</text>
+	</string>
+	<string id="jup_b220_trapper_jupiter_chimera_hunted_1">
+		<text>谢谢...谢谢!你为福克斯报仇了,现在他能安息了.这是你的钱——你挣得的...还有其它事情.拿上我的霰弹枪.你为我带来了更为重要的东西——最终的平静...</text>
+	</string>
+	<string id="jup_b220_trapper_start_11">
+		<text>我是猎人...你没有必要介绍你自己.</text>
+	</string>
+	<string id="jup_b220_trapper_start_12">
+		<text>你来干什么?</text>
+	</string>
+	<string id="jup_b220_trapper_start_13">
+		<text>欢迎光临...我需要一个可靠的经验丰富的猎人,而你是亚诺夫车站最好的.毕竟事情已经发生了,我不能再让奇美拉逃脱...我要倾我所有:10000.我要你确保这件事做的干干净净...我必须要为福克斯报仇!</text>
+	</string>
+	<string id="jup_b220_trapper_start_14">
+		<text>我恳求你去解决那只奇美拉.如果你不想为了使亚诺夫车站摆脱这个变异的杀手去做,那么看在钱的面子上,请一定要接受...10000已经不是一个小数目了.</text>
+	</string>
+	<string id="jup_b220_trapper_start_15">
+		<text>奇美拉在什么位置?...时间是关键,因为它有可能会移动到新的猎食地点.</text>
+	</string>
+	<string id="jup_b220_trapper_start_16">
+		<text>看见你真好!...有新消息吗?</text>
+	</string>
+	<string id="jup_b220_trapper_swamp_bloodsuckers_hunt_0">
+		<text>你有其它工作给我吗?</text>
+	</string>
+	<string id="jup_b220_trapper_swamp_bloodsuckers_hunt_1">
+		<text>当然...一群沼泽吸血怪在沼泽被发现了,在水泥工厂的后面.它们现在似乎还在沼泽...但是当地的潜行者希望能够确保它们会永远地待在那,你应该明白我的意思吧.整群的价格是3000.要接受吗?</text>
+	</string>
+	<string id="jup_b220_trapper_swamp_bloodsuckers_hunt_11">
+		<text>我接受.</text>
+	</string>
+	<string id="jup_b220_trapper_swamp_bloodsuckers_hunt_111">
+		<text>好极了.打猎快乐...</text>
+	</string>
+	<string id="jup_b220_trapper_swamp_bloodsuckers_hunt_12">
+		<text>不是现在.</text>
+	</string>
+	<string id="jup_b220_trapper_swamp_bloodsuckers_hunt_121">
+		<text>随你的便...在其它猎人接受任务之前你还有机会改变主意.</text>
+	</string>
+	<string id="jup_b220_trapper_swamp_bloodsuckers_hunt_2">
+		<text>和以前一样...在水泥工厂后面,沼泽地里的一群沼泽吸血怪.赏金3000...要接受吗?</text>
+	</string>
+	<string id="jup_b220_trapper_swamp_bloodsuckers_hunt_3">
+		<text>目前除了沼泽里的吸血怪之外没有其它的了...</text>
+	</string>
+	<string id="jup_b220_trapper_swamp_bloodsuckers_hunted_0">
+		<text>我杀掉了沼泽吸血怪.</text>
+	</string>
+	<string id="jup_b220_trapper_swamp_bloodsuckers_hunted_1">
+		<text>现在潜行者们可以放松一会了.这是约定好的酬金.</text>
+	</string>
+	<string id="jup_b220_trapper_swamp_bloodsuckers_hunted_2">
+		<text>是,当地的潜行者会很高兴能够摆脱这些邻居的.他们甚至凑了3000的赏金...在这里,拿着.</text>
+	</string>
+	<string id="jup_b220_trapper_zaton_chimera_hunted_0">
+		<text>我和冈塔杀掉了扎通的奇美拉.</text>
+	</string>
+	<string id="jup_b220_trapper_zaton_chimera_hunted_1">
+		<text>谢谢你.附近野兽越少,对我们来说就越好.现在,如果你能解决另一只...</text>
+	</string>
+	<string id="jup_b220_trapper_zaton_chimera_hunted_2">
+		<text>谢谢你解决第二只野兽.知道那些奇美拉没有再取走其它潜行者的生命真好...</text>
+	</string>
+	<string id="jup_b25_flint_about_controller_0">
+		<text>告诉我你是怎么杀掉脑波怪的.</text>
+	</string>
+	<string id="jup_b25_flint_about_controller_1">
+		<text>好好听着,我的朋友,听着然后学着点...我去我的隐藏点去取回我的战利品,而当我到那的时候,我被一只正坐在那上面的脑波怪弄懵了.所以我从地上抓起一块铁板,用它掩护自己来偷偷接近它.当它醒悟过来的时候对它来说已经太迟了,我把半个弹匣的子弹都送进了它的脑袋里.就在它准备控制我的时候,我用我的步枪枪托给它来了一下狠的,就这样.</text>
+	</string>
+	<string id="jup_b25_flint_accuse_0">
+		<text>告诉我关于露天矿场的神器的事情.</text>
+	</string>
+	<string id="jup_b25_flint_accuse_1">
+		<text>哈!没什么好说的,因为露天矿场现在只剩下一堆垃圾了.谁都知道,打火石找过的变异点里找不到任何东西.</text>
+	</string>
+	<string id="jup_b25_flint_accuse_11">
+		<text>那么就是你把你的兄弟留在露天矿场而死的吗?</text>
+	</string>
+	<string id="jup_b25_flint_accuse_111">
+		<text>什么?!</text>
+	</string>
+	<string id="jup_b25_flint_accuse_11111">
+		<text>你什么都证明不了.你只是在胡扯...你的话与一个自由团成员的话相反——幸亏是那样.</text>
+	</string>
+	<string id="jup_b25_flint_accuse_111111">
+		<text>我们走着瞧.</text>
+	</string>
+	<string id="jup_b25_flint_accuse_1112">
+		<text>没什么.</text>
+	</string>
+	<string id="jup_b25_flint_accuse_12">
+		<text>谢谢,再见.</text>
+	</string>
+	<string id="jup_b25_flint_argue_bloodsucker_0">
+		<text>告诉我关于扎通的吸血怪的故事.</text>
+	</string>
+	<string id="jup_b25_flint_argue_bloodsucker_1">
+		<text>当我在扎通的时候,吸血怪使潜行者们的生活真的很艰难.潜行者们日夜提防它们,可是那样并不能起任何作用.我决定帮助他们,所以我拿上我的霰弹枪并且直接去了吸血怪的巢穴.在花了鄙人的一段宝贵的时间之后,扎通的吸血怪问题基本上解决了.</text>
+	</string>
+	<string id="jup_b25_flint_argue_bloodsucker_11">
+		<text>你甚至都不知道那个巢穴到底在哪里.</text>
+	</string>
+	<string id="jup_b25_flint_argue_bloodsucker_111">
+		<text>走开.</text>
+	</string>
+	<string id="jup_b25_flint_argue_bloodsucker_112">
+		<text>你想要什么?把你的谎话带到别的地方吐去!</text>
+	</string>
+	<string id="jup_b25_flint_argue_bloodsucker_113">
+		<text>滚吧,老兄...你的话和一个自由团战士的话相反——幸亏是那样.</text>
+	</string>
+	<string id="jup_b25_flint_argue_bloodsucker_1131">
+		<text>我们走着瞧.</text>
+	</string>
+	<string id="jup_b25_flint_argue_bloodsucker_12">
+		<text>谢谢,再见.</text>
+	</string>
+	<string id="jup_b25_flint_argue_guide_0">
+		<text>告诉我关于去朱皮特的捷径的故事.</text>
+	</string>
+	<string id="jup_b25_flint_argue_guide_1">
+		<text>好吧,向导以前经过扎通的时候要大量地绕路.我决定走直线...我确实那么做了.我试着走了一个地方,最终找到了一条能很快穿过变异点的路.所以我把那个信息卖给了向导,现在他带领所有人走那条路.</text>
+	</string>
+	<string id="jup_b25_flint_argue_guide_11">
+		<text>问问领航员谁给他地图的怎么样?</text>
+	</string>
+	<string id="jup_b25_flint_argue_guide_111">
+		<text>走开.</text>
+	</string>
+	<string id="jup_b25_flint_argue_guide_112">
+		<text>你想要什么?把你的谎话带到别的地方说去!</text>
+	</string>
+	<string id="jup_b25_flint_argue_guide_113">
+		<text>你证明不了.你的话和一个自由团战士的话相反——幸亏是那样.</text>
+	</string>
+	<string id="jup_b25_flint_argue_guide_1131">
+		<text>我们走着瞧.</text>
+	</string>
+	<string id="jup_b25_flint_argue_guide_12">
+		<text>谢谢,再见.</text>
+	</string>
+	<string id="jup_b25_flint_argue_oasis_0">
+		<text>告诉我关于你去绿洲的旅程的事情.</text>
+	</string>
+	<string id="jup_b25_flint_argue_oasis_1">
+		<text>我是第一个曾经到过绿洲的人.那里没有变异生物或者变异点——到处都是安静与和平.而且到处都是神器,只要捡起来然后走回家就行了.</text>
+	</string>
+	<string id="jup_b25_flint_argue_oasis_11">
+		<text>胡说.我到过绿洲,根本不是那样.</text>
+	</string>
+	<string id="jup_b25_flint_argue_oasis_111">
+		<text>走开.</text>
+	</string>
+	<string id="jup_b25_flint_argue_oasis_112">
+		<text>你想要什么?把你的谎话带到别的地方吐去!</text>
+	</string>
+	<string id="jup_b25_flint_argue_oasis_113">
+		<text>你自己在胡说.你的话和一个自由团战士的话相反——幸亏是那样.</text>
+	</string>
+	<string id="jup_b25_flint_argue_oasis_1131">
+		<text>我们走着瞧.</text>
+	</string>
+	<string id="jup_b25_flint_argue_oasis_12">
+		<text>谢谢,再见.</text>
+	</string>
+	<string id="jup_b25_flint_argue_scientist_0">
+		<text>告诉我关于你和科学家们一起工作的事情.</text>
+	</string>
+	<string id="jup_b25_flint_argue_scientist_1">
+		<text>前几天我拜访了他们的营地.他们真的很开心,他们说,"你正是我们现在需要的,打火石!"原来他们想要把他们的设备安装到变异点下面.所以我接受了,"那只是小意思"然后我把他们想要做的所有的事情都很轻松的解决了.让那些讨厌的家伙付酬金可真是个难事啊.</text>
+	</string>
+	<string id="jup_b25_flint_argue_scientist_11">
+		<text>不要把别人的成就作为荣誉冠到自己头上.那是我做的,而不是你!</text>
+	</string>
+	<string id="jup_b25_flint_argue_scientist_111">
+		<text>走开</text>
+	</string>
+	<string id="jup_b25_flint_argue_scientist_112">
+		<text>你想要什么?把你的谎话带到别的地方吐去!</text>
+	</string>
+	<string id="jup_b25_flint_argue_scientist_113">
+		<text>谎话...你什么都证明不了.你的话和一个自由团战士的话相反——幸亏是那样.</text>
+	</string>
+	<string id="jup_b25_flint_argue_scientist_1131">
+		<text>我们走着瞧.</text>
+	</string>
+	<string id="jup_b25_flint_argue_scientist_12">
+		<text>谢谢,再见.</text>
+	</string>
+	<string id="jup_b25_flint_start_11">
+		<text>嘿.你也想听听我的故事吗?</text>
+	</string>
+	<string id="jup_b25_flint_start_21">
+		<text>你想问什么吗?</text>
+	</string>
+	<string id="jup_b25_flint_start_31">
+		<text>你想要什么?</text>
+	</string>
+	<string id="jup_b25_senya_start_0">
+		<text>老兄...该死...我在说谎...</text>
+	</string>
+	<string id="jup_b25_senya_start_1">
+		<text>拿着这个药箱.</text>
+	</string>
+	<string id="jup_b25_senya_start_11">
+		<text>谢谢朋友...但是它不会起作用的...听着...我和一个自由团成员在一起...我们找到了一个神器...在回来的路上我不小心进入了一个毒气变异点...如果他帮帮我的话,我可能还能获救...但是...他拿着神器,然后把我丢在这.他声称去寻求帮助...找到他,我要人们知道他不值得信任...</text>
+	</string>
+	<string id="jup_b25_senya_start_1111111">
+		<text>我会找到他的.</text>
+	</string>
+	<string id="jup_b25_senya_start_1111112">
+		<text>我怀疑我是否有能力证明这些事情.</text>
+	</string>
+	<string id="jup_b25_senya_start_2">
+		<text>抓住我的肩膀,我会带你去看医生.</text>
+	</string>
+	<string id="jup_b25_senya_start_3">
+		<text>胡说八道.再见.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_artefacts_0">
+		<text>我有些东西给你...</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_artefacts_11">
+		<text>一个肉块神器,这儿,拿着.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_artefacts_111">
+		<text>谢谢.科学家的酬劳很好,但我更关心许可的事情.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_artefacts_112">
+		<text>真的感谢,朋友!现在我终于可以去普里皮亚特了——我只需要想一个去那的方式.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_artefacts_12">
+		<text>一个海胆神器,这儿,拿着.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_artefacts_121">
+		<text>谢谢.科学家的酬劳很好,但我更关心许可的事情.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_artefacts_122">
+		<text>真的感谢,朋友!现在我终于可以去普里皮亚特了——我只需要想一个去那的方式.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_artefacts_13">
+		<text>一个肉块神器和一个海胆神器,这儿,拿着.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_artefacts_131">
+		<text>真的感谢,朋友!现在我终于可以去普里皮亚特了——我只需要想一个去那的方式.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_artefacts_14">
+		<text>没什么.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_boredom_0">
+		<text>这附近很糟糕?</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_contract_0">
+		<text>你提到你的合约...</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_contract_1">
+		<text>是的,我和科学家签订了一些任务的合约,我以为那些任务会很简单.但是我很失败地发现,合约只有在任务被完成的时候才会起作用.科学家们承诺当任务完成的时候会给我进入特异区的官方许可.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_contract_111">
+		<text>除了一件小事情之外,我完成了合约上所有该死的条款.我需要找到所有已知存在的化学神器.谁知道这里根本拿不到肉块神器或者海胆神器.如果我能拿到这两样,我很久以前就能到普里皮亚特去了,但是我没有!</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_contract_1111">
+		<text>我可能可以帮你找到这些神器.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_contract_1112">
+		<text>真遗憾.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_contract_2">
+		<text>是啊...只要一个肉块神器和一个海胆神器我就能离开去普里皮亚特了!</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_pripyat_0">
+		<text>普里皮亚特有什么特殊的吗?</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_pripyat_1">
+		<text>没有人知道怎么到那儿...毕竟,我们在特异区,因此你不可能直接走过去.他们说那里有很多没有人得到的珍贵的神器...另外,还有很多围绕着普里皮亚特的传奇,而我只是简单的好奇而已.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_pripyat_group_0">
+		<text>我正在组建一个去普里皮亚特的小队.要加入我们吗?</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_pripyat_group_1">
+		<text>实际上,我自己一直想去那...但是只会是我一个人.没什么原因,我只是习惯一个人...</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_pripyat_group_2">
+		<text>哈,实际上我很快就会启程前往普里皮亚特...但是只会是我一个人.没什么原因,我只是习惯一个人...</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_start_11">
+		<text>欢迎来到无聊的地方.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_start_12">
+		<text>兄弟,我真想去普里皮亚特!</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_start_13">
+		<text>我只要找到一个去普里皮亚特的路,然后我马上就能到那.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_start_14">
+		<text>能在这真好!生活的意义好像就是要生生地活着!</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_start_15">
+		<text>能感觉到是安全的当然好.我只希望不要太糟糕就行了!</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_volunteer_0">
+		<text>我可能可以帮你拿到那些神器.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_way_0">
+		<text>你知道去普里皮亚特的路吗?</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_way_1">
+		<text>我不知道,但是如果它真的像人们所说的那样满地神器的话,我准备立刻就去拿一个回来.我的意思是,我不像其它人——我是第一个找到去朱皮特的路的人之一.但是我总是一个人工作——我没时间帮其它人注意他们背后.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_jupiter_0">
+		<text>你能带我去朱皮特吗?</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_jupiter_1">
+		<text>当然.你准备出发了吗?</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_jupiter_11">
+		<text>是的.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_jupiter_12">
+		<text>还没有.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_jupiter_2">
+		<text>不要在电磁风暴中出行.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_pripyat_0">
+		<text>你能带我去普里皮亚特吗?</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_pripyat_1">
+		<text>给我5000我就设法带你去.我喜欢那里!</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_pripyat_11">
+		<text>成交.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_pripyat_12">
+		<text>不了,谢谢.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_pripyat_121">
+		<text>好吧,这是你选的.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_pripyat_13">
+		<text>我没有那么多钱.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_pripyat_2">
+		<text>给我5000我就设法带你去...我们等电磁风暴结束吧.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_zaton_0">
+		<text>你能带我去扎通吗?</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_zaton_1">
+		<text>不,兄弟——那儿的路太糟糕了.领航员在那儿——他就是你需要的可以做一些安全但是乏味的工作的人.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_zaton_2">
+		<text>好吧,我能带你去亚诺夫车站,然后让领航员把你带到扎通,收你3000,怎么样?</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_zaton_21">
+		<text>我同意.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_zaton_22">
+		<text>不.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_zaton_221">
+		<text>随你.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_zaton_23">
+		<text>我没有足够的钱.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_zaton_3">
+		<text>好吧,我能带你去亚诺夫车站,然后让领航员把你带到扎通,收你1000,怎么样?</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_zaton_4">
+		<text>不,兄弟——那儿的路太糟糕了.领航员在那儿——他就是你需要的可以做一些安全但是乏味的工作的人——电磁风暴结束后再问他.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_zaton_5">
+		<text>好吧,我能带你去亚诺夫车站,然后让领航员把你带到扎通,收你3000...但是要等电磁风暴结束,这是显然的.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_to_zaton_6">
+		<text>好吧,我能带你去亚诺夫车站,然后让领航员把你带到扎通,收你1000...但是要等电磁风暴结束,这是显然的.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_pripyat_start_11">
+		<text>他们说你成功穿过隧道了?...我也从朱皮特来——我找到了地下通道.如果你需要的话,我可以免费把你带回那...我,你知道的,很高兴能为当局提供一些援助.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_pripyat_start_12">
+		<text>好久不见!他们说你成功穿过隧道了?...我找到了地下通道.如果你需要的话,我可以免费把你带回去...我,你知道的,很高兴能为当局提供一些援助.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_pripyat_start_13">
+		<text>好久不见!他们说你成功穿过隧道了?你不会相信的,但是我想办法摆脱了合约却仍然得到了许可...一拿到它,我就找了一个地下通道然后来到了这.如果你需要的话,我可以免费把你带回去...我,你知道的,很高兴能为当局提供一些援助.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_pripyat_start_14">
+		<text>好久不见!他们说你成功穿过隧道了?...我找到了地下通道.如果你需要的话,我可以免费把你带回去...我,你知道的,很高兴能为当局提供一些援助.顺便说一下,谢谢你帮助我完成和科学家的合约...我在这稍微搜寻了一下,我找到了这个——拿着.我敢打赌你一定会用的上的.</text>
+	</string>
+	<string id="jup_b47_ask_topol_about_guard_0">
+		<text>托波尔,你为什么不保护科学家的营地?</text>
+	</string>
+	<string id="jup_b47_ask_topol_about_guard_1">
+		<text>好吧,我们被雇佣去测量和收集样本.在这个阶段,我们几乎都成了科学家.另外,我本质上没有可以应付这工作的东西,我不确定我可以控制这些理论家的新敌人.我可不喜欢死在雇佣兵的子弹下.</text>
+	</string>
+	<string id="jup_b47_merc_guards_start_11">
+		<text>你来错地方了老兄!而且你最好在我们发火之前离开这.</text>
+	</string>
+	<string id="jup_b47_merc_guards_start_12">
+		<text>你在找麻烦还是其它什么?趁着还没惹出麻烦滚开这里!</text>
+	</string>
+	<string id="jup_b47_merc_guards_start_13">
+		<text>赶紧消失,老兄.赶紧照做,我们才会保持平静.</text>
+	</string>
+	<string id="jup_b4_duty_go_home_0">
+		<text>现在你要做什么?</text>
+	</string>
+	<string id="jup_b4_duty_go_home_1">
+		<text>我们很快就要去亚诺夫车站.如果你愿意的话,和我们一起吧.</text>
+	</string>
+	<string id="jup_b4_duty_go_home_11">
+		<text>好啊,我也要去那.我加入你们.</text>
+	</string>
+	<string id="jup_b4_duty_go_home_12">
+		<text>不,我不顺路.</text>
+	</string>
+	<string id="jup_b4_duty_squad_start_dialog_0">
+		<text>你把他们带到我们这是一件好事情——他们自己不可能持续多长时间.</text>
+	</string>
+	<string id="jup_b4_duty_start_dialog_0">
+		<text>谢谢你和纪律团谈判.</text>
+	</string>
+	<string id="jup_b4_freedom_go_home_0">
+		<text>你现在要做什么?</text>
+	</string>
+	<string id="jup_b4_freedom_go_home_1">
+		<text>我们很快就要去亚诺夫车站.如果你愿意的话,和我们一起吧.</text>
+	</string>
+	<string id="jup_b4_freedom_go_home_11">
+		<text>好啊,我也要去那.我加入你们.</text>
+	</string>
+	<string id="jup_b4_freedom_go_home_12">
+		<text>不,我不顺路.</text>
+	</string>
+	<string id="jup_b4_freedom_squad_start_dialog_0">
+		<text>你做对了,兄弟.你帮了这些家伙而且给我们带来了援助.对你表示敬意.</text>
+	</string>
+	<string id="jup_b4_freedom_start_dialog_0">
+		<text>谢谢你和自由团谈判.</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_about_stolen_items_0">
+		<text>你知道谁会从私人储物箱里偷东西吗?</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_about_stolen_items_1">
+		<text>我不知道——这什么人都有...你可以试着问问接骨师,他几乎知道这儿的所有人...</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_goto_zulus_0">
+		<text>我们去见祖鲁.</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_goto_zulus_1">
+		<text>好的.我希望他见到我的旧护甲的时候不会开枪!我们要在路上搞定它...然后把我身上的这件退掉.</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_goto_zulus_11">
+		<text>走吧.</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_goto_zulus_2">
+		<text>等等.电磁风暴对健康可没什么好处...我们等一会.</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_need_help_0">
+		<text>发生什么事了?</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_need_help_1">
+		<text>好吧...我不记得我们怎么到这来的.我记得我们是黑石小队...我们急切地渴望到达特异区中心.那是黑石组织的地方——那是一颗流星,从其它星球带来了新生命的开始...我记得一起到达了切尔诺贝利核电站...接下来就都是片段了.我记得有一道强光...像在宇宙中一般寒冷...然后是清晰的声音...每件事情都是那么...完美.现在我不记得那个声音让我做什么.我生命的这几年...就这么没了.我的兄弟们也一样...我们不知道能做什么.我们确实需要能躲避电磁风暴...还有变异生物的地方,对吗?你有什么能让我们安全的地方?</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_need_help_11">
+		<text>离这里不远有一个潜行者基地,我可以在你的地图上标出来.</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_need_help_111">
+		<text>我不确定那是安全的...当我们在前往切尔诺贝利核电站的时候,我们一直被猜疑...我想我们后来确实杀了潜行者.你知道现在人们怎么对待我们吗?他们很可能开枪射击...你能帮帮我们吗?你能告诉潜行者营地的每个人,我们现在不再是杀手了吗?你能和他们谈谈,让他们接受我们吗?</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_need_help_1111">
+		<text>没问题,下次我去基地的时候我会和他们谈谈的.</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_need_help_1112">
+		<text>对不起,我帮不了你们.</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_need_help_2_0">
+		<text>你需要什么样的帮助?</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_need_help_2_1">
+		<text>我们需要能躲避电磁风暴...还有变异生物的地方,对吗?你有什么能让我们安全的地方?</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_need_help_2_11">
+		<text>好吧.我问问亚诺夫车站的那些家伙.</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_need_help_2_12">
+		<text>对不起,我帮不了你.</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_need_outfit_0">
+		<text>你需要一个拥有封闭式循环呼吸系统的防护服好前往普里皮亚特.</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_need_outfit_1">
+		<text>好吧——我确实留着我的黑石装甲,而且实际上事实就是这样.问题是在亚诺夫车站我可不能被其它人看见我穿着这东西.</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_pripyat_group_0">
+		<text>我正在组建一个小队和我一起前往普里皮亚特.你愿意加入我们吗?</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_pripyat_group_1">
+		<text>我会去...我的意思是,我更好奇我们在那会发生什么.但是我现在不能去.我不可能把我的兄弟们留在这.如果这样他们的一切都会结束的.</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_pripyat_group_2">
+		<text>是的,我会和你一起去.我想知道我们会发生什么.我期待我们会在普里皮亚特找到那个问题的答案.我只要通知一下洛基,但我怀疑他会反对.</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_pripyat_group_3">
+		<text>是的,我会和你一起去.我想知道我们会发生什么.我期待我们会在普里皮亚特找到那个问题的答案.我只要通知一下舒尔加,但我怀疑他会反对.</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_pripyat_ready_0">
+		<text>你准备好出发了吗?</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_pripyat_ready_1">
+		<text>准备好了.</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_start_11">
+		<text>你好,潜行者.你能帮帮我们吗?</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_start_12">
+		<text>你好.我们能进入潜行者基地了吗?</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_start_121">
+		<text>不,我仍然在努力...</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_start_1211">
+		<text>赶紧,因为你不可能这道这里会发生什么事.</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_start_13">
+		<text>你好,谢谢你帮助我们.</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_start_14">
+		<text>你好.</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_wassup_0">
+		<text>事情怎么样了?</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_wassup_1">
+		<text>一切都好,我的小队都在待命中.但是我真的想知道在我们身上发生了什么事.</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_about_mercs_0">
+		<text>雇佣兵在这干什么?</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_about_mercs_1">
+		<text>你应该和赫尔曼谈谈那个.他负责实验室的所有管理措施.据我所知,雇佣兵们和赫尔曼达成了一个关于保护我们实验室的协定.我不知道协定的详细内容.然而,我必须指出他们证明了他们很多时候是可靠的战士.</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_about_scientists_0">
+		<text>你在这干什么?</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_about_scientists_1">
+		<text>一个反问句,你不这样认为吗?我们在探索.你对某些具体的事情感兴趣吗?</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_about_scientists_1111">
+		<text>你们探索的目的是什么?</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_about_scientists_11111">
+		<text>我们目前没有什么确切的目标.如果你愿意的话,可以把我们当作科学侦查员.我们企图识别出某些现象之间的联系,提出这些理论,然后证明或者推翻它们.</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_about_scientists_1112">
+		<text>你知道哪些特异区的事情?</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_about_scientists_11121">
+		<text>我目前只能猜测...我相信特异区是由于一些新的力量的缘故而形成的.电磁场,物理作用和辐射不可能如此迅速地改变生物圈.显然,一些变异可以用辐射来解释...但是,对不起!普通的猪需要成百,甚至上千年才有可能变异成肉食!在特异区,这些变异在几年内就发生了.似乎有人直接对生物个体进行了遗传基因改变.这种想法足够让我觉得毛骨悚然.</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_about_scientists_1113">
+		<text>你来特异区多长时间了?</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_about_scientists_11131">
+		<text>不超过一星期.为了组织这次探险,取得所有必须的官方许可实在费了我太大的劲了.如果不是赫尔曼,在其它潜行者们从特异区中获得珍贵的神器的时候,我们可能还只能在它的边缘地带等着.</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_about_scientists_1114">
+		<text>那就是我想知道的一切.</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_about_scrutiny_0">
+		<text>奥泽斯基,为什么赫尔曼雇佣我去保护正在测量的队伍?</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_about_scrutiny_1">
+		<text>这是我的主意.他没有考虑到这点,但是我让他相信了.我的研究表明,在变异区域安装的高波设备导致附近的变异物种的侵略性得到了提高,同样的,他们的活跃度也得到了提高.长话短说,它们开始找些东西来攻击了.</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_about_scrutiny_learned_0">
+		<text>奥泽斯基,我得到了新消息.</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_about_scrutiny_learned_1">
+		<text>是吗?我在听.</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_about_scrutiny_learned_11">
+		<text>你是对的.我们在测量的时候,那些变异生物根本不让我们休息一分钟,但是只要设备关闭了,它们就慢慢平静下来了.</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_about_scrutiny_learned_111">
+		<text>什么?!如果...如果我的假设得到了证明,很可能那些变异生物获得了通过心灵感应从外界接受信息的能力...人造信号...从某方面来说...突变和这些典型的胞状结构的改变之间反常的相似性...这绝不是偶然...</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_about_scrutiny_learned_1111">
+		<text>你能更明白一点吗?而且拜托你现在能不能正常一点?</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_about_scrutiny_learned_11111">
+		<text>不!这些仅仅是我的推测.噢,我是多么粗鲁啊!非常感谢你对我们研究的援助.</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_anomalous_grove_0">
+		<text>要让你和赫尔曼谈关于防护服的事情需要做什么事?</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_anomalous_grove_1">
+		<text>一块长满了目前未知的变异植物的地区出现在露天矿场的边缘地带.我真想得到一个这种植物的样本,但是潜行者们拒绝接近这个地方.如果我能得到一个这种植物,我可以和赫尔曼谈谈给一套备用防护服给你作为奖励.</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_anomalous_grove_11">
+		<text>我会把植物带给你.</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_anomalous_grove_111">
+		<text>好吧,我把变异地点的坐标上传到你的PDA中.</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_anomalous_grove_12">
+		<text>也许下次吧.</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_anomalous_grove_121">
+		<text>如果你改变主意了,你还可以回来.</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_anomalous_plant_0">
+		<text>这里,我把你要的植物带来了.现在谈谈我的防护服怎么样?</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_anomalous_plant_1">
+		<text>好极了.哈,索科洛夫确实在无意中说出那套防护服是为他准备的.好吧,这没有关系.我会把这个植物给赫尔曼看的,他会同意立马把那套防护服交给你的.告诉索科洛夫来接收它吧.</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_aproach_0">
+		<text>我能为你找来新的守卫.</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_aproach_1">
+		<text>那你真的是太好了.请和赫尔曼谈谈吧这件事吧,这已经列入了他的责任范围内.</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_b1_psi_emission_dialog_0">
+		<text>我愿意去PSY辐射区去检验一下我的抵抗能力.</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_b1_psi_emission_dialog_1">
+		<text>哈,是赫尔曼派你来见我吗?好吧,让我尽可能简单地解释给你听吧.为了检测你对PSY辐射的抵抗能力,我需要综合的科学研究设施,然后花上几年的时间.而现实中,我只有一套野外装备和几个脏试管.</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_b1_psi_emission_dialog_11">
+		<text>这很难办到,不是吗?</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_b1_psi_emission_dialog_111">
+		<text>没有那么糟糕,我们不打算做完整的分析,我们的目的只不过是要评定你的神经元对PSY辐射的抵抗能力,做一个基本检查就好.那么...看起来你的脑袋准备好了.就是说你可以在不失去知觉的情况下接受相当高程度的PSY辐射的影响.</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_hypotheses_about_0">
+		<text>关于变异生物的侵略性的提升的假说怎么样了?</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_hypotheses_about_1">
+		<text>我有两个关于那个的假设.第一个是变异生物的侵略性是由于几个人侵犯了它们的领域而造成的,对大多数未变异物种来说都是正常的行为,也包括人类.另一个假设是,变异生物不知怎么的拥有了能够接受我们的测量设备发射出的活跃电波.后一种假设更令人感到好奇.</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_hypotheses_about_11">
+		<text>这东西能被检测出来吗?</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_hypotheses_about_111">
+		<text>测量设备应该在早先没有变异生物活动的区域里激活.然而,为了把因为人类的干涉而产生的影响降到最低,这个实验需要在一个人身上以最大的限度进行.</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_hypotheses_confirmed_0">
+		<text>我把扫描仪带来了.</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_hypotheses_confirmed_1">
+		<text>你得到了什么结果?</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_hypotheses_confirmed_11">
+		<text>我不知道你的设备能显示出什么,但是我相信那个假说被完全地证实了.从我打开扫描仪到史诺克过来攻击我,这所有的过程只需要5分钟.</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_hypotheses_confirmed_111">
+		<text>那就是我想的.由于某些原因,通常最让人不愿意相信的理论却总是被证明是正确的.无论如何,你证实了这个事情总是好的.现在我们要确保我们派出的每一个小队都做好了应付攻击行为的准备.</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_hypotheses_volunteer_0">
+		<text>我已经准备好证明或者推翻那个假设了.</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_hypotheses_volunteer_1">
+		<text>我很高兴这个世界上还有人愿意为了伟大的科学事业而献身.能够进行实验的最好的地点是露天矿场南边边缘地带的滑坡——那个地区充满了变异生物们通常极力避免的重力变异点.我给你的设备里装有内嵌式变异生物探测传感器.当你完成实验把设备带回来的时候,我就能追踪到变异生物的侵略性的程度.你准备好做这件事了吗?</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_hypotheses_volunteer_11">
+		<text>是啊,我会做的.</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_hypotheses_volunteer_12">
+		<text>现在不行.</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_soldier_outfit_0">
+		<text>有什么方法能得到科学家护甲吗?</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_soldier_outfit_1">
+		<text>那违反了协议.我们必须给我们所有的装置上的每一个物品都做解释说明.还有,你知道赫尔曼,他很可能给我们提供比我们需要的还要多的东西.我想在某些情况下,他可能会提供一套给你.</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_stalker_assistant_rival_0">
+		<text>你需要什么神器吗?</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_stalker_assistant_rival_1">
+		<text>不,对不起.我们再也不无计划地派出人来进行搜猎神器的任务.我们和一个经验丰富的神器猎手签了合约,无论我们需要什么,他都能把它带来给我.</text>
+	</string>
+	<string id="jup_b6_scientist_medic_aproach_0">
+		<text>我能给你们找来一些新的护卫.</text>
+	</string>
+	<string id="jup_b6_scientist_medic_aproach_1">
+		<text>那太好了.特异区从来都不平静...和赫尔曼谈谈吧——他是这的头.</text>
+	</string>
+	<string id="jup_b6_scientist_medic_b32_give_scanner_0">
+		<text>你应该给我一些用于研究变异点的扫描仪.</text>
+	</string>
+	<string id="jup_b6_scientist_medic_b32_give_scanner_1">
+		<text>拿着这个.按赫尔曼说的,3个.</text>
+	</string>
+	<string id="jup_b6_scientist_medic_b32_give_scanner_2">
+		<text>拿着这个.按赫尔曼说的,2个.</text>
+	</string>
+	<string id="jup_b6_scientist_medic_soldier_outfit_0">
+		<text>我怎么才能拿到科学防护服?</text>
+	</string>
+	<string id="jup_b6_scientist_medic_soldier_outfit_1">
+		<text>赫尔曼保存有清单.但是我给你省掉问的麻烦吧:你不可能从他那得到任何东西.试着和奥泽斯基谈谈.一方面,他更加有空,另一方面——他能够影响赫尔曼.</text>
+	</string>
+	<string id="jup_b6_scientist_medic_start_11">
+		<text>什么风把你吹来了?</text>
+	</string>
+	<string id="jup_b6_scientist_medic_start_12">
+		<text>听着,那些雇佣兵去哪了?谁在保护你们?</text>
+	</string>
+	<string id="jup_b6_scientist_medic_start_13">
+		<text>生活怎么样?</text>
+	</string>
+	<string id="jup_b6_scientist_medic_start_14">
+		<text>听着...有人枪杀了保护你们的雇佣兵.虽然我也非常讨厌他们,但是这样未免有一点太过离谱了...</text>
+	</string>
+	<string id="jup_b6_scientist_medic_start_15">
+		<text>CS-3a防弹衣——太酷了!真是一套好装甲...让我想起了以前的日子...</text>
+	</string>
+	<string id="jup_b6_scientist_medic_ufo_memory_repair_0">
+		<text>你能帮我把这个储存器模组解锁吗?</text>
+	</string>
+	<string id="jup_b6_scientist_medic_ufo_memory_repair_1">
+		<text>让我看看...没问题.我以前做过这个...这不会超过一个小时.我要...唔,2000,成交?</text>
+	</string>
+	<string id="jup_b6_scientist_medic_ufo_memory_repair_11">
+		<text>成交.</text>
+	</string>
+	<string id="jup_b6_scientist_medic_ufo_memory_repair_111">
+		<text>好的.如果我解锁了我会让你知道的.</text>
+	</string>
+	<string id="jup_b6_scientist_medic_ufo_memory_repair_12">
+		<text>我没有那么多钱.</text>
+	</string>
+	<string id="jup_b6_scientist_medic_ufo_memory_repair_121">
+		<text>唔.好吧,你知道在哪能找到我.我怀疑有没有人能比我更胜任这个工作.</text>
+	</string>
+	<string id="jup_b6_scientist_medic_ufo_memory_repair_13">
+		<text>我会考虑的.</text>
+	</string>
+	<string id="jup_b6_scientist_medic_ufo_memory_repair_2">
+		<text>就像我说的,我要2000和一个小时的时间.</text>
+	</string>
+	<string id="jup_b6_scientist_medic_ufo_memory_repaired_0">
+		<text>那么,你已经把储存器模组解锁了吗?</text>
+	</string>
+	<string id="jup_b6_scientist_medic_ufo_memory_repaired_1">
+		<text>时间还没到.我告诉过你如果完成了我会通知你的.</text>
+	</string>
+	<string id="jup_b6_scientist_medic_ufo_memory_repaired_2">
+		<text>是的,拿着.你可以查看里面的信息了.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_about_halfartefact_zat_b14_0">
+		<text>我找到了一个奇怪的半透明神器.你有兴趣吗?</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_about_halfartefact_zat_b14_1">
+		<text>当然.你在哪找到的?</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_about_halfartefact_zat_b14_11">
+		<text>在扎通,在废弃的疏通站里.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_about_halfartefact_zat_b14_1111">
+		<text>成交.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_about_halfartefact_zat_b14_1112">
+		<text>别管闲事!我会找到另一个买家的.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_about_mercs_0">
+		<text>那些雇佣兵在这干什么?</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_about_mercs_1">
+		<text>我们和他们达成了协议,由他们保卫我们的活动实验室.我料的到你要问什么,我告诉你,除了加入他们别无他法.由于一些秘密的军事活动,我们无法获得足够的保护来调度给我们的实验室.这个事实再加上潜行者们突然疯狂得寻猎神器,如果要保证实验室的安全的话,我没有选择,只能选择雇佣兵.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_about_scientists_0">
+		<text>你在这干什么?</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_about_scientists_1">
+		<text>我们研究各种各样的现象.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_about_scientists_1111">
+		<text>你研究的目的是什么?</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_about_scientists_11111">
+		<text>我们正在做基本研究.换句话说,我们不是在这测试防护服,发明新的药品或者是之类的东西.我们在试着找到有关我们在特异区中看见的事物的合乎常理的解释.如果我们发现了我看见的所有现象的十分之一的秘密,就能够给全球科技发展带来极大的进步.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_about_scientists_1112">
+		<text>关于特异区,你知道什么?</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_about_scientists_11121">
+		<text>老实说,不多.我们只是刚刚开始理解我们遇到的一些现象的机理,而且很不幸地,我们离能够把特异区作为一个系统来理解的境界还很远.而特异区在随着时间变化而逐渐进化的事实也使一切变得尤其困难.我不是指那些表现出来的新的变异点或者是其它类似的小东西.我说的是巨大的变化,那些不能总是被肉眼发现的变化.可悲的是我们根本不知道这一切会导致什么状况.我们能做的只剩下坐在这等着.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_about_scientists_1113">
+		<text>你到特异区多久了?</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_about_scientists_11131">
+		<text>不长,大概一个星期.那就是说,我只到过萨哈罗夫的实验室几次.我依然痛惜我们没能更快速地起步进行考察的这个事实.我告诉教育部的人许多次了,无论什么时候,我们必须保持有两个随时能投入使用的移动实验室...他们只会用他们的肥脑袋对着我点头,然后就这样!拜他们所赐我们差点错过了最好的研究特异区的时机!</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_about_scientists_1114">
+		<text>我明白了.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_artefact_spawn_0">
+		<text>我安置在变异区中的扫描仪里有什么信息吗?</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_artefact_spawn_2">
+		<text>你对哪个变异区,特别地感兴趣?</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_artefact_spawn_21">
+		<text>停车场附近的变异区.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_artefact_spawn_211">
+		<text>是的,我们的设备标示出那个变异点中有神器存在!</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_artefact_spawn_212">
+		<text>很不幸,那个变异点中没有神器的迹象.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_artefact_spawn_22">
+		<text>水泥池变异区</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_artefact_spawn_23">
+		<text>沥青变异区</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_artefact_spawn_24">
+		<text>沼泽变异区</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_artefact_spawn_25">
+		<text>燃灰变异区</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_artefact_spawn_26">
+		<text>那就是目前的状况.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_investigation_anomaly_1">
+		<text>我听得很仔细.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_investigation_anomaly_11">
+		<text>我们的研究小组还没有充分地准备好实施正确的野外作业,最近的事情已经使这个信息变得清晰起来了.你,从另一方面来说,居然设法自己一个人对付了脑波怪!那十分令人震惊!</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_investigation_anomaly_111">
+		<text>你要说什么?</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_investigation_anomaly_1111">
+		<text>我的观点是,对我们来说,只有,至少尝试雇佣一个像你一样有能力的专家才算合情合理.我们的科学小组非常需要你的援助.我们需要测量,安置扫描仪...</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_investigation_anomaly_11111">
+		<text>继续...</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_investigation_anomaly_111111">
+		<text>我在试着找到电磁风暴和变异点中出现的神器之间的关系.我有个猜想,下一场电磁风暴可以通过神器的数量和质量来预测.为了能够作一个准确的预测,我需要收集统计数据.我们要做的所有的事情是将扫描仪安置在不同种类的变异点中心.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_investigation_anomaly_11112">
+		<text>对不起,我不感兴趣.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_investigation_anomaly_111121">
+		<text>真遗憾.你本应该为科学服务的.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_investigation_anomaly_2">
+		<text>好吧,我会帮你的.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_investigation_anomaly_21">
+		<text>漂亮!你需要从诺维科夫那里取得扫描仪,然后将它们安置在你的PDA中标示出的变异点中.当你完成的时候,回来见我——我有其它的关于扫描仪和测量的事情要和你谈谈.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_investigation_anomaly_3">
+		<text>我待会会回来,而且我会考虑的.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_scanner_placed_0">
+		<text>我把扫描仪放在变异点中了.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_scanner_placed_1">
+		<text>漂亮!我已经有了第一个结果.我等不及来一个电磁风暴了——这会给我们提供必须的统计样本...</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_bubble_1">
+		<text>我听得非常仔细.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_bubble_11">
+		<text>当我靠近它并且拿出我的科学探测器的时候,我周围的一切都开始变形,就好像空间被压缩一样.然后,过了一会,死去的潜行者尸体突然出现!然后这一切才停止.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_bubble_111">
+		<text>真不可思议!信息严重匮乏,任何事情都不能很肯定地推断出来,但是我们会把这个描述记录在案的.我们将这个变异区称为空间泡!</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_found_guards_0">
+		<text>看上去你有了新的守卫了?</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_found_guards_1">
+		<text>是的,他们很不错.他们在周围我们感到很安全.谢谢的你帮助——这是你的报酬.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_gauss_rifle_docs_0">
+		<text>看看这些文件.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_gauss_rifle_docs_1">
+		<text>让我们看看...我不管你是怎么拿到这些的,但这实在是难以置信!让我拷贝下来...噢,顺便,这是你应得的报酬.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_guards_0">
+		<text>你的守卫们发生什么事了?</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_guards_1">
+		<text>我不知道,他们就这样消失了!</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_guards_11">
+		<text>我在特异区里有点关系.我可以为你找到一些新的守卫.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_guards_111">
+		<text>那真是太好了!他们会得到科学方面的支持和最新科技来作为他们做这项工作的交换!你也能得到报酬!</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_guards_1111">
+		<text>成交!</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_guards_11111">
+		<text>我等不及了!</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_guards_1112">
+		<text>我改变主意了.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_guards_11121">
+		<text>真糟糕.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_guards_12">
+		<text>这是常有的事.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_guards_121">
+		<text>还有其它的事吗?</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_guards_2">
+		<text>我们的守卫们被杀了!就在我们的营地外被杀了!</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_jupiter_docs_0">
+		<text>我在朱皮特工业区找到了一些文件.你想看一看吗?</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_jupiter_docs_1">
+		<text>那很有趣,但不是特别有用.无论如何,谢谢你的努力.如果你找到任何其它的东西,把它带过来.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_jupiter_docs_11">
+		<text>我找文件的时候被雇佣兵袭击了.这是他们首领的PDA.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_jupiter_docs_111">
+		<text>哇,我想他们是来保护我们的.我将把它给我的长官看的...非常感谢你,年轻人.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_jupiter_docs_2">
+		<text>很不幸,这里面没有什么有趣的信息.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_jupiter_products_1">
+		<text>这里有些东西:我们需要找出有关朱皮特工业区生产的最新成果.我真的需要有关这些新产品的技术文件.你可能在工业区的行政区找到它们.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_jupiter_products_11">
+		<text>我会去找的,找到我会带给你的.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_jupiter_products_12">
+		<text>不,我没办法帮你.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_jupiter_products_info_0">
+		<text>我从朱皮特把文件带回来了.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_jupiter_products_info_1">
+		<text>真有趣,但不是特别有用.无论如何,谢谢你的努力.如果你找到其它的东西,把它带过来.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_jupiter_products_info_11">
+		<text>我找文件的时候被雇佣兵袭击了.这是他们首领的PDA.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_jupiter_products_info_111">
+		<text>哇,我想他们是来保护我们的.我将把它给我的长官看的...非常感谢你,年轻人.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_results_11">
+		<text>我会试着找到变异区.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_results_12">
+		<text>我没时间.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_0">
+		<text>我来这见你是想参加你的研究.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_1">
+		<text>我知道,如果你能同意再一次为科学服务的话,我就能代表我们所有的队伍欢迎你.你对什么感兴趣?</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_11">
+		<text>我想帮忙测量.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_112">
+		<text>你真的愿意帮助我们进行外部的全扫描?</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_1121">
+		<text>是的,我会帮忙的——告诉我要做什么.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_1122">
+		<text>不,我需要仔细考虑一下.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_12">
+		<text>你提到了安置扫描仪.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_121">
+		<text>我在试着找到电磁风暴和变异点中出现的神器之间的关系.我有个猜想,下一场电磁风暴可以通过神器的数量和质量来预测.为了能够作一个准确的预测,我需要收集统计数据.我们要做的所有的事情是将扫描仪安置在不同种类的变异点中心.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_1211">
+		<text>好的,我会帮你的.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_12111">
+		<text>漂亮!你需要从诺维科夫那里取得扫描仪,然后将它们安置在你的PDA中标示出的变异点中.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_1212">
+		<text>我会考虑的,稍后回来.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_122">
+		<text>变异点中的扫描仪正在发射信号.我们要做的就只是等着结果就好.如果你愿意的话,可以在变异点中多放几个扫描仪.多些信息总是有用的,而且作为你的报酬,如果变异点中有了神器,我们会通知你.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_1221">
+		<text>我同意.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_12211">
+		<text>漂亮!你需要从诺维科夫那里取得扫描仪,然后将它们安置在你的PDA中标示出的变异点中.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_1222">
+		<text>我会考虑的,稍后回来.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_131">
+		<text>很不幸,我们有不能同时向同一个人分配超过一个任务的规定.对不起,但我们必须遵守.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_complete_0">
+		<text>你从我保护的小队那里得到了变异区测量结果了吗?</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_complete_31">
+		<text>哦是的,你的测量很明显地吸引了变异生物和僵尸的注意力.想把它们击退可要花一些时间和努力的.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_complete_311">
+		<text>唔,所以你认为他们对扫描仪作出了反应?有意思.好吧,如果是那样的话,你似乎证实了奥泽斯基的假设,变异生物对外界有心灵感应.我想这值得和他讨论一下.这你是完成的工作的报酬.你应得的!</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_complete_312">
+		<text>唔,所以你认为他们对扫描仪作出了反应?有意思.好吧,如果是那样的话,似乎奥泽斯基假设变异生物对外界有心灵感应也被你证实了.对潜行者们来说这可太糟糕了.我们的一部分资金将被用来赔偿给他们的家人.其余的作为你为我们工作的报酬.谢谢你!</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_soldier_outfit_0">
+		<text>有什么方法能让我们拿到科学防护服吗?</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_soldier_outfit_1">
+		<text>不!防护服的数量被严格限制了,我实在没有办法把它们提供给你!</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_start_11">
+		<text>你想跟我说什么?</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_start_12">
+		<text>你有没有可能找到能为我们的营地的安全负责的人?</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_start_13">
+		<text>继续.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_start_14">
+		<text>你不会相信有人杀了我们的守卫,几乎就在我们的营地里!</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_0">
+		<text>你需要帮助吗?</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_1">
+		<text>我们现在正在尝试着收集新品种的样本.他们本身没有任何异常效应,但是我们对它进行的实验产生了难以置信的结果!</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_11">
+		<text>继续...</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_1111">
+		<text>不要再废话了,告诉我需要做什么.</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_11111">
+		<text>好...找到PSY辐射区的潜行者们相信里面有一个变异生物的巢穴.我不是真的相信他们...我的意思是,除了脑波怪以外没有其它的变异生物能在一个间歇性的PSY辐射区里生存!别担心,我们的人会解决那些变异生物.我们需要你仅仅是因为经常接触PSY辐射区会导致潜行者们抵抗能力减少.</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_111111">
+		<text>直接一点就是:你想要我进入一个未知的PSY辐射区然后取得一个甚至可能不存在的样本给你,而且还没有人知道它究竟是什么样子的?</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_1111111">
+		<text>完全正确!这个任务对整个科学,尤其是对我们的队伍都很重要.如果你有任何疑问,去见奥泽斯基.他管理必需的分析报告,能识别出你现在对PSY辐射的抵抗能力.你也能向我们潜行者提问,他们会不遗余力地给你解释.那么,你愿意帮助作科学研究吗?</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_11111111">
+		<text>是的.</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_111112">
+		<text>你不知道吗?你的潜行者小队都死了.</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_2">
+		<text>考虑到你上次没有成功地抵达隧道,这使我很难让这个队伍愿意和你一起工作.</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_21">
+		<text>那只是个意外.</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_211">
+		<text>我相信你,但是我们的样本收集小组是由特殊的人组成的——你不能让他们失望.我会在此和他们谈谈,我应该有能力说服他们改变想法.但是这次不要再让我失望了,我等着你的样本.</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_3">
+		<text>原谅我这次,但我必须拒绝.你的设备对一个间歇性的PSY辐射区来说并不适合——你会见识到一个快速而又痛苦的死亡,凭良心讲我可不需要那样.</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_complete_0">
+		<text>我把样本带来了.</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_complete_1">
+		<text>真的吗?给我看看,我等不及要见到它!</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_complete_11">
+		<text>我把你要的样本带来了,而且原来隧道中有一个脑波怪.它试着拿下你的小队而且几乎成功了.我设法在它做到之前杀了它.</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_complete_111">
+		<text>你实在叫人惊异!你杀了脑波怪并且从PSY辐射中救下了那些潜行者...如果我不知道这是真的,我绝对不会相信你!你对科学的贡献确实显要.我个人为了我的队伍和整个世界的科学界,感谢你!</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_complete_12">
+		<text>很不幸,你的小队被脑波怪攻击了.我必须保护我自己.脑波怪死了,潜行者们也一样.</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_complete_121">
+		<text>你说,一只脑波怪?真可怕,谁会知道?我为那些勇敢的家伙表示哀悼...他们是科学忠实的仆人.虽然他们不是技术性的科学家,但是他们为科学所做的贡献比许多教授还多!谢谢你,请拿上你应得的报酬...</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_complete_13">
+		<text>很不幸,你的小队被一只脑波怪攻击了.我已经尽力了.</text>
+	</string>
+	<string id="jup_b6_scientist_tech_about_mercs_0">
+		<text>雇佣兵在这干什么?</text>
+	</string>
+	<string id="jup_b6_scientist_tech_about_mercs_1">
+		<text>别妨碍我.但那是我的个人意见.一开始他们一直要求修理这个或者做那个...然后昨天他们把一切羞耻心都抛开了,开始询问我们的设备是怎么运转的.我真是搞不明白那对他们保卫营地有什么帮助.</text>
+	</string>
+	<string id="jup_b6_scientist_tech_about_new_upgrade_0">
+		<text>你能提供什么样的设备改装?</text>
+	</string>
+	<string id="jup_b6_scientist_tech_about_new_upgrade_1">
+		<text>你能看到,这是种需要综合性科学知识的活...这里没有备用的凯夫拉尔纤维或者武器.我能做的是修补防弹衣或者用我的一项个人的新发明改装它.如你所想,我有很多损坏严重的装备作为备用.</text>
+	</string>
+	<string id="jup_b6_scientist_tech_about_new_upgrade_2">
+		<text>谢谢你从PSY辐射区找回的样品,奥泽斯基能够想出一些东西来保护人们不被电磁风暴伤害.我让他把想法更多地放到实践当中...如果你愿意的话,我可以把它安置在你的防护服中.</text>
+	</string>
+	<string id="jup_b6_scientist_tech_about_new_upgrade_3">
+		<text>好吧,不同于平常的升级,我可以给你提供过滤器和减缓PSY辐射的保护.毕竟,你是帮助创造出它们的人...奥泽斯基和赫尔曼开心得像中了彩票一样!</text>
+	</string>
+	<string id="jup_b6_scientist_tech_about_new_upgrade_4">
+		<text>好吧,不同于平常的升级,我可以给你提供过滤器和减缓PSY辐射的保护.毕竟,你是帮助创造出它们的人...奥泽斯基和赫尔曼开心得像中了彩票一样!</text>
+	</string>
+	<string id="jup_b6_scientist_tech_about_new_upgrade_5">
+		<text>我这有全套的改装:全封闭呼吸舱,过滤系统和PSY辐射保护.一套拥有全部装置的防护服能够使你拥有进入变异点的能力...而且你甚至有能力再走出来.顺便说一声,谢谢你参加赫尔曼的研究.没有那个,我不可能给你这些配件.</text>
+	</string>
+	<string id="jup_b6_scientist_tech_about_scientists_0">
+		<text>告诉我一些关于你的营地的事情.</text>
+	</string>
+	<string id="jup_b6_scientist_tech_about_scientists_1">
+		<text>唔.你想知道什么?</text>
+	</string>
+	<string id="jup_b6_scientist_tech_about_scientists_1111">
+		<text>实验室里都干些什么?</text>
+	</string>
+	<string id="jup_b6_scientist_tech_about_scientists_11111">
+		<text>我怀疑赫尔曼或者奥泽斯基能不能回答那个问题.显然他们做各种各样的研究...但是最终的结果却微不足道极了.再者,你可以和奥泽斯基谈谈...我有能力给他的设想提出几个可以令他满意的合适的修改方案.</text>
+	</string>
+	<string id="jup_b6_scientist_tech_about_scientists_1112">
+		<text>你知道什么有关特异区的事情吗?</text>
+	</string>
+	<string id="jup_b6_scientist_tech_about_scientists_11121">
+		<text>从科学的方面来讲,什么都没有,但是我在特异区有很多的实际经验.这里唯一有价值的东西是能增加你生存几率的东西.特异区才不管你是强盗还是收集神器来养家糊口的潜行者.只有最适合生存的人才能在特异区生存下去.</text>
+	</string>
+	<string id="jup_b6_scientist_tech_about_scientists_1113">
+		<text>你来特异区多久了?</text>
+	</string>
+	<string id="jup_b6_scientist_tech_about_scientists_11131">
+		<text>有段时间了.一开始,我和其它的所有人一样寻猎神器,但是我的健康水平不断下降直到我意识到我再也做不了那个了.感谢上帝,我有一个不错的头脑,所以找工作并不是太困难.我有大概一年的时间和一个由曾经的科学家组成的派系待在一起.他们都是好人...但遗憾的是他们死在了一个目标模糊不清的该死的任务里.之后的一段时间我在特异区里闲逛,然后我开始为科学家们工作.目前开始还没有被拒绝过.</text>
+	</string>
+	<string id="jup_b6_scientist_tech_about_scientists_1114">
+		<text>那就是我想知道的.</text>
+	</string>
+	<string id="jup_b6_scientist_tech_b1_psi_emission_dialog_0">
+		<text>我计划进入那个间歇性的PSY辐射区.你能给我什么建议吗?</text>
+	</string>
+	<string id="jup_b6_scientist_tech_b1_psi_emission_dialog_1">
+		<text>我能说什么?我怀疑你是不是熟悉能量信息场论...可以肯定短暂地暴露在PSY辐射区并不危险...至少,从长远来看.但是如果你确实在那里的话可不要太放松.低估PSY辐射区的最终结果是变成僵尸.</text>
+	</string>
+	<string id="jup_b6_scientist_tech_b33_about_snags_container_0">
+		<text>你能打开这个铁盒子吗?</text>
+	</string>
+	<string id="jup_b6_scientist_tech_b33_about_snags_container_1">
+		<text>那不适合我.我没有合适的设备...而且那违背了保护我们的健康安全的规则.</text>
+	</string>
+	<string id="jup_b6_scientist_tech_blackbox_0">
+		<text>你能给黑匣子解密吗?</text>
+	</string>
+	<string id="jup_b6_scientist_tech_blackbox_1">
+		<text>我能,但我不会去做的.我曾经做那种事...而且我不喜欢.太多麻烦...我从科学家那里得到了足够的工作了.</text>
+	</string>
+	<string id="jup_b6_scientist_tech_csky_outfit_0">
+		<text>CS-3a防弹衣防护服有什么特殊的吗?</text>
+	</string>
+	<string id="jup_b6_scientist_tech_csky_outfit_1">
+		<text>和我的设计不同的吗?...它是特异区中最好的防护服之一.那就是你为什么穿它的原因,不是吗?它很轻,易于移动而且拥有可靠的军队防弹衣作为它的核心.我自己给它加入了变异保护材料...真糟糕,我们这些日子缺少原料...但是在沼泽中你能指望什么呢...虽然如此,它需要的只是一点修理然后你就能得到一件真正的现代化护甲...我有很多备用的顶尖的设备,所以那也不成问题.</text>
+	</string>
+	<string id="jup_b6_scientist_tech_zat_b30_actor_about_owl_0">
+		<text>你为猫头鹰工作吗?</text>
+	</string>
+	<string id="jup_b6_scientist_tech_zat_b30_actor_about_owl_1">
+		<text>不.他前些天帮我拿到了一些东西...只是礼尚往来而已.</text>
+	</string>
+	<string id="jup_b6_scientist_tech_zat_b30_actor_bring_detectors_0">
+		<text>猫头鹰让我把探测器带给你.给你.</text>
+	</string>
+	<string id="jup_b6_scientist_tech_zat_b30_actor_bring_detectors_1">
+		<text>很好.我会用它们做一些工作然后和向导一起把它们带给猫头鹰...其它的就是你和猫头鹰之间的私事了.</text>
+	</string>
+	<string id="zat_b7_duty_illicit_dealer_b207_blackmail_0">
+		<text>噢!那么你就是在扎通卖武器给强盗的人!</text>
+	</string>
+	<string id="zat_b7_duty_illicit_dealer_b207_blackmail_1">
+		<text>嘘...在这说那该死的事情,你是不是疯了?我们都不认识对方,你明白吗?</text>
+	</string>
+	<string id="zat_b7_duty_illicit_dealer_b207_blackmail_11">
+		<text>明白了.</text>
+	</string>
+	<string id="zat_b7_duty_illicit_dealer_b207_blackmail_12">
+		<text>如果我把你暗地里做的小生意告诉你的指挥官怎么样?</text>
+	</string>
+	<string id="zat_b7_duty_illicit_dealer_b207_blackmail_121">
+		<text>那么你打算和他说什么呢?你没有我身上的把柄.我的意思是,你是帮助清除目击证人的人之一.你没有证据,你会像一个没有任何证据却要控告我的蠢货.</text>
+	</string>
+	<string id="zat_b7_duty_illicit_dealer_b207_blackmail_with_pda_0">
+		<text>我在死去的雇佣兵尸体上找到了一些PDA.它里面有暗杀我的合约.而你就是委托人.</text>
+	</string>
+	<string id="zat_b7_duty_illicit_dealer_b207_blackmail_with_pda_1">
+		<text>我能完全满足你...听着,把PDA给我,然后我会给你一件纪律团部队的精锐专用的优秀的武器.这样,怎么样?</text>
+	</string>
+	<string id="zat_b7_duty_illicit_dealer_b207_blackmail_with_pda_12">
+		<text>好吧,那把枪我要了.</text>
+	</string>
+	<string id="zat_b7_duty_illicit_dealer_b207_blackmail_with_pda_13">
+		<text>打住.我不需要一个使用卑鄙手段的阴险的人的施舍.</text>
+	</string>
+	<string id="zat_b7_duty_illicit_dealer_b207_blackmail_with_pda_2_0">
+		<text>我有另一个含有暗杀我的合约的PDA.你还是那个委托人.</text>
+	</string>
+	<string id="zat_b7_duty_illicit_dealer_b207_blackmail_with_pda_2_1">
+		<text>该死...可恨的雇佣兵...做什么都不能相信他们...听着,让我们结束这一切...这将是我们要做的.雇佣兵们会停止搜寻你,而你要让我自己一个人待着.为了赔偿你的损失,我会把你带到纪律团秘密仓库,在那里你可以把你能拿走的所有武器都拿走.</text>
+	</string>
+	<string id="zat_b7_duty_illicit_dealer_b207_blackmail_with_pda_2_11">
+		<text>好的,我们行动吧.</text>
+	</string>
+	<string id="zat_b7_duty_illicit_dealer_b207_blackmail_with_pda_2_111">
+		<text>很好,我们在那见.隐藏点在就在露天矿场.</text>
+	</string>
+	<string id="zat_b7_duty_illicit_dealer_b207_blackmail_with_pda_2_12">
+		<text>我哪也不去.你必须就在这里把所有的东西都给我.</text>
+	</string>
+	<string id="zat_b7_duty_illicit_dealer_b207_blackmail_with_pda_2_121">
+		<text>我现在什么东西都没有!我可没有蠢成那样!要么我们在隐藏点见,要么你什么都得不到.</text>
+	</string>
+	<string id="zat_b7_duty_illicit_dealer_b207_blackmail_with_pda_2_1211">
+		<text>不了,谢谢.</text>
+	</string>
+	<string id="zat_b7_duty_illicit_dealer_b207_blackmail_with_pda_2_13">
+		<text>我不需要一个使用卑鄙手段的阴险的人的施舍.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_leave_zone_0">
+		<text>我要离开特异区.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_leave_zone_1">
+		<text>你确定?没有可能再回来了.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_leave_zone_11">
+		<text>我确定,我们走吧.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_guide_leave_zone_12">
+		<text>实际上...我现在会在这待着.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_2">
+		<text>让我们看看...嗯,你的肝脏比我预想的要大,但那可不算是职业病,对吗?除此之外,你像小矮人一样健康.</text>
+	</string>
+	<string id="jup_b1_stalker_lead_info_1116141">
+		<text>如果不发热的话,它大概是正常的.它真是个可怕的东西,就像现在这样.去看看你自己吧...尽管我怀疑你会不会享受这一趟旅程.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b4_monolith_squad_dialog_1112">
+		<text>好吧,尊重你的选择.</text>
+	</string>
+	<string id="jup_a6_duty_leader_b4_monolith_squad_dialog_2">
+		<text>"曾经的"黑石组织的战士?嗯,那只是你的想法...你能为他们担保吗?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b4_monolith_squad_dialog_2">
+		<text>"曾经的"黑石组织的战士?不,谢谢.我最不需要的就是狂热的暴徒.</text>
+	</string>
+	<string id="jup_a12_bandit_chief_actor_self_dialog_2">
+		<text>哈.好孩子.照顾好自己,而且那意味着你知道你不需要我出手.那么你为我带来什么了?一个神器还是15000大洋?</text>
+	</string>
+	<string id="jup_a12_bandit_chief_actor_self_dialog_14">
+		<text>我带来了一个神器.</text>
+	</string>
+	<string id="jup_a12_bandit_chief_actor_self_dialog_141">
+		<text>不错,哪一个?</text>
+	</string>
+	<string id="jup_a12_bandit_chief_actor_self_dialog_15">
+		<text>我没有那么值钱的神器.</text>
+	</string>
+	<string id="jup_a12_bandit_chief_actor_self_dialog_1411">
+		<text>火焰神器.</text>
+	</string>
+	<string id="jup_a12_bandit_chief_actor_self_dialog_1412">
+		<text>金鱼神器.</text>
+	</string>
+	<string id="jup_a12_bandit_chief_actor_self_dialog_1413">
+		<text>萤火虫神器.</text>
+	</string>
+	<string id="jup_a12_bandit_chief_actor_self_dialog_1414">
+		<text>雪花神器.</text>
+	</string>
+	<string id="jup_a12_bandit_chief_actor_self_dialog_1415">
+		<text>唔...现在,还没有.</text>
+	</string>
+	<string id="jup_a12_bandit_chief_actor_self_dialog_151">
+		<text>好吧,我已经把我要说的都说出来了.现在我要听你说了.</text>
+	</string>
+	<string id="jup_b19_freedom_yar_break_dialog_0">
+		<text>再见.</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_4">
+		<text>当然!那个间歇性的PSY辐射区仍然需要研究,而且不久后,更加需要.我问你,你有多肯定你的冒险会相对安全?我们绝对需要你帮助我们得到实验样本.那么,你愿意帮助科学界吗?</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_employ_stalkers_0">
+		<text>或许我可以找几个优秀的人加入你的新研究小组.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_employ_stalkers_1">
+		<text>真的吗?这种帮助是最受欢迎的而且,我想,保证有报酬的.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_employ_stalkers_11">
+		<text>好的.我会雇佣适合的人.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_employ_stalkers_12">
+		<text>我再考虑一会.</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_complete_14">
+		<text>拿着.我在那个隧道里发现了一只脑波怪.然后我杀了它.</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_complete_141">
+		<text>你太令人惊异了!你杀了脑波怪而且拿到了我们需要的...如果我不是从其它地方知道了的话,我绝对不会相信你!这真是杰出的、出色的范例.你对科学的贡献才是真正值得注意的.为了我个人和所有的科学家的利益,请接受我真挚的感谢!</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_complete_15">
+		<text>拿着.我在那个隧道里发现了一只脑波怪.我仅仅能把它认出来.</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_complete_151">
+		<text>你是说,一只脑波怪?多么可怕,但是谁知道呢?重要的是你把样本带给我们因而为科学作出了贡献.谢谢你,请拿上这些你应得的报酬.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_employ_stalkers_done_0">
+		<text>你觉得你的新研究小组怎么样?</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_employ_stalkers_done_1">
+		<text>哦,还好.我必须说,是有能力的年轻人.请拿上这个.我们感激你的,呃,人力资源.</text>
+	</string>
+	<string id="jup_b15_zulus_about_dialog_31">
+		<text>什么事,伙计?显然,我很高兴见到你,但是我也不介意自己一个人待会.</text>
+	</string>
+	<string id="jup_a12_bandit_chief_actor_self_dialog_0">
+		<text>我来这是为了被俘的潜行者的事情.我想把他赎出来.</text>
+	</string>
+	<string id="jup_a12_bandit_chief_actor_self_dialog_1">
+		<text>而且我想要向强盗们和我们的条例表示尊重,老兄,但是我对不必要的麻烦可不感兴趣...现在15000或者一个适当的神器才有效...我是一个公正的人——我不会拿不是我应得的东西.</text>
+	</string>
+	<string id="jup_a12_bandit_chief_actor_self_dialog_11">
+		<text>给你钱.</text>
+	</string>
+	<string id="jup_a12_bandit_chief_actor_self_dialog_111">
+		<text>好吧...我尊重你的所作所为.带上这个失败者并且告诉潜行者们,下次的价格要更高.</text>
+	</string>
+	<string id="jup_a12_bandit_chief_actor_self_dialog_12">
+		<text>我现在没有那么多.</text>
+	</string>
+	<string id="jup_a12_bandit_chief_actor_self_dialog_121">
+		<text>好吧,你没有,那有什么新鲜的?</text>
+	</string>
+	<string id="jup_a12_bandit_chief_actor_self_dialog_13">
+		<text>我现在没有合适的东西——我稍后会回来的.</text>
+	</string>
+	<string id="jup_a6_duty_leader_a9_sell_info_1">
+		<text>让我们看看...好吧,这里没什么至关重要的东西,但是迟早有用.我以每个文件500的价格买下它们.成交?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b207_hiding_place_3">
+		<text>让我们看看.上帝...这个消息会损害纪律团的名声...很严重!我要花4000买下它.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_about_halfartefact_zat_b14_111">
+		<text>有意思.好吧,我准备花2000从你手上购买它.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_about_halfartefact_zat_b14_2">
+		<text>好的,但是价格和以前一样:2000.</text>
+	</string>
+	<string id="jup_b202_snag_b202_about_stole_114">
+		<text>好的,再见.</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_1111121">
+		<text>但是那太可怕了!究竟他们发生什么事了?唔...可能是变异怪物.我得问问奥泽斯基它可能是哪种变异生物...唔.尽管如此,我们还是得研究PSY辐射区.总的来说,这个项目对科学研究,尤其对我们团队来说,至关重要.我们急切地希望你能帮忙获取一个样本.如果你有疑问,去找奥泽斯基.他将进行必要的分析,来确认你目前对PSY辐射的抗性.那么,你愿意协助这项科研工作吗?</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_11111112">
+		<text>我会考虑的.</text>
+	</string>
+	<string id="jup_b6_scientist_physicist_b1_variable_psi_emission_dialog_111">
+		<text>我们那支由本地潜行者组成的研究小队,最近发现了一个很不寻常的PSY辐射区.根据我们的理论和测量结果,这个地区具有间歇性的PSY效应,而不是永久的作用.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_113">
+		<text>很不幸,我们的研究小队完蛋了,我们没法进行任何测量了,除非我们找到人接替他们.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_b32_investigation_anomaly_0">
+		<text>请稍等...你能听我说一句么?</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_results_0">
+		<text>变异区的扫描结果怎么样?</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_jupiter_products_0">
+		<text>我能帮你什么吗?</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_legend_11">
+		<text>我听说过它.</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_legend_111">
+		<text>不幸的是,我至今没能说服赫尔曼派遣研究小队...我承认,关于这个现象的谣言很多都相互矛盾,但冥冥之中我就是相信世上有绿洲的存在.我的直觉向来很准的,如果你能找到它,并把它存在的证据带回来,我将非常感谢.</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_legend_1113">
+		<text>我会去找它的,不过我已经去过绿洲了.</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_legend_11131">
+		<text>嗯...呃...我想我听错了.你刚才说啥?</text>
+	</string>
+	<string id="jup_a10_stalkers_dialog_debt_0">
+		<text>我来替瓦诺还债.</text>
+	</string>
+	<string id="jup_a10_stalkers_dialog_debt_1">
+		<text>对,我记得他.他欠了不少钱,本利一加,有7000了.</text>
+	</string>
+	<string id="jup_a10_stalkers_dialog_debt_1111">
+		<text>好吧,给.</text>
+	</string>
+	<string id="jup_a10_stalkers_dialog_debt_11111">
+		<text>带话给瓦诺,我们两清了.</text>
+	</string>
+	<string id="jup_a10_stalkers_dialog_debt_111111">
+		<text>好吧.</text>
+	</string>
+	<string id="jup_a10_stalkers_dialog_debt_1112">
+		<text>我没那么多钱.</text>
+	</string>
+	<string id="jup_a10_stalkers_dialog_debt_11121">
+		<text>下次你带足钱再来.</text>
+	</string>
+	<string id="jup_a10_stalkers_dialog_debt_1113">
+		<text>利息可不是这交易的一部分.</text>
+	</string>
+	<string id="jup_a10_stalkers_dialog_debt_11131">
+		<text>你瞎说啥呢?放贷不收利?你以为我傻啊?就收7000没商量.</text>
+	</string>
+	<string id="jup_a10_stalkers_dialog_debt_1114">
+		<text>你再好好想想.我带着枪呢,我可不介意用它...你说,你的尸体要这么多利息有什么用呢?</text>
+	</string>
+	<string id="jup_a10_stalkers_dialog_debt_11141">
+		<text>好吧,好吧,大哥,冷静!我想我们能达成共识的.只给5000,他的债就清了.</text>
+	</string>
+	<string id="jup_a10_stalkers_dialog_debt_11142">
+		<text>哈...那种发射小石子的玩具你还是留着自己玩吧,兄弟!本利一共7000没商量.</text>
+	</string>
+	<string id="jup_a10_stalkers_dialog_debt_1115">
+		<text>你忘了我吗?我可还是拿着枪的呢!</text>
+	</string>
+	<string id="jup_a10_stalkers_dialog_debt_1116">
+		<text>我可以免费干掉你.</text>
+	</string>
+	<string id="jup_a10_stalkers_dialog_debt_1117">
+		<text>我会考虑的.</text>
+	</string>
+	<string id="jup_a10_stalkers_dialog_debt_2">
+		<text>7000,包括利息.</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_come_with_me_1">
+		<text>我现在还不想出去做大事.我得让生活回到正轨...你瞧,我也许还会回家...找个合适的工作然后把神器的事忘得一干二净...我只是不知道我离开灰熊和托巴还怎么活...我们现在很亲密,总是互相帮助...我不知道,也许我需要的只是休息一下,理清头绪...</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_come_with_me_2">
+		<text>我现在还不想出去做大事.我打算去给科学家们打工,让生活回到正轨...你瞧,我也许还会回家...在外面找份工作...啊,我不知道.我得冷静下来,理理头绪...</text>
+	</string>
+	<string id="jup_a12_stalkers_choose_dialog_14">
+		<text>就是说,你准备好去救米泰了?我希望你不介意跟我雇来的那些家伙们一块儿去...</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b207_hiding_place_0">
+		<text>我手上有纪律团商人莫甘的PDA.你感兴趣吗?</text>
+	</string>
+	<string id="jup_a6_duty_leader_b207_merc_pda_0">
+		<text>我手上有个PDA,它能证明莫甘与雇佣兵之间有瓜葛.</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_give_artefact_12">
+		<text>事实上...我要自己留着.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_11211">
+		<text>我就知道,最终你的内心里还是有着推进科学,服务世界的渴望的!好的,计划是这样的.一支潜行者研究小队会前去测量.你的任务是护送他们,也就是保护他们,并引导他们通过险要的地形.祝你好运!潜行者们在外面等你.</text>
+	</string>
+	<string id="jup_b19_freedom_yar_pripyat_start_11">
+		<text>你好,潜行者.在这儿看到个老头,觉得很奇怪?呵呵.我和男孩儿们来这儿换换风景.我修理些东西,有时,也包括人...</text>
+	</string>
+	<string id="jup_b19_freedom_yar_pripyat_start_12">
+		<text>既然你在这儿,我能帮你做点什么?</text>
+	</string>
+	<string id="jup_b19_freedom_yar_pripyat_about_0">
+		<text>你怎么去的普里皮亚特?</text>
+	</string>
+	<string id="jup_b19_freedom_yar_pripyat_about_1">
+		<text>加里为我指点了路线.那帮潜行者家伙们早就想来这儿了,不过他们可不喜欢跟军队打交道.一听加里说军队飞走了,我就再也不必多想了.别怕,雅大叔来了!哈!</text>
+	</string>
+	<string id="jup_b19_freedom_yar_pripyat_healing_0">
+		<text>我需要医疗救助.</text>
+	</string>
+	<string id="jup_b19_freedom_yar_pripyat_healing_1">
+		<text>让我老人家看一下...</text>
+	</string>
+	<string id="jup_b19_freedom_yar_pripyat_healing_111">
+		<text>好了,你会活下去的.如果你身上有肿胀,只管划破它——我听说那管用.</text>
+	</string>
+	<string id="jup_b19_freedom_yar_pripyat_healing_2">
+		<text>你看上去很健康!你一定是在跟一个老人家开玩笑,哈...</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_start_dialog_11">
+		<text>欢迎光临我这充满欢乐的寒舍.你是来寻欢,还是找乐,或者两者兼而有之?</text>
+	</string>
+	<string id="jup_a12_bandit_payment_dialog_1111">
+		<text>嘿,知道吗,孩子们总说我太仁慈了,像个教父,而你应该为此感到庆幸...我下次就不会这么仁慈了.现在,哥屋恩——滚!</text>
+	</string>
+	<string id="jup_a10_vano_give_duty_111113">
+		<text>我去过那儿了.那伙强盗完蛋了.</text>
+	</string>
+	<string id="jup_a10_vano_give_duty_1111131">
+		<text>哇,你真够哥们的!太谢谢你了!给,拿好这些钱——本来打算用它们还债的,现在是时候把它们交给正真应得的人了.</text>
+	</string>
+	<string id="jup_a10_vano_back_1_1">
+		<text>哇,你真够哥们的!太谢谢你了!拿好这些本来还债用的钱.现在是时候把它们交给应得的人了.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_results_1">
+		<text>我们的扫描仪曾记录到北方的反常活动...根据收到的数据判断,我料想那里的变异构造不稳定.不过,我也就知道这么多了.我们需要研究那块区域...我唯一能说的是,普通的潜行者探测器探测不到变异区——你需要一个斯瓦罗格,我们的自主发明之一.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_results_2">
+		<text>扫描仪持续记录到北方有不稳定的变异点活动.如果你有比普通潜行者探测器更好一点的探测器,比如说斯瓦罗格,你就能试着去那里做些研究.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_complete_1">
+		<text>至今只收到了来自沼泽地变异点的结果.尽管如此,诺维科夫已经从中开发出了一个实际应用.感谢你的工作,我们正期待着第二批结果.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_complete_2">
+		<text>至今只收到了来自科帕奇废墟处变异点的结果.尽管如此,诺维科夫已经从中开发出了一个实际应用.感谢你的工作,我们正期待着第二批结果.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_scan_anomaly_complete_3">
+		<text>当然.我得到了充足的结果.老实说,生成的数据量非常大,即使用不到几个月,我们也得花好几个星期的时间来完全处理它.尽管如此,诺维科夫还是从中开发出了一些实际的应用.非常感谢你的帮助!</text>
+	</string>
+	<string id="jup_a6_stalker_medik_tech_b202_about_stole_1">
+		<text>不,这里没发生过那种事.嗯...尽管如此,我时常看到可疑的人.我有次出去散步,回来路上看到个潜行者正离开亚诺夫.他一发现我,他就无缘无故地变得很粗鲁,说些"我知道你住哪儿"之类的屁话.我当时没把他放在眼里.因为我想他可能喝醉了.不过现在想来,这事很蹊跷.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_tech_b202_about_stole_11">
+		<text>他去了哪儿?</text>
+	</string>
+	<string id="jup_a6_stalker_medik_tech_b202_about_stole_111">
+		<text>东北.我听到那边有枪声——我们早习惯了.问问祖鲁——他住在塔上,应该能看到那儿发生了什么.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_tech_b202_about_stole_112">
+		<text>东北.他可能是去了变电站.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_tech_b202_about_stole_13">
+		<text>我知道了.</text>
+	</string>
+	<string id="jup_a10_vano_help_dialog_15">
+		<text>怎么了,兄弟?</text>
+	</string>
+	<string id="jup_a10_stalker_vano_pripyat_how_are_you_0">
+		<text>你好吗?</text>
+	</string>
+	<string id="jup_a10_stalker_vano_pripyat_how_are_you_1">
+		<text>我很好.我是说,尽管不容易,但是我们会在这儿闯出一片天地.我们在一起,做什么事情都能成!</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_pripyat_how_are_you_0">
+		<text>你好吗?</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_pripyat_how_are_you_1">
+		<text>我不知道...我不喜欢这儿.我感觉我应该搬个家.也许我就快走了...别劝我.</text>
+	</string>
+	<string id="jup_b220_trapper_bloodsucker_lair_hunted_0">
+		<text>我捣毁了扎通的吸血怪巢穴.一网打尽.</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_free_actor_dialog_11">
+		<text>[继续...]</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_11">
+		<text>[继续...]</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_contract_11">
+		<text>[继续...]</text>
+	</string>
+	<string id="jup_b19_freedom_yar_pripyat_healing_11">
+		<text>[继续...]</text>
+	</string>
+	<string id="jup_a6_duty_leader_employ_stalkers_12">
+		<text>我需要人去变异区测量数据.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_employ_stalkers_12">
+		<text>我需要测量变异区的数据.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_drunk_0">
+		<text>那个睡美人是谁?</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_artefacts_1">
+		<text>你找到了神器?</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_bunker_boredom_1">
+		<text>一点儿没错!这里无所事事——这块西洋双陆棋就是我们所有的娱乐了.这里不是普里皮亚特...兄弟,但愿我能完成这份该死的合同,那就是我要做的!</text>
+	</string>
+	<string id="jup_b217_stalker_tech_main_info_2">
+		<text>[继续...]</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b106_info_about_soroka_1112">
+		<text>你可以去露天矿场——瘦子就是在那儿死的.临死前,他告诉我打火石偷走了他的战利品,还把他一个人丢在变异区里等死.</text>
+	</string>
+	<string id="jup_b25_flint_accuse_1111">
+		<text>他叫瘦子.他进入了一个毒气变异点而你却拿了他的神器一走了之.如你所见,他临死前把一切都告诉我了.</text>
+	</string>
+	<string id="jup_a6_duty_leader_b207_hiding_place_2">
+		<text>我不打算问你从哪儿搞来这票东西的.让我们开门见山:我出4000买你的PDA.我一直想知道我们的供货员下班时都在干些什么...</text>
+	</string>
+	<string id="jup_a6_duty_leader_b207_hiding_place_211">
+		<text>让我看看...哇奥!他不仅卖掉了我们的武器,还把仓库转让给自由团了?!!该死,我们得马上集结一支"友好的迎宾队".</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b207_hiding_place_211">
+		<text>让我看看...我简直不敢相信!我们知道那个仓库,我们甚至还打算去一趟,但我们没有关于那个警报系统的丝毫线索,因为那个卑鄙小人一字未提.等着,我去提醒一下我的人.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_b207_hiding_place_2">
+		<text>纯粹出于好奇,我出价4000.</text>
+	</string>
+	<string id="jup_b15_zulus_group_soldier_about_1">
+		<text>他绝对不是突击队员,不过他的枪还算耍得不赖.然而他总是一脸酸相,就好像他只吃柠檬.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_bubble_0">
+		<text>我在冷却塔发现个奇怪的变异区.</text>
+	</string>
+</string_table>

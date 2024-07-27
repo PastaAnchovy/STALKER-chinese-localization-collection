@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="speech_attack">
+		<text>所有人,进攻!</text>
+	</string>
+	<string id="speech_covermeartifact">
+		<text>我正冲向神器!掩护我!</text>
+	</string>
+	<string id="speech_followme">
+		<text>跟着我!</text>
+	</string>
+	<string id="speech_guardartifact">
+		<text>从现在开始守卫这个神器.别把它弄丢了!</text>
+	</string>
+	<string id="speech_holdingpos">
+		<text>我正在坚守我的阵地!</text>
+	</string>
+	<string id="speech_holdpos">
+		<text>守住你的阵地!</text>
+	</string>
+	<string id="speech_icoverartifact">
+		<text>去拿神器!我掩护你!</text>
+	</string>
+	<string id="speech_needhelp">
+		<text>我需要帮助!</text>
+	</string>
+	<string id="speech_needmoney">
+		<text>没钱——给我买装备!</text>
+	</string>
+	<string id="speech_no">
+		<text>不.</text>
+	</string>
+	<string id="speech_noenemy">
+		<text>四下没人!</text>
+	</string>
+	<string id="speech_report">
+		<text>报告情况,现在!</text>
+	</string>
+	<string id="speech_retreat">
+		<text>撤退!</text>
+	</string>
+	<string id="speech_returntheartefact">
+		<text>归还神器!</text>
+	</string>
+	<string id="speech_roger">
+		<text>收到.</text>
+	</string>
+	<string id="speech_silence">
+		<text>闭嘴!</text>
+	</string>
+	<string id="speech_sticktogether">
+		<text>全体集合.</text>
+	</string>
+	<string id="speech_takeartifact">
+		<text>拿上神器!</text>
+	</string>
+</string_table>

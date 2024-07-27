@@ -1,0 +1,977 @@
+﻿<string_table>
+	<string id="about_quests_dialog_bandit_0">
+		<text>听着,我有一个问题...</text>
+	</string>
+	<string id="about_quests_dialog_bandit_1">
+		<text>说吧.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_10">
+		<text>你觉得机灵鬼这个人怎么样?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_101">
+		<text>机灵鬼?我认为最近,我们可能会在一个安静的地方教训那个狡猾的混球!</text>
+	</string>
+	<string id="about_quests_dialog_bandit_11">
+		<text>听说过关于绿洲的事情么?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_111">
+		<text>嗯,有一件有趣的事.大致上是说,住在垃圾场的一伙人先是散布了一个关于绿洲所在之处的谣言,并且添油加醋让人信服.然后,他们就到那个地方埋伏了起来.我还能怎么说呢?那些轻易就被骗的蠢货们如期而至将自己的家当双手奉上,得手后那伙人就离开了特异区.话说回来,这样有什么不对呢?为生存,盗亦有道.他们中只有一个人没有离开,有人叫他尤加...</text>
+	</string>
+	<string id="about_quests_dialog_bandit_112">
+		<text>如果你到了那,你所有的问题都会迎刃而解...我觉得那地方真是方便极了——再也不必担心宿醉和痔疮的困扰了!找到它,建个度假村然后就等着看金山堆银山吧.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_113">
+		<text>为什么我非得留在这里听那些扯淡?那些都只不过是失败者们的传说...真正懂行的人不会相信这种鬼话.你看,你只不过手里握了一杯冷饮在酒吧里吹牛,而潜行者们却在为这些传闻拿着枪奔波,激烈争论绿洲究竟在何方.并且他们中的每一个都叫嚣自己知道确切的位置,虽然因为某些原因每个人所说的位置都不一样.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_12">
+		<text>见过一个叫喜鹊的独行者么?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_121">
+		<text>当然见过...第一眼看到他我就知道他绝对是一个容易上当的家伙,此外听其他潜行者说他还是个人渣.但是我不知道他现在在哪...如果你在找他,你不得不靠你自己了.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_122">
+		<text>没有...我头一次听到这名字,老兄.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_13">
+		<text>你知道谁可能会偷私人物品箱里的东西吗?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_131">
+		<text>一只大老鼠.我想你最好问问在亚诺瓦的老大们,因为他们对于捉老鼠最在行了.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_14">
+		<text>这附近有谁能帮我解密一些东西?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_141">
+		<text>我听说在亚诺夫的尼特罗还不赖.显然,在他还没为纪律团工作的时候,一些人曾几次找他侵入过某些潜行者的PDA...啊,那让人怀念的旧日时光...</text>
+	</string>
+	<string id="about_quests_dialog_bandit_143">
+		<text>不要以为我什么都会,老兄.你需要的是一个该死的黑客.我以前也当过,当时我是去救一个被困的人,那是我为唯一一次干那个.最后他终于被我弄了出来,付完钱以后,他身上大概就只剩五块钱了...</text>
+	</string>
+	<string id="about_quests_dialog_bandit_15">
+		<text>我有纪律团商人的PDA.你知道谁会有兴趣?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_151">
+		<text>在斯卡多夫斯克号上有个叫猫头鹰的商人.时而会有人卖给他潜行者的PDA,他会给个好价钱.他也从不多管闲事,这对大家都好.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_152">
+		<text>几乎任何人,老兄.想象一下:纪律团肯定会活埋了拿PDA的那家伙,其他势力也会闻声而动,但只有扎通的猫头鹰会使PDA真正消失的无影无踪.只有一件事要注意,之后就只有猫头鹰知道这些PDA的下落...你看着办吧.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_16">
+		<text>这附近我能在哪找到一些工具?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_165">
+		<text>如果你要找治疗用具可以去医院或急救站看看.如果是建筑工具,那去朱皮特的采石场碰碰运气吧.如果是一些小玩意儿,就去老车间找找.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_166">
+		<text>我怎么知道?工具可不能说服潜行者把东西交出来,你知道应该像这样才行...放松,只是开个玩笑.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_17">
+		<text>有谁可以为存储模块解锁吗?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_171">
+		<text>问得好!我是说我就是这方面的行家,满意了吗?哈!你傻了么,伙计?干那活的不是技师就是科学家...你不会真的指望我会搞那种高科技吧?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_172">
+		<text>老实告诉你:上次解锁存储模块还是我上学的时候,而那个存储模块只不过是一张软盘.去找那些专家们谈谈吧,别忘了告诉他们我的事让他们威严扫地.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_18">
+		<text>有谁可以打开钢制保险箱?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_181">
+		<text>认识斯卡多夫斯克号上的卡丹吗?那家伙曾花了几天用铁撬在那破船上搞了个洞.如果你真的需要撬开什么的话,我想卡丹可以用他的铁撬干些更有用的事.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_182">
+		<text>如果有合适的工具连我都可以,但谁会拖着那些设备来特异区呢?问问那些科学家吧,老兄——那是他们的拿手好戏.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_19">
+		<text>我在找一个叫斯纳戈的独行者.知道在哪能找到他吗?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_191">
+		<text>谁知道?问问斯卡多夫斯克号上的苏丹,老板都知道他的手下在哪.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_193">
+		<text>嘿,我听说过那家伙.他通常在扎通活动,在这附近你找不到他.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_2">
+		<text>你知道关于直升机坠毁的事么?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_20">
+		<text>谁会对有关纪律团创始人的信息感兴趣?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_201">
+		<text>我不知道谁会对它不感兴趣!那可是爆炸性新闻啊,老兄,所以你最好的选择是去斯卡多夫斯克号上找猫头鹰——这样你得到才会是钱而不是敌人.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_22">
+		<text>不.想想看,我左边是纪律团,右边是自由团,屁股后面还顶着独行者——而你还要叫我眼睛朝天看?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_23">
+		<text>一些家伙说注意到某个东西在铁森林的电缆上晃来晃去,但想知道更多你就得亲自到那...但在到那之前你一定会碰到变异点,或者被吵闹鬼敲碎脑壳.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_24">
+		<text>是的.一些人看到有一架就坠毁在高地上,但问题是根本没有办法到那附近...他们说那东西的飞行轨迹很奇怪,就像是飞行员磕了药一样.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_26">
+		<text>我听说直升机落下正好栽进了沼泽中.直升机很快就搁浅了而沼泽的水也会对健康产生严重不良影响——剧毒,化学污染和屎.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_3">
+		<text>在附近见到过军队的人吗?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_30">
+		<text>谁会对扎通和朱皮特之间地区的地图感兴趣?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_301">
+		<text>我估计领航员会的,他是那一地区的主要向导.有张地图对他来说总好过用星星来推测方位...就像他现在这样.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_31">
+		<text>我的弟兄说军方的一个小队径直冲向了南部的高地,那里是佣兵团驻扎的地方.他们预计一场恶战在所难免,所以事先都匆忙离开了.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_32">
+		<text>我听说那些大兵们想从坠毁在沼泽的直升机里捞点破烂出来.想象一下,五个穿着迷彩服的士兵在沼泽里跳来跳去,还要尽量避免被弄湿的样子...</text>
+	</string>
+	<string id="about_quests_dialog_bandit_33">
+		<text>有个家伙和我说过他尾随一个潜行者,想要从他那里弄点货色,然后他听到了枪声.结果发现是军队和佣兵团之间的战斗.因此他只能藏起来静静等待枪声消停,藉此那个潜行者也跟丢了.真是时运不济,不是吗?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_34">
+		<text>一个弟兄告诉我他目击到滑稽的一幕.想象一下一艘顶上装着风车的驳船,而诺亚就在旁边哇啦哇啦说个不停,保持着战斗姿势,附近还有十个想要尽可能远离诺亚小狗的兵蛋子.当然,我的兄弟只顾着自己高兴,而没有任何插手这一场好戏的意思.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_35">
+		<text>不,这真是个危险的地方,到处都是提着大枪的家伙...我甚至没有时间去搞清楚哪些是军队哪些是纪律团.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_4">
+		<text>你知道怎么到达普里皮亚特吗?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_40">
+		<text>我能雇谁保护那些科学家?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_403">
+		<text>哈,我和我的弟兄就可以!我们会以他们前所未见的方式保护他们!潜行者和变异怪物都会退避三舍,相信我!每周按时奉薪,我们就是你的人了.还有,别忘了圣诞礼物!</text>
+	</string>
+	<string id="about_quests_dialog_bandit_41">
+		<text>走着去,老兄.到朱皮特再提你的问题,因为从扎通到普里皮亚特没有直接路线,这是个公认的事实.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_43">
+		<text>嘿,伙计,我看起来像个向导吗?或者说,我头上是不是写着"有蠢问题请问我"什么的?去问领航员,他靠回答那些狗屎问题过活.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_44">
+		<text>不...你指望我在那里干什么?那里又没有潜行者给我干!</text>
+	</string>
+	<string id="about_quests_dialog_bandit_5">
+		<text>能给我推荐一个愿意前往普里皮亚特的人吗?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_51">
+		<text>普里皮亚特可没有我们的容身之处.想想吧,到处都是突变怪物和变异点...就像特异区的其他地方...只不过没有潜行者和他们的战利品.如果潜行者出现在普利皮亚季,记得叫我们一声,我们会过去维护一下自然的平衡.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_57">
+		<text>不清楚,哥们.抱歉.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_6">
+		<text>我找到一把不同寻常的枪.谁会对这玩意儿比较了解?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_62">
+		<text>我会去问问技师们.我是说,那种差事属于他们的业务范围,不是吗?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_63">
+		<text>问倒我了,但斯卡多夫斯克号上的独行者们相信卡丹是个技术宅之类的牛人.你愿意的话就去找他...要我说,他不过是个死醉鬼...</text>
+	</string>
+	<string id="about_quests_dialog_bandit_7">
+		<text>我能雇谁为科学家进行测量工作?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_73">
+		<text>很简单——我的弟兄们都行.我是说,虽然他们是没在学校受过教育什么的,但无论是其中的谁都能出色的完成测量工作.一旦他们取得测量结果,他们会怀着一种死不足惜的精神誓死守护,什么对手都不在话下!</text>
+	</string>
+	<string id="about_quests_dialog_bandit_8">
+		<text>我发现了一个很特别的神器,能找个买家吗?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_81">
+		<text>很特别?让我们来一起看看...拿过来一点,让我看的仔细一点...哈,放松,伙计——我只是开个玩笑,不过如果我是你,我不会随随便便把它拿出来.别人可不会像我这么幽默.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_83">
+		<text>拿着那种神器四处晃,你可真有种.佩服.事实上:在斯卡多夫斯克号上有个大胡子叫人四处找这类玩意儿.没人知道他是怎么把神器弄出特异区的,但是你应该可以为这东西找到个好买主,没问题.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_9">
+		<text>我在附近发现了一个吸血怪巢穴.要不要采取什么行动?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_91">
+		<text>呃,我们去那能干什么?逃命吧,还能干什么!</text>
+	</string>
+	<string id="about_quests_dialog_bandit_98">
+		<text>好的,忘掉它.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_0">
+		<text>听着,我有个问题问你...</text>
+	</string>
+	<string id="about_quests_dialog_dolg_1">
+		<text>问吧.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_10">
+		<text>你觉得机灵鬼这个人怎么样?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_101">
+		<text>机灵鬼?从来没听说过.也许他是其他小队的吧?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_11">
+		<text>听说过绿洲那的事情么?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_111">
+		<text>那都是潜行者们的童话.潜行者是这么做的:先编造一堆鬼才信的屁话,然后聚集起来一起去寻找!如果我是你,我会选择忽略那种事情.这就好像是在说:如果你相信它,那么你就等于相信神灯的存在.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_112">
+		<text>啊,那个伤口会自己愈合,让你感觉力量魔法般地从体内涌出的地方?我有消息告诉你,我的朋友:这个地方不存在.这是潜行者编出来的鬼话,来让特异区听起来不那么危险,但是残酷的事实是,在特异区里根本没有安全的地方.另外,你最好牢牢记着这个事实,伙计——爱做白日梦的人在特异区里挂得特别快.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_113">
+		<text>是的,在那里贵重如金的神器装在白银碟子里呈现在你面前,让你看得两腿酥软...我当然是在开玩笑.我非常怀疑它的存在,不过如果真的有的话就太棒了.我们甚至可以在那设立一所无需医生的医院——弟兄们在那躺着就会被治愈...该死,这是什么白日梦啊.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_12">
+		<text>见过一个叫喜鹊的独行者吗?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_121">
+		<text>我努力记住了纪律团里的每一个人,但是你却偏偏问我关于独行者的事情?他们在斯卡多夫斯克号上有自己的基地——去那.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_122">
+		<text>不,没有.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_13">
+		<text>你知道谁可能会偷私人物品箱里的东西?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_131">
+		<text>这就对了!纪律团里可没人会做这种事情,但这地方到处是自由团的小流氓——是我的话首先会想到他们.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_14">
+		<text>这附近有谁能帮我解密一些东西?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_141">
+		<text>亚诺夫有个叫尼特罗的技术员.他精通电子学.有次我忘了自己PDA的密码,他只花了5秒钟就破解了我的PDA!</text>
+	</string>
+	<string id="about_quests_dialog_dolg_143">
+		<text>你应该去亚诺夫找尼特罗,他对这种东西在行.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_15">
+		<text>我有纪律团商人的PDA.你觉得谁会有兴趣?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_151">
+		<text>纪律团商人?这不可能!还是那句话,如果你掌握了什么情报,最好交给舒尔加中校让他处理.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_16">
+		<text>这里附近哪里可以找到工具?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_163">
+		<text>这附近就有一座大工厂.当然,那可能早被洗劫一空了,但如果我是你,我还是会去工厂的仓库碰碰运气.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_165">
+		<text>如果我是你我会去老车间看看.也许商店里也有你要的东西.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_166">
+		<text>这附近只有变异点和变异怪物.哈!我是不会把头伸进变异点里去找的,小矮人和脑波怪可不会把你从那里救出来.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_169">
+		<text>实际上,附近的大桥下有一列火车.我以前也见过——它们本来是用于运送科学家的,你可以去那看看.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_17">
+		<text>谁会破解存储模块?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_171">
+		<text>尼特罗——他是亚诺夫车站唯一一个懂那个的家伙.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_172">
+		<text>你需要一个技师.尼特罗是亚诺夫附近唯一一个像样的.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_18">
+		<text>有谁可以打开钢制保险箱?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_181">
+		<text>他们说独行者里有个技师可以.他虽然是个醉鬼,但是他知道自己在做什么.去和他谈谈.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_182">
+		<text>哈,你不妨搬着它去一个安全点的地方.可以肯定尼特罗帮不了你...但如果保险箱装的是电子锁,那就另当别论了...</text>
+	</string>
+	<string id="about_quests_dialog_dolg_19">
+		<text>我在找一个叫斯纳戈的独行者.知道在哪能找到他吗?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_191">
+		<text>去问独行者们——他们认识自己人.我可从没听过斯弄哥之类的名字,哦管他到底叫什么呢...</text>
+	</string>
+	<string id="about_quests_dialog_dolg_2">
+		<text>你知道关于直升机坠毁的事么?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_20">
+		<text>谁会对有关纪律团创始人的信息感兴趣?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_201">
+		<text>当然是我们的指挥官了.将你所知的一切告诉舒尔加中校,毫无疑问你会得到纪律团的感谢.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_22">
+		<text>是的,我们的侦察兵看到军方的直升机向朱皮特工厂的备用停机坪降落.侦察兵说他们一直在向直升机打信号让他们改变降落路线,但我猜驾驶员当时一定遇到了其他麻烦.不知道那些军队的家伙最后有没有顺利走出雷区.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_23">
+		<text>这附近不行.我们在这里的行动是受限制的...去问问我们在亚诺夫的弟兄们.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_25">
+		<text>我们的巡逻队报告说一家军方的直升机曾试图迫降到朱皮特工厂.不幸的是,直升机正好冲向屋顶撞进了工厂车间.很可能没有生还者——事故之后巡逻队没有收到任何求救信号.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_3">
+		<text>在附近见到过军队的人吗?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_30">
+		<text>谁会对扎通和朱皮特之间地区的地图感兴趣?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_301">
+		<text>用得上它的人.我是说领航员——他是亚诺夫和斯卡多夫斯克号之间的路线向导,所以这些地图对他肯定有用,我保证.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_31">
+		<text>军队?我在这附近还没见过,不过我们没在这里呆多久.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_35">
+		<text>最近在雷区发现一具士兵的尸体.他可能是闯入此地的直升机上的一员.除去机组人员,机上一共8个人,所以他们一定设法离开了这里,虽然没人知道他们的下落.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_36">
+		<text>有人看到科学家碉堡里有一个军队的家伙,而且他刚到那不久.具体细节就不得而知了.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_37">
+		<text>前些天有人看到一些穿着军队制服的家伙进入了沃尔克霍夫防空基地的一栋建筑.不过那很有可能只是被错看成士兵的僵尸.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_38">
+		<text>独行者在朱皮特工厂附近目击到军方的一个小队.从他们报告的描述看来这是一支特殊部队,他们在一个身份不明的潜行者陪同下向普里皮亚特方向进发.虽然听上去真实可信,但经验告诉我这种情报通常不足为信.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_4">
+		<text>知道怎么到达普里皮亚特吗?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_40">
+		<text>我能雇佣谁保护那些科学家?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_401">
+		<text>没有比纪律团能提供的保护更可靠的了.去找亚诺夫的舒尔加中校,我敢肯定你们一定会达成一致.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_402">
+		<text>这儿没有.科学家们一直在用自由团的人给他们办事,所以我们会离那个地方远远的.与其让我整天听他们将那些蹩脚的笑话还不如让我去死.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_42">
+		<text>目前纪律团没有理由前往普里皮亚特,但我们会不断收集情报.有未经证实的报告指出朱皮特工厂地下有条隧道通往普里皮亚特.要证实它就需要对工厂地区进行彻底搜索.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_43">
+		<text>不知道.如果你想知道那方面的情报,你只需要找个普通向导——我们的侦察兵的活已经够多的了.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_44">
+		<text>我们的侦查兵经常寻找通往普里皮亚特的安全路径,但至今尚未有所进展.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_5">
+		<text>能给我推荐一个愿意前往普里皮亚特的人吗?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_51">
+		<text>纪律团在这片区域的活动受到限制,和我们在亚诺夫的人谈谈.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_52">
+		<text>传言说科学家碉堡中有个军队的家伙.对他来说那也不是一个什么好地方.你看,科学家们通常在那一呆就是十二到十八个月,而且那家伙也不会想要自己独自步行到特异区的边界地带.鉴于这种情况,我打赌他会感兴趣的.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_53">
+		<text>建议你去找那些爱冒险的的家伙问问.比如亚诺夫车站那个叫瓦诺的独行者.他从不在乎自己身处何种危险境地,他值得信赖——那家伙闭着眼睛也能穿过变异区.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_54">
+		<text>你倒是可以在疯人院里找人应聘...不过我知道一个不错的选择——黑石战士.说到他们,最近有人在防空基地周围见到他们的一支小分队,而且他们甚至还知道通往普里皮亚特的道路...嘿,伙计,我希望你别把我的话太当真...</text>
+	</string>
+	<string id="about_quests_dialog_dolg_56">
+		<text>去纪律团找志愿者吧.比如神行客.他至今还没有出过任务,所以我想中校大概会让他与你同行.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_57">
+		<text>无人不知纪律团拥有最优秀的战士...但眼下我们还有别的任务.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_6">
+		<text>我发现了一把不同寻常的枪.谁会对这玩意儿比较了解?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_62">
+		<text>我来看看!那是加农炮!你自己造的还是确实是找来的?我从来没见过这种样子的...去问问技师们吧.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_7">
+		<text>我能雇谁为科学家进行测量工作?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_71">
+		<text>这个问题真是愚蠢透顶——当然是纪律团了.我们的人经验丰富,而且以前我们也和科学家们合作过.去找舒尔加中校——我确信他会派个小队去的.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_72">
+		<text>如果是自由团的人在守卫科学家碉堡,那谁还敢去那里工作?那些所谓的和平主义者大多数时候脑瓜都锈得像石头,会把自己人当作敌人射杀.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_8">
+		<text>我发现了一个奇特的神器,能找个买家吗?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_81">
+		<text>神器都是奇奇怪怪的,我不建议你带着神器这样到处晃.把它交给专家处理,然后就忘了它吧.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_83">
+		<text>去找独行者问问——他们是那方面的专家.问那些从事神器倒卖的人最好.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_9">
+		<text>我在附近发现了一个吸血怪的老巢.要不要采取什么行动?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_91">
+		<text>纪律团小队目前不受理清洁任务,让那个巢呆着吧.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_98">
+		<text>好,忘了它.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_0">
+		<text>听着,我有件事想问你...</text>
+	</string>
+	<string id="about_quests_dialog_freedom_1">
+		<text>说.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_10">
+		<text>你觉得机灵鬼这个人怎么样?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_101">
+		<text>我没怎么听说过他的事...你最好去问独行者,毕竟他是他们中的一员,不是吗?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_11">
+		<text>你有关于绿洲的消息吗?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_111">
+		<text>有一大堆...美丽的传说,要我说的话.沙漠中的宫殿,雾霭中的岛屿,空中的城堡...香格里拉,伊甸园...还有就是绿洲.谁能指责所有追寻自由的人都会有的美梦呢.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_112">
+		<text>嗯...一个独行者给我说过一件有意思的事.我想我一开始就是从他那里知道绿洲的.他说根据传说,在那里,人身上的伤痛都会自己痊愈,精神也会变得平静和放松,仿佛是在隔离于特异区的一方净土.自那以后我再也没见过他...他离开这儿之前我记得他走路有点跛,但他离开的时候走路很正常,而且看上去好像还年轻了许多.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_113">
+		<text>是的,一些独行者给了我一些坐标...整整十组不同的坐标.将它们连接起来的话,就是从焦脑器到切尔诺贝利核电站以及亚诺夫酒吧附近的中心区域.我们有理由相信我们已经身处绿洲之中,所以欢呼享受吧!</text>
+	</string>
+	<string id="about_quests_dialog_freedom_12">
+		<text>听说过一个叫喜鹊的独行者么?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_121">
+		<text>没有.这儿的许多独行者我都不认识.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_122">
+		<text>喜鹊?不认识,不过这是个很酷的名字.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_13">
+		<text>你知道谁可能会偷私人物品箱里的东西?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_131">
+		<text>不知道,我们这里没人会做这种事情.确实有人会趁你不注意的时候偷咬你一口面包或者喝一口你的酒,但绝不会有人无耻到偷东西...</text>
+	</string>
+	<string id="about_quests_dialog_freedom_14">
+		<text>这附近有谁能帮我解密一些东西?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_141">
+		<text>我听说亚诺夫的尼特罗是密码组合与程序运算的死忠狂热者.不过我也不太确定,我从来没和他说过话——他为纪律团工作,所以他一般没时间和独行者扯淡.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_143">
+		<text>我可不是这方面的专家...下次你到亚诺夫的时候,问问我们在那的弟兄—那肯定有人知道.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_15">
+		<text>我有纪律团商人的PDA.你觉得谁会有兴趣?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_151">
+		<text>听上去很有意思!我会把它给我们在亚诺夫的头儿,洛基.他会让那些独行者们知道纪律团招募他们的用心.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_16">
+		<text>这附近哪能找到一些工具?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_163">
+		<text>工厂啊,乡巴佬,还能在哪?这里死气沉沉的,不过仓库里的东西会让你精神一振.那比较安全,而且你肯定能在那找到几把顺手的工具.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_165">
+		<text>问得好,伙计.让我们想想,在特异区外你会去哪找工具?如果你还有点脑子的话,你会去商店买...如果你没有,那你就得去车间找你要的工具和大脑了,对吗?在特异区里也是一样.就是那么简单,潜行者!</text>
+	</string>
+	<string id="about_quests_dialog_freedom_166">
+		<text>工具?听着,伙计,你是在说什么暗语吗?这儿没外人,你明说了吧...哦,你真的是在找工具?那我可以告诉你我不知道.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_169">
+		<text>我听说我们有个兄弟曾进入桥下那列火车寻找工具.但那有个移动闪电...总之,他说那里可不好玩...我干嘛要和你说这些?好了,他说他见过那里有工具,但是他什么也没碰,因为那么做可能会有危险.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_17">
+		<text>有谁可以为存储模块解锁吗?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_171">
+		<text>科学家碉堡里的诺维科夫可以做到.那家伙的手法干净利落而且待人礼貌.还有一个人选是亚诺夫的尼特罗,他是纪律团的门客.他是个烂人,但是他应该可以做到.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_172">
+		<text>我猜你需要一个技术高超的技师.这里的人都是擅长机械方面的,除非你需要把记忆模块装在枪管上,否则我建议你去朱皮特问问.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_18">
+		<text>有谁可以打开钢制保险箱?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_181">
+		<text>在斯卡多夫斯克号上的卡丹应该是个不错的选择.人们说他很清楚自己在做什么,尽管他整日喝的烂醉.他也许能帮你打开这个箱子.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_182">
+		<text>有人会以开保险箱谋生吗?本地的技师尼特罗不干这活.我听说他更多的是侵入别人的电子设备.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_19">
+		<text>我再找一个叫斯纳戈的独行者,知道在哪能找到他吗?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_191">
+		<text>从没听过...如果我是你,我就去找独行者们问问.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_2">
+		<text>关于那架坠毁的直升机,你有什么情报吗?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_20">
+		<text>谁会对有关纪律团创始人的信息感兴趣?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_201">
+		<text>洛基,毫无疑问.他是我们在亚诺夫的首领.即使他不知道这条信息具体有什么用也没关系——最重要的是纪律团的人不会得到它.你能想象凭借这信息他们会衍生出多少鼓吹自己的屁话?光是想想我就头痛了.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_22">
+		<text>你听说了迫降在雷区里的那架直升机的事了?那里是军队的锅盖头们六年前自己用地雷封锁的备用停机坪.有人说这只是一个愚蠢的错误,不过我觉得事情远远没有那么简单.换一个角度:没有人能到达那里干扰他们,所以一旦那些兵崽子完成任务后就能返回直升机那,修好直升机然后安全离开.我很好奇他们的任务到底是什么...</text>
+	</string>
+	<string id="about_quests_dialog_freedom_23">
+		<text>我不是这儿的人,伙计,所以我什么都不知道.去亚诺夫找我们的人——他们会告诉一切你想知道的和你完全想象不到的事情.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_25">
+		<text>是的,我的弟兄们看见一架直升机在天上乱七八糟地飞.着陆的时候糟糕透了——直接撞进了朱皮特厂房的屋顶.他们说飞机撞破了屋顶然后拖着房子里所有的东西掉了下去.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_3">
+		<text>在附近见到过军队的人吗?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_30">
+		<text>谁会对扎通和朱皮特之间地区的地图感兴趣?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_301">
+		<text>当然是领航员了,老兄.他是这一地区主要的独行者向导——如果你要兜售地图,一定要去找他.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_31">
+		<text>冷静点,伙计.这里没有警察,没有锅盖头,更没有该死的军队——你在这里就像在特异区里最安全的地方一样.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_35">
+		<text>没有,但有弟兄告诉我说他们看见一个军队的家伙试图爬过停机坪旁的雷区.我的人认为多一事不如少一事.军方的锅盖头可是群反复无常的人,你永远不知道他们何时会在背后突然袭击你.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_36">
+		<text>我并没有亲眼看见,但有传言说在科学家的碉堡里有个军队的锅盖头.奥泽斯基,就是那个生物学教授,他说那个士兵是从坠毁在工厂的直升机逃出来的...真是风水轮流转,书呆子们养了一个士兵当宠物.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_37">
+		<text>我没有见到过,但是我从独行者那听到一件事.他们说在沃尔克霍夫防空基地附近看见过一个锅盖头.我估计不是个僵尸就是个鬼魂...你觉得呢?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_38">
+		<text>没有.一个弟兄告诉我他看到7个士兵跟着一个独行者经过无线电站向普里皮亚特方向进发.特异区这块地方没有大麻,所以我猜这肯定是痴人说梦话.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_4">
+		<text>知道怎么到达普里皮亚特吗?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_40">
+		<text>我能雇佣谁保护那些科学家?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_401">
+		<text>自由团,换句话说就是我们.我们和科学家一直有合作,为他们提供保护是我们的财路之一.去亚诺夫和我们的老大洛基谈谈——他一定会答应.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_402">
+		<text>我不太肯定,朋友,听说那群软蛋雇了纪律团的小队来为他们工作...我们当然愿意保护科学家,但如果要我们每天都盯着纪律团那便秘的脸那可就不值了.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_42">
+		<text>有人说可以从朱皮特附近到那...我说的是那座工厂,不是哪颗星星...哈!承认吧,这个笑话不算太冷!</text>
+	</string>
+	<string id="about_quests_dialog_freedom_43">
+		<text>你知道,我也不太清楚.没时间去那里...问问营地的领航员怎么样?他是最了解这一地区的独行者.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_44">
+		<text>兄弟,我要是知道早去了.如果能够远离纪律团、军队和所有战斗,那可是很值得的...</text>
+	</string>
+	<string id="about_quests_dialog_freedom_5">
+		<text>能给我推荐一个愿意前往普里皮亚特的人吗?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_51">
+		<text>对不起,朋友,我不认识扎通这里的人...我建议你去亚诺夫问问我的弟兄们.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_52">
+		<text>知道科学家碉堡么?就是科学家们进行科学研究的地方.加里,一个在那的独行者,先是他想前往普里皮亚特,而现在那个在科学家碉堡的锅盖头也有了同样的想法.但加里是个独行侠并以此为傲,所以那个士兵应该就是你要找的人了.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_53">
+		<text>在亚诺夫的瓦诺是个合适的人选.那是个相当和善的家伙,自由团一直想拉他入伙.我猜他不喜欢我们和纪律团之间的争都...或者说任何的争斗.这就是他的人生观,而我们都理解和尊重这种态度!</text>
+	</string>
+	<string id="about_quests_dialog_freedom_54">
+		<text>当然.我的一个弟兄看到一小队人在干涸湖泊附近出没.他们一定对普里皮亚特了如指掌,而且他们不会为任何人卖命.他们亦是如此勇敢无畏,因为他们是黑石组织!</text>
+	</string>
+	<string id="about_quests_dialog_freedom_55">
+		<text>是的.神行客,我们新募军的首领...似乎他对我们的等级制度颇有微词.他的手下适应得很快,不过他似乎并不是那么高兴...直接去和他说吧——我不想见到那个心直口快的家伙...</text>
+	</string>
+	<string id="about_quests_dialog_freedom_57">
+		<text>不,完全不知道.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_6">
+		<text>我发现了一把不同寻常的枪.谁会对这玩意儿比较了解?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_62">
+		<text>你没有刚巧还顺便找到一本使用手册吧?没有?那我就不知道了.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_7">
+		<text>我能雇谁为科学家进行测量工作?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_71">
+		<text>我想我们的人可以完成这项工作.自由团的人都聪明机敏,如果我们遇到难题也会去科学家碉堡询问.我们希望有机会推动科学的发展!去亚诺夫问洛基——我肯定他也会这么说.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_72">
+		<text>我和我的伙计们很乐意效劳,但现在纪律团守卫着科学家碉堡.要进去找科学家已经是一个问题,更何况每天去那种地方对健康无益,我敢打包票.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_8">
+		<text>我发现了一个奇特的神器,能找个买家吗?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_81">
+		<text>你需要找一个收藏家,伙计.在亚诺夫你可找不到,要知道就连一些潜行者到这儿来.你最好去扎通问问,那比其他地方更平静一些.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_83">
+		<text>你认识那个独行者营地的酒保大胡子吗?他收集神器,而且不会讹你太多.人不错,无论你从哪个方面看.我很遗憾他不是我们的人,真的.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_9">
+		<text>我在附近发现了一个吸血怪巢穴.我们要不要采取什么行动?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_91">
+		<text>老兄,你该去警告其他独行者——毕竟他们的主营地在这附近.无可否认特异区的生物很有研究价值,但我更关心的是这里的人.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_98">
+		<text>好,忘掉它.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_0">
+		<text>听着,我有事想要问你...</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_1">
+		<text>问.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_10">
+		<text>你觉得机灵鬼这个人怎么样?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_101">
+		<text>我还不够格...你最好问斯卡多夫斯克号上的老手.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_11">
+		<text>听说过绿洲的事情么?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_111">
+		<text>我知道关于绿洲的一切!它是一个传说,一个神话...每个潜行者都对它抱有不同的认识,而他们中的任何一个都号称知道它真正的位置.遗憾的是这些位置唯一的共同点就是:难找的要命.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_112">
+		<text>他们说在那你的伤口会快速愈合,精力会迅速恢复...有人还说在绿洲没有疾病和伤痛能影响你,就算是辐射也不能!我确切地知道一件事,就是它的所在...想知道吗?他就在特异区的中央!不过你必须保证不告诉任何人,对谁都不能提起半个字!</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_113">
+		<text>我听说那的变异怪物走在路上连看都不会看你一眼.还有人说那有个叫绿洲之心的神器...没有人知道它究竟做什么用,但是可以肯定的是:你绝对不能碰它.每个拿着这件神器的人都会葬身特异区......位置?老弟,人人都知道它就在普里皮亚特的摩天轮下面!我是说,它还能在什么地方?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_12">
+		<text>见过一个叫喜鹊的独行者么?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_121">
+		<text>当然...不过不知道他现在在哪.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_122">
+		<text>嗯...没听说过...</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_13">
+		<text>你知道谁可能会偷私人物品箱里的东西?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_131">
+		<text>嗯?去问问在亚诺夫的老手,他们也许能帮你.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_14">
+		<text>这附近有谁能帮我解密一些东西?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_141">
+		<text>除了亚诺夫的尼特罗还能有谁?他爱死了那些复杂的科技破烂...比他对枪的兴趣浓厚多了.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_143">
+		<text>我认识的人里面没人能干这个.去亚诺瓦问问——那里好像有个这方面的专家什么的.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_15">
+		<text>我有纪律团商人的PDA.你觉得谁会有兴趣?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_151">
+		<text>认识斯卡多夫斯克号上的猫头鹰吗?我想他会很乐意插手这事.他就喜欢卷进敏感的生意...</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_152">
+		<text>在扎通地区的斯卡多夫斯克号上有个叫猫头鹰的家伙.他倒卖各种信息...他也许会对你的PDA感兴趣.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_16">
+		<text>这附近我能在哪找到一些工具?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_161">
+		<text>一个独行者告诉我说他家老爷子在变电站车间一直工作到86岁.他说那里装备齐全,我猜肯定也有工具.估计现在都已经锈成渣了,但还是值得去碰碰运气.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_162">
+		<text>知道山上树林里那座锯木厂么?那一定有工具,除非有人捷足先登.不过我很怀疑有人会去那,你越是靠近那里,越是容易怕得尿裤子,越是想夺路而逃.那甚至比身处辐射还要可怕,我会离那远远的...</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_163">
+		<text>朱皮特工厂就在这里,那里一定有工具.不过是我的话,我可不会想要去接近那间工厂...那地方让我起鸡皮疙瘩.你可以去朱皮特仓库看看,就在工厂边上.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_164">
+		<text>我听说普里皮亚特有好几个地方都能让你找到各种技工需要的垃圾.其中一个应该就是苏维埃百货公司.那里以前几乎是唯一一个卖好东西的地方.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_165">
+		<text>我怎么知道?去老车间或者商店找找,可能会有有用的东西.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_166">
+		<text>老实说,我最后一次见到像样的工具是在封锁线那西德洛维奇的地下室里.当然,在那你得付钱才行,但工具是崭新的而且也不都是那么贵.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_167">
+		<text>你要知道,老兄,我可不是为了找工具才来特异区的.想想看,一个带有放射性的锤子能有什么用?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_168">
+		<text>有传言说可以在旧服务中心可以找到一些零碎玩意儿...兴许也能在那找到工具.和其他游戏规则一样:跑在最前面的人才能得到最好的.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_169">
+		<text>问得好...如果我是你,我就去桥下的火车里找找.别问我为什么...直觉告诉我那里一定有货.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_17">
+		<text>有谁可以为存储模块解锁吗?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_171">
+		<text>让我想想...在亚诺夫的尼特罗肯定有办法.另外,诺维科夫也可以,他是科学家们的技师,那可是个很好的推荐理由.但是你最好仔细考虑一下找谁,因为找尼特罗会便宜得多.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_172">
+		<text>你需要一个技师,但附近唯一的一个就是卡丹.事实上,他已经在井底生活了这么多年了,拿着复杂的电子设备找他也不是那么牢靠.如果我是你我会去朱皮特地区问问——真正的专家在那儿.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_18">
+		<text>有谁可以打开钢制保险箱?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_181">
+		<text>我猜斯卡多夫斯克号上的卡丹是个合适的人选.我是说,看他切开挂锁简直像是在看艺术表演.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_182">
+		<text>我想你需要的是某个专业的技师.不过尼特罗大概不行——他不擅长对付硬件之类的东西.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_183">
+		<text>你是问在普里皮亚特附近?我建议你找人的话最好离特异区中心远一点.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_19">
+		<text>我再找一个叫斯纳戈的独行者,知道在哪能找到他吗?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_191">
+		<text>最好去问大胡子,那个斯卡多夫斯克号上的酒保.他通常都知道独行者们的动向.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_193">
+		<text>斯纳戈?我怎么会知道他在哪?你最好去扎通问问,他经常出现在那里.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_2">
+		<text>你知道关于直升机坠毁的事么?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_20">
+		<text>谁会对有关纪律团创始人的信息感兴趣?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_201">
+		<text>换作我的话,我会找斯卡多夫斯克号上的情报商人猫头鹰谈谈.我敢用我的菊花打赌,他肯定会对传奇人物的真实故事感兴趣.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_21">
+		<text>是的,我亲眼看到的...那看上去不像是失事,尽管直升机确实飞的很糟糕.它一直在空中摇摆不定,最后向着扎通南边的高地坠去...我很好奇有没有人幸存...如果我们知道怎么到那的话.实际上,我听说那艘疯子驳船里的诺亚可能知道些什么...</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_22">
+		<text>我听说有几架军方的直升机在附近失事了...人们众说纷纭,但有一种我记得很清楚.他们说直升机坠落的备用停机坪是很久以前那些锅盖头预埋的雷区.你能想象这种讽刺么?我老爸经常说:"别想挖陷阱害人,因为掉进去的肯定是你."真是真理啊,不是吗?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_23">
+		<text>一个伙计告诉我这样一件事...他当时是去铁森林寻找神器,刚到那不久就听到什么东西坠毁的巨响.他转过身想弄清楚发生了什么,只见一架直升飞机弄断了高压电线架,朝他全速冲了过来.他使出吃奶的力气夺路而逃...我很奇怪他怎么没掉到变异点里.要找到铁森林并不难——你在几里外就可以看到它了.但那到处都是吵闹鬼,所以注意时刻保持警惕.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_24">
+		<text>我听说有一架落在了南边的高地上,但要想到那里并不容易.另外我听说有人见到诺亚出现在高地边缘,这意味着那个疯子知道怎么去那儿.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_25">
+		<text>我虽然没有亲眼所见,但传闻说有一架正好掉进了工厂...没人想过去一探——那地儿太危险.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_26">
+		<text>有个独行者告诉我说他看到几架军方的直升机遇到了麻烦...其中一架的引擎起了火随后直接掉进了满是变异点的沼泽.到那很容易,但进去就是个噩梦了...相信我,那儿不是人呆的地方.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_3">
+		<text>在附近见到过军队的人吗?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_30">
+		<text>谁会对扎通和朱皮特之间地区的地图感兴趣?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_301">
+		<text>除了领航员还能有谁?他是向导,懂吗?在斯卡多夫斯克号和亚诺夫两地之间往返就靠他了,他一定能充分利用你的地图.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_302">
+		<text>这里不是扎通也不是朱皮特,所以这张地图一文不值,明白吗?去那些地方问问,也许你会有更多收获.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_31">
+		<text>我没有亲眼所见,但我听说有几个士兵通过排污管道从南部高地下来了.显然他们一开始是打算用更高雅的方式,利用绳索之类该死的东西.但是最后他们放弃了,选择放下他们的屁股慢慢爬出来.哈!特异区臭水沟长撬——你一定会喜欢上他们的!</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_32">
+		<text>我在斯卡多夫斯克号听说有人看见5个左右的锅盖头从沼泽的下水管道里走出来.他们说那些士兵真是脏透了,其中一个满身粘液的,你根本分不出他是人还是沼泽吸血怪.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_33">
+		<text>虽然我没有亲眼见到的,但是我听一个朋友说军方的一个小队在处理站附近遭遇了一队佣兵团的人.他还没来得及找到好位子,这场好戏就结束了,因为军队的人撤了.两边都没有伤亡...很没劲,不是吗?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_34">
+		<text>似乎有人看到十个左右的锅盖头进出诺亚的驳船.此时此刻那个疯子应该正活跃着呢,他好像已经和他们达成了某种协议...军队的人和他一样都是疯子.显然没人想要去问诺亚发生了什么事——你永远猜不着那狗娘养的在打什么鬼主意.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_35">
+		<text>半夜我听到爆炸声,随后亚诺夫的人告诉我在雷区发现了一具锅盖头的尸体和坠毁的武装直升机.看来他们不知道在黑暗中怎么选择合适的降落点,于是就直接撞进了雷区.没人知道有多少幸存者,但我不相信他是一个人飞进来的.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_36">
+		<text>我倒是没有亲眼见到军队的人...但传闻说有个锅盖头和科学家们呆在一起.传闻里一个叫加里的独行者发现了那人,当时他正要去防空基地找他的弟兄们.那基地里到处都是僵尸,显然他们对在里面落单的人类不会太友好.所以盖瑞算是捡了条命.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_37">
+		<text>没见到,但听说有个锅盖头在沃尔克霍夫防空基地附近出现.我对此表示怀疑...要么他们在撒谎,要么他们只是没告诉你那个士兵其实是个僵尸.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_38">
+		<text>军队?嗯,我是听说过"一个有独行者率领的军方小队"正经过朱皮特工厂,但是我不怎么在意那些流言蜚语.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_4">
+		<text>知道怎么到达普里皮亚特吗?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_40">
+		<text>我能雇佣谁保护那些科学家?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_401">
+		<text>知道斯巴达克斯和他的小队么?就是在扎通的那些独行者,明白了吗?他们人不错,也都是优秀的战士——他们去过那里,也曾经保护过科学家,还领了T恤衫.我有种感觉他们会喜欢保护科学家的任务.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_402">
+		<text>你在扎通变电站车间遇到过战斧小队吗?虽然他们有着所有雇佣兵都有的毛病,但起码他们在开枪前会先问问清楚.我猜如果你把这工作给了他们,科学家们会很满意,而独行者们也能喘口气了.皆大欢喜,不是吗?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_403">
+		<text>呃...无能为力...抱歉.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_41">
+		<text>据我所知从扎通无法到哪.每个想去普利皮亚季的人都往木星的方向走,所以你该去那里问问.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_42">
+		<text>有传言说朱皮特工厂下面有几条秘密通道通往普里皮亚特...问题是,这大多只是空穴来风,而木星地区本身就是个噩梦,没人敢靠近那儿.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_43">
+		<text>老大,我怎么会知道?能问我点简单的问题吗?我能告诉你的就是,去找领航员——如果有人能帮你,那就是他.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_44">
+		<text>哈,如果我知道怎么去普里皮亚特我也不会在这呆着了.你以为我去特异区中心干什么?普里皮亚特到处都是神器,老兄!率先到那的人肯定飞黄腾达!</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_5">
+		<text>能给我推荐一个愿意前往普里皮亚特的人吗?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_51">
+		<text>我觉得这附近没人回去.每个想要靠近特异区中心的人都聚集在朱皮特.如果换作我,我就会去那问问.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_52">
+		<text>有没有听说有个锅盖头和科学家们在一起?我想他不会反对和你一起走.科学家们暂时不打算离开,因此他无法到达封锁线,所以他也许真的会愚蠢地和你前去普里皮亚特.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_53">
+		<text>知道在亚诺夫的瓦诺吗?他是个老实人,也是一个优秀的潜行者,同时也好骗的要命.一只比人更适合去变异点的乖猫——如果你要找人占便宜,那就一定是他了.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_54">
+		<text>听着老兄,我听说有支小队在干涸湖泊南边的防空基地附近出现...显然他们不是一般的独行者、自由团或者纪律团——他们是黑石组织!所以如果你需要有人带你去普里皮亚特,那他们就是车票.哈哈,你明白我是在开玩笑的,是吧?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_55">
+		<text>知道新的自由团小队的首领神行客吗?如果你见过他那张倒霉的脸,你自然就会知道亚诺夫为什么没有他的立足之地.你应该和他谈谈.他也许真的会去那儿.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_56">
+		<text>知道新的纪律团小队的首领神行客吗?如果你见过他那张倒霉的脸,你自然就会知道亚诺夫为什么没有他的立足之地.你应该和他谈谈.他也许真的会去那儿.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_57">
+		<text>呃...想不出来.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_6">
+		<text>我发现了一把不同寻常的枪.谁会对这玩意儿比较了解?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_62">
+		<text>谁了解?我会去找专家...你知道,技师之类的...</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_63">
+		<text>问问斯卡多夫斯克号上的卡丹不会有错,老兄.他擅长处理枪械而且人也不错...撇开他嗜酒如命的毛病不说,他还是留有一些理智的...</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_7">
+		<text>我能雇谁为科学家进行测量工作?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_71">
+		<text>你知道猎人冈塔么?我想他和他的弟兄是不会拒绝为科学家工作的.我是说,如果你遭到变异怪物的袭击,那这些人就正是你需要雇用的.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_72">
+		<text>听说过亚诺夫的独行者灰熊,托巴和米泰吗?他们三人一组,势不可挡!我觉得他们正是合适的人选...只要米泰这次别惹麻烦.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_73">
+		<text>不知道,老兄.我们自己在这儿还有一大堆事情要烦呢.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_8">
+		<text>我发现了一个很奇特的神器,能找个买家吗?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_81">
+		<text>不行.里的人都只招待老主顾.去河湾转转,就在特异区边缘的地方.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_83">
+		<text>把它拿给斯卡多夫斯克号上的酒保大胡子看看.有人说他常和特异区外的收藏家打交道,那些人经常会为一些奇怪的东西出高价.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_9">
+		<text>我在附近发现了一个吸血怪巢穴.要不要采取什么行动?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_91">
+		<text>哇哦,你一定要告诉斯卡多夫斯克号上的大胡子...因为要么就是我们干掉他们,要么就是他们撕碎我们.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_98">
+		<text>好啊,忘了它.</text>
+	</string>
+	<string id="about_skadovsk_dialog_bandit_0">
+		<text>离这最近的独行者营地在哪?</text>
+	</string>
+	<string id="about_skadovsk_dialog_bandit_1">
+		<text>你有什么毛病,智障吗?...我不知道什么独行者营地,但这里最近的营地是斯卡多夫斯克号.我会给你坐标,不会问你要钱.我真是个好人,不是吗?</text>
+	</string>
+	<string id="about_skadovsk_dialog_stalkers_0">
+		<text>离这最近的独行者营地在哪?</text>
+	</string>
+	<string id="about_skadovsk_dialog_stalkers_1">
+		<text>我会把那的坐标上传到你的PDA...斯卡多夫斯克号是这附近最大的营地.</text>
+	</string>
+	<string id="actor_break_dialog_2">
+		<text>回头见.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_27">
+		<text>我听说过坠毁...细节我不清楚——八卦我不感冒.很抱歉帮不了你.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_28">
+		<text>老兄,比起你的直升机,我还有许多其他事情要烦...我是说,我打赌飞机坠毁肯定疼得要死,但是我真的不知道该说什么好.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_27">
+		<text>你在说什么呢,小阿飞?你需要不少毒品才能看见一架大直升飞机,因为这里"不会发生任何屁事".</text>
+	</string>
+	<string id="about_quests_dialog_freedom_27">
+		<text>啊?伙计,我不知道,那玩意儿跟我没什么关系.它一点也不能帮我完成传道授业的使命,你明白我的意思吗?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_27">
+		<text>我们的巡逻队目堵了直升机坠落,但详细经过只报告给了中校一个人.基于"不该问的不问"原则,这件事我不需要知道的太多.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_50">
+		<text>在哪能找一套装有闭合循环呼吸系统的防护服?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_501">
+		<text>哪里可以找到我不知道,但只要有足够多的钱就可以创造奇迹——只要你知道正确的投资方法.和机灵鬼聊聊...只要你们谈得拢,他总能给你找来的.我祝你成功...这样我们就能好好享受几天斯卡多夫斯克号上没有机灵鬼的日子了...</text>
+	</string>
+	<string id="about_quests_dialog_bandit_502">
+		<text>我他妈怎么会知道?我自己也才来这附近没多久...你最好去扎通问问,那里的兄弟有他们自己的情报网.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_503">
+		<text>没什么线索.怎么,你想把鼻子伸进变异点吗?听着,如果你找到了神器,记得对叫我们一声,我们会一溜烟到那去...去祝贺你干得漂亮!</text>
+	</string>
+	<string id="about_quests_dialog_dolg_50">
+		<text>在哪能找一套装有闭合循环呼吸系统的防护服?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_501">
+		<text>我怎么知道?等等...在斯卡多夫斯克号上有个家伙,人们说他能帮你搞到任何你想要的.他住在上层甲板,名字叫机灵鬼.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_502">
+		<text>不清楚,从没见过这附近有穿那种特殊防护服的...最好去扎通问问——那更靠近文明世界.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_503">
+		<text>我完全不知道你该去哪里找...那种防护服甚至是对纪律团的人来说都很少见.只有特殊任务或者高危变异区才会派发那种防护服.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_50">
+		<text>在哪能找一套装有闭合循环呼吸系统的防护服?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_501">
+		<text>我听独行者们说,有个叫明眼还是什么的有自己的交易网.他几乎可以搞到任何东西.你知道:防护服,枪械,所有的一切...除了毒品.如果你想找他,就去斯卡多夫斯克号.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_502">
+		<text>问得好,老弟...即使是在自由团我们也没穿过那玩意儿...换作是我,我就去找扎通的独行者.他们中也许有人会做这种生意.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_503">
+		<text>嘿,要那该死的东西做什么?活动起来很不方便的,其次...我想它肯定有利于呼吸,也可以防止太阳光直接刺进你的眼睛...不错,我也去给自己整一套.嘿,你知道在哪能搞到吗?...</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_50">
+		<text>在哪能找一套装有闭合循环呼吸系统的防护服?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_501">
+		<text>我打赌机灵鬼能弄到.他住在斯卡多夫斯克号的第三层甲板.那家伙可以在沙漠里给你搞到雪...但是他可不为囊中羞涩的人服务.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_502">
+		<text>让我想想...以前在扎通有个人叫机灵鬼.去看看他是不是还在那里.我听说他就擅长搞这种生意.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_503">
+		<text>老兄,你怎么像是在说某种办公室用品一样...没人知道在哪能找到.那种玩意异常少见...就算抢一个也得靠运气.</text>
+	</string>
+	<string id="actor_break_dialog_3">
+		<text>回见.</text>
+	</string>
+	<string id="actor_break_dialog_1">
+		<text>再见.</text>
+	</string>
+	<string id="actor_break_dialog_0">
+		<text>回头见.</text>
+	</string>
+</string_table>

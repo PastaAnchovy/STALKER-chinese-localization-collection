@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="hide_from_surge_message">
+		<text>注意!电磁风暴即将来临:</text>
+	</string>
+	<string id="hide_from_surge_descr_1_a">
+		<text>你必须马上跑到最近的掩体以躲避辐射.</text>
+	</string>
+	<string id="hide_from_surge_descr_2_a">
+		<text>当风暴正在爆发时你绝不能离开掩体.</text>
+	</string>
+	<string id="hide_from_surge_name_1">
+		<text>风暴来临:寻找掩体</text>
+	</string>
+	<string id="hide_from_surge_name_2">
+		<text>风暴来临:在掩体中等待风暴结束</text>
+	</string>
+</string_table>

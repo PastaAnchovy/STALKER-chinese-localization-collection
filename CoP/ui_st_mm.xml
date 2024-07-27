@@ -1,0 +1,936 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="Clear">
+		<text>晴朗</text>
+	</string>
+	<string id="Cloudy">
+		<text>多云</text>
+	</string>
+	<string id="Default">
+		<text>中等</text>
+	</string>
+	<string id="Extreme">
+		<text>最大</text>
+	</string>
+	<string id="High">
+		<text>高</text>
+	</string>
+	<string id="Low">
+		<text>低</text>
+	</string>
+	<string id="Minimum">
+		<text>最低</text>
+	</string>
+	<string id="Night">
+		<text>夜晚</text>
+	</string>
+	<string id="Rain">
+		<text>下雨</text>
+	</string>
+	<string id="game type">
+		<text>游戏模式</text>
+	</string>
+	<string id="gd_master">
+		<text>大师</text>
+	</string>
+	<string id="gd_novice">
+		<text>新手</text>
+	</string>
+	<string id="gd_veteran">
+		<text>老兵</text>
+	</string>
+	<string id="icon">
+		<text>图示</text>
+	</string>
+	<string id="map">
+		<text>地图</text>
+	</string>
+	<string id="mm_mp_actret_time">
+		<text>返回游戏</text>
+	</string>
+	<string id="mm_mp_allowvoting">
+		<text>允许投票</text>
+	</string>
+	<string id="mm_mp_anomalytime">
+		<text>变异点时限(分)</text>
+	</string>
+	<string id="mm_mp_artefactcapture">
+		<text>神器捕捉</text>
+	</string>
+	<string id="mm_mp_artefdelay">
+		<text>神器延迟</text>
+	</string>
+	<string id="mm_mp_artefnum">
+		<text>神器数量</text>
+	</string>
+	<string id="mm_mp_artefstay">
+		<text>神器存在时间</text>
+	</string>
+	<string id="mm_mp_artret_time">
+		<text>神器返回</text>
+	</string>
+	<string id="mm_mp_autoteambalance">
+		<text>自动队伍平衡</text>
+	</string>
+	<string id="mm_mp_autoteamswap">
+		<text>自动切换队伍</text>
+	</string>
+	<string id="mm_mp_avail_maps">
+		<text>可选地图</text>
+	</string>
+	<string id="mm_mp_cancel">
+		<text>取消</text>
+	</string>
+	<string id="mm_mp_cd_key">
+		<text>CD-key</text>
+	</string>
+	<string id="mm_mp_check_cdkey">
+		<text>检查CD-key</text>
+	</string>
+	<string id="mm_mp_client">
+		<text>客户端</text>
+	</string>
+	<string id="mm_mp_create">
+		<text>创建</text>
+	</string>
+	<string id="mm_mp_damageblock">
+		<text>复活无敌(秒)</text>
+	</string>
+	<string id="mm_mp_damageblockindicator">
+		<text>无敌标志</text>
+	</string>
+	<string id="mm_mp_deaths">
+		<text>死亡数</text>
+	</string>
+	<string id="mm_mp_dedicated">
+		<text>专用的</text>
+	</string>
+	<string id="mm_mp_demo_play_list">
+		<text>录像列表</text>
+	</string>
+	<string id="mm_mp_demo_play_players_stats">
+		<text>玩家状态</text>
+	</string>
+	<string id="mm_mp_demosave">
+		<text>录制录像</text>
+	</string>
+	<string id="mm_mp_demosave_options">
+		<text>正在录制</text>
+	</string>
+	<string id="mm_mp_empty">
+		<text>空的</text>
+	</string>
+	<string id="mm_mp_filters">
+		<text>过滤器</text>
+	</string>
+	<string id="mm_mp_forcerespawn">
+		<text>强制重生(秒)</text>
+	</string>
+	<string id="mm_mp_fraglimit">
+		<text>手榴弹限制</text>
+	</string>
+	<string id="mm_mp_frags">
+		<text>手榴弹</text>
+	</string>
+	<string id="mm_mp_freezetime">
+		<text>延迟时间</text>
+	</string>
+	<string id="mm_mp_friendlyfire">
+		<text>友军伤害</text>
+	</string>
+	<string id="mm_mp_friendlyindicators">
+		<text>友军指示</text>
+	</string>
+	<string id="mm_mp_friendlynames">
+		<text>友军姓名</text>
+	</string>
+	<string id="mm_mp_full">
+		<text>满</text>
+	</string>
+	<string id="mm_mp_gamemode">
+		<text>模式</text>
+	</string>
+	<string id="mm_mp_host_port">
+		<text>IP/Host:端口</text>
+	</string>
+	<string id="mm_mp_internet">
+		<text>互联网</text>
+	</string>
+	<string id="mm_mp_join">
+		<text>连接</text>
+	</string>
+	<string id="mm_mp_lan">
+		<text>局域网</text>
+	</string>
+	<string id="mm_mp_listenservers">
+		<text>监听</text>
+	</string>
+	<string id="mm_mp_load_demo">
+		<text>重复</text>
+	</string>
+	<string id="mm_mp_mapratation">
+		<text>地图列表</text>
+	</string>
+	<string id="mm_mp_maxplayers">
+		<text>玩家数量限制</text>
+	</string>
+	<string id="mm_mp_network_connection">
+		<text>网络连接</text>
+	</string>
+	<string id="mm_mp_noanomalies">
+		<text>无变异点</text>
+	</string>
+	<string id="mm_mp_options">
+		<text>选项</text>
+	</string>
+	<string id="mm_mp_password">
+		<text>密码</text>
+	</string>
+	<string id="mm_mp_player_name">
+		<text>玩家名称:</text>
+	</string>
+	<string id="mm_mp_players">
+		<text>玩家</text>
+	</string>
+	<string id="mm_mp_players_count">
+		<text>玩家数量</text>
+	</string>
+	<string id="mm_mp_publicserver">
+		<text>互联网服务器</text>
+	</string>
+	<string id="mm_mp_quickrefresh">
+		<text>快速刷新</text>
+	</string>
+	<string id="mm_mp_rateofchange">
+		<text>调整参数</text>
+	</string>
+	<string id="mm_mp_refresh">
+		<text>全部刷新</text>
+	</string>
+	<string id="mm_mp_reinforcement">
+		<text>增援(秒)</text>
+	</string>
+	<string id="mm_mp_respawnoptions">
+		<text>重生选项</text>
+	</string>
+	<string id="mm_mp_sel_maps">
+		<text>已选择的地图</text>
+	</string>
+	<string id="mm_mp_server">
+		<text>服务器</text>
+	</string>
+	<string id="mm_mp_server_list">
+		<text>服务器列表</text>
+	</string>
+	<string id="mm_mp_server_prop">
+		<text>服务器属性</text>
+	</string>
+	<string id="mm_mp_serverinfo">
+		<text>服务器信息</text>
+	</string>
+	<string id="mm_mp_serverlist">
+		<text>服务器</text>
+	</string>
+	<string id="mm_mp_servername">
+		<text>服务器名</text>
+	</string>
+	<string id="mm_mp_serversettings">
+		<text>服务器设置</text>
+	</string>
+	<string id="mm_mp_spectator">
+		<text>旁观者</text>
+	</string>
+	<string id="mm_mp_spectator_firsteye">
+		<text>第一人称视角</text>
+	</string>
+	<string id="mm_mp_spectator_freefly">
+		<text>自由视角</text>
+	</string>
+	<string id="mm_mp_spectator_freelook">
+		<text>锁定自由视角</text>
+	</string>
+	<string id="mm_mp_spectator_lookat">
+		<text>第三人称视角</text>
+	</string>
+	<string id="mm_mp_spectator_options">
+		<text>旁观者设置</text>
+	</string>
+	<string id="mm_mp_spectator_teamonly">
+		<text>仅限团队</text>
+	</string>
+	<string id="mm_mp_startweather">
+		<text>初始天气</text>
+	</string>
+	<string id="mm_mp_team_stats">
+		<text>得分</text>
+	</string>
+	<string id="mm_mp_timelimit">
+		<text>时间限制(分)</text>
+	</string>
+	<string id="mm_mp_warmuptime">
+		<text>热身(秒)</text>
+	</string>
+	<string id="mm_mp_weatheroptions">
+		<text>天气选项</text>
+	</string>
+	<string id="mm_mp_withoutfriendlyfire">
+		<text>无友军伤害</text>
+	</string>
+	<string id="mm_mp_withoutpassword">
+		<text>无密码</text>
+	</string>
+	<string id="mm_mp_withoutpunkbuster">
+		<text>无PB反作弊</text>
+	</string>
+	<string id="mm_mp_withpassword">
+		<text>有密码</text>
+	</string>
+	<string id="mm_offline_mode">
+		<text>局域网</text>
+	</string>
+	<string id="mm_online_mode">
+		<text>互联网</text>
+	</string>
+	<string id="mp_agroprom">
+		<text>农业研究所</text>
+	</string>
+	<string id="mp_atp">
+		<text>汽车站</text>
+	</string>
+	<string id="mp_bath">
+		<text>水池</text>
+	</string>
+	<string id="mp_change_unick_success">
+		<text>昵称更改成功!</text>
+	</string>
+	<string id="mp_darkvalley">
+		<text>黑暗山谷</text>
+	</string>
+	<string id="mp_factory">
+		<text>杨塔工厂</text>
+	</string>
+	<string id="mp_gamespy_atlas_error">
+		<text>在连接到统计服务器时发生错误</text>
+	</string>
+	<string id="mp_gamespy_ws_login_error">
+		<text>在连接到登陆服务器时发生错误</text>
+	</string>
+	<string id="mp_login_success">
+		<text>授权成功</text>
+	</string>
+	<string id="mp_lost_village">
+		<text>荒凉的村庄</text>
+	</string>
+	<string id="mp_military_1">
+		<text>军方仓库</text>
+	</string>
+	<string id="mp_nick_name_not_valid">
+		<text>用户名不正确</text>
+	</string>
+	<string id="mp_pool">
+		<text>水池</text>
+	</string>
+	<string id="mp_railroad">
+		<text>火车站</text>
+	</string>
+	<string id="mp_rostok">
+		<text>大荒野的工厂</text>
+	</string>
+	<string id="mp_unique_nick_not_valid">
+		<text>昵称错误</text>
+	</string>
+	<string id="mp_want_to_delete_demo">
+		<text>你确定移除吗</text>
+	</string>
+	<string id="mp_workshop">
+		<text>废弃的工厂</text>
+	</string>
+	<string id="ping">
+		<text>延迟</text>
+	</string>
+	<string id="players">
+		<text>玩家</text>
+	</string>
+	<string id="renderer_r1">
+		<text>静态光影效果</text>
+	</string>
+	<string id="renderer_r2">
+		<text>全动态光影效果</text>
+	</string>
+	<string id="renderer_r2.5">
+		<text>增强型全动态光影效果</text>
+	</string>
+	<string id="renderer_r2a">
+		<text>物件动态光影效果</text>
+	</string>
+	<string id="renderer_r3">
+		<text>增强型全动态光影效果(DX10)</text>
+	</string>
+	<string id="server name">
+		<text>服务器名称</text>
+	</string>
+	<string id="st_artefacthunt">
+		<text>神器搜索</text>
+	</string>
+	<string id="st_capture_the_artefact">
+		<text>神奇抢夺</text>
+	</string>
+	<string id="st_deathmatch">
+		<text>自由混战</text>
+	</string>
+	<string id="st_mp_gsfilter">
+		<text>过滤器:</text>
+	</string>
+	<string id="st_opt_high">
+		<text>高</text>
+	</string>
+	<string id="st_opt_low">
+		<text>低</text>
+	</string>
+	<string id="st_opt_medium">
+		<text>中</text>
+	</string>
+	<string id="st_opt_off">
+		<text>关闭</text>
+	</string>
+	<string id="st_rank_experienced">
+		<text>熟练的</text>
+	</string>
+	<string id="st_rank_legend">
+		<text>传奇的潜行者</text>
+	</string>
+	<string id="st_rank_novice">
+		<text>新手</text>
+	</string>
+	<string id="st_rank_professional">
+		<text>专家</text>
+	</string>
+	<string id="st_rank_veteran">
+		<text>老兵</text>
+	</string>
+	<string id="st_team_deathmatch">
+		<text>团队游戏</text>
+	</string>
+	<string id="ui_mm_60_hz">
+		<text>60Hz刷新率</text>
+	</string>
+	<string id="ui_mm_action">
+		<text>动作</text>
+	</string>
+	<string id="ui_mm_advanced">
+		<text>高级</text>
+	</string>
+	<string id="ui_mm_alternative">
+		<text>切换</text>
+	</string>
+	<string id="ui_mm_anisotropic">
+		<text>各向异性过滤</text>
+	</string>
+	<string id="ui_mm_apply">
+		<text>应用</text>
+	</string>
+	<string id="ui_mm_back">
+		<text>返回</text>
+	</string>
+	<string id="ui_mm_blood">
+		<text>出血</text>
+	</string>
+	<string id="ui_mm_brightness">
+		<text>亮度</text>
+	</string>
+	<string id="ui_mm_cancel">
+		<text>取消</text>
+	</string>
+	<string id="ui_mm_check_updates">
+		<text>更新游戏</text>
+	</string>
+	<string id="ui_mm_contrast">
+		<text>对比度</text>
+	</string>
+	<string id="ui_mm_controls">
+		<text>控制</text>
+	</string>
+	<string id="ui_mm_credits">
+		<text>制作人员名单</text>
+	</string>
+	<string id="ui_mm_crosshair_distance">
+		<text>显示准星目标距离</text>
+	</string>
+	<string id="ui_mm_default">
+		<text>默认</text>
+	</string>
+	<string id="ui_mm_delete">
+		<text>删除</text>
+	</string>
+	<string id="ui_mm_delete_existing_file_q">
+		<text>你确定想删除这个文件吗?</text>
+	</string>
+	<string id="ui_mm_detail_density">
+		<text>草地细节密度</text>
+	</string>
+	<string id="ui_mm_difficulty">
+		<text>难度</text>
+	</string>
+	<string id="ui_mm_disconnect">
+		<text>断开连接</text>
+	</string>
+	<string id="ui_mm_disconnect_message">
+		<text>真的要断开连接吗?</text>
+	</string>
+	<string id="ui_mm_dof">
+		<text>景深</text>
+	</string>
+	<string id="ui_mm_dyn_crosshair">
+		<text>动态准星</text>
+	</string>
+	<string id="ui_mm_dynamic_music">
+		<text>动态音乐</text>
+	</string>
+	<string id="ui_mm_eax">
+		<text>EAX环境音效扩展</text>
+	</string>
+	<string id="ui_mm_fullscreen">
+		<text>全屏</text>
+	</string>
+	<string id="ui_mm_gameplay">
+		<text>游戏</text>
+	</string>
+	<string id="ui_mm_gamma">
+		<text>Gamma值</text>
+	</string>
+	<string id="ui_mm_geometry_lod">
+		<text>物体细节</text>
+	</string>
+	<string id="ui_mm_invert_mouse">
+		<text>翻转鼠标</text>
+	</string>
+	<string id="ui_mm_key">
+		<text>按键</text>
+	</string>
+	<string id="ui_mm_keyboard_setup">
+		<text>键盘设置</text>
+	</string>
+	<string id="ui_mm_last_save">
+		<text>最后存档</text>
+	</string>
+	<string id="ui_mm_light_distance">
+		<text>光照距离</text>
+	</string>
+	<string id="ui_mm_load">
+		<text>载入</text>
+	</string>
+	<string id="ui_mm_load_game">
+		<text>载入游戏</text>
+	</string>
+	<string id="ui_mm_logout">
+		<text>退出档案</text>
+	</string>
+	<string id="ui_mm_master">
+		<text>大师</text>
+	</string>
+	<string id="ui_mm_master_volume">
+		<text>音效音量</text>
+	</string>
+	<string id="ui_mm_mouse_sense">
+		<text>鼠标灵敏度</text>
+	</string>
+	<string id="ui_mm_msaa_alphatest">
+		<text>平滑通道贴图对象</text>
+	</string>
+	<string id="ui_mm_msaa_opt">
+		<text>优化平滑</text>
+	</string>
+	<string id="ui_mm_multiplayer">
+		<text>多人游戏</text>
+	</string>
+	<string id="ui_mm_multiplayer_n">
+		<text>多人游戏</text>
+	</string>
+	<string id="ui_mm_music_volume">
+		<text>音乐音量</text>
+	</string>
+	<string id="ui_mm_need_restart">
+		<text>更改的设置将在重启游戏后生效</text>
+	</string>
+	<string id="ui_mm_network_game">
+		<text>多人游戏</text>
+	</string>
+	<string id="ui_mm_newgame">
+		<text>新游戏</text>
+	</string>
+	<string id="ui_mm_novice">
+		<text>新手</text>
+	</string>
+	<string id="ui_mm_npc_torch">
+		<text>NPC手电筒</text>
+	</string>
+	<string id="ui_mm_options">
+		<text>选项</text>
+	</string>
+	<string id="ui_mm_options_n">
+		<text>选项</text>
+	</string>
+	<string id="ui_mm_particles_distance">
+		<text>粒子效果距离</text>
+	</string>
+	<string id="ui_mm_quality_presets">
+		<text>画质设置</text>
+	</string>
+	<string id="ui_mm_quit2windows">
+		<text>回到Windows</text>
+	</string>
+	<string id="ui_mm_quit_game">
+		<text>离开游戏</text>
+	</string>
+	<string id="ui_mm_quit_game_message">
+		<text>你真的想要离开游戏吗?</text>
+	</string>
+	<string id="ui_mm_quit_windows_message">
+		<text>你真的想要离开游戏回到Windows吗?</text>
+	</string>
+	<string id="ui_mm_r2_detail_bump">
+		<text>凹凸细节</text>
+	</string>
+	<string id="ui_mm_r2_steep_parallax">
+		<text>视差贴图</text>
+	</string>
+	<string id="ui_mm_r2_sun">
+		<text>太阳阴影</text>
+	</string>
+	<string id="ui_mm_r2_sun_details">
+		<text>草地阴影</text>
+	</string>
+	<string id="ui_mm_r2_sun_quality">
+		<text>太阳细节</text>
+	</string>
+	<string id="ui_mm_r3_DX10_1">
+		<text>使用DX10.1</text>
+	</string>
+	<string id="ui_mm_r3_MSAA">
+		<text>全屏抗锯齿</text>
+	</string>
+	<string id="ui_mm_r3_dynamic_wet_surfaces">
+		<text>水面</text>
+	</string>
+	<string id="ui_mm_r3_gbuffer_opt">
+		<text>优化几何缓冲区</text>
+	</string>
+	<string id="ui_mm_r3_volumetric_smoke">
+		<text>体积雾</text>
+	</string>
+	<string id="ui_mm_render_2">
+		<text>渲染2</text>
+	</string>
+	<string id="ui_mm_renderer">
+		<text>渲染类型</text>
+	</string>
+	<string id="ui_mm_resolution">
+		<text>分辨率</text>
+	</string>
+	<string id="ui_mm_return_game">
+		<text>回到游戏</text>
+	</string>
+	<string id="ui_mm_save">
+		<text>保存</text>
+	</string>
+	<string id="ui_mm_save_game">
+		<text>保存游戏</text>
+	</string>
+	<string id="ui_mm_show_crosshair">
+		<text>显示准星</text>
+	</string>
+	<string id="ui_mm_show_weapon">
+		<text>显示武器</text>
+	</string>
+	<string id="ui_mm_simply">
+		<text>基本</text>
+	</string>
+	<string id="ui_mm_snd_device">
+		<text>音频设备</text>
+	</string>
+	<string id="ui_mm_soft_particles">
+		<text>柔和粒子</text>
+	</string>
+	<string id="ui_mm_soft_water">
+		<text>柔和水面</text>
+	</string>
+	<string id="ui_mm_sound">
+		<text>声音</text>
+	</string>
+	<string id="ui_mm_sound_quality">
+		<text>声音质量</text>
+	</string>
+	<string id="ui_mm_stalker">
+		<text>潜行者</text>
+	</string>
+	<string id="ui_mm_sun_quality">
+		<text>阴影质量</text>
+	</string>
+	<string id="ui_mm_sun_shafts">
+		<text>太阳光线</text>
+	</string>
+	<string id="ui_mm_supersample">
+		<text>抗锯齿</text>
+	</string>
+	<string id="ui_mm_switch_torch">
+		<text>允许AI使用手电筒</text>
+	</string>
+	<string id="ui_mm_texture_quality">
+		<text>材质细节</text>
+	</string>
+	<string id="ui_mm_tips">
+		<text>NPC标识</text>
+	</string>
+	<string id="ui_mm_veteran">
+		<text>老兵</text>
+	</string>
+	<string id="ui_mm_video">
+		<text>图像</text>
+	</string>
+	<string id="ui_mm_vis_distance">
+		<text>可视距离</text>
+	</string>
+	<string id="ui_mm_volumetric_light">
+		<text>体积光</text>
+	</string>
+	<string id="ui_mm_vsync">
+		<text>垂直同步</text>
+	</string>
+	<string id="ui_mp_gamespy_changing_unique_nick">
+		<text>更改昵称</text>
+	</string>
+	<string id="ui_mp_gamespy_email_already_exist">
+		<text>这个E-mail地址已经被使用了</text>
+	</string>
+	<string id="ui_mp_internet">
+		<text>通过互联网</text>
+	</string>
+	<string id="ui_mp_localnet">
+		<text>通过局域网</text>
+	</string>
+	<string id="ui_st_backstabks_in_row">
+		<text>死于背刺</text>
+	</string>
+	<string id="ui_st_bleed_kills_in_row">
+		<text>死于失血</text>
+	</string>
+	<string id="ui_st_explosive_kills_in_row">
+		<text>死于爆炸</text>
+	</string>
+	<string id="ui_st_eye_kills_in_row">
+		<text>打中眼睛</text>
+	</string>
+	<string id="ui_st_headshots_in_row">
+		<text>打中头部</text>
+	</string>
+	<string id="ui_st_invalid_saved_game">
+		<text>存档版本与游戏版本不匹配.</text>
+	</string>
+	<string id="ui_st_kills_in_row">
+		<text>杀敌数</text>
+	</string>
+	<string id="ui_st_knife_kills_in_row">
+		<text>刀</text>
+	</string>
+	<string id="ui_st_last_set">
+		<text>最后装备</text>
+	</string>
+	<string id="ui_st_mp_local_network_login_page">
+		<text>进入多人游戏</text>
+	</string>
+	<string id="ui_st_mp_nickname">
+		<text>名称</text>
+	</string>
+	<string id="ui_st_mp_try_change">
+		<text>更改</text>
+	</string>
+	<string id="ui_st_preset1">
+		<text>装备1</text>
+	</string>
+	<string id="ui_st_preset2">
+		<text>装备2</text>
+	</string>
+	<string id="ui_st_preset3">
+		<text>装备3</text>
+	</string>
+	<string id="ui_st_reset">
+		<text>重置</text>
+	</string>
+	<string id="ui_st_sell_all">
+		<text>全部卖出</text>
+	</string>
+	<string id="version">
+		<text>版本</text>
+	</string>
+	<string id="mp_pripyat">
+		<text>普里皮亚特</text>
+	</string>
+	<string id="ui_mm_crouch_toggle">
+		<text>切换蹲下/站立模式</text>
+	</string>
+	<string id="ui_mm_important_save">
+		<text>自动保存</text>
+	</string>
+	<string id="ui_mm_r1_detail_textures">
+		<text>材质细节</text>
+	</string>
+	<string id="mm_mp_demo">
+		<text>录像</text>
+	</string>
+	<string id="ui_st_mp_login">
+		<text>进入</text>
+	</string>
+	<string id="ui_st_mp_logout">
+		<text>退出</text>
+	</string>
+	<string id="ui_st_mp_create">
+		<text>创建</text>
+	</string>
+	<string id="mp_gp_unknown_email_or_bad_password">
+		<text>E-mail地址或密码错误</text>
+	</string>
+	<string id="mp_gp_parameter_error">
+		<text>档案错误</text>
+	</string>
+	<string id="mp_gp_network_error">
+		<text>连接错误</text>
+	</string>
+	<string id="mp_gp_server_error">
+		<text>服务器暂时不可用</text>
+	</string>
+	<string id="mp_gp_unknown_error_2">
+		<text>需要登录档案</text>
+	</string>
+	<string id="mp_gp_unknown_error_6">
+		<text>连接错误</text>
+	</string>
+	<string id="mp_gp_unknown_error_7">
+		<text>连接错误</text>
+	</string>
+	<string id="mp_gp_unknown_error_8">
+		<text>连接错误</text>
+	</string>
+	<string id="mp_gp_unknown_error_513">
+		<text>档案名错误</text>
+	</string>
+	<string id="mp_gp_unknown_error_514">
+		<text>密码错误</text>
+	</string>
+	<string id="mp_gp_unknown_error_515">
+		<text>昵称错误</text>
+	</string>
+	<string id="mp_gp_unknown_error_516">
+		<text>昵称已经被使用</text>
+	</string>
+	<string id="mp_first_need_to_login">
+		<text>请先登录你的档案</text>
+	</string>
+	<string id="mp_first_need_to_logout">
+		<text>请先登出你的档案</text>
+	</string>
+	<string id="mp_gamespy_http_error">
+		<text>连接档案服务器失败</text>
+	</string>
+	<string id="ui_st_you_cannot_delete_profile_after_creation">
+		<text>档案创建后将不能删除</text>
+	</string>
+	<string id="ui_mm_ssao_quality">
+		<text>SSAO质量</text>
+	</string>
+	<string id="ui_mm_ssao_text">
+		<text>SSAO模式</text>
+	</string>
+	<string id="ui_mm_ssao">
+		<text>默认</text>
+	</string>
+	<string id="ui_mm_hdao">
+		<text>HDAO</text>
+	</string>
+	<string id="ui_mm_hbao">
+		<text>HBAO</text>
+	</string>
+	<string id="ui_st_disable_hud">
+		<text>显示用户界面</text>
+	</string>
+	<string id="mp_gp_unique_nick_not_registred">
+		<text>昵称未注册.请先注册</text>
+	</string>
+	<string id="mp_gp_unique_nick_has_expired">
+		<text>昵称到期.请重新注册</text>
+	</string>
+	<string id="gd_stalker">
+		<text>潜行者</text>
+	</string>
+	<string id="st_opt_extreme">
+		<text>最高</text>
+	</string>
+	<string id="renderer_r4">
+		<text>全动态光影效果(DX11)</text>
+	</string>
+	<string id="mp_please_login">
+		<text>请登录后再连接到外界服务器.</text>
+	</string>
+	<string id="mp_already_logged_in">
+		<text>此GameSpy ID正在被使用.请使用其他的GameSpy ID.</text>
+	</string>
+	<string id="mp_gp_unknown_email">
+		<text>E-mail错误</text>
+	</string>
+	<string id="mp_gp_bad_password">
+		<text>密码错误</text>
+	</string>
+	<string id="mp_use_offline_mode">
+		<text>你不能使用GameSpy ID连接本地服务器.请使用局域网游戏模式.</text>
+	</string>
+	<string id="st_kicked_by_server">
+		<text>你被主机踢出.</text>
+	</string>
+	<string id="mp_you_have_been_banned_by">
+		<text>你的账号被管理员封停了:</text>
+	</string>
+	<string id="mp_you_have_been_banned_by_server">
+		<text>你的账号被主机封停了</text>
+	</string>
+	<string id="mp_server_info">
+		<text>服务器信息</text>
+	</string>
+	<string id="mp_gp_email_is_too_big">
+		<text>E-mail地址太长.输入字符不能超过50个.</text>
+	</string>
+	<string id="mp_gp_bad_email">
+		<text>E-mail地址错误</text>
+	</string>
+	<string id="mp_gp_password_is_too_small">
+		<text>密码过短</text>
+	</string>
+	<string id="mp_gp_password_is_too_big">
+		<text>密码过长</text>
+	</string>
+	<string id="mp_gp_no_email">
+		<text>E-mail地址没有找到</text>
+	</string>
+	<string id="mp_gp_no_unique_nick">
+		<text>未设置昵称</text>
+	</string>
+	<string id="mp_gp_unique_nick_is_too_big">
+		<text>昵称过长.输入字符不能超过30个.</text>
+	</string>
+	<string id="mp_gp_unique_nick_must_contain_only">
+		<text>昵称只能包含数字、字母及以下特殊符号:</text>
+	</string>
+	<string id="mp_gp_unique_nick_must_contain_nospaces">
+		<text>昵称不能包含空格</text>
+	</string>
+	<string id="mp_gp_unique_nick_bad_first_symbol">
+		<text>昵称不能以@、+、:或#开头</text>
+	</string>
+	<string id="st_opt_ultra">
+		<text>很高</text>
+	</string>
+	<string id="ui_mm_r4_enable_tessellation">
+		<text>细分曲面</text>
+	</string>
+	<string id="ui_mm_confirm_changes">
+		<text>应用更改吗?不应用设置将复原</text>
+	</string>
+</string_table>

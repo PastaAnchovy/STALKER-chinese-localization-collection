@@ -1,0 +1,567 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="ammo-11.43x23-fmj">
+		<text>.45 ACP 弹</text>
+	</string>
+	<string id="ammo-11.43x23-fmj_descr">
+		<text>.45口径的全金属被甲弹享有超过百年的知名度.这要归功于它们重弹头和低装药量的优点,也是因为如此,这种子弹初速度相对较慢,但是精度非常高并且能提供相当强的子弹的伤害能力.</text>
+	</string>
+	<string id="ammo-11.43x23-fmj_s">
+		<text>.45 ACP</text>
+	</string>
+	<string id="ammo-11.43x23-hydro">
+		<text>.45 ACP 空尖弹</text>
+	</string>
+	<string id="ammo-11.43x23-hydro_descr">
+		<text>这种子弹不太常见.这种.45 ACP口径的子弹由一个软的被甲外壳和弹头凹陷里一个钢芯构成.将一个软的被甲外壳和穿甲弹组合在一起,受益于这二者的优点,他的威力十分强大.它唯一的缺点就是被击中的目标将会非常痛苦.</text>
+	</string>
+	<string id="ammo-11.43x23-hydro_s">
+		<text>.45 空尖弹</text>
+	</string>
+	<string id="ammo-12x70-buck">
+		<text>12x70 霰弹</text>
+	</string>
+	<string id="ammo-12x70-buck_descr">
+		<text>标准的里面装满了6mm弹丸的12号口径霰弹.在近距离拥有致命的杀伤力,仅仅适用于滑膛武器.</text>
+	</string>
+	<string id="ammo-12x70-buck_s">
+		<text>12x70 霰弹</text>
+	</string>
+	<string id="ammo-12x76-zhekan">
+		<text>12x76 铅弹</text>
+	</string>
+	<string id="ammo-12x76-zhekan_descr">
+		<text>这种重型12号口径的铅弹通常用于一些重要的狩猎比赛,但是它在其他用途上同样也有很好的效果.它的铅块甚至能把潜行者的盔甲打一个对穿.</text>
+	</string>
+	<string id="ammo-12x76-zhekan_s">
+		<text>12x76 铅弹</text>
+	</string>
+	<string id="ammo-5.45x39-ap">
+		<text>5.45x39 mm AP 弹</text>
+	</string>
+	<string id="ammo-5.45x39-ap_descr">
+		<text>军用 5.45x39 7H22口径穿甲弹是专门为华约国家的自动步枪研制的.子弹包含一个硬合金穿甲弹弹头,其能够有效的打击各种类型的防弹衣.</text>
+	</string>
+	<string id="ammo-5.45x39-ap_s">
+		<text>5.45x39 AP</text>
+	</string>
+	<string id="ammo-5.45x39-fmj">
+		<text>5.45x39 mm 弹</text>
+	</string>
+	<string id="ammo-5.45x39-fmj_descr">
+		<text>军用5.45x39 7H10改进型冲孔枪弹是为华约国家的自动步枪而研制.它的后坐力相对于普通的7.62口径弹药减小了很多,而且提高了100米范围内的精确度.</text>
+	</string>
+	<string id="ammo-5.45x39-fmj_s">
+		<text>5.45x39</text>
+	</string>
+	<string id="ammo-5.56x45-ap">
+		<text>5.56x45 mm AP 弹</text>
+	</string>
+	<string id="ammo-5.56x45-ap_descr">
+		<text>一种北约制式的军用5.56x45口径穿甲弹,根据已知SS190/M855的规格制造,种弹药被西方的安全机构和特殊部门广泛使用.它能有效地穿透多种类型的防弹衣.</text>
+	</string>
+	<string id="ammo-5.56x45-ap_s">
+		<text>5.56x45 mm AP</text>
+	</string>
+	<string id="ammo-5.56x45-ss190">
+		<text>5.56x45 mm 弹</text>
+	</string>
+	<string id="ammo-5.56x45-ss190_descr">
+		<text>标准型的北约制式5.56x45口径子弹.专门为高精度火力打击而特别设计的子弹.它的弹道特性非常好,它是根据众所周知的SS109狩猎型枪弹指数而设计的.</text>
+	</string>
+	<string id="ammo-5.56x45-ss190_s">
+		<text>5.56x45</text>
+	</string>
+	<string id="ammo-7.62x54-7h14">
+		<text>7.62x54 mm 7H1 弹</text>
+	</string>
+	<string id="ammo-7.62x54-7h14_descr">
+		<text>这是一种为SVD狙击步枪专门设计的7.62口径的钢芯穿甲弹.和机枪的弹药不同,7H1能够提供严密的集中弹着点和优秀的侵切特性.</text>
+	</string>
+	<string id="ammo-7.62x54-7h14_s">
+		<text>7.62x54 7H1</text>
+	</string>
+	<string id="ammo-7.62x54-ap">
+		<text>7.62x54 mm PP 弹</text>
+	</string>
+	<string id="ammo-7.62x54-ap_descr">
+		<text>一种价格低廉的7.62口径的机枪弹.它并不是为狙击步枪而设计的,因此它只能用于PKM机枪.</text>
+	</string>
+	<string id="ammo-7.62x54-ap_s">
+		<text>7.62x54 PP</text>
+	</string>
+	<string id="ammo-9x18-fmj">
+		<text>9x18 mm 弹</text>
+	</string>
+	<string id="ammo-9x18-fmj_descr">
+		<text>一种外面包裹着金属被甲的铅芯全金属被甲弹.它能提供非常好的子弹的伤害能力,但是在防弹衣面前它毫无办法.</text>
+	</string>
+	<string id="ammo-9x18-fmj_s">
+		<text>9x18</text>
+	</string>
+	<string id="ammo-9x18-pmm">
+		<text>9x18 mm +P+ 弹</text>
+	</string>
+	<string id="ammo-9x18-pmm_descr">
+		<text>这种子弹的子弹的伤害能力非常强劲,但是在欧洲+P+却是超过了标准初速30%的"超压弹药".此弹药对防弹衣无效.</text>
+	</string>
+	<string id="ammo-9x18-pmm_s">
+		<text>9x18 +P+</text>
+	</string>
+	<string id="ammo-9x19-fmj">
+		<text>9x19 mm FMJ 弹</text>
+	</string>
+	<string id="ammo-9x19-fmj_descr">
+		<text>这基本的9x19口径的被甲弹虽然是简单工艺生产的,但是它有非常好的特性.这种弹药之所以流行的原因是国际公约禁止在战斗中扩大弹药的使用量.此弹药对防弹衣无效.</text>
+	</string>
+	<string id="ammo-9x19-fmj_s">
+		<text>9x19 FMJ</text>
+	</string>
+	<string id="ammo-9x19-pbp">
+		<text>9x19 mm JHP 弹</text>
+	</string>
+	<string id="ammo-9x19-pbp_descr">
+		<text>这种9x19口径的被甲空尖弹子弹的伤害能力被进一步增强并且有效降低了跳弹问题.是警用和个人自卫不错的选择.由于其侵切力低,所以对防弹衣无效.</text>
+	</string>
+	<string id="ammo-9x19-pbp_s">
+		<text>9x19 JHP</text>
+	</string>
+	<string id="ammo-9x39-ap">
+		<text>9x39 mm SP-6 弹</text>
+	</string>
+	<string id="ammo-9x39-ap_descr">
+		<text>SP-6是一种亚音速被甲空尖弹头型的突击步枪弹药,它的弹头外壳包裹着硬钢芯.此弹药主要提供给华约国家特殊部门使用.配合消音器使用隐蔽效果最好,而且能够有效的对付防弹衣.</text>
+	</string>
+	<string id="ammo-9x39-ap_s">
+		<text>9x39 SP-6</text>
+	</string>
+	<string id="ammo-9x39-pab9">
+		<text>9x39 mm SP-5 弹</text>
+	</string>
+	<string id="ammo-9x39-pab9_descr">
+		<text>SP-5是一种弹头具有双重金属外壳的亚音速狙击弹.此弹药的弹头内包含一个钢芯中间一些间隔然后是铅芯.配合消音器使用此弹药隐蔽效果最好.专供华沙国家特殊部门使用.</text>
+	</string>
+	<string id="ammo-9x39-pab9_s">
+		<text>9x39 mm SP-5</text>
+	</string>
+	<string id="ammo-gauss">
+		<text>高斯电磁弹</text>
+	</string>
+	<string id="ammo-m209">
+		<text>M203 枪榴弹</text>
+	</string>
+	<string id="ammo-m209_descr">
+		<text>M203榴弹发射器专用的40mm榴弹.这种榴弹的杀伤范围为5米.它同样适用于F2000的自带榴弹发射器.</text>
+	</string>
+	<string id="ammo-m209_s">
+		<text>M203</text>
+	</string>
+	<string id="ammo-og-7b">
+		<text>OG-7V 火箭弹</text>
+	</string>
+	<string id="ammo-og-7b_descr">
+		<text>RPG-7V 火箭筒在战斗中大多都是靠爆炸破片杀伤敌方人员目标.这种手持式的RPG-7V火箭筒主要用于杀伤掩体后面的敌人.</text>
+	</string>
+	<string id="ammo-og-7b_s">
+		<text>OG-7V</text>
+	</string>
+	<string id="ammo-vog-25">
+		<text>VOG-25 枪榴弹</text>
+	</string>
+	<string id="ammo-vog-25_descr">
+		<text>这种高密度破片榴弹专门用于科斯特GP-25枪挂式榴弹发射器.这种榴弹的杀伤范围为5米.此榴弹也同样适用于"雷电"14的一体化榴弹发射器和RG-6六管榴弹发射器.</text>
+	</string>
+	<string id="ammo-vog-25_s">
+		<text>VOG-25</text>
+	</string>
+	<string id="st_addon_scope">
+		<text>PSO-1m 瞄准镜</text>
+	</string>
+	<string id="st_addon_scope_descr">
+		<text>一种苏制的5x固定倍数可光学变焦的通用瞄准镜.通过一些小工具就可以安装在武器上,是华约国家的标准装备.</text>
+	</string>
+	<string id="st_addon_scope_detector">
+		<text>PSS-2x 瞄准镜</text>
+	</string>
+	<string id="st_addon_scope_detector_descr">
+		<text>一种5x固定倍数的瞄准镜,但其内置的热源探测器可以用来探测人类或其它有生目标.特种部队专用瞄准镜.通过一些小工具就可以安装在武器上.</text>
+	</string>
+	<string id="st_addon_scope_night_vision">
+		<text>NSPU-3 瞄准镜</text>
+	</string>
+	<string id="st_addon_scope_night_vision_descr">
+		<text>一种图像增强型5x固定倍数的夜视瞄准镜,适合在黑暗环境下作战时使用.通过一些小工具就可以安装在武器上.</text>
+	</string>
+	<string id="st_addon_scope_susat">
+		<text>SUSAT 4x 瞄准镜</text>
+	</string>
+	<string id="st_addon_scope_susat_custom_descr">
+		<text>一种可以在1.6-4x间变焦的可变倍型瞄准镜,可以根据当前的需要自行调节,能够明显的增加武器的有效射程.可以安装在任何有北约标准皮卡汀尼导轨的武器上.</text>
+	</string>
+	<string id="st_addon_scope_susat_descr">
+		<text>主要在西方国家生产的一种4x的固定倍数瞄准镜.可以安装在任何有北约标准皮卡汀尼导轨的武器上.通常用于提高轻武器在中远距离间的火力精确度.</text>
+	</string>
+	<string id="st_addon_scope_susat_dusk">
+		<text>SUSAT x1.6 微光瞄准镜</text>
+	</string>
+	<string id="st_addon_scope_susat_dusk_descr">
+		<text>一种能在低照明条件下提供高对比画面的SUSAT 1.6x光学瞄准镜.可以安装在任何有北约标准皮卡汀尼导轨的武器上.</text>
+	</string>
+	<string id="st_addon_scope_susat_night_vision">
+		<text>SUSAT x4 夜视瞄准镜</text>
+	</string>
+	<string id="st_addon_scope_susat_night_vision_descr">
+		<text>一种适合在黑暗环境下作战时使用的4.0x固定倍数的夜视瞄准镜.可以安装在任何有北约标准皮卡汀尼导轨的武器上.</text>
+	</string>
+	<string id="st_addon_scope_susat_x1.6">
+		<text>SUSAT 1.6x 瞄准镜</text>
+	</string>
+	<string id="st_addon_scope_susat_x1.6_descr">
+		<text>一种适合在中距离作战时使用的SUSAT 1.6x光学瞄准镜.可以安装在任何有北约标准皮卡汀尼导轨的武器上.</text>
+	</string>
+	<string id="st_addon_scope_x2.7">
+		<text>PSU-1 瞄准镜</text>
+	</string>
+	<string id="st_addon_scope_x2.7_descr">
+		<text>一种城市作战中距离战斗专用的2.7x光学瞄准镜.通过一些小工具就可以安装在武器上.</text>
+	</string>
+	<string id="st_addon_silencer">
+		<text>消音器</text>
+	</string>
+	<string id="st_addon_silencer_descr">
+		<text>一种效果非常棒的消音器,它可以根据你的需要随时随地的使用.在消音器本体的外围有一层做工精细的细铜网,同时在消音器前端子弹头通过的部分有一层金属隔膜.此消音器上的特殊适配器让它可以适用于大多数武器.通常在敌方人数不多时使用.</text>
+	</string>
+	<string id="st_grenade_f1">
+		<text>F1 手雷</text>
+	</string>
+	<string id="st_grenade_f1_descr">
+		<text>一种防御型手雷,它的破片拥有能够穿透中级防弹衣的能力.该手雷的杀伤半径为7米.很多潜行者都是从军方那儿购买到的F1手雷,谁能想到现在却被用来和基因突变的动物战斗.</text>
+	</string>
+	<string id="st_grenade_launcher">
+		<text>GP-25</text>
+	</string>
+	<string id="st_grenade_launcher_descr">
+		<text>一种单发的,前装式的,在华约国家的突击步枪中广泛使用的有膛线式的枪挂式榴弹发射器.它的发射机理是自行弹射,它有一个手动保险,而且如果没有正确的安装在步枪上的话它会自动报警.使用VOG-25榴弹.</text>
+	</string>
+	<string id="st_grenade_launcher_m203">
+		<text>M203</text>
+	</string>
+	<string id="st_grenade_launcher_m203_descr">
+		<text>一种缩短了3英寸的改进型M203榴弹发射器,可以安装在任何护木下带有皮卡汀尼导轨的武器上.由于其改变了以往的安装方式,这种榴弹发射器被广泛的用于世界各地.</text>
+	</string>
+	<string id="st_grenade_rgd5">
+		<text>RGD-5 手雷</text>
+	</string>
+	<string id="st_grenade_rgd5_descr">
+		<text>一种杀伤范围为5米的轻型的进攻型手雷.由于其成本较低,潜行者们通常都是用它来驱散一些变异生物.</text>
+	</string>
+	<string id="st_grenade_smoke">
+		<text>烟雾弹</text>
+	</string>
+	<string id="st_grenade_smoke_descr">
+		<text>一种手持烟雾弹.用于制造烟幕.一旦烟雾弹被抛出它将在10秒内制造出一片庞大的烟幕.</text>
+	</string>
+	<string id="st_knife">
+		<text>匕首</text>
+	</string>
+	<string id="st_wpn_abakan">
+		<text>AN-94</text>
+	</string>
+	<string id="st_wpn_ak74">
+		<text>AKS-74</text>
+	</string>
+	<string id="st_wpn_ak74u">
+		<text>AKS-74U</text>
+	</string>
+	<string id="st_wpn_beretta">
+		<text>M92FS</text>
+	</string>
+	<string id="st_wpn_bm16">
+		<text>短双管猎枪</text>
+	</string>
+	<string id="st_wpn_bm16_descr">
+		<text>一种并排双枪管型的短管猎枪,它比的长枪管型的猎枪重量更轻,外形更紧凑.由于它带在身上及其的隐蔽性并且在近战中有非常致命的杀伤力,它是在强盗们中最流行的武器之一.</text>
+	</string>
+	<string id="st_wpn_colt1911">
+		<text>M1911</text>
+	</string>
+	<string id="st_wpn_desert_eagle_nimble">
+		<text>草原之鹰</text>
+	</string>
+	<string id="st_wpn_desert_eagle_nimble_descr">
+		<text>一把以沙漠之鹰为原形纯手工制作的手枪.其中微微的调试改装了一些组件从而令这把手枪达到了令人难以置信的精确度.</text>
+	</string>
+	<string id="st_wpn_eagle">
+		<text>沙漠之鹰</text>
+	</string>
+	<string id="st_wpn_fn2000">
+		<text>F-2000</text>
+	</string>
+	<string id="st_wpn_fort">
+		<text>Fora-12</text>
+	</string>
+	<string id="st_wpn_g36">
+		<text>G36</text>
+	</string>
+	<string id="st_wpn_gauss">
+		<text>高斯步枪</text>
+	</string>
+	<string id="st_wpn_groza">
+		<text>雷电 14</text>
+	</string>
+	<string id="st_wpn_groza_descr">
+		<text>这种突击步枪的枪管下方带有一个榴弹发射器,这把枪和AKM系列有很多相似之处,以前此枪专门装备给快速反应部队.它的主要优势在于它使用的是9x39mm口径的弹药和整枪紧凑的布局和大量的可选择配件.因为这种枪完全能够杀伤身穿防弹衣的敌人,特别是在城市战中表现相当不俗,所以在军方潜行者中大量的装备,此枪的子弹的伤害能力也是相当的出色.</text>
+	</string>
+	<string id="st_wpn_groza_nimble">
+		<text>风暴</text>
+	</string>
+	<string id="st_wpn_groza_nimble_descr">
+		<text>一把突击步枪和榴弹发射器综合武器系统的实验型,是俄罗斯人用标准版的"雷电"14改装而成的,这把枪是为变异区里的特殊潜行者而特别设计的.其弹匣的弹容量也有所增加.</text>
+	</string>
+	<string id="st_wpn_hpsa">
+		<text>HP MarkIII</text>
+	</string>
+	<string id="st_wpn_hpsa_descr">
+		<text>一把20世纪上半叶生产的手枪的改进型,但是其非常可靠,而且它原本就有强大的杀伤力和精确度.这种手枪绝对能够获得20世纪最佳手枪的美誉,而且它在变异区里的需求量非常大.</text>
+	</string>
+	<string id="st_wpn_l85">
+		<text>SA 80</text>
+	</string>
+	<string id="st_wpn_lr300">
+		<text>LR 300</text>
+	</string>
+	<string id="st_wpn_mp5">
+		<text>MP5</text>
+	</string>
+	<string id="st_wpn_mp5_descr">
+		<text>由于它性能可靠,外形出众,操作方便和高精确度,这种冲锋枪在世界各地都大受欢迎.在过去的几十年里在全世界很多知名特种部队和武装军警部队里都能见到MP5的身影.毫无疑问,它最终也是从全球的各个军火黑市流入进了变异区.</text>
+	</string>
+	<string id="st_wpn_mp5_nimble">
+		<text>弗雷泽MP5</text>
+	</string>
+	<string id="st_wpn_mp5_nimble_descr">
+		<text>一种以MP5原型为基础改装的冲锋枪.是设计为下一代近距离作战武器,它的优点是增大了口径,射速和准确度.</text>
+	</string>
+	<string id="st_wpn_pb">
+		<text>PB 6P9</text>
+	</string>
+	<string id="st_wpn_pkm_zulus">
+		<text>祖鲁专用PKM</text>
+	</string>
+	<string id="st_wpn_pkm_zulus_descr">
+		<text>这把机枪以前是祖鲁专用的.它特殊的之处是一个大容量的弹箱和一个即独特而又非常可靠的复进系统.当然,这样的改装也意味着武器的重量也增加了,但是这对于它的前主人来说绝不是个问题.</text>
+	</string>
+	<string id="st_wpn_pm">
+		<text>PMM</text>
+	</string>
+	<string id="st_wpn_pm_actor">
+		<text>马卡洛夫PMM</text>
+	</string>
+	<string id="st_wpn_pm_actor_descr">
+		<text>一把过时了的马卡洛夫手枪是加廖夫最好的赏赐"在极度危险的国情下被成功的生产出来,以及用英勇的表现来履行责任."</text>
+	</string>
+	<string id="st_wpn_protecta">
+		<text>打击者</text>
+	</string>
+	<string id="st_wpn_rg6">
+		<text>RG-6</text>
+	</string>
+	<string id="st_wpn_rg6_descr">
+		<text>这种前装式榴弹发射器采用的是六发容量的转轮弹仓,六个榴弹仓清一色全是前装式的.其广泛用于对敌阵地进行迅速的火力压制,在空旷地带时,能够对固定目标或变异生物进行疯狂的致命打击.</text>
+	</string>
+	<string id="st_wpn_rp">
+		<text>PKM</text>
+	</string>
+	<string id="st_wpn_rp_descr">
+		<text>这把机枪为了达到便携式目的而改造了带有一种复杂的双重压力供给系统.虽然它的重量有点高,精度有点低,但这把轻机枪在变异区里还是有很多的崇拜者.它主要用于在派系战争里击退数量上超过你的敌军或是清除变异生物的巢穴.</text>
+	</string>
+	<string id="st_wpn_rpg7">
+		<text>RPG-7V</text>
+	</string>
+	<string id="st_wpn_sig220">
+		<text>SIG P220</text>
+	</string>
+	<string id="st_wpn_sig220_nimble">
+		<text>阿尔卑斯P220</text>
+	</string>
+	<string id="st_wpn_sig220_nimble_descr">
+		<text>一把独特的改装型SIG P220手枪.这些为数不多的限量版被一些身份不明的特种部队使用.它的弹匣容量有所增加,它的枪管用的是加强的高耐久度钢材和聚合物打造.</text>
+	</string>
+	<string id="st_wpn_sig550">
+		<text>SG-551</text>
+	</string>
+	<string id="st_wpn_sig550_descr">
+		<text>这把新式的突击步枪一经推出在世界各地很快出现了一批崇拜者,尽管它的外形设计有点缺少"时尚"元素.但它在这一类型的武器里是最优秀的之一,它的可靠性,精确度和操作简便早就享有盛名.这把突击步枪一般都是经验丰富和财大气粗的潜行者才能使用,在变异区里想要弄到一把是比较困难的.</text>
+	</string>
+	<string id="st_wpn_sig550_strelok">
+		<text>史特列洛克专用SG-551</text>
+	</string>
+	<string id="st_wpn_sig550_strelok_descr">
+		<text>一把瑞士生产的突击步枪.尽管它已经略显陈旧,但很显然它的前主人对它爱护有加:该武器曾被拆卸,每个部件经过精心调试至最佳效果后重新组装,加强了子弹的伤害能力.在16个小切口之间刻着字母"S".</text>
+	</string>
+	<string id="st_wpn_spas12">
+		<text>SPAS-12</text>
+	</string>
+	<string id="st_wpn_spas12_m2">
+		<text>震撼者</text>
+	</string>
+	<string id="st_wpn_spas12_m2_descr">
+		<text>震撼者半自动霰弹枪只在纪律团的工厂生产.这种武器主要用于打击大群的变异生物.其改良后的供弹系统提高了武器的射速,并且把弹容量也提升到了10发.使用12x70口径霰弹.</text>
+	</string>
+	<string id="st_wpn_spas12_nimble">
+		<text>独角兽</text>
+	</string>
+	<string id="st_wpn_spas12_nimble_descr">
+		<text>一把以军用SPAS-12霰弹枪为原型而为突击小组专门设计的霰弹枪.和它的原型枪一样可以半自动射击,但它的后坐力由于改进的缓冲装置而变的更小了.</text>
+	</string>
+	<string id="st_wpn_svd">
+		<text>SVD</text>
+	</string>
+	<string id="st_wpn_svd_descr">
+		<text>一把军用狙击步枪,凭借着其卓越的可靠性和简便的操作性为其挣得了极好的声誉,它在市场上和军队中服役已经超过了50年.SVD狙击步枪通常是用来增加军队的火力打击范围,但是潜行者们看中的却是这把武器强劲的穿甲性能,它能够轻易的击穿变异生物厚厚的皮肤或是潜行者的军用盔甲.</text>
+	</string>
+	<string id="st_wpn_svd_nimble">
+		<text>山猫</text>
+	</string>
+	<string id="st_wpn_svd_nimble_descr">
+		<text>一把纯手工组装版本的SVD狙击步枪.在外观上并没有什么不同,但是它的综合性能,精确度和子弹的伤害能力被改装的更强了.</text>
+	</string>
+	<string id="st_wpn_svu">
+		<text>SVU</text>
+	</string>
+	<string id="st_wpn_svu_nimble">
+		<text>猎豹SVU</text>
+	</string>
+	<string id="st_wpn_svu_nimble_descr">
+		<text>这把改装后的SVU狙击步枪射速进一步增加.这把武器之前是属于马克斯的,有着传奇身世的自由团的守护者.</text>
+	</string>
+	<string id="st_wpn_toz34">
+		<text>双管猎枪</text>
+	</string>
+	<string id="st_wpn_toz34_descr">
+		<text>这种极为常见的上下排列的双管猎枪能够对变异生物造成的伤害绝对高于手枪,由于准确度和子弹的伤害能力还算行.使用它的大多是在变异区周边活动的新手.</text>
+	</string>
+	<string id="st_wpn_umirotvoritel">
+		<text>不明武器</text>
+	</string>
+	<string id="st_wpn_umirotvoritel_descr">
+		<text>一种从未知的武器,它的发射原理至今不明.这把武器看来出现了故障,扣动扳机后什么反应也没有.</text>
+	</string>
+	<string id="st_wpn_usp">
+		<text>USP 战术型</text>
+	</string>
+	<string id="st_wpn_usp_descr">
+		<text>这把武器最值得你注意的是它那无可挑剔的可靠性和出色的耐用性,另外,它的精确度也是绝对令人满意的.它唯一的小缺点是它的尺寸有点大,重心相对的较高,所以想要把它隐蔽地带在身上可能有点麻烦,但是这些绝对掩盖不住它的优点.这种武器尤其受退伍的军方潜行者欢迎.</text>
+	</string>
+	<string id="st_wpn_usp_nimble">
+		<text>蝴蝶</text>
+	</string>
+	<string id="st_wpn_usp_nimble_descr">
+		<text>一种外形紧凑,枪管短后座式,轻型聚合物部件的大口径手枪.这把枪之前一直属于一个名叫猎犬的雇佣兵.这把枪似乎是改装后的USP战术型手枪.</text>
+	</string>
+	<string id="st_wpn_val">
+		<text>AS-VAL</text>
+	</string>
+	<string id="st_wpn_vintorez">
+		<text>VSS</text>
+	</string>
+	<string id="st_wpn_vintorez_descr">
+		<text>一种特种部队专用的微声狙击步枪,在特殊的狙击行动中保证狙击手不被发现是非常重要的.VSS的穿甲能力和子弹的伤害能力都非常优秀,而且它还配备了一个综合性能很棒的光学瞄准镜.虽然它的弹容量有点小,但是很多潜行者都给了它极高的评价.</text>
+	</string>
+	<string id="st_wpn_vintorez_nimble">
+		<text>静电</text>
+	</string>
+	<string id="st_wpn_vintorez_nimble_descr">
+		<text>一把以VSS为原型,为军方潜行者特别研制的微声狙击步枪.它的子弹的伤害能力比VSS更高,不过这是以牺牲它的射速为代价换来的.如果你找个好的射击点,完全可以一个一个地干掉对方一整队人.</text>
+	</string>
+	<string id="st_wpn_walther">
+		<text>沃尔特 P99</text>
+	</string>
+	<string id="st_wpn_wincheaster1300">
+		<text>温彻斯特M1300</text>
+	</string>
+	<string id="st_wpn_wincheaster1300_descr">
+		<text>一种在西方非常受欢迎的霰弹枪,它具有惊人的可靠性,而且重新装弹的速度也很快.这把枪对于变异区里的猎人们来说几乎是人手一把.它的各个零部件都涂有复合防锈涂层.</text>
+	</string>
+	<string id="st_wpn_wincheaster1300_trapper">
+		<text>捕食者</text>
+	</string>
+	<string id="st_wpn_wincheaster1300_trapper_descr">
+		<text>一把为特拉皮尔量身定做的泵动式霰弹枪.对于猎人来说,对武器唯一的要求就是在面对猎物的时候能一枪毙命.这是一种猎人的信仰:无论多少人或猎物死在自己的枪口下,它们毕竟都是动物,不应该承受太多的痛苦.</text>
+	</string>
+	<string id="ammo-gauss_cardan">
+		<text>自制的电池</text>
+	</string>
+	<string id="st_addon_scope_susat_custom">
+		<text>SUSAT "梅拉"瞄准镜</text>
+	</string>
+	<string id="st_wpn_abakan_descr">
+		<text>一种更现代的突击步枪.它的研制是为了更换已经过时的AKM 74/2.它和后者最大的区别就是它的高速两发点射模式,在这种模式下,100米内开枪可以让两颗子弹的着弹点几乎重叠.相对于单发点射模式,它大大的增加了枪手的首发命中率,也显著的增强了致命率,子弹的伤害能力和穿甲能力.</text>
+	</string>
+	<string id="st_wpn_ak74_descr">
+		<text>这种武器在1974年设计的,它的诞生标志着华约国家的制式武器朝着小口径和低初速的方向发展.后来它成为了世界上最流行的突击步枪之一,AKM 74/2有一个更大的枪口制退器,它大大的减轻了发射时的后坐力.这样就能有效的提高射击精确度和集弹能力,尤其是在快速的单发点射或是全自动射击时.这把步枪一如既往的那么简单可靠.</text>
+	</string>
+	<string id="st_wpn_ak74u_descr">
+		<text>尽管它的尺寸大小,重量和战术目的类似于冲锋枪,这个武器却被列入了突击步枪的范畴里,原因在于它的内部机制和AKM 74/2是相同的.这个武器的特点是它的便携性和近距离内强力的穿甲能力,而它的缺点是有效射程较短,虽然它的枪管较长,但全自动射击下容易过热并且有跳弹倾向.</text>
+	</string>
+	<string id="st_wpn_colt1911_descr">
+		<text>一种典型的自动手枪的改装版,它几乎经历了20世纪所有的重大军事行动并且以其卓越的性能昂首进入了新千年.在世界各地有几十个甚至数百个经过授权的武器制造商在生产它.这种武器的唯一缺点,其弹容量较低,不过其强大的杀伤力可以弥补它弹匣容量的不足.</text>
+	</string>
+	<string id="st_wpn_eagle_descr">
+		<text>一把有些笨重的"手持大炮",但是它的杀伤力绝对致命.作为一种专门为中型和大型狩猎比赛而开发的武器,能够击穿50米外的钢体.它在变异区里的数量极为有限,因为它的价格,尺寸和重量,这些都是其他手枪的两倍.</text>
+	</string>
+	<string id="st_wpn_fn2000_descr">
+		<text>这把武器看起来有点像未来的高科技武器,但实际上它是在模块化系统中大规模生产的,它有一套数字化火控系统,包括了一个步枪和40mm榴弹发射器的综合体.尽管外观显得有点笨重,这个武器操作性却相当的好,它不仅浑身充满高科技而且简单易用.</text>
+	</string>
+	<string id="st_wpn_fort_descr">
+		<text>一种乌克兰制造的主要供给执法部门使用的手枪.它具有更高的精确度,更好的人体工程学和一个比马卡洛夫手枪容量大的弹匣.这把手枪因为是在变异区内制造的,卖出的有不少都是有缺陷的,在早期的模型设计中有不少技术方面的失误.尽管如此,这把手枪因为有不少特色的地方,它还是被不少潜行者使用.</text>
+	</string>
+	<string id="st_wpn_g36_descr">
+		<text>一个在西方制造的突击步枪家族中的新成员,它和以往的型号里比较显著的不同之处是,这个系列是在自动化的基础上采用半开放式螺栓装配而成,这个武器更像是美国的那种全自动活塞系统的短行程导气式突击步枪.这些改进确保了这把步枪是目前一流的轻重量级步枪,可靠并且符合人体工程学.</text>
+	</string>
+	<string id="st_wpn_l85_descr">
+		<text>这种步枪大量的缺点造成了这种武器根本不及大多数现代化武器,它库存的那些通过黑市被秘密的流通到了变异区里.这把步枪的主要优点就是它内置的4x倍率的瞄准镜,单发精确度比较高而且升级的空间比较大.当这把武器全自动射击的时候,它的精确度将会明显的降低而且它的内部的一些部件磨损的会比较严重.</text>
+	</string>
+	<string id="st_wpn_lr300_descr">
+		<text>在世界名枪家族里的一个新成员.它的改变包括:导气管,枪栓以及上半部机匣全部改用钢材料,减轻了枪身重量,改进了人体工程学系统和导气系统.这种武器的精确度非常高,尽管这种武器非常容易因为堆积污垢而出现故障,但在变异区里的特殊时期还是有不少贫穷的潜行者会选择它.</text>
+	</string>
+	<string id="st_wpn_pb_descr">
+		<text>这种手枪是在20世纪下半叶以PMM手枪为基础而为特种部队和侦察部队特别研制的.这把手枪的枪管上有一个整体式的消音器,它采用短行程后坐式自动原理,它有一个特殊装置用以防止弹壳向后弹射影响射手射击,它就在武器的握把处.虽说这武器看起来有点过时,但它仍然是一把值得你握在手中的武器.</text>
+	</string>
+	<string id="st_wpn_pm_descr">
+		<text>这把手枪是苏联时期遗留下来的,同时也是变异区内最常见的小型手枪自卫手枪.它体型小,可靠性高,平时的使用和保养都非常的简单.但它同样也有一些缺点,它的射程比较短,精确度和子弹的伤害能力也不怎么理想,同时,它的重量和弹容量也和现代手枪不在一个级别之上.</text>
+	</string>
+	<string id="st_wpn_protecta_descr">
+		<text>一种左轮手枪型供弹方式的滑膛战斗霰弹枪,它是专门为军方提供近距离极端火力用的.这个武器最大的优点是它的大容量弹鼓和极高的射速,但是它体型比较笨重并且重量也不轻,再加上从重装弹比较费时间,当然,有得必有失嘛.它在变异区里是比较稀有的武器,它主要用于清除封闭空间内的变异生物.</text>
+	</string>
+	<string id="st_wpn_rpg7_descr">
+		<text>这种榴弹发射器大概是在20世纪60年代出现在变异区里的军方仓库里的.该武器是一种滑膛式的单发无后坐力发射系统.它自带有一个PGO-7 x2.7倍率的光学瞄准镜.虽然它庞大的体积和重量导致它不大可能会成为潜行者们追求之物,但鉴于其强大的破坏力和简单易懂的操作性,它在变异区内还是有不少的崇拜者.</text>
+	</string>
+	<string id="st_wpn_sig220_descr">
+		<text>唯一一种被长期大规模生产的世界名枪,这种武器因为其出色的操作性和极高的精确度而赢得了很好的声誉,虽然它的弹匣容量较小,但它的枪弹杀伤力非常强大,而且它的做工简直像瑞士名表一样精良.有很多人都认为SIG P220是大规模生产的.45ACP口径手枪中最受经验丰富的独行者和佣兵潜行者青睐的手枪.</text>
+	</string>
+	<string id="st_wpn_spas12_descr">
+		<text>这种特殊用途的半自动滑膛霰弹枪设计于20世纪下半叶,它带有泵动式和半自动两种射击方式.它是警察和特种突击队手中的万能武器.最值得一提的是它的可靠性和战术上的灵活性.尽管它的有点重,结构比较复杂,价格也不菲.但是由于它能有效地对付变异生物,所以这种武器总能受到潜行者的欢迎.</text>
+	</string>
+	<string id="st_wpn_svu_descr">
+		<text>一把SVDm-2狙击步枪的现代版,它采用了犊牛式设计,专门配置给战斗节奏快速的特攻部队.它拥有更快的射速,不过它的枪焰也更亮,在中近距离上的单发射击情况下,它的精确度和SVD不相上下.它出色的性能得到了无数的潜行者的赞赏.</text>
+	</string>
+	<string id="st_wpn_val_descr">
+		<text>一把改进版的VSS微声狙击步枪,这种具有突击步枪特性的武器是专门为特种部队量身打造的.这种步枪主要用于打击装备了先进防护服的敌人,同时不暴露枪手的位置.由于使用了9x39口径的重型亚音速子弹和它的一体化消音器,它的枪声和枪焰已经已经降到最低.</text>
+	</string>
+	<string id="st_wpn_gauss_descr">
+		<text>被称为62号项目的高精准先进武器.这种步枪是变异区内的秘密实验室开发和设计的.该武器的发射原理是:通过电磁系统给特殊弹头加速,当速度到达极限的时候再发射出去.它的子弹拥有难以置信的伤害能力,而且步枪几乎没有后坐力.这种武器的弹药是一种内置神器碎片的特殊电池.</text>
+	</string>
+	<string id="st_wpn_beretta_descr">
+		<text>M92F手枪的可靠性一直都是比较高的,虽然这把手枪稍微有点重,但它依然响誉全世界.武装部队和海岸警卫部门都配置了这种手枪,在世界上还有很多军队和执法机构也爱使用它.因为出色的伤害能力和不小的弹容量,这把手枪同样也受到世界各地的黑社会成员的欢迎,.M92F在变异区里还是比较常见的,很可能是从军方旧仓库流入的.</text>
+	</string>
+	<string id="st_wpn_walther_descr">
+		<text>一把由西方制造的出色手枪,它以高可靠性,高弹匣容量和高精确度而闻名.它拥有同类手枪中最好的手感.可以说是变异区中使用最广泛的手枪之一,只要潜行者们买得起,无论是新手还是老手喜欢使用它.</text>
+	</string>
+	<string id="ammo-gauss_descr">
+		<text>这些电池的能源核心是一块闪光神器的碎片.它以高科技设备制造.</text>
+	</string>
+	<string id="ammo-gauss_cardan_descr">
+		<text>这些低容量的电池的核心是闪光神器的碎片.因为这只是高斯电池的替代品而且缺乏专门的生产设备,所以它们的能量较低.</text>
+	</string>
+</string_table>

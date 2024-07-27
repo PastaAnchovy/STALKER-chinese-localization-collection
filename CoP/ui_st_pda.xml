@@ -1,0 +1,278 @@
+<string_table>
+	<string id="Time">
+		<text>时间</text>
+	</string>
+	<string id="actor">
+		<text>独行者</text>
+	</string>
+	<string id="army">
+		<text>军队</text>
+	</string>
+	<string id="bandit">
+		<text>强盗</text>
+	</string>
+	<string id="dolg">
+		<text>纪律团</text>
+	</string>
+	<string id="ecolog">
+		<text>科学家</text>
+	</string>
+	<string id="filter_secondary_tasks_text">
+		<text>次要任务</text>
+	</string>
+	<string id="filter_treasures_text">
+		<text>隐藏点</text>
+	</string>
+	<string id="freedom">
+		<text>自由团</text>
+	</string>
+	<string id="killer">
+		<text>雇佣兵</text>
+	</string>
+	<string id="missions_list">
+		<text>任务列表</text>
+	</string>
+	<string id="monolith">
+		<text>黑石组织</text>
+	</string>
+	<string id="monster">
+		<text>变异怪物</text>
+	</string>
+	<string id="month_april">
+		<text>4月</text>
+	</string>
+	<string id="month_august">
+		<text>8月</text>
+	</string>
+	<string id="month_december">
+		<text>12月</text>
+	</string>
+	<string id="month_february">
+		<text>2月</text>
+	</string>
+	<string id="month_january">
+		<text>1月</text>
+	</string>
+	<string id="month_july">
+		<text>7月</text>
+	</string>
+	<string id="month_june">
+		<text>6月</text>
+	</string>
+	<string id="month_march">
+		<text>3月</text>
+	</string>
+	<string id="month_may">
+		<text>5月</text>
+	</string>
+	<string id="month_november">
+		<text>11月</text>
+	</string>
+	<string id="month_october">
+		<text>10月</text>
+	</string>
+	<string id="month_september">
+		<text>9月</text>
+	</string>
+	<string id="pda_btn_close">
+		<text>关闭PDA</text>
+	</string>
+	<string id="pda_btn_logs">
+		<text>消息记录</text>
+	</string>
+	<string id="pda_btn_logs_hint">
+		<text>查看历史消息</text>
+	</string>
+	<string id="pda_btn_quests">
+		<text>区域地图</text>
+	</string>
+	<string id="pda_btn_quests_hint">
+		<text>显示区域地图与任务列表</text>
+	</string>
+	<string id="pda_btn_ranking">
+		<text>统计数据</text>
+	</string>
+	<string id="pda_btn_ranking_hint">
+		<text>查看个人统计</text>
+	</string>
+	<string id="pda_cur_time">
+		<text>当前时间:</text>
+	</string>
+	<string id="pda_date_filter">
+		<text>日期过滤</text>
+	</string>
+	<string id="pda_filter_news">
+		<text>显示消息</text>
+	</string>
+	<string id="pda_filter_talk">
+		<text>显示对话</text>
+	</string>
+	<string id="pda_legend_caption">
+		<text>图例</text>
+	</string>
+	<string id="pda_stat_1">
+		<text>经过的时间:</text>
+	</string>
+	<string id="pda_stat_2">
+		<text>接到的任务:</text>
+	</string>
+	<string id="pda_stat_3">
+		<text>完成的任务:</text>
+	</string>
+	<string id="pda_stat_4">
+		<text>杀死怪物:</text>
+	</string>
+	<string id="pda_stat_5">
+		<text>杀死潜行者:</text>
+	</string>
+	<string id="pda_stat_6">
+		<text>找到的神器:</text>
+	</string>
+	<string id="pda_stat_7">
+		<text>发现的隐藏点:</text>
+	</string>
+	<string id="pda_stat_favorite_weapon">
+		<text>最喜爱的武器</text>
+	</string>
+	<string id="pda_stat_mutant_killed">
+		<text>杀死的最强怪物</text>
+	</string>
+	<string id="st_location">
+		<text>位置:</text>
+	</string>
+	<string id="st_target">
+		<text>目标</text>
+	</string>
+	<string id="st_ui_pda_legend_additional_task">
+		<text>次要任务</text>
+	</string>
+	<string id="st_ui_pda_legend_enemies">
+		<text>敌人</text>
+	</string>
+	<string id="st_ui_pda_legend_friends">
+		<text>朋友</text>
+	</string>
+	<string id="st_ui_pda_legend_leader">
+		<text>派系首领</text>
+	</string>
+	<string id="st_ui_pda_legend_main_task">
+		<text>主要任务</text>
+	</string>
+	<string id="st_ui_pda_legend_neutrals">
+		<text>中立</text>
+	</string>
+	<string id="st_ui_pda_legend_scout">
+		<text>向导</text>
+	</string>
+	<string id="st_ui_pda_legend_secrets">
+		<text>隐藏点</text>
+	</string>
+	<string id="st_ui_pda_legend_squad">
+		<text>小队指挥官</text>
+	</string>
+	<string id="st_ui_pda_legend_trader">
+		<text>商人</text>
+	</string>
+	<string id="stalker">
+		<text>潜行者</text>
+	</string>
+	<string id="ui_logs_center_caption">
+		<text>消息记录</text>
+	</string>
+	<string id="ui_map_btn_center">
+		<text>玩家位置</text>
+	</string>
+	<string id="ui_map_btn_down">
+		<text>向下</text>
+	</string>
+	<string id="ui_map_btn_left">
+		<text>向左</text>
+	</string>
+	<string id="ui_map_btn_legend">
+		<text>显示图例</text>
+	</string>
+	<string id="ui_map_btn_right">
+		<text>向右</text>
+	</string>
+	<string id="ui_map_btn_up">
+		<text>向上</text>
+	</string>
+	<string id="ui_map_btn_zmreset">
+		<text>最大化</text>
+	</string>
+	<string id="ui_map_btn_zoom_in">
+		<text>放大</text>
+	</string>
+	<string id="ui_map_btn_zoom_out">
+		<text>缩小</text>
+	</string>
+	<string id="ui_ranking_center_caption">
+		<text>成就</text>
+	</string>
+	<string id="ui_task_btn_focus_center">
+		<text>显示任务位置</text>
+	</string>
+	<string id="ui_task_btn_focus_center2">
+		<text>显示任务位置</text>
+	</string>
+	<string id="zombied">
+		<text>僵尸</text>
+	</string>
+	<string id="zoom_in_btn_hint">
+		<text>比例+</text>
+	</string>
+	<string id="zoom_out_btn_hint">
+		<text>比例-</text>
+	</string>
+	<string id="st_ui_pda_legend_mechanic">
+		<text>技师</text>
+	</string>
+	<string id="st_ui_pda_legend_medic">
+		<text>医生</text>
+	</string>
+	<string id="ui_pda_secondary_task">
+		<text>当前任务</text>
+	</string>
+	<string id="ui_show_second_task_wnd">
+		<text>显示/隐藏任务</text>
+	</string>
+	<string id="st_ui_pda_actor_box">
+		<text>私人储物箱</text>
+	</string>
+	<string id="zaton">
+		<text>扎通</text>
+	</string>
+	<string id="jupiter">
+		<text>朱皮特</text>
+	</string>
+	<string id="pripyat">
+		<text>普里皮亚特</text>
+	</string>
+	<string id="jupiter_underground">
+		<text>通往普里皮亚特的地下通道</text>
+	</string>
+	<string id="labx8">
+		<text>X8实验室</text>
+	</string>
+	<string id="filter_primary_objects_text">
+		<text>区域</text>
+	</string>
+	<string id="filter_quest_npcs_text">
+		<text>重要物品</text>
+	</string>
+	<string id="st_ui_pda_legend_primary_objects">
+		<text>地区</text>
+	</string>
+	<string id="st_jup_b32_has_af">
+		<text>探测器发现的神器:</text>
+	</string>
+	<string id="st_jup_b32_no_af">
+		<text>还未探测到神器</text>
+	</string>
+	<string id="st_ui_pda_secret">
+		<text>隐藏点</text>
+	</string>
+	<string id="st_ui_pda_sleep_place">
+		<text>床铺</text>
+	</string>
+</string_table>
