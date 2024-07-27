@@ -1,0 +1,12 @@
+	<string id="rad_barman_spam">
+		<text>一号！？你还活著！？太好了！那么你打算关闭焦脑器了吗，嗯？每个人都想要经过普里皮亚季到特异区中心去。没有人知道那边…或许有一堆的神器，或是可以有什么东西实现愿望。\n 现在有一群老兵准备往那里去，如果你动作快一点，你或许可以赶上，和他们一起行动。我会让通知他们你要过去的，这样他们就会先等你了。</text>
+	</string>
+	<string id="tips_bun_komand">
+		<text>第1小队跟第2小队--检查一楼，第3小队--大厅，4跟5小队--检查二楼</text>
+	</string>
+	<string id="tips_rad_sos_suicide">
+		<text>…快救我，我要死了…</text>
+	</string>
+	<string id="tips_rad_switcher_press">
+		<text>要关掉机器，按下($$ACTION_USE$$)</text>
+	</string>

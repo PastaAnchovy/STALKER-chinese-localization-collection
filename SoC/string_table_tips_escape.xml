@@ -1,0 +1,60 @@
+	<string id="esc_direction_fire">
+		<text>除非我下令否则不准开枪！扣扳机的手指别给我乱动，听清楚了吗？</text>
+	</string>
+	<string id="esc_fanat_victory">
+		<text>胜利！！大家都到这边来。都过来，一号，我们需要好好谈谈。</text>
+	</string>
+	<string id="esc_return_dv">
+		<text>很好，一号，很高兴你还活著，并且决定跟我们会面。到这里来，让我们好好谈谈，有件小事发生了。</text>
+	</string>
+	<string id="esc_tutorial_end">
+		<text>太好了，你的任务已经完成了。应该说你已经学到了基本的技能。</text>
+	</string>
+	<string id="esc_wolf_thanks">
+		<text>一号，通往营地的道路现在为你敞开，过来让我们谈谈。</text>
+	</string>
+	<string id="escape_fox_quest">
+		<text>提到史特列洛克啊，一号。有一个刚刚远途归来的潜行者或许知道一些，人们叫他“狐狸”。不过看来他现在有麻烦了，他刚才向我们求取帮助。他说在路上有一群奇怪的野兽一直跟着他，他再也撑不下去了。现在你去帮助他，顺便可以打听一下消息，动作要快啊。</text>
+	</string>
+	<string id="escape_stalker_death">
+		<text>真糟糕，一号。那些小伙子死了，虽然说这并不是你的过错，这样的事在特异区里常常发生。不管怎样，你通过了测试，所以回来让我们谈谈生意吧。</text>
+	</string>
+	<string id="escape_stalker_helped">
+		<text>干得好，一号。继续保持，你马上就会交到一些新朋友的。来跟我见见面，我们可以谈些生意。</text>
+	</string>
+	<string id="escape_stalker_killed">
+		<text>那可不太明智，一号。虽然你通过了测试，但你得要自己对付沃夫和他的杀手了。不管怎样，我在等着你，我们有更多的工作要讨论。</text>
+	</string>
+	<string id="info_esc_give_agroprom_task">
+		<text>一号，军方在农业研究所找到了些有趣的东西。我想要你拿过来给我看看，你或许也有这样的想法吧。找到相关的信息然后带给潜行者酒吧的老板。现在就出发吧！</text>
+	</string>
+	<string id="tips_esc_trader_about_anomalies">
+		<text>当心！你现在就在变异点旁边。你可以用螺栓来算出它们正确的位置和形状。</text>
+	</string>
+	<string id="tips_esc_trader_about_pda">
+		<text>按下接触($$ACTION_CONTACTS$$)。在你周围250公尺，只要有人开启了PDA，就会在你的小地图上标示出来。你同时可以见到他们对你的态度，所以你可以分辨出潜在的敌人。无论如何，强盗和变种生物通常不会打开他们的PDA，所以小心点！</text>
+	</string>
+	<string id="tips_esc_trader_activate_map">
+		<text>要打开地图，按下'$$ACTION_MAP$$'。</text>
+	</string>
+	<string id="tips_esc_trader_activate_pda">
+		<text>要打开PDA，按下'$$ACTION_ACTIVE_JOBS$$'。</text>
+	</string>
+	<string id="tips_esc_trader_how_to_talk">
+		<text>要与某人交谈，将光标对准他们后按下'$$ACTION_USE$$'。</text>
+	</string>
+	<string id="tips_esc_trader_quest_1">
+		<text>寻找标示在这个区域的地图上的神器，然后将它交给贸易商人。</text>
+	</string>
+	<string id="tutorial_flash_anomaly_alarm">
+		<text>注意，一号，下一次可能就是你了。</text>
+	</string>
+	<string id="tutorial_trader_give_medikit">
+		<text>给这个白痴一个医药包。</text>
+	</string>
+	<string id="tutorial_trader_look_vagon">
+		<text>一号！别去管那个神器，马上到路旁的卡车去，我的兄弟需要帮助。那个白痴开枪射击了飞过的军用直升机，军队发现我们了！我会把坐标传给你。</text>
+	</string>
+	<string id="tutorial_trader_search_corpses">
+		<text>搜寻尸体--你或许会发现有用的东西。</text>
+	</string>

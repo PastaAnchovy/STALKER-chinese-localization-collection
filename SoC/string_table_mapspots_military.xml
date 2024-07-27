@@ -1,0 +1,60 @@
+﻿	<string id="mil_cap_hint">
+		<text>与通关口指挥官交谈</text>
+	</string>
+	<string id="mil_courier_hint1">
+		<text>跟着告密者</text>
+	</string>
+	<string id="mil_courier_hint2">
+		<text>等待告密者呼叫干员</text>
+	</string>
+	<string id="mil_courier_hint3">
+		<text>杀死告密者</text>
+	</string>
+	<string id="mil_courier_hint4">
+		<text>杀死密报者</text>
+	</string>
+	<string id="mil_crazy_hint">
+		<text>拿走疯狂潜行者身上的闪存盘</text>
+	</string>
+	<string id="mil_dolg_khutor">
+		<text>纪律团农庄</text>
+	</string>
+	<string id="mil_freedom_sniper">
+		<text>杀死狙击手</text>
+	</string>
+	<string id="mil_hunters_hint1">
+		<text>与莫克交谈</text>
+	</string>
+	<string id="mil_hunters_hint2">
+		<text>回到吝啬鬼处</text>
+	</string>
+	<string id="mil_kill_dolg_hint">
+		<text>摧毁纪律团小队</text>
+	</string>
+	<string id="mil_kill_lukash_hint">
+		<text>杀死卢卡许</text>
+	</string>
+	<string id="mil_miser_hint">
+		<text>吝啬鬼</text>
+	</string>
+	<string id="mil_report_to_max_hint">
+		<text>向麦斯回报</text>
+	</string>
+	<string id="mil_return_to_lukash_hint">
+		<text>向卢卡许回报</text>
+	</string>
+	<string id="mil_return_to_max_hint">
+		<text>把闪存盘交给麦斯</text>
+	</string>
+	<string id="mil_rg6_hint1">
+		<text>寻找在自由团基地的厨子</text>
+	</string>
+	<string id="mil_rg6_hint2">
+		<text>与大厨交谈</text>
+	</string>
+	<string id="mil_rg6_hint3">
+		<text>从村庄的藏匿物中拿取RG 6</text>
+	</string>
+	<string id="mil_watertower_hint">
+		<text>水塔</text>
+	</string>

@@ -1,0 +1,150 @@
+﻿	<string id="esc_bandits_on_factory">
+		<text>杀死工厂的强盗</text>
+	</string>
+	<string id="esc_bandits_on_factory_0">
+		<text>杀死藏在工厂的强盗</text>
+	</string>
+	<string id="esc_bandits_on_factory_1">
+		<text>杀光工厂的强盗</text>
+	</string>
+	<string id="esc_bandits_on_factory_2">
+		<text>与贸易商人交谈</text>
+	</string>
+	<string id="esc_bandits_on_factory_3">
+		<text>与沃夫交谈</text>
+	</string>
+	<string id="esc_blockpost_case_to_trader">
+		<text>从军事前哨战偷取箱子</text>
+	</string>
+	<string id="esc_blockpost_case_to_trader_0">
+		<text>从军事前哨战偷取装有重要文件的箱子</text>
+	</string>
+	<string id="esc_blockpost_case_to_trader_1">
+		<text>从军事前哨战偷取箱子</text>
+	</string>
+	<string id="esc_blockpost_case_to_trader_2">
+		<text>将箱子将给贸易商人</text>
+	</string>
+	<string id="esc_defend_lager">
+		<text>保护新手村免受佣兵团攻击</text>
+	</string>
+	<string id="esc_defend_lager_from_killers_0">
+		<text>保护新手村免受佣兵团攻击</text>
+	</string>
+	<string id="esc_defend_lager_from_killers_1">
+		<text>摧毁佣兵团</text>
+	</string>
+	<string id="esc_defend_lager_from_killers_2">
+		<text>跟新兵指挥官交谈</text>
+	</string>
+	<string id="esc_dinamit_to_volk">
+		<text>杀死在停车场的强盗</text>
+	</string>
+	<string id="esc_dinamit_to_volk_0">
+		<text>杀死在停车场的强盗，并且向沃夫回报</text>
+	</string>
+	<string id="esc_dinamit_to_volk_1">
+		<text>会见沃夫的手下</text>
+	</string>
+	<string id="esc_dinamit_to_volk_2">
+		<text>杀死强盗</text>
+	</string>
+	<string id="esc_dinamit_to_volk_3">
+		<text>与沃夫交谈</text>
+	</string>
+	<string id="esc_help_wounded_from_raid">
+		<text>从狐狸那获取关于史特列洛克的事情</text>
+	</string>
+	<string id="esc_help_wounded_from_raid_0">
+		<text>帮助受伤的潜行者</text>
+	</string>
+	<string id="esc_help_wounded_from_raid_1">
+		<text>帮助狐狸</text>
+	</string>
+	<string id="esc_help_wounded_from_raid_2">
+		<text>取得关于史特列洛克的讯息</text>
+	</string>
+	<string id="esc_wounded_to_trader_gift">
+		<text>将包裹送给贸易商人</text>
+	</string>
+	<string id="esc_wounded_to_trader_gift_0">
+		<text>将包裹送给贸易商人，他可以帮助你</text>
+	</string>
+	<string id="garbage_meet_stalker">
+		<text>与葛雷交谈</text>
+	</string>
+	<string id="garbage_meet_stalker_0">
+		<text>在废弃区与葛雷交谈</text>
+	</string>
+	<string id="meet_with_doctor">
+		<text>与博士会面</text>
+	</string>
+	<string id="meet_with_doctor_1">
+		<text>与博士会面</text>
+	</string>
+	<string id="meet_with_doctor_2">
+		<text>在史特列洛克的藏身处与博士会面</text>
+	</string>
+	<string id="storyline_escape_eliminate_gunslinger">
+		<text>杀死史特列洛克</text>
+	</string>
+	<string id="storyline_escape_find_gunslinger">
+		<text>寻找史特列洛克</text>
+	</string>
+	<string id="tutorial_find_artefact">
+		<text>寻找一件神器</text>
+	</string>
+	<string id="tutorial_find_artefact_0">
+		<text>寻找你的第一件神器</text>
+	</string>
+	<string id="tutorial_find_artefact_1">
+		<text>寻找一件神器</text>
+	</string>
+	<string id="tutorial_find_artefact_2">
+		<text>把神器交给贸易商人</text>
+	</string>
+	<string id="tutorial_help_wounded">
+		<text>获取关于侦查员的讯息</text>
+	</string>
+	<string id="tutorial_help_wounded_0">
+		<text>将讯息带给贸易商人</text>
+	</string>
+	<string id="tutorial_help_wounded_1">
+		<text>与沃夫交谈</text>
+	</string>
+	<string id="tutorial_help_wounded_2">
+		<text>从机灵鬼处取得闪存盘</text>
+	</string>
+	<string id="tutorial_help_wounded_3">
+		<text>将闪存盘交给贸易商人</text>
+	</string>
+	<string id="esc_trader_job">
+		<text>为贸易商人工作</text>
+	</string>
+	<string id="esc_trader_job_text">
+		<text>从贸易商人处获取特别任务</text>
+	</string>
+	<string id="bar_barman_job">
+		<text>为酒吧老板工作</text>
+	</string>
+	<string id="bar_barman_job_text">
+		<text>向酒吧老板要工作</text>
+	</string>
+	<string id="yan_scientist_job">
+		<text>帮助科学家</text>
+	</string>
+	<string id="yan_scientist_job_text">
+		<text>给予科学家帮助</text>
+	</string>
+	<string id="find_railroad_passage">
+		<text>抵达铁路路堤</text>
+	</string>
+	<string id="find_railroad_passage_1">
+		<text>与旅行者会面</text>
+	</string>
+	<string id="find_railroad_passage_2">
+		<text>穿过铁路路堤</text>
+	</string>
+	<string id="find_railroad_passage_text">
+		<text>在深入特异区之前，必须先穿过铁路的路堤，那是唯一由军方守卫的安全道路不论如何，在左边有个小隧道，菜鸟们常常会经过那裡，我的一个债主会在那边等你。</text>
+	</string>

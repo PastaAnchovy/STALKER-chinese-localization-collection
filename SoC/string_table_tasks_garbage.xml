@@ -1,0 +1,48 @@
+﻿	<string id="gar_car_graveyard_quest">
+		<text>回应求救声</text>
+	</string>
+	<string id="gar_defend_garbage">
+		<text>击退强盗的袭击。</text>
+	</string>
+	<string id="gar_dialog_hellcar">
+		<text>向中立小队的队长提供你的帮助。</text>
+	</string>
+	<string id="gar_dialog_hellcar_1">
+		<text>向贝斯提供你的帮助</text>
+	</string>
+	<string id="gar_hellcar_alive">
+		<text>与贝斯交谈</text>
+	</string>
+	<string id="gar_help_dymon">
+		<text>击退强盗的袭击。</text>
+	</string>
+	<string id="gar_help_tunnel_newbie">
+		<text>帮助在废弃区的菜鸟</text>
+	</string>
+	<string id="gar_kill_bandits">
+		<text>摧毁强盗的袭击</text>
+	</string>
+	<string id="gar_kill_boars">
+		<text>帮助纪律团的检查点</text>
+	</string>
+	<string id="gar_kill_boars_1">
+		<text>杀死野猪</text>
+	</string>
+	<string id="gar_kill_boars_2">
+		<text>与纪律团指挥官交谈</text>
+	</string>
+	<string id="gar_kill_boars_descr">
+		<text>纪律团："你好，纪律团从废弃区中发话。在黑暗山谷有一群变种往酒吧前进了，我们保证会感谢任何帮助杀死这群渣滓的人，以纪律团的名声起誓。"</text>
+	</string>
+	<string id="gar_kill_boars_main">
+		<text>请求通过酒吧。</text>
+	</string>
+	<string id="garbage_meet_stalker_1">
+		<text>从葛雷处获知关于史特列洛克的事情。</text>
+	</string>
+	<string id="graveyard_raid_text">
+		<text>贝斯："盗贼混蛋想要控制废弃区，在半小时之前这边有一场争斗，我们杀掉了三只怪胎。其它的怪胎撤退了，但我觉得它们随时会带著援军回来。我们这边只有几个人而已，如果你帮助我们摧毁它们的援军，我会回报你酬劳的。"</text>
+	</string>
+	<string id="help_for_neitrals_text">
+		<text>中立势力和盗贼在废器的旧车场发生了一场枪战，原本中立势力计划要击退盗贼，但现在在呼求帮助。</text>
+	</string>

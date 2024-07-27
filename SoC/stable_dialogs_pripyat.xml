@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="pri_followers_start_dlg_21">
+		<text>让我们移动到街上去。如果发生了任何事，掩护我。</text>
+	</string>
+	<string id="pri_followers_start_dlg_211">
+		<text>好的。</text>
+	</string>
+	<string id="pri_followers_start_dlg_31">
+		<text>多谢帮助，一号，那真是场艰辛的战斗。我们可以在这休息，如过你还要继续前进，我会跟你说更多关于这区域的讯息。如果你往回走右转，你会抵达巴士站。那是个开放的区域，目前不太安全。如果你一直向前走到底，会到达饭店的前方。向右边是黑石组织的基地，那些家伙可是没有限制的。在基地的后方是竞技场，我们正计划穿越竞技场。就这样了。</text>
+	</string>
+	<string id="pri_followers_start_dlg_311">
+		<text>谢谢你。</text>
+	</string>
+	<string id="pri_followers_start_dlg_41">
+		<text>谢谢你的帮忙，祝好运。</text>
+	</string>
+	<string id="pri_followers_start_dlg_411">
+		<text>再见。</text>
+	</string>
+</string_table>

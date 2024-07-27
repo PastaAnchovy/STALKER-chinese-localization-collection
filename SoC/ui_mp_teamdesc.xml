@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="svoboda_outfit_name_m1">
+		<text>Kombez 自由者M2装甲</text>
+	</string>
+	<string id="team_1_desc">
+		<text>变异区中的无政府主义者。他们相信变异区是自由的天堂，也就是说所有的外面世界法律、规则和传统都不适用在这个地方。他们的信条是"依你的想法行事，让别人也做同样的事"。他们试著要阻止政府控制变异区，并且与佣兵团对抗。自由团的战士通常使用苏联制的武器。</text>
+	</string>
+	<string id="team_1_name">
+		<text>自由团阵营（自由潜行者）</text>
+	</string>
+	<string id="team_2_desc">
+		<text>来自世界各地的流浪汉和杀手，没有比他们更糟糕的人了。他们的信念是"Pecunia non olet--无人嫌钱臭"。神器、金钱是他们所向往的。佣兵团大部分使用西方的武器。</text>
+	</string>
+	<string id="team_2_name">
+		<text>佣兵团阵营（猎头者）</text>
+	</string>
+</string_table>

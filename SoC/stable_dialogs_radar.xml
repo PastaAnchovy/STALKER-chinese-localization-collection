@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="rad_chief_start_dialog_0">
+		<text>嘿！</text>
+	</string>
+	<string id="rad_chief_start_dialog_100">
+		<text>嘿！</text>
+	</string>
+	<string id="rad_find_deputy_dialog_1_0">
+		<text>任务的酬金在哪里？</text>
+	</string>
+	<string id="rad_find_deputy_dialog_1_100">
+		<text>找到我的副手，你就可以拿到你的钱！</text>
+	</string>
+	<string id="rad_find_deputy_dialog_1_1000">
+		<text>好的，但这时可不要骗我！</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_1_0">
+		<text>你是谁？</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_1_10">
+		<text>我的名字是下巴雷哈！这些小贼是我的手下！</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_1_100">
+		<text>你在这里作什么？</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_1_20">
+		<text>我的人和我正在休息！当我们休息够了就会去皮里皮亚特！</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_2_0">
+		<text>你知道关于普里皮亚季的事情吗？</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_2_10">
+		<text>从历史来看，那是一个共产时期的古老废弃城市！我认为它现在充满了怪物和黑石组织的战士！从没有人可以到那里生还回来的！</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_2_100">
+		<text>你觉得它很危险吗？</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_2_20">
+		<text>毫无疑问--没有人从那里生还回来的。</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_3_0">
+		<text>你在附近有看到什么士兵吗？</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_3_10">
+		<text>不，这阵子我没看到什么士兵。</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_3_100">
+		<text>军队潜行者怎麽了？</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_3_20">
+		<text>谣传他们出现在红森林的天线附近！当天线被关闭时，许多人都来到红森林，想要更深入的进入普里皮亚季！我们来这里有一整天了，可是没看到半个人，一定有人把路给封锁住了。</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_3_200">
+		<text>你想是不是军队封锁了通往红森林的路？</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_3_30">
+		<text>我不认为跟军对有关，我有段时间没见过他们了，但军队潜行者就有可能这样做！他们一点都不会浪费时间。他们可不是那种胡闹的家伙，他们不管是团对或是个人工作迅速又有效率…</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_3_300">
+		<text>为什麽他们不去普里皮亚季，或是在那边把路挡住？</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_3_40">
+		<text>我不知道，或许他们害怕，或许他们正在准备什么事情，我只能猜测。</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_4_0">
+		<text>或许你有个任务可以给我？</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_4_10">
+		<text>好吧，我有个任务，但是并不容易…你要接受吗？</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_4_100">
+		<text>跟我说困难是吓不倒我的！</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_4_101">
+		<text>不，绝不！我没时间！</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_4_11">
+		<text>我了解。我害怕自己…我宁愿付些钱，也不愿意让我或我的人去做。</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_4_20">
+		<text>很好！这个任务是寻找我的斥候，铁橇和洛格！自从我决定不亲身涉险，改派我最好的人手来代替后，他们就被派去普里皮亚季了！找到活著的他们，并且把他们带回来这里。如果他们死了，就把他们的武器带回来给我！帮我作这份工作，我会付你两千！！！</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_4_200">
+		<text>好，成交！</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_4_201">
+		<text>不够，四千我就成交？</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_4_21">
+		<text>这是我能给你这份工作的酬劳了！</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_4_30">
+		<text>好的，我会在这里等你！</text>
+	</string>
+	<string id="rad_found_deputy_dialog_1_0">
+		<text>任务完成！</text>
+	</string>
+	<string id="rad_found_deputy_dialog_1_100">
+		<text>很好，把他的PDA给我！</text>
+	</string>
+	<string id="rad_found_deputy_dialog_1_1000">
+		<text>这边，把钱给我！</text>
+	</string>
+	<string id="rad_found_deputy_dialog_1_1100">
+		<text>你想骗我，他什么都没有！</text>
+	</string>
+	<string id="rad_found_deputy_dialog_1_1200">
+		<text>我现在就想把你干掉！</text>
+	</string>
+	<string id="rad_found_deputy_dialog_1_1300">
+		<text>如果我再看到你，你就是一个死人了！</text>
+	</string>
+	<string id="rad_found_deputy_dialog_1_1400">
+		<text>好的，我知道了。祝好运！</text>
+	</string>
+	<string id="rad_found_deputy_dialog_1_200">
+		<text>我什么都不能给你，我没有任何钱，如果你想要的话，你可以把他的东西留下来。</text>
+	</string>
+	<string id="rad_found_deputy_dialog_1_300">
+		<text>我没钱！走开！</text>
+	</string>
+	<string id="rad_found_deputy_dialog_2_0">
+		<text>我找不到他！</text>
+	</string>
+	<string id="rad_found_deputy_dialog_2_10">
+		<text>如果你想要钱的话就赶快找到他！</text>
+	</string>
+	<string id="rad_found_stalkers_dialog_1_0">
+		<text>我找到你的人，他们死了，不过我把他们的武器带回来了！</text>
+	</string>
+	<string id="rad_found_stalkers_dialog_1_100">
+		<text>谢了，他们那时就死了。我现在想不到有任何理由去皮里皮亚特!现在有个问题--我没有你的钱，我的副手失踪了，而全部的钱都在他那里！</text>
+	</string>
+	<string id="rad_found_stalkers_dialog_1_1001">
+		<text>好吧，我会找到他的！告诉我哪里可以找到他。在这个时候你别想骗我的钱！！！</text>
+	</string>
+	<string id="rad_found_stalkers_dialog_1_200">
+		<text>我不认为他走远了，他可能还在这边或这边，我会在地图上标给你看！当你找到人，把他或是他的PDA带回来这里！</text>
+	</string>
+	<string id="rad_found_stalkers_dialog_1_2000">
+		<text>好的，等等我！！！</text>
+	</string>
+	<string id="rad_found_stalkers_dialog_2_0">
+		<text>我找不到他们。</text>
+	</string>
+	<string id="rad_found_stalkers_dialog_2_10">
+		<text>快点找到他们！我不能一辈子等著！！！祝好运！</text>
+	</string>
+</string_table>

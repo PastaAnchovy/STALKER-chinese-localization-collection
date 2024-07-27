@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="Antirad">
+		<text>抗辐射药</text>
+	</string>
+	<string id="Arm-heavy">
+		<text>重型潜行者装备</text>
+	</string>
+	<string id="Arm-light">
+		<text>轻型潜行者装备</text>
+	</string>
+	<string id="Arm-medium">
+		<text>中型潜行者装备</text>
+	</string>
+	<string id="bandage">
+		<text>绷带</text>
+	</string>
+	<string id="Binocul">
+		<text>双筒望远镜</text>
+	</string>
+	<string id="Bread">
+		<text>面包</text>
+	</string>
+	<string id="cit_deadcity_maps_desc">
+		<text>一张死城的详细地图，包含了佣兵的位置。</text>
+	</string>
+	<string id="cit_deadcity_maps_name">
+		<text>死城的地图。</text>
+	</string>
+	<string id="cit_doctors_key_desc">
+		<text>博士的钥匙，可以开启皮里皮亚特的秘密藏匿物</text>
+	</string>
+	<string id="cit_doctors_key_short_desc">
+		<text>博士的钥匙</text>
+	</string>
+	<string id="Conserva">
+		<text>罐头食品</text>
+	</string>
+	<string id="Detect1">
+		<text>特异点侦测器（DA-2）</text>
+	</string>
+	<string id="Devic">
+		<text>仪器和装备</text>
+	</string>
+	<string id="device-PDA">
+		<text>PDA</text>
+	</string>
+	<string id="device-torch">
+		<text>手电筒</text>
+	</string>
+	<string id="enc_equipment_armors_arm-heavy">
+		<text>防护装。重量：18公斤。内容：防护软胶、烧绒、大部分的特异点的威胁跟实体伤害。躯干和背部内建有生化金属垫片。这个防护装装备有气密功能、强化塑胶头盔和两个氧气瓶。附记：在经过长时间的使用后防护装会破裂，功能也会逐渐的变差。</text>
+	</string>
+	<string id="enc_equipment_armors_arm-light">
+		<text>防护装。重量：8公斤。内容：防护较微弱的特异点威胁跟实体伤害。装备有一个氧气面罩。附记：在经过长时间的使用后防护装会破裂，功能也会逐渐的丧失。</text>
+	</string>
+	<string id="enc_equipment_armors_arm-medium">
+		<text>防护装。重量：8公斤。内容：防护软胶、烧绒、大部分的特异点的威胁跟实体伤害。装备有气密式头盔和一个氧气瓶。附记：在经过长时间的使用后防护装会破裂，功能也会逐渐的丧失。</text>
+	</string>
+	<string id="enc_equipment_armors_sci2">
+		<text>一套红色的S.C.A.P.E防护装和一顶气密式的头盔。说明：防护火、酸、有毒瓦斯、数种特异点、烧绒、和实体伤害。装备有两个氧气瓶。附记：在经过长时间的使用后防护装会破裂，功能也会逐渐的丧失。</text>
+	</string>
+	<string id="enc_equipment_devic_binocul1">
+		<text>军用野战望远镜</text>
+	</string>
+	<string id="enc_equipment_devic_detect1">
+		<text>用来侦察特异点和干扰的装置，当发现异常时会发出声音来警告。它需要安装在皮带上面，并且打开开关才能正常工作。</text>
+	</string>
+	<string id="enc_equipment_devic_device-PDA1">
+		<text>个人数字助理，是特异区中不可或缺的装备。</text>
+	</string>
+	<string id="enc_equipment_devic_device-torch1">
+		<text>一支强力的手电筒，在光源不足的地方特别的有用。</text>
+	</string>
+	<string id="enc_equipment_devic_device-torch1_m1">
+		<text>一支强力的手电筒，拜现代变压器之赐，电池充电的时间已经被缩短了。</text>
+	</string>
+	<string id="enc_equipment_energydrink">
+		<text>这是一罐包含有咖啡因、牛磺酸、以及包含了回复精神的维他命的超棒功能饮料。这是张可以帮助你在太累时重新上路的车票！</text>
+	</string>
+	<string id="enc_equipment_food_bread1">
+		<text>很难说出是谁在特异区中烤这些面包，但这些面包没有受到污染，而且可以食用。好吧，至少没有潜行者在抱怨。</text>
+	</string>
+	<string id="enc_equipment_food_conserva1">
+		<text>潜行者从军方仓库抢来的罐头食物，都还没有过保存期限。</text>
+	</string>
+	<string id="enc_equipment_food_kolbasa1">
+		<text>由鸡肉和大豆混制而成，是一种常见的"瘦身"香肠，在没有甚麽选择的情况之下，通常是潜行者的早餐、午餐、也是晚餐。</text>
+	</string>
+	<string id="enc_equipment_food_vodka1">
+		<text>由GSC公司制造的伏特加。入口顺畅，可以明显的降低辐射的影响。不过为了大家都知道的原因，服用最好不要过量。</text>
+	</string>
+	<string id="enc_equipment_medi_antirad1">
+		<text>降低辐射的影响。</text>
+	</string>
+	<string id="enc_equipment_medi_bandage1">
+		<text>常用的医疗用品，可以帮助止血。</text>
+	</string>
+	<string id="enc_equipment_medi_medkit1">
+		<text>一个全方为用途的医药箱，用来治疗数种不同类型的伤害--创伤、烧伤、中毒、等等。</text>
+	</string>
+	<string id="enc_equipment_medi_medkit2">
+		<text>一个专门的医药组合，用来对抗实体伤害和失血。在裡面包含有止血用具、抗生素、免疫素、还有止痛剂。</text>
+	</string>
+	<string id="enc_equipment_medi_medkit3">
+		<text>医药组合，特别设计用在特异区中。这个组合包含了治疗实体伤害和消除人体中的辐射，先期预防电波疾病和降低辐射的堆积的药物。</text>
+	</string>
+	<string id="energy_drink_name">
+		<text>活力饮料</text>
+	</string>
+	<string id="energy_drink_short_name">
+		<text>活力饮料</text>
+	</string>
+	<string id="Equipment">
+		<text>装备和食物</text>
+	</string>
+	<string id="Food">
+		<text>食物</text>
+	</string>
+	<string id="Kolbasa">
+		<text>香肠</text>
+	</string>
+	<string id="Medi">
+		<text>药剂</text>
+	</string>
+	<string id="Medkit">
+		<text>医药箱</text>
+	</string>
+	<string id="Medkit_army">
+		<text>军用急救箱</text>
+	</string>
+	<string id="Medkit_scientific">
+		<text>科学家急救箱</text>
+	</string>
+	<string id="Sci2">
+		<text>科学用的EXP-4</text>
+	</string>
+	<string id="Vodka">
+		<text>哥萨克伏特加</text>
+	</string>
+	<string id="st_detector">
+		<text>变异点探测器</text>
+	</string>
+	<string id="st_detector_descr">
+		<text>作为变异点和辐射污染的区域的侦测之用。</text>
+	</string>
+	<string id="st_grenade_gd5">
+		<text>烟雾弹</text>
+	</string>
+</string_table>

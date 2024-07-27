@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="kb_active_jobs">
+		<text>PDA中的当前任务</text>
+	</string>
+	<string id="kb_always_run">
+		<text>低蹲</text>
+	</string>
+	<string id="kb_artefact">
+		<text>神器</text>
+	</string>
+	<string id="kb_backward">
+		<text>退回</text>
+	</string>
+	<string id="kb_binoculars">
+		<text>望远镜</text>
+	</string>
+	<string id="kb_buy_menu">
+		<text>购买选单</text>
+	</string>
+	<string id="kb_chat">
+		<text>交谈</text>
+	</string>
+	<string id="kb_chat_team">
+		<text>小队交谈</text>
+	</string>
+	<string id="kb_console">
+		<text>控制台</text>
+	</string>
+	<string id="kb_contacts">
+		<text>NPC关系</text>
+	</string>
+	<string id="kb_crouch">
+		<text>蹲下</text>
+	</string>
+	<string id="kb_crouch_toggle">
+		<text>保持蹲下</text>
+	</string>
+	<string id="kb_down">
+		<text>下</text>
+	</string>
+	<string id="kb_drop">
+		<text>丢弃</text>
+	</string>
+	<string id="kb_fire">
+		<text>发射</text>
+	</string>
+	<string id="kb_firemode_next">
+		<text>下一个射击模式</text>
+	</string>
+	<string id="kb_firemode_prev">
+		<text>前一个射击模式</text>
+	</string>
+	<string id="kb_forward">
+		<text>前进</text>
+	</string>
+	<string id="kb_func">
+		<text>榴弹发射器</text>
+	</string>
+	<string id="kb_grp_common">
+		<text>一般</text>
+	</string>
+	<string id="kb_grp_direction">
+		<text>方向</text>
+	</string>
+	<string id="kb_grp_inventory">
+		<text>物品</text>
+	</string>
+	<string id="kb_grp_movement">
+		<text>移动</text>
+	</string>
+	<string id="kb_grp_multiplayer">
+		<text>多人连线</text>
+	</string>
+	<string id="kb_grp_weapons">
+		<text>武器</text>
+	</string>
+	<string id="kb_inventory">
+		<text>物品</text>
+	</string>
+	<string id="kb_jump">
+		<text>跳跃</text>
+	</string>
+	<string id="kb_left">
+		<text>左</text>
+	</string>
+	<string id="kb_left_lookout">
+		<text>左倾</text>
+	</string>
+	<string id="kb_left_strafe">
+		<text>迅速左移</text>
+	</string>
+	<string id="kb_map">
+		<text>PDA地图</text>
+	</string>
+	<string id="kb_next_slot">
+		<text>下一个武器</text>
+	</string>
+	<string id="kb_night_vision">
+		<text>夜视</text>
+	</string>
+	<string id="kb_pause">
+		<text>暂停</text>
+	</string>
+	<string id="kb_pda">
+		<text>PDA</text>
+	</string>
+	<string id="kb_prev_slot">
+		<text>前一个武器</text>
+	</string>
+	<string id="kb_quit">
+		<text>离开</text>
+	</string>
+	<string id="kb_reload">
+		<text>装填</text>
+	</string>
+	<string id="kb_repair">
+		<text>修理</text>
+	</string>
+	<string id="kb_right">
+		<text>右</text>
+	</string>
+	<string id="kb_right_lookout">
+		<text>右倾</text>
+	</string>
+	<string id="kb_right_strafe">
+		<text>迅速右移</text>
+	</string>
+	<string id="kb_scores">
+		<text>分数</text>
+	</string>
+	<string id="kb_screenshot">
+		<text>屏幕截图</text>
+	</string>
+	<string id="kb_skin_menu">
+		<text>外观选单</text>
+	</string>
+	<string id="kb_sprint">
+		<text>冲刺</text>
+	</string>
+	<string id="kb_team_menu">
+		<text>小队选单</text>
+	</string>
+	<string id="kb_torch">
+		<text>手电筒</text>
+	</string>
+	<string id="kb_turn_engine">
+		<text>开启</text>
+	</string>
+	<string id="kb_up">
+		<text>上</text>
+	</string>
+	<string id="kb_use">
+		<text>使用</text>
+	</string>
+	<string id="kb_use_bandage">
+		<text>快速绷带</text>
+	</string>
+	<string id="kb_use_medkit">
+		<text>快速医药箱</text>
+	</string>
+	<string id="kb_vote_begin">
+		<text>开始投票</text>
+	</string>
+	<string id="kb_vote_menu">
+		<text>投票</text>
+	</string>
+	<string id="kb_vote_no">
+		<text>投票"同意"</text>
+	</string>
+	<string id="kb_vote_yes">
+		<text>投票"不同意"</text>
+	</string>
+	<string id="kb_weapon1">
+		<text>武器1</text>
+	</string>
+	<string id="kb_weapon2">
+		<text>武器2</text>
+	</string>
+	<string id="kb_weapon3">
+		<text>武器3</text>
+	</string>
+	<string id="kb_weapon4">
+		<text>武器4</text>
+	</string>
+	<string id="kb_weapon5">
+		<text>武器5</text>
+	</string>
+	<string id="kb_weapon6">
+		<text>武器6</text>
+	</string>
+	<string id="kb_wpn_next">
+		<text>改变弹药类型</text>
+	</string>
+	<string id="kb_wpn_prev">
+		<text>前一个此类型的武器</text>
+	</string>
+	<string id="kb_zoom">
+		<text>放大</text>
+	</string>
+	<string id="speech_menu_group">
+		<text>语音讯息(1)</text>
+	</string>
+	<string id="speech_menu_personal">
+		<text>语音讯息(2)</text>
+	</string>
+</string_table>

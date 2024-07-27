@@ -1,0 +1,1452 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="mil_bodyguard_dialog_0">
+		<text>你要什么？</text>
+	</string>
+	<string id="mil_bodyguard_dialog_1">
+		<text>我在寻找自由团的领袖，我有非常重要的讯息要给他。</text>
+	</string>
+	<string id="mil_bodyguard_dialog_2">
+		<text>喔，有多重要呢？</text>
+	</string>
+	<string id="mil_bodyguard_dialog_5">
+		<text>我刚刚穿越了一群义务团的成员，就在离你基地不远的地方。</text>
+	</string>
+	<string id="mil_bodyguard_dialog_6">
+		<text>呜--喔…看来义务团又想保持平衡了…好吧，你可以</text>
+	</string>
+	<string id="mil_bodyguard_dialog_7">
+		<text>好。</text>
+	</string>
+	<string id="mil_cook_common1_0">
+		<text>午安。</text>
+	</string>
+	<string id="mil_cook_common1_101">
+		<text>呜--哈！</text>
+	</string>
+	<string id="mil_cook_common1_102">
+		<text>这代表？</text>
+	</string>
+	<string id="mil_cook_common1_103">
+		<text>当然。</text>
+	</string>
+	<string id="mil_cook_common1_104">
+		<text>有什么那么有趣？</text>
+	</string>
+	<string id="mil_cook_common1_105">
+		<text>嘿，很高兴见到你！</text>
+	</string>
+	<string id="mil_cook_common1_106">
+		<text>哈囉。</text>
+	</string>
+	<string id="mil_cook_common1_107">
+		<text>好久不见了！</text>
+	</string>
+	<string id="mil_cook_common1_108">
+		<text>我们以前见过吗？</text>
+	</string>
+	<string id="mil_cook_common1_109">
+		<text>呃…耶！嘻嘻…</text>
+	</string>
+	<string id="mil_cook_common1_110">
+		<text>老实说，我想不出来你是谁。</text>
+	</string>
+	<string id="mil_cook_common1_111">
+		<text>嗯…耶，好吧，没关系。</text>
+	</string>
+	<string id="mil_cook_common2_0">
+		<text>不管怎样，这是哪里？</text>
+	</string>
+	<string id="mil_cook_common2_201">
+		<text>这地方…一个不错的小地方..不过是个普通的地方，你知道的…不过就是一些人在讨生活，嘻嘻…</text>
+	</string>
+	<string id="mil_cook_common2_202">
+		<text>所以？</text>
+	</string>
+	<string id="mil_cook_common2_203">
+		<text>嘘…你在问一些困难的问题了，陌生人先生！</text>
+	</string>
+	<string id="mil_cook_common2_204">
+		<text>你可不可以不要再追问下去了？</text>
+	</string>
+	<string id="mil_cook_common2_205">
+		<text>嘿，放松一点！等等…好吧…这是个普通的地方！一个好地方，旁边都是好东西。耶…你放松点，好吗？别太激动了…</text>
+	</string>
+	<string id="mil_cook_common3_0">
+		<text>那么你会是谁呢？</text>
+	</string>
+	<string id="mil_cook_common3_301">
+		<text>我？</text>
+	</string>
+	<string id="mil_cook_common3_302">
+		<text>没错，你，不是我。</text>
+	</string>
+	<string id="mil_cook_common3_303">
+		<text>哈哈，好问题！我…我是什么？我很好…好吧，我…我制造食物…那么，我是个厨师！香料和锅铲的高手！你知道的--荷兰芹、莳萝、香草、那类的东西…面包也是…对吧？</text>
+	</string>
+	<string id="mil_cook_common3_304">
+		<text>知道了。</text>
+	</string>
+	<string id="mil_cook_common3_305">
+		<text>还有，把食物装罐…为牛奶加点砂糖…罐子里的火腿…烤牛肉加上蕃茄来装饰…耶…</text>
+	</string>
+	<string id="mil_cook_common3_306">
+		<text>我懂了。</text>
+	</string>
+	<string id="mil_cook_common3_307">
+		<text>法国面包…调味番茄酱…蛋…棕面包…起司，还有呢，还有酒！还有腊肠！鸡跟鸭…冷调理，还有地上走的。</text>
+	</string>
+	<string id="mil_cook_common3_308">
+		<text>好，很好，我清楚了！至少跟我说你的名字吧。</text>
+	</string>
+	<string id="mil_cook_common3_309">
+		<text>嗯？…喔！我的名字是施拉维克…不过是个名称…不！是围裙！我有一条白色的围裙…嘿，听着…坐下来，别成为标靶…，小心狙击手，你知道的…他会干掉你！…他们是…你知道的…他们就像那样…</text>
+	</string>
+	<string id="mil_cook_common4_0">
+		<text>这附近是不是有个村庄？</text>
+	</string>
+	<string id="mil_cook_common4_401">
+		<text>好吧…</text>
+	</string>
+	<string id="mil_cook_common4_402">
+		<text>好吧，什么？</text>
+	</string>
+	<string id="mil_cook_common4_403">
+		<text>嗯？</text>
+	</string>
+	<string id="mil_cook_common4_404">
+		<text>一座村庄。</text>
+	</string>
+	<string id="mil_cook_common4_405">
+		<text>啊…那边有些东西。有一些食物…浓缩的牛奶…</text>
+	</string>
+	<string id="mil_cook_common4_406">
+		<text>我要怎么去那里？</text>
+	</string>
+	<string id="mil_cook_common4_407">
+		<text>呃？等等，让我想一下…哪，听着，你真的需要那些吗？放松点…坐下…让我们坐下抽个烟，好吗？</text>
+	</string>
+	<string id="mil_cook_common4_408">
+		<text>我需要去村庄。</text>
+	</string>
+	<string id="mil_cook_common4_409">
+		<text>好吧…我们就坐在这里，抽根烟…然后我们就走…我会带你去那里。没问题。</text>
+	</string>
+	<string id="mil_cook_common4_410">
+		<text>别那么麻烦，只要跟我说怎么去就好了。</text>
+	</string>
+	<string id="mil_cook_common4_411">
+		<text>当然…嘿，你真的在挑战我！等等我们就一起去。首先让我们坐下来，好吗，然后…</text>
+	</string>
+	<string id="mil_cook_common5_0">
+		<text>听着，你知道在哪吧！可以弄些装备吗？</text>
+	</string>
+	<string id="mil_cook_common5_501">
+		<text>装备？别跟我说行话，兄弟！</text>
+	</string>
+	<string id="mil_cook_common5_502">
+		<text>装备、武器、神器。</text>
+	</string>
+	<string id="mil_cook_common5_503">
+		<text>武器…不…我的刀子…要我的刀子吗？不？耶…神器，那是啥？放轻松。来吧，坐下来，跟我一起点根烟？让我们谈谈神器这东西…</text>
+	</string>
+	<string id="mil_cook_common5_504">
+		<text>这个区域在哪里可以找到神器？</text>
+	</string>
+	<string id="mil_cook_common5_505">
+		<text>那简单！神器…我们把神器戴在耳朵上！你知道辐射性沼泽地吗？不知道？没关系。它就在那边。我是指那个神器，就在那里。别再乱动了，放轻松，呃？神器…嘻-嘻-嘻…神器…什么神器…</text>
+	</string>
+	<string id="mil_cook_common6_0">
+		<text>好的，小心点。</text>
+	</string>
+	<string id="mil_cook_common6_601">
+		<text>当然…坐下来想想，你已经在这里了。</text>
+	</string>
+	<string id="mil_cook_common6_602">
+		<text>我要离开了。</text>
+	</string>
+	<string id="mil_cook_common6_603">
+		<text>呃，确定的事…放松...好吗？把我后面的门关上，我要走了...塔-搭-搭-搭…</text>
+	</string>
+	<string id="mil_cook_dialog_0">
+		<text>过来，坐下来！我们会有个好时光…</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_1_0">
+		<text>让我们喝点酒，好吧？</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_1_1">
+		<text>确定的事，兄弟！倒酒！</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_1_2">
+		<text>好，很好…干杯！</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_1_3">
+		<text>是的，这是好东西！拿着瓶子…里面还有一些。</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_1_4">
+		<text>再来一杯如何？</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_1_5">
+		<text>啊…惊人！可惜酒瓶已经空了。还要再来吗？</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_1_6">
+		<text>让我看看。</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_2_0">
+		<text>耶，这边！射稳一点。</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_2_1">
+		<text>嘻--嘻…真好啊！已经没有新的了。你是有一整个仓库的存货还是怎样？</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_2_2">
+		<text>你，嗯…，继续，喝了吧。我最近可没作什么练习。</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_2_3">
+		<text>敬我们的胜利！耶…啊，好时光，好时光！</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_2_4">
+		<text>是的…敬我们的胜利！</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_2_5">
+		<text>来吧，来吧，让我们干掉另外一瓶…你有…另外一瓶，嗯？</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_2_6">
+		<text>让我看看…</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_3_0">
+		<text>好吧，这是最后一瓶了，好吗？…这是今晚我可以拿出来的了…</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_3_1">
+		<text>放在这…这里！</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_3_2">
+		<text>呜啊…看看你…你自己一个人都喝光了吗？…</text>
+	</string>
+	<string id="mil_cook_drink_for_rg6_3_3">
+		<text>嘻！那--那，兄弟，到底…瓶底！嗯…哼…</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_1_0">
+		<text>我听说自由团有Bulldog 6，能看看那个宝贝一定是件有趣的事。</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_1_1">
+		<text>你在拿什么东西，嘿？你要我…给你…试试胆量吗？…你这傻子把我当成什么？</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_1_2">
+		<text>冷静点，我不晓得这么严重。</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_1_3">
+		<text>你不可以打我们武器的主意，懂吗？你到底是谁？我以前从没有见过你！</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_1_4">
+		<text>嘿，算了啦！我不过是问个问题…</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_1_5">
+		<text>嘘！小心点，好吗？</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_1_6">
+		<text>就这样。</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_2_0">
+		<text>我，嗯…嗯哼…我听说你们的人有Bulldog 6…我只是想看一看，嗯？只是稍微看一下…你说呢？只是很快的看一下…</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_2_1">
+		<text>什么？…你，嗯…来…啊，该死，是什么…我忘了！你问什么东西？</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_2_2">
+		<text>这…太好了…好…该死！榴--弹发射--器…我想…看看！</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_2_3">
+		<text>哪…你不能…随你的愿，朋友，并不是…不行！</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_2_4">
+		<text>嗯，OK…我，嗯…没什么意思！就是问一下…</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_3_0">
+		<text>嗨！Bulldog 6，嗯？</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_3_1">
+		<text>甚-么？…喔！好吧，它…它在村庄里！事实上我们有两个…但那些…笨蛋！他们弄丢了…浪费了！</text>
+	</string>
+	<string id="mil_cook_drunk_question_about_rg6_3_2">
+		<text>真-的吗？哇，那些…怪-怪物…</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_100">
+		<text>哈囉，兄弟。我是纪律团的人，正在进行一项任务。你要加入我们吗？</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_1001">
+		<text>没什么特别的兴趣。</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_1002">
+		<text>那么离我们远…远一点。</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_101">
+		<text>我加入了。</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_102">
+		<text>太好了。在山丘后方有一大群的混蛋--"自由团"的家伙--我跟我的人准备要去给他们好好的「搅动」一下。不过那里有个小问题，那个基地只有一个入口而且防卫森严。我们想要在篱笆炸开一个洞，但是他们在塔上的狙击手会阻止我们的行动。我不想让我的人吃子弹…但是你--他会让你接近而不会开枪射你的。如果你把他干掉，我们会报答你的。当然，如果计划成功，你可以取走任何在基地里的装备。</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_103">
+		<text>继续。</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_104">
+		<text>我经跟你说过了，你要做的事情，就是解决篱笆上方的塔上的狙击手。那么，你说如何？</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_1041">
+		<text>不，我还没准备好。</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_1042">
+		<text>那么就别档路。</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_105">
+		<text>我会试试看的。</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_1051">
+		<text>那太好了！你越快干掉他，我们就能开始炸开篱笆。</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_106">
+		<text>那里有个小问题。那个基地只有一个入口，而且防卫森严，我们很快的想到要开另一个入口，但…</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_107">
+		<text>但怎样？</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_108">
+		<text>我派我的人在晚上把篱笆炸开一的洞口。很好，他们的狙击手也很棒，而这还真不是我们的日子，我的人被干掉了。现在火药还在篱笆上，但我们没办法去引爆它。</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_109">
+		<text>为什么？</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_110">
+		<text>我不想派我的人去吃的个混蛋的子弹，但你有很大的机会干掉他。很确定的他在你接近时不会对你射击。你说如何？</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_111">
+		<text>我可以得到什么酬劳？</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_112">
+		<text>现在让我们谈谈生意了。干掉狙击手我们给你两千，加上那个基地里的一堆装备。那边有一堆尸体，我可以承诺你一定拿得到。那么，帮助我们又帮助你自己，如何？</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_120">
+		<text>成交。</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_121">
+		<text>祝好运。</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_130">
+		<text>首先我要看看情况，然后再跟你说。</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_131">
+		<text>我们会等你的，别太久。</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_200">
+		<text>谢谢你的帮忙，一号。这里是你的酬劳。</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_201">
+		<text>谢谢你。</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_300">
+		<text>我们做好交易了，不是吗？</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_400">
+		<text>那么，你干掉狙击手了。这里是你微薄的报酬。</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_401">
+		<text>收到。</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_402">
+		<text> 让开一点，可以吗？我们需要准备一下…</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_403">
+		<text>好的。</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_411">
+		<text>下次吧。</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_412">
+		<text>随你便。</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_413">
+		<text>再见。</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_420">
+		<text>我们可以继续吗？</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_421">
+		<text>到底是什么？</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_450">
+		<text>谢谢你。</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_451">
+		<text>我们正要引爆炸药让宴会继续进行。我看得出来你是个好射手--或许你可以干掉塔上的狙击手？如果那边没有狙击手，我们就可以比较容易让卢卡许头痛了。</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_501">
+		<text>你干掉狙击手了吗？</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_502">
+		<text>是的。</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_503">
+		<text>干的好！为我们清除了道路…这里是解决你烦恼的一点小东西来。</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_504">
+		<text>谢谢你。</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_506">
+		<text>我该做什么？</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_507">
+		<text>当我们对抗那些混蛋时，干掉其他的狙击手，我看的出来你很擅长处理这个。</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_5070">
+		<text>下次吧。</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_5071">
+		<text>好吧，你自己决定，我不逼你。</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_508">
+		<text>成交。</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_5080">
+		<text>没错，太好了。</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_601">
+		<text>别干涉，一号。</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_602">
+		<text>好的。</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_701">
+		<text>别管太多。</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_702">
+		<text>好的。</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_801">
+		<text>现在怎么了？</text>
+	</string>
+	<string id="mil_dolg_skull_dialog_802">
+		<text>没事。</text>
+	</string>
+	<string id="mil_dolg_soldier_dialog_0">
+		<text>三个混蛋倒下了，就是那样！你来的正好：没有要求我们的掩护，平安无事的出来了。此外，我想没人知道吧，嗯？</text>
+	</string>
+	<string id="mil_dolg_soldier_dialog_1">
+		<text>我不这样认为。</text>
+	</string>
+	<string id="mil_dolg_soldier_dialog_2">
+		<text>太好了，你在找赚钱的法子吗，潜行者？</text>
+	</string>
+	<string id="mil_dolg_soldier_dialog_20">
+		<text>很难说。</text>
+	</string>
+	<string id="mil_dolg_soldier_dialog_21">
+		<text>什么？你不再觉得还活着吗？</text>
+	</string>
+	<string id="mil_dolg_soldier_dialog_22">
+		<text>不。</text>
+	</string>
+	<string id="mil_dolg_soldier_dialog_3">
+		<text>像那样的事。</text>
+	</string>
+	<string id="mil_dolg_soldier_dialog_30">
+		<text>或许吧。</text>
+	</string>
+	<string id="mil_dolg_soldier_dialog_4">
+		<text>那么跟着我们，跟我们的指挥官谈谈。</text>
+	</string>
+	<string id="mil_dolg_soldier_dialog_5">
+		<text>指挥官？</text>
+	</string>
+	<string id="mil_dolg_soldier_dialog_6">
+		<text>当然，骷髅会告诉你所有关于他的事情。</text>
+	</string>
+	<string id="mil_dolg_soldier_dialog_7">
+		<text>好的。</text>
+	</string>
+	<string id="mil_freedom_commander_1001">
+		<text>怎么了，潜行者！你来的正是时候。我们正在抵御黑石组织的垃圾，下一波攻击就要来了。信不信，我们最后一个狙击手倒下了！你能帮忙吗？战斗后我们会给你报酬的--你不会后悔的！</text>
+	</string>
+	<string id="mil_freedom_commander_10011">
+		<text>不，我帮不了你们。</text>
+	</string>
+	<string id="mil_freedom_commander_10012">
+		<text>太糟了，如果你改变心意的话就回来吧。</text>
+	</string>
+	<string id="mil_freedom_commander_1002">
+		<text>我会的。</text>
+	</string>
+	<string id="mil_freedom_commander_1003">
+		<text>太老了！到塔上去，那边有一把狙击枪和一堆子弹。从上面把他们干掉，别下来，不然你就会冒着被我们的人干掉的风险。这样清楚吗？</text>
+	</string>
+	<string id="mil_freedom_commander_1004">
+		<text>很清楚了。</text>
+	</string>
+	<string id="mil_freedom_commander_1005">
+		<text>应当如此，我希望在早上和你交谈。喔，别走太远…不然我会认为你想逃走，而那就代表了--你知道那代表什么，把它记在心里！现在，回到你的岗位去。</text>
+	</string>
+	<string id="mil_freedom_commander_1007">
+		<text>没错，好的，让我们继续工作。一个黑石组织的队伍可能会试着穿越这里，那代表这里将要变热闹了。</text>
+	</string>
+	<string id="mil_freedom_commander_1008">
+		<text>知道了。</text>
+	</string>
+	<string id="mil_freedom_commander_1009">
+		<text>你是对的，我希望他们的人不会太多…</text>
+	</string>
+	<string id="mil_freedom_commander_1010">
+		<text>我的地方在哪里？</text>
+	</string>
+	<string id="mil_freedom_commander_1011">
+		<text>到塔里去，那里有一把Dragunov枪和一些弹药，你可以从上面去拿它们，但别往下走--小心别被自己人射中了。这样讲得够清楚吗？</text>
+	</string>
+	<string id="mil_freedom_commander_1012">
+		<text>是的。</text>
+	</string>
+	<string id="mil_freedom_commander_2001">
+		<text>看好你自己的点，因为晚点你就没有什么时间了！</text>
+	</string>
+	<string id="mil_freedom_commander_3001">
+		<text>看来我们把他们全给放倒了。我说今天这样就够了，谢谢你的帮助！这边，收下这个--这是一点钱，来感谢你的帮助。</text>
+	</string>
+	<string id="mil_freedom_commander_3002">
+		<text>谢谢你。</text>
+	</string>
+	<string id="mil_freedom_commander_3003">
+		<text>祝好运，一号！</text>
+	</string>
+	<string id="mil_freedom_commander_4001">
+		<text>嘿，一号！是卢卡许派你来的吗？</text>
+	</string>
+	<string id="mil_freedom_commander_4002">
+		<text>是的，他派我来帮助你。</text>
+	</string>
+	<string id="mil_freedom_commander_4003">
+		<text>你来的真是时候。我们正在躲避黑石组织的猛烈攻击，他们下一波攻击就快到了！不管你信不信，我们仅存的狙击手也倒下了！你能帮忙吗？战斗结束后我们会给你报酬--你绝对不会后悔的！</text>
+	</string>
+	<string id="mil_freedom_commander_5001">
+		<text>看来我们把他们全给放倒了。我说今天这样就够了，谢谢你的帮助！这边，收下这个--这是一点钱，来感谢你的帮助。</text>
+	</string>
+	<string id="mil_freedom_commander_5002">
+		<text>谢谢你。</text>
+	</string>
+	<string id="mil_freedom_commander_5003">
+		<text>祝好运，一号。</text>
+	</string>
+	<string id="mil_freedom_commander_common2_0">
+		<text>这是哪里？</text>
+	</string>
+	<string id="mil_freedom_commander_common2_1">
+		<text>我们称呼它为通关口….它其实就是这个样子。它是变异区中央仅存的一般前哨站了。它像某种的缓冲区，你知道的，就位于人们跟大荒野之间。</text>
+	</string>
+	<string id="mil_freedom_commander_common2_2">
+		<text>在那边的更远处有什么？</text>
+	</string>
+	<string id="mil_freedom_commander_common2_3">
+		<text>只有死亡…或是活着的黑石组织的人。"我们的黑石！以你为名我们…"该死！简单的说就是没有人该去那边。那也是我们为什么会把基地设在这里，就是要试着预防来自变异区中废物的骚扰。我们同时也会扣留住那些笨蛋，试着不让他们进入中央。</text>
+	</string>
+	<string id="mil_freedom_commander_common2_4">
+		<text>你为什么要这么做？</text>
+	</string>
+	<string id="mil_freedom_commander_common2_5">
+		<text>除了我们还有谁呢？纪律团？他们只会消灭怪物跟杀害无用的潜行者，但你应该试着让他们做一些真正有用的事情！你在这边有看过他们吗？没有？那就是我的意思。一方面来说，我们也不想杀死在这边的生物。一个通关口、一个一般的关卡--这样就够了。只要没有人去穿越那条界线…</text>
+	</string>
+	<string id="mil_freedom_commander_common2_6">
+		<text>如果有人这么做呢？</text>
+	</string>
+	<string id="mil_freedom_commander_common2_7">
+		<text>什么事情都有可能发生的。任何事，我可不想要…</text>
+	</string>
+	<string id="mil_guard_arsenal_dialog_1000">
+		<text>站住！通往军械库的路只有自由团的人可以通行。</text>
+	</string>
+	<string id="mil_guard_arsenal_dialog_2000">
+		<text>现在你可以进入军械库了，除了那边有一个小小的问题…</text>
+	</string>
+	<string id="mil_guard_arsenal_dialog_2001">
+		<text>什么问题？</text>
+	</string>
+	<string id="mil_guard_arsenal_dialog_2002">
+		<text>别担心，那不是件麻烦事。锁卡住了，就这样，如果你等不下去，就用枪把它射开吧，晚点我会去把它换掉的。</text>
+	</string>
+	<string id="mil_guard_arsenal_dialog_2003">
+		<text>我知道了。</text>
+	</string>
+	<string id="mil_hunter_dialog_1">
+		<text>吝啬鬼派我来这里清除吸血怪。</text>
+	</string>
+	<string id="mil_hunter_dialog_101">
+		<text>那么，潜行者，是什么带你来到这个邪恶之地？我建议你趁活着时赶快离开，不然就太迟了！</text>
+	</string>
+	<string id="mil_hunter_dialog_2">
+		<text>啊，现在那又是另一个问题…他知道这里发生了什么事情！有几个我们的人进入村庄后就没再回来了。见鬼，我们不能一直这样损失人手！我们正坐在这里，思考下一步要怎么做！</text>
+	</string>
+	<string id="mil_hunter_dialog_201">
+		<text>嘿，兄弟，昨晚可真是疯狂！</text>
+	</string>
+	<string id="mil_hunter_dialog_202">
+		<text>这代表？</text>
+	</string>
+	<string id="mil_hunter_dialog_203">
+		<text>我们就四处坐着，接着你就醉醺醺的跑了进来！接着你闯进了村庄，直接就想冲进那群吸血怪中！还好我们把你给挡了下来，才让你安静的睡着了。</text>
+	</string>
+	<string id="mil_hunter_dialog_204">
+		<text>那么你现在在做什么？</text>
+	</string>
+	<string id="mil_hunter_dialog_205">
+		<text>天晓得现在在做什么！有几个我们的人进入村庄后就没再回来了。见鬼，我们不能一直这样损失人手！我们正坐在这里，思考下一步要怎么做！</text>
+	</string>
+	<string id="mil_hunter_dialog_3">
+		<text>你有见到吸血怪吗？</text>
+	</string>
+	<string id="mil_hunter_dialog_301">
+		<text>那么？事情怎样了？</text>
+	</string>
+	<string id="mil_hunter_dialog_302">
+		<text>我除掉它们了。</text>
+	</string>
+	<string id="mil_hunter_dialog_303">
+		<text>哇！你真是强悍！天啊，你活着回来了，下一轮的酒将会为你举杯致敬！</text>
+	</string>
+	<string id="mil_hunter_dialog_304">
+		<text>谢谢你。</text>
+	</string>
+	<string id="mil_hunter_dialog_4">
+		<text>不，我们的人试着要前往旧水塔，那里可能是他们被击倒的地方。好吧，如果你跟吝啬鬼有协议，那么去那边看看…把住址写下来，好吗？如果你发生了什么事，我们会写信通知你的家属的。</text>
+	</string>
+	<string id="mil_hunter_dialog_401">
+		<text>你怎么像个游魂一样在四处闲晃？</text>
+	</string>
+	<string id="mil_hunter_dialog_402">
+		<text>只是到处看看罢了。</text>
+	</string>
+	<string id="mil_hunter_dialog_5">
+		<text>对我来说你太和善了…，好吧，我去。</text>
+	</string>
+	<string id="mil_hunter_dialog_501">
+		<text>是什么风把你吹到这里来？</text>
+	</string>
+	<string id="mil_hunter_dialog_502">
+		<text>只是随处看看。</text>
+	</string>
+	<string id="mil_hunter_dialog_503">
+		<text>这里是你看过最好的地方吗？这里可是全变异区中最糟糕的地方了…</text>
+	</string>
+	<string id="mil_hunter_dialog_504">
+		<text>为什么这里这么糟？</text>
+	</string>
+	<string id="mil_hunter_dialog_505">
+		<text>天知道这里发生了什么事！难来这个村庄已经变成了吸血怪的聚集地。见鬼，我们不能一直这样损失人手！我们正坐在这里，思考下一步要怎么做！</text>
+	</string>
+	<string id="mil_hunter_dialog_506">
+		<text>所以，你自己也不确定？</text>
+	</string>
+	<string id="mil_hunter_dialog_507">
+		<text>没错！如果你脑袋不清楚或是没事做，你可以试着去村庄里晃一晃。如果你清除了那些怪物，吝啬鬼会给你一些奖赏的。把住址写下来，好吗？如果你发生了什么事，我们会写信通知你的家属的。</text>
+	</string>
+	<string id="mil_hunter_dialog_508">
+		<text>好的，我会去看看的。</text>
+	</string>
+	<string id="mil_hunter_dialog_601">
+		<text>你不会是想要去村庄吧，你会吗？</text>
+	</string>
+	<string id="mil_hunter_dialog_602">
+		<text>是的。</text>
+	</string>
+	<string id="mil_hunter_dialog_603">
+		<text>我们有几个人去那边后就没再回来了，你有见过他们吗？</text>
+	</string>
+	<string id="mil_hunter_dialog_604">
+		<text>不，我没有，我只有在地面上看到几具尸体。</text>
+	</string>
+	<string id="mil_hunter_dialog_605">
+		<text>你有看到吸血怪吗？</text>
+	</string>
+	<string id="mil_hunter_dialog_606">
+		<text>耶，你自己过去那边看看，现在已经安全了--我把它们都打倒了。</text>
+	</string>
+	<string id="mil_hunter_dialog_607">
+		<text>哇！那真是神奇！知道吗…到我们的基地去见吝啬鬼，他会给你很好的报酬的。</text>
+	</string>
+	<string id="mil_hunter_dialog_7">
+		<text>好的，我会过去的。</text>
+	</string>
+	<string id="mil_hunter_dialog_701">
+		<text>喔？怎么了？</text>
+	</string>
+	<string id="mil_hunter_dialog_702">
+		<text>我杀掉那些野兽了。</text>
+	</string>
+	<string id="mil_hunter_dialog_703">
+		<text>哇，你干得好！知道吗…到我们的基地去见吝啬鬼，他会给你很好的报酬的。</text>
+	</string>
+	<string id="mil_hunter_dialog_704">
+		<text>我会的。</text>
+	</string>
+	<string id="mil_hunter_dialog_80">
+		<text>好的，不管怎样…</text>
+	</string>
+	<string id="mil_hunter_dialog_801">
+		<text>是什么风把你吹到这里来？</text>
+	</string>
+	<string id="mil_hunter_dialog_802">
+		<text>不过是随处看看…</text>
+	</string>
+	<string id="mil_hunter_dialog_803">
+		<text>这里是你看过最好的地方吗？这里可是全变异区中最糟糕的地方了…</text>
+	</string>
+	<string id="mil_hunter_dialog_804">
+		<text>为什么这里这么糟？</text>
+	</string>
+	<string id="mil_hunter_dialog_805">
+		<text>天知道这里发生了什么事！难来这个村庄已经变成了吸血怪的聚集地。见鬼，我们不能一直这样损失人手！我们正坐在这里，思考下一步要怎么做！</text>
+	</string>
+	<string id="mil_hunter_dialog_806">
+		<text>那么，你自己也不确定？</text>
+	</string>
+	<string id="mil_hunter_dialog_807">
+		<text>没错！如果你脑袋不清楚或是没事做，你可以试着去村庄里晃一晃。如果你清除了那些怪物，吝啬鬼会给你一些奖赏的。把住址写下来，好吗？如果你发生了什么事，我们会写信通知你的家属的。</text>
+	</string>
+	<string id="mil_hunter_dialog_808">
+		<text>好的，我会去看看的。</text>
+	</string>
+	<string id="mil_hunter_dialog_901">
+		<text>喔？怎么了？</text>
+	</string>
+	<string id="mil_hunter_dialog_902">
+		<text>我干掉那些野兽了。</text>
+	</string>
+	<string id="mil_hunter_dialog_903">
+		<text>哇，太惊人了！献上我的祝贺！更棒的是，你还活着…</text>
+	</string>
+	<string id="mil_hunter_dialog_904">
+		<text>谢谢你。</text>
+	</string>
+	<string id="mil_leader_start_dialog_10001">
+		<text>自从你在通关口帮助我们的人之后，你就可以在我们的领地中休息，并且接受我们的帮助。喔，还有我个人的感谢--一点点给你的法定权力，我邀请你加入我们的组织。</text>
+	</string>
+	<string id="mil_leader_start_dialog_1001">
+		<text>嘿，潜行者，你需要什么？</text>
+	</string>
+	<string id="mil_leader_start_dialog_10011">
+		<text>没什么，真的。</text>
+	</string>
+	<string id="mil_leader_start_dialog_10012">
+		<text>那么让我们离开这里，好吗？时间就是金钱。</text>
+	</string>
+	<string id="mil_leader_start_dialog_1100">
+		<text>我见到一群纪律团的人，聚集在靠近你基地附近的农庄中。大约有八个人，都拥有良好的装备。</text>
+	</string>
+	<string id="mil_leader_start_dialog_11001">
+		<text>你该死的为什么从通关口逃了过来？离开这里，别让我再看到你靠近我的基地。</text>
+	</string>
+	<string id="mil_leader_start_dialog_1101">
+		<text>该死，那群痞子就是停不下来！很好，我们该好好的帮他们上一课。嘿，潜行者，想要帮帮我们赚点酬劳吗？跟麦斯谈谈，我们的老大，你们两个会一起清除掉这些混蛋的。</text>
+	</string>
+	<string id="mil_leader_start_dialog_11011">
+		<text>好的。</text>
+	</string>
+	<string id="mil_leader_start_dialog_11012">
+		<text>祝好运，潜行者。</text>
+	</string>
+	<string id="mil_leader_start_dialog_1200">
+		<text>我已经处理他们了。</text>
+	</string>
+	<string id="mil_leader_start_dialog_12001">
+		<text>那么，你没找到内贼，同时在通关口失败了，是吗？离开我的基地，别让我再看到你！</text>
+	</string>
+	<string id="mil_leader_start_dialog_1210">
+		<text>说真的？到底你看到了多少人？</text>
+	</string>
+	<string id="mil_leader_start_dialog_1221">
+		<text>8个人。</text>
+	</string>
+	<string id="mil_leader_start_dialog_1222">
+		<text>你的手脚很快，潜行者…好的，那么再帮我一些事好吗？我很羞愧的承认在那边有个内贼，他的名字叫做巴夫里克，他正在泄漏一些有价值的讯息，一定要阻止这件事。</text>
+	</string>
+	<string id="mil_leader_start_dialog_1223">
+		<text>怎么做？</text>
+	</string>
+	<string id="mil_leader_start_dialog_1300">
+		<text>你必须跟着他潜入农庄，然后找出他是谁的爪牙。他并不认识你--他也不知道我们之间的对话，所以…</text>
+	</string>
+	<string id="mil_leader_start_dialog_13001">
+		<text>你觉得我有工作可以给你做吗？</text>
+	</string>
+	<string id="mil_leader_start_dialog_13002">
+		<text>希望是。</text>
+	</string>
+	<string id="mil_leader_start_dialog_13003">
+		<text>我们知道了在我们之中有个叛徒，他的名字是巴夫里克，他正在泄漏有价值的讯息出去。我们知道这件事是真的。但却没有证据可以证明。你的任务是在外面监视他，找出他在为谁工作。我想他今晚将要去跟人会面，你低调的跟着他，小心别让他发现你--他可是个非常谨慎的人。为了大局着想，当你找出他对外联络的证据之后，解决掉他和跟他碰面的人。</text>
+	</string>
+	<string id="mil_leader_start_dialog_1301">
+		<text>我会做的。</text>
+	</string>
+	<string id="mil_leader_start_dialog_1302">
+		<text>我们知道了在我们之中有个叛徒，他的名字是巴夫里克，他正在泄漏有价值的讯息出去。我们知道这件事是真的。但却没有证据可以证明。你的任务是在外面监视他，找出他在为谁工作。我想他今晚将要去跟人会面，你低调的跟着他，小心别让他发现你--他可是个非常谨慎的人。为了大局着想，当你找出他对外联络的证据之后，解决掉他和跟他碰面的人。</text>
+	</string>
+	<string id="mil_leader_start_dialog_1391">
+		<text>不，下次再说吧。</text>
+	</string>
+	<string id="mil_leader_start_dialog_14001">
+		<text>我还要你做一件事。</text>
+	</string>
+	<string id="mil_leader_start_dialog_1500">
+		<text>他刚刚离开，所以你必须赶上他。记得，你可以干掉他，但必须在他跟另一个他要泄密的人碰面之后，另一个人你也必须把他干掉。</text>
+	</string>
+	<string id="mil_leader_start_dialog_1501">
+		<text>知道了。</text>
+	</string>
+	<string id="mil_leader_start_dialog_2001">
+		<text>我叫你去跟麦斯谈谈。</text>
+	</string>
+	<string id="mil_leader_start_dialog_3001">
+		<text>那么，任务完成了…很好、很好，我会交给你另一件任务的！</text>
+	</string>
+	<string id="mil_leader_start_dialog_3002">
+		<text>嗯…是什么？</text>
+	</string>
+	<string id="mil_leader_start_dialog_30021">
+		<text>很难过的，我发现在我们之中有一个叛徒，他的名字是巴夫里克，他正在泄漏有价值的讯息出去。我们必须阻止这件事。</text>
+	</string>
+	<string id="mil_leader_start_dialog_3003">
+		<text>没错，我认为他会在晚上10点到11点之间去跟某个人碰面。到时天色够黑了，所以没有人会看到他，而那些在夜间活动的怪物也还没有开始四处活动。去吧，潜行者，你完成之后，你就可以成为我们组织的一员。记得，你必须当场捉住那个叛徒！在他们会面之后你就解决掉他，不然这个任务就会宣告失败。</text>
+	</string>
+	<string id="mil_leader_start_dialog_4001">
+		<text>你还在这里？</text>
+	</string>
+	<string id="mil_leader_start_dialog_5001">
+		<text>干得好，一号！这里，收下吧…这是你干掉叛徒的酬劳。你可以自由的在我们的领域中休息，并且得到我们的帮助。不过，我还有一件工作需要你的帮助，你现在会太累吗？</text>
+	</string>
+	<string id="mil_leader_start_dialog_5002">
+		<text>是什么工作？</text>
+	</string>
+	<string id="mil_leader_start_dialog_5003">
+		<text>如果你还可以，到靠近红森林出口的前哨站去。我们接到报告说有些异种生物或是黑石组织正在计划攻击那里，那边的人需要你的帮助。</text>
+	</string>
+	<string id="mil_leader_start_dialog_5004">
+		<text>很好，你的确帮助了在通关口的人，那么--放松点。</text>
+	</string>
+	<string id="mil_leader_start_dialog_6001">
+		<text>放轻松，现在没有什么工作了。</text>
+	</string>
+	<string id="mil_leader_start_dialog_7001">
+		<text>耶，你把任务搞砸了…真糟糕。不过，还有另一个机会！</text>
+	</string>
+	<string id="mil_leader_start_dialog_7002">
+		<text>什么机会？</text>
+	</string>
+	<string id="mil_leader_start_dialog_7003">
+		<text>有些事情指出，很快的黑石组织就要试着从红森林那一边攻过来了。你得去见见凯普--他是通关口的指挥官--看他需要什么帮助。好吧，很显然的他需要帮助，非常的…</text>
+	</string>
+	<string id="mil_leader_start_dialog_7004">
+		<text>好，我会去的。</text>
+	</string>
+	<string id="mil_leader_start_dialog_7006">
+		<text>不，我还不想去。</text>
+	</string>
+	<string id="mil_leader_start_dialog_7007">
+		<text>想想那些我们的人，他们就要被杀害了！你知道的，除了你我已经派不出人手了…一个都没有。</text>
+	</string>
+	<string id="mil_leader_start_dialog_8001">
+		<text>你的任务失败了，所以我们应该跟这些文件说再见吧。我们这边从来就没有像你这样的失败者。</text>
+	</string>
+	<string id="mil_leader_start_dialog_8004">
+		<text>好吧，你把任务搞砸了…那真糟糕。不过，你还是帮助了在通关口的人；见鬼--你在我们这边可以好好的休息，如果发生了什么事情，我们会帮助你的。</text>
+	</string>
+	<string id="mil_leader_start_dialog_8005">
+		<text>有什么工作吗？</text>
+	</string>
+	<string id="mil_leader_start_dialog_8006">
+		<text>现在没有。</text>
+	</string>
+	<string id="mil_leader_start_dialog_9001">
+		<text>我告诉过你--去通关口。</text>
+	</string>
+	<string id="mil_max_dialog_10001">
+		<text>当我们干掉这些纪律团的白痴之后再来聊聊。</text>
+	</string>
+	<string id="mil_max_dialog_10002">
+		<text>好的。</text>
+	</string>
+	<string id="mil_max_dialog_1001">
+		<text>卢卡许说你会做的，你有见过那些…在农庄里面？</text>
+	</string>
+	<string id="mil_max_dialog_1100">
+		<text>没。</text>
+	</string>
+	<string id="mil_max_dialog_1101">
+		<text>该死…纪律团一定逮住他们了！喔，好吧，跟我们走，好吗？</text>
+	</string>
+	<string id="mil_max_dialog_1102">
+		<text>好的。</text>
+	</string>
+	<string id="mil_max_dialog_1200">
+		<text>是。</text>
+	</string>
+	<string id="mil_max_dialog_1201">
+		<text>他们有很多人吗？</text>
+	</string>
+	<string id="mil_max_dialog_1210">
+		<text>我不确定，我不认为那边有很多人。</text>
+	</string>
+	<string id="mil_max_dialog_1220">
+		<text>大约有6到8个人，拥有一般的装备。</text>
+	</string>
+	<string id="mil_max_dialog_2001">
+		<text>去找卢卡许。</text>
+	</string>
+	<string id="mil_max_dialog_3001">
+		<text>有什么问题吗？</text>
+	</string>
+	<string id="mil_max_dialog_3002">
+		<text>是的，卢卡许告诉我在红森林通往死亡之城的路上拦截纪律团的信差。你可以告诉我最好的地点在哪里吗？</text>
+	</string>
+	<string id="mil_max_dialog_3003">
+		<text>嗯，最好是在他接近死亡之城通道到达农庄的地方来逮住他。援军一定是在那里等他，所以如果你碰上了他们会很麻烦的。加上，那条路你一定要通过村庄，那可是一件糟糕的是情。最好从村庄的东面走，而且要快一点。</text>
+	</string>
+	<string id="mil_max_dialog_3004">
+		<text>村庄里有什么？</text>
+	</string>
+	<string id="mil_max_dialog_3005">
+		<text>相信我--没有一件事好事。在那边有一堆怪物，还有异种生物。晚点我再跟你说那边的事情。</text>
+	</string>
+	<string id="mil_max_dialog_4001">
+		<text>现在庆祝适合吗？</text>
+	</string>
+	<string id="mil_max_dialog_4002">
+		<text>是的。</text>
+	</string>
+	<string id="mil_max_dialog_4003">
+		<text>我就觉得你是个合适的人！你不介意再帮我做件小工作吧？完成后我会把我的黑鸢送给你的。它可是把好枪，火力十足！</text>
+	</string>
+	<string id="mil_max_dialog_4004">
+		<text>但我该做些什么？</text>
+	</string>
+	<string id="mil_max_dialog_4005">
+		<text>有个人陷入麻烦了，我的手下看到他跳过篱笆和水沟一路从村庄里冲了出来。他一定看到了什么让他吓破胆的东西。现在他不管看到谁都会开枪射击，你必须去找出他到底看到了什么，因为我的人都害怕到不敢进入村庄。</text>
+	</string>
+	<string id="mil_max_dialog_40051">
+		<text>不，现在不要。</text>
+	</string>
+	<string id="mil_max_dialog_400511">
+		<text>好吧，随便。</text>
+	</string>
+	<string id="mil_max_dialog_40052">
+		<text>这是我从那疯子身上拿到的随身碟。</text>
+	</string>
+	<string id="mil_max_dialog_400521">
+		<text>嘿，谢了，潜行者！拿走这把枪--这是你应得的。</text>
+	</string>
+	<string id="mil_max_dialog_400522">
+		<text>你有子弹吗？</text>
+	</string>
+	<string id="mil_max_dialog_400523">
+		<text>只剩下弹匣里面的了。抱歉，我只有这些。去见吝啬鬼，他应该会有一些。</text>
+	</string>
+	<string id="mil_max_dialog_4006">
+		<text>我会试试看。</text>
+	</string>
+	<string id="mil_max_dialog_4007">
+		<text>祝好运了，别忘了--那边有个老的雷区，但只要引爆的恰当，你就可以通过任何矿区了。</text>
+	</string>
+	<string id="mil_max_dialog_5001">
+		<text>那么你知道了什么？那个疯子发生了什么事情？</text>
+	</string>
+	<string id="mil_max_dialog_5002">
+		<text>这是随身碟--我从那个疯子身上拿过来的。</text>
+	</string>
+	<string id="mil_max_dialog_6001">
+		<text>什么，已经？</text>
+	</string>
+	<string id="mil_max_dialog_7001">
+		<text>你想知道什么？</text>
+	</string>
+	<string id="mil_max_dialog_8001">
+		<text>怎么了，潜行者！你要干嘛？</text>
+	</string>
+	<string id="mil_max_dialog_8002">
+		<text>我有生意要谈。你能告诉我怎么去找你的首领吗？</text>
+	</string>
+	<string id="mil_max_dialog_8003">
+		<text>你是说卢卡许--他是我们的老大，到那座主建筑物去。</text>
+	</string>
+	<string id="mil_max_dialog_9001">
+		<text>我看你干得不错，把文件交给卢卡许。</text>
+	</string>
+	<string id="mil_max_dialog_9100">
+		<text>你先去找卢卡许报告。然后我们再谈谈，好吗？</text>
+	</string>
+	<string id="mil_max_dialog_9101">
+		<text>好的。</text>
+	</string>
+	<string id="mil_patrol_dialog1_0">
+		<text>朋友，你现在在自由团的基地！放松点，把这里当成是自己的家！</text>
+	</string>
+	<string id="mil_patrol_dialog1_1">
+		<text>我知道了。</text>
+	</string>
+	<string id="mil_patrol_dialog1_2">
+		<text>乖一点，好吗？懂了没？再装傻你会后悔的。以前在这曾经有个智力迟钝的家伙，他把所有人都给惹毛了，所以我们把他脱光光的丢在--布雷区中。当那个笨蛋的手臂被炸到吝啬鬼头上时，你该听听他的诅咒声的！那是某些特别的事情…耶…那么，你有什么主意吗？</text>
+	</string>
+	<string id="mil_patrol_dialog1_3">
+		<text>知道了。</text>
+	</string>
+	<string id="mil_patrol_dialog1_4">
+		<text>很好，朋友！解散。</text>
+	</string>
+	<string id="mil_patrol_dialog2_0">
+		<text>啊，一个菜鸟…过来一下。</text>
+	</string>
+	<string id="mil_patrol_dialog2_1">
+		<text>我不懂。</text>
+	</string>
+	<string id="mil_patrol_dialog2_10">
+		<text>你要去哪里？停住！这里很不错…而且我们今天晚上要吃晚餐。</text>
+	</string>
+	<string id="mil_patrol_dialog2_11">
+		<text>哪，我没兴趣。</text>
+	</string>
+	<string id="mil_patrol_dialog2_12">
+		<text>什么？我真是该死，你为什么以前没有告诉我！我们不过是在浪费时间。滚开，讨厌鬼。这次我可是认真的…</text>
+	</string>
+	<string id="mil_patrol_dialog2_2">
+		<text>你拿到什么了？喔，你还没有听过关于那个智力迟钝的家伙的故事，哼？</text>
+	</string>
+	<string id="mil_patrol_dialog2_3">
+		<text>不，我没听过。</text>
+	</string>
+	<string id="mil_patrol_dialog2_4">
+		<text>好吧，听着，想想看：这是学习时间…</text>
+	</string>
+	<string id="mil_patrol_dialog2_5">
+		<text>代表？</text>
+	</string>
+	<string id="mil_patrol_dialog2_6">
+		<text>好吧，很简单！一个飢饿的战士就是一个糟糕的战士。而我们有太多人…</text>
+	</string>
+	<string id="mil_patrol_dialog2_7">
+		<text>所以？</text>
+	</string>
+	<string id="mil_patrol_dialog2_8">
+		<text>我们要去哪里找那么多肉？看看，就在这里。</text>
+	</string>
+	<string id="mil_patrol_dialog2_9">
+		<text>懂了。</text>
+	</string>
+	<string id="mil_screw_dialog_1000">
+		<text>你有东西坏了吗，朋友？</text>
+	</string>
+	<string id="mil_screw_dialog_1001">
+		<text>坏了？</text>
+	</string>
+	<string id="mil_screw_dialog_1002">
+		<text>啊，你不是来寻求我的帮助吗？哟！我越来越讨厌那样了。当东西坏掉，他们就跑来烦我。</text>
+	</string>
+	<string id="mil_screw_dialog_1003">
+		<text>你是谁。</text>
+	</string>
+	<string id="mil_screw_dialog_1004">
+		<text>我是一个技工，一个修东西先生…我修理枪枝和不管什么你带来的东西。现在，我正在修这些车子。</text>
+	</string>
+	<string id="mil_screw_dialog_1005">
+		<text>状况如何？</text>
+	</string>
+	<string id="mil_screw_dialog_1006">
+		<text>去！都是一堆垃圾。我完全被击败了。听着，你身上有伏特加吗？我，嗯…你…想要一支不错的瞄准镜吗？这可是最好的光学设计！</text>
+	</string>
+	<string id="mil_screw_dialog_1100">
+		<text>不了。</text>
+	</string>
+	<string id="mil_screw_dialog_1101">
+		<text>这是你的损失。如果你有的话--进来吧，别像个陌生人。</text>
+	</string>
+	<string id="mil_screw_dialog_1102">
+		<text>好的。</text>
+	</string>
+	<string id="mil_screw_dialog_1200">
+		<text>这里，拿去吧。</text>
+	</string>
+	<string id="mil_screw_dialog_1201">
+		<text>很好，谢了！你真好，现在有东西可以帮我来放松一下了。</text>
+	</string>
+	<string id="mil_screw_dialog_1202">
+		<text>祝好运。</text>
+	</string>
+	<string id="mil_screw_dialog_2000">
+		<text>别让我分心，我在思考…</text>
+	</string>
+	<string id="mil_screw_dialog_4">
+		<text>不可能，你真的有伏特加吗？</text>
+	</string>
+	<string id="mil_trader_dialog_1001">
+		<text>那是什么？</text>
+	</string>
+	<string id="mil_trader_dialog_1002">
+		<text>这有一个微妙的问题--我在哪里可以找到神器和武器这类的东西？</text>
+	</string>
+	<string id="mil_trader_dialog_1003">
+		<text>你跟着我，把钱带着。或是到村庄中去拿免钱的，不过那边的风险可是高多了。</text>
+	</string>
+	<string id="mil_trader_dialog_1004">
+		<text>村庄？</text>
+	</string>
+	<string id="mil_trader_dialog_1005">
+		<text>村庄。那里到处都是异种生物--菜鸟常在那边出事。我们的人正前往那边，你要的话可以加入他们。</text>
+	</string>
+	<string id="mil_trader_dialog_1006">
+		<text>了解。</text>
+	</string>
+	<string id="mil_trader_dialog_2001">
+		<text>你帮我带来了什么好东西？</text>
+	</string>
+	<string id="mil_trader_dialog_3001">
+		<text>你需要什么？</text>
+	</string>
+	<string id="mil_trader_dialog_3002">
+		<text>没事…随便看看而已。</text>
+	</string>
+	<string id="mil_trader_dialog_3003">
+		<text>你该去做些更有用的事情。特别是我正好有些事情你或许会有兴趣…想赚点钱吗，嗯？</text>
+	</string>
+	<string id="mil_trader_dialog_3004">
+		<text>有兴趣…</text>
+	</string>
+	<string id="mil_trader_dialog_3005">
+		<text>如果你帮个特别的忙，我就会给你一块水晶。现在有些糟糕的情况….，最近，没有人能从村子带走任何东西，大家都很害怕，他们说吸血怪就在这里。这几天我甚至不能派出任何人--事实上，我已经停止向纪律团寻求帮助了。</text>
+	</string>
+	<string id="mil_trader_dialog_3006">
+		<text>继续。</text>
+	</string>
+	<string id="mil_trader_dialog_3007">
+		<text>一些家伙去了村子之后就没再回来了，其他三个人都呆在外面。如果你杀死了吸血怪，我会给你一块水晶。你觉得如何？</text>
+	</string>
+	<string id="mil_trader_dialog_30071">
+		<text>下次吧。</text>
+	</string>
+	<string id="mil_trader_dialog_30072">
+		<text>嘿，你自己决定….迟早都会有人杀掉它们。到时，水晶会变得稀少而珍贵。</text>
+	</string>
+	<string id="mil_trader_dialog_3008">
+		<text>我决定干了。</text>
+	</string>
+	<string id="mil_trader_dialog_3009">
+		<text>喔，太好了。如果你找到更多这样的东西，把它带过来--我会给你很好的价钱。</text>
+	</string>
+	<string id="mil_trader_dialog_3101">
+		<text>然后？</text>
+	</string>
+	<string id="mil_trader_dialog_3110">
+		<text>他们就在那，看看四周….</text>
+	</string>
+	<string id="mil_trader_dialog_3111">
+		<text>如果你帮他们猎杀，我会给你一块水晶。你觉得如何？</text>
+	</string>
+	<string id="mil_trader_dialog_3200">
+		<text>我们交谈了一下，然后步行穿越村庄，试着捕捉一些异种…</text>
+	</string>
+	<string id="mil_trader_dialog_3201">
+		<text>然后呢？猎杀捕以后发生的事情呢？</text>
+	</string>
+	<string id="mil_trader_dialog_3300">
+		<text>我们打倒了某种野兽，但我们的人也倒了。当我们来到水塔，他们都抓着的头，而我的眼睛里也都是血…那个狗屎桶子正在影响着你的脑子。我杀了那东西，但已经太迟来帮助那些人了。</text>
+	</string>
+	<string id="mil_trader_dialog_3301">
+		<text>事情搞砸了，莫克可是个有经验的潜行者，真丢脸。好吧，拿着这个神器去帮助那些孩子。</text>
+	</string>
+	<string id="mil_trader_dialog_3310">
+		<text>好吧，大伙去猎杀而我回到这里…</text>
+	</string>
+	<string id="mil_trader_dialog_3311">
+		<text>我知道了。</text>
+	</string>
+	<string id="mil_trader_dialog_3400">
+		<text>我可以补充一些这边的装备吗？</text>
+	</string>
+	<string id="mil_trader_dialog_3401">
+		<text>只要价钱合理，任何事都可以的。</text>
+	</string>
+	<string id="mil_trader_dialog_3500">
+		<text>我已经跟解决掉它们了。</text>
+	</string>
+	<string id="mil_trader_dialog_3501">
+		<text>该死，潜行者！你就跟拉肚子一样快！好吧，约定就是约定，这里是你的水晶。</text>
+	</string>
+	<string id="mil_trader_dialog_4001">
+		<text>那么，猎杀进行的如何了？</text>
+	</string>
+	<string id="mil_trader_dialog_4002">
+		<text>我把怪物杀死了。</text>
+	</string>
+	<string id="mil_trader_dialog_4003">
+		<text>它很厉害吗？</text>
+	</string>
+	<string id="mil_trader_dialog_4004">
+		<text>一般吧。</text>
+	</string>
+	<string id="mil_trader_dialog_4005">
+		<text>嗯，有趣…所有的怪东西都是从变异区中心蔓延开来的--但到底它是从哪来的？…好吧，把这个当成是你的烦恼吧。</text>
+	</string>
+	<string id="mil_trader_dialog_5001">
+		<text>但我要你杀掉那些在村庄里的怪物。</text>
+	</string>
+	<string id="mil_trader_dialog_5002">
+		<text>我改变心意了。</text>
+	</string>
+	<string id="mil_trader_dialog_5003">
+		<text>没问题，当然，这样就没有奖赏了。</text>
+	</string>
+	<string id="mil_trader_dialog_5004">
+		<text>我没关系。</text>
+	</string>
+	<string id="mil_trader_dialog_5010">
+		<text>我会试试看的。</text>
+	</string>
+	<string id="mil_trader_dialog_6001">
+		<text>嗯哼，所以，你没有解决那个小小的问题…那么，神器我就自己留下来了。</text>
+	</string>
+	<string id="mil_trader_dialog_6002">
+		<text>我没有意见。</text>
+	</string>
+	<string id="mil_trader_dialog_7001">
+		<text>人们说你解决掉了村庄里的吸血怪，这是真的吗？</text>
+	</string>
+	<string id="mil_trader_dialog_7002">
+		<text>没错。</text>
+	</string>
+	<string id="mil_trader_dialog_7003">
+		<text>它很厉害吗？</text>
+	</string>
+	<string id="mil_trader_dialog_7004">
+		<text>一般啦。</text>
+	</string>
+	<string id="mil_trader_dialog_7005">
+		<text>嗯，有趣…所有的怪东西都是从变异区中心蔓延开来的--但到底它是从哪来的？…好吧，把这个当成是你的烦恼吧。</text>
+	</string>
+	<string id="mil_trader_dialog_8001">
+		<text>那么，你带给我什么东西？</text>
+	</string>
+	<string id="mil_zoneguard_common1_0">
+		<text>这附近有个厨子吗？</text>
+	</string>
+	<string id="mil_zoneguard_common1_1">
+		<text>当然，我们怎么会没有厨子！不过你到底需要他做什么？</text>
+	</string>
+	<string id="mil_zoneguard_common1_2">
+		<text>好吧，我需要一点点食物。</text>
+	</string>
+	<string id="mil_zoneguard_common1_3">
+		<text>他在他的厨房里。通常，他都是坐在那儿抱怨。</text>
+	</string>
+	<string id="mil_zoneguard_common1_4">
+		<text>抱怨？</text>
+	</string>
+	<string id="mil_zoneguard_common1_5">
+		<text>你还能期待什么？醉鬼就是醉鬼。如果他不能煮饭，我们早就干掉他了。他在厨房里，我会跟你说怎么过去的。</text>
+	</string>
+	<string id="mil_zoneguard_common1_6">
+		<text>谢谢你的讯息。</text>
+	</string>
+	<string id="mil_zoneguard_common1_7">
+		<text>没问题。</text>
+	</string>
+	<string id="mil_zoneguard_common2_0">
+		<text>谁是这边的老大？</text>
+	</string>
+	<string id="mil_zoneguard_common2_1">
+		<text>你要做什么？</text>
+	</string>
+	<string id="mil_zoneguard_common2_2">
+		<text>我有讯息要给他。</text>
+	</string>
+	<string id="mil_zoneguard_common2_3">
+		<text>卢卡许是我们的老大，到主建筑物那边去。</text>
+	</string>
+	<string id="mil_zoneguard_common2_4">
+		<text>知道了，谢谢。</text>
+	</string>
+	<string id="mil_zoneguard_dialog_10">
+		<text>你也是。是什么风把你吹到这里来了？</text>
+	</string>
+	<string id="mil_zoneguard_dialog_100">
+		<text>谁是这边的老大？我有事要跟他讨论。</text>
+	</string>
+	<string id="mil_zoneguard_dialog_1000">
+		<text>卢卡许是我们的老大，你可以在主建筑物那边找到他。不过你进去之前，先把你的家伙拿开--除非你想没事被开枪射击。</text>
+	</string>
+	<string id="mil_zoneguard_dialog_10000">
+		<text>为什么？</text>
+	</string>
+	<string id="mil_zoneguard_dialog_100000">
+		<text>我们发生了些鸟事--曾经有一个杀手差这么一点点就干掉卢卡许了。之后我们就试着避开所有的风险。</text>
+	</string>
+	<string id="mil_zoneguard_dialog_1000000">
+		<text>懂了。</text>
+	</string>
+	<string id="mil_zoneguard_dialog_10000000">
+		<text>好把，你可以去了。</text>
+	</string>
+	<string id="mil_zoneguard_dialog_20">
+		<text>马马虎虎啦。走开，别烦我。</text>
+	</string>
+	<string id="mil_zoneguard_dialog_3">
+		<text>日安。</text>
+	</string>
+	<string id="mil_zoneguard_dialog_30">
+		<text>站住！谁在那边！</text>
+	</string>
+	<string id="mil_zoneguard_dialog_31">
+		<text>南非燕！</text>
+	</string>
+	<string id="mil_zoneguard_dialog_32">
+		<text>哈哈！正确！你可以通过。</text>
+	</string>
+	<string id="mil_zoneguard_dialog_4">
+		<text>这个沼泽靠近什么地方？</text>
+	</string>
+	<string id="mil_zoneguard_dialog_41">
+		<text>一个充满了放射性的水潭。最好不要去碰它，不然你可是会受到够多的辐射伤害的。在它的中央有个人，不过没有任何人可以靠近。好吧，我可以感觉到他：谁会跟一个白痴搞在一起？因为只要是正常人都不会接近那边。</text>
+	</string>
+	<string id="mil_zoneguard_dialog_42">
+		<text>那个人到底是谁？</text>
+	</string>
+	<string id="mil_zoneguard_dialog_43">
+		<text>鬼才知道，有人说他是我们一个去过村庄的伙伴。</text>
+	</string>
+	<string id="mil_zoneguard_dialog_44">
+		<text>什么村庄？</text>
+	</string>
+	<string id="mil_zoneguard_dialog_45">
+		<text>好吧，在附近有一个小村庄，里面都是怪物和异种。我还没去过那里--我最近才来到基地而已。问问麦斯--他来这边可久了。</text>
+	</string>
+	<string id="mil_zoneguard_dialog_5">
+		<text>听着，我在哪里可以弄一些弹药？罗斯托克离这太远了，我不想要去那边。</text>
+	</string>
+	<string id="mil_zoneguard_dialog_51">
+		<text>到主建筑去，你会在一楼找到它。</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6">
+		<text>怎么啦，闲人？要看看我们的地方，哼？</text>
+	</string>
+	<string id="mil_zoneguard_dialog_601">
+		<text>大概吧。</text>
+	</string>
+	<string id="mil_zoneguard_dialog_602">
+		<text>要加入我们吗，嗯？</text>
+	</string>
+	<string id="mil_zoneguard_dialog_603">
+		<text>不了，我来是为了公事。</text>
+	</string>
+	<string id="mil_zoneguard_dialog_604">
+		<text>来吧，加入我们，这很有趣的。</text>
+	</string>
+	<string id="mil_zoneguard_dialog_605">
+		<text>我会考虑看看。</text>
+	</string>
+	<string id="mil_zoneguard_dialog_607">
+		<text>会说话的马？</text>
+	</string>
+	<string id="mil_zoneguard_dialog_608">
+		<text>没中。</text>
+	</string>
+	<string id="mil_zoneguard_dialog_609">
+		<text>A-9？</text>
+	</string>
+	<string id="mil_zoneguard_dialog_610">
+		<text>战舰沈了。该死，别在骗我了！还有什么东西？</text>
+	</string>
+	<string id="mil_zoneguard_dialog_611">
+		<text>来打我啊。</text>
+	</string>
+	<string id="mil_zoneguard_dialog_612">
+		<text>21，该死，又逮到我了！你可真聪明。好吧，那么你不知道密码，对吧？</text>
+	</string>
+	<string id="mil_zoneguard_dialog_613">
+		<text>你会跟我说吗？</text>
+	</string>
+	<string id="mil_zoneguard_dialog_614">
+		<text>耶，是～的。</text>
+	</string>
+	<string id="mil_zoneguard_dialog_615">
+		<text>好啦，让我加入吧。我没办法整晚待在外面，可以吗？</text>
+	</string>
+	<string id="mil_zoneguard_dialog_616">
+		<text>好啊--天气很好，就像夏天一样。好吧，好的，如果你通过测试--你就可以，如果失败了--就滚开吧。</text>
+	</string>
+	<string id="mil_zoneguard_dialog_617">
+		<text>测试？</text>
+	</string>
+	<string id="mil_zoneguard_dialog_618">
+		<text>当然，三个男人都知道答案的问题。</text>
+	</string>
+	<string id="mil_zoneguard_dialog_619">
+		<text>我不怕，开始吧。</text>
+	</string>
+	<string id="mil_zoneguard_dialog_620">
+		<text>好，先来最简单的。准备好了吗？好吧，潘蜜拉 安德森的罩杯尺寸是？</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6200">
+		<text>34C。</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6201">
+		<text>你真白痴，滚开！</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6202">
+		<text>垃圾。</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6203">
+		<text>35D。</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6204">
+		<text>你真白痴，滚开！</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6205">
+		<text>36DD。</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6206">
+		<text>干得好！我认为你是个道地的男人！</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6207">
+		<text>耶，我是啊。</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6208">
+		<text>现在会有点困难了！好的…俄罗斯Bizon冲锋枪的弹匣可以装几发的子弹？</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6300">
+		<text>25。</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6301">
+		<text>68。</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6302">
+		<text>44。</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6400">
+		<text>真是惊人！我越来越喜欢你了…别误会我，我说的不是那个意思！</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6401">
+		<text>当然。</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6402">
+		<text>继续第三题！南非燕的飞行速度是多少？</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6403">
+		<text>南非什么东西？！</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6404">
+		<text>燕子！</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6405">
+		<text>我怎么可能知道？你有答案吗？</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6406">
+		<text>当然没有。其实我也答不出这一题…好吧，你通过了。</text>
+	</string>
+	<string id="mil_zoneguard_dialog_6407">
+		<text>哇，谢啦！</text>
+	</string>
+	<string id="mil_zoneguard_dialog_81">
+		<text>好的，想要再试试看吗？好吧。问题是：多蒂 史特列吉拉芙的胸罩尺寸是？</text>
+	</string>
+	<string id="mil_zoneguard_dialog_91">
+		<text>你是故意的！我重复一次：一个俄罗斯Bizon冲锋枪的弹匣可以装几颗子弹？</text>
+	</string>
+</string_table>

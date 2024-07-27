@@ -1,0 +1,336 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="af-ameba-mica">
+		<text>云母</text>
+	</string>
+	<string id="af-ameba-slime">
+		<text>胶虫</text>
+	</string>
+	<string id="af-ameba-slug">
+		<text>黏虫</text>
+	</string>
+	<string id="af-blood">
+		<text>血石</text>
+	</string>
+	<string id="af-cristall">
+		<text>水晶</text>
+	</string>
+	<string id="af-cristall-flower">
+		<text>石花</text>
+	</string>
+	<string id="af-drops">
+		<text>水滴</text>
+	</string>
+	<string id="af-dummy-battery">
+		<text>电池</text>
+	</string>
+	<string id="af-dummy-dummy">
+		<text>壳</text>
+	</string>
+	<string id="af-dummy-glassbeads">
+		<text>项链</text>
+	</string>
+	<string id="af-dummy-pellicle">
+		<text>薄膜</text>
+	</string>
+	<string id="af-dummy-spring">
+		<text>弹簧</text>
+	</string>
+	<string id="af-electra-flash">
+		<text>闪光</text>
+	</string>
+	<string id="af-electra-moonlight">
+		<text>夜光</text>
+	</string>
+	<string id="af-electra-sparkler">
+		<text>烟火</text>
+	</string>
+	<string id="af-fireball">
+		<text>火球</text>
+	</string>
+	<string id="af-fuzz-kolobok">
+		<text>步兵</text>
+	</string>
+	<string id="af-gold-fish">
+		<text>金鱼</text>
+	</string>
+	<string id="af-gravi">
+		<text>重力</text>
+	</string>
+	<string id="af-medusa">
+		<text>水母</text>
+	</string>
+	<string id="af-mincer-meat">
+		<text>肉块</text>
+	</string>
+	<string id="af-night-star">
+		<text>夜星</text>
+	</string>
+	<string id="af-rusty-kristall">
+		<text>晶刺</text>
+	</string>
+	<string id="af-rusty-sea-urchin">
+		<text>海胆</text>
+	</string>
+	<string id="af-rusty-thorn">
+		<text>刺棘</text>
+	</string>
+	<string id="af-soul">
+		<text>灵魂</text>
+	</string>
+	<string id="af-vyvert">
+		<text>板手</text>
+	</string>
+	<string id="Agroprom">
+		<text>农业研究所</text>
+	</string>
+	<string id="Ameba">
+		<text>蝮蛇</text>
+	</string>
+	<string id="Anomalies">
+		<text>怪物</text>
+	</string>
+	<string id="Artifacts">
+		<text>神器</text>
+	</string>
+	<string id="Bald">
+		<text>跳板</text>
+	</string>
+	<string id="Bar">
+		<text>酒吧</text>
+	</string>
+	<string id="Darkdolina">
+		<text>黑暗山谷</text>
+	</string>
+	<string id="Deadcity">
+		<text>死城</text>
+	</string>
+	<string id="Electra">
+		<text>电镀</text>
+	</string>
+	<string id="enc_weapons1_wpn-winchester_m1">
+		<text>温彻斯特 1300的改进版，在枪管中安装了"重力"神器的小碎片，用来提升子弹飞行的速度。</text>
+	</string>
+	<string id="enc_zone_anomalies_ameba">
+		<text>一个自然界中未知的特异点，一旦接触到会产生类似强酸的伤害。会产生三个种类的神器：胶虫、黏虫和云母。</text>
+	</string>
+	<string id="enc_zone_anomalies_bald">
+		<text>第一个被记录下来的特异点--这是一个重力不稳定的区域，在它的半径范围内会对所有人产生震波的伤害，一般来说会它持续活动一个礼拜的时间。它的伤害能力取决于它的生命週期，从些微伤害、到巨大伤害、到猝死。很容易在白天发现它的踪迹，在特异点的上方会伴随著空气的波动、飞舞的树叶还有地面上会有深红的颜色出现。可以使用任何型式的侦测器来搜寻它，当你把东西丢进去裡面时也可以显示出"跳板"特异点的位置。会产生三个种类的神器：水母、石花和夜星。</text>
+	</string>
+	<string id="enc_zone_anomalies_electra">
+		<text>大型的特异点，直径超过10米，会累积大量的静电。当触发时，特异点会产生小型的闪电，它所产生的电波会对附近的生物产生致命的伤害。在白天会产生带有点蓝色的雾停留在上面。在晚上，可以使用任何型式的侦测器或是将铁质的东西丢进去特异点来辨识。会产生三个种类的神器：烟火、闪光和月光。</text>
+	</string>
+	<string id="enc_zone_anomalies_fuzz">
+		<text>这是一个特异区变种植物的例子，当接触到生物时，它会释放出一团烟雾，接触后会对暴露的皮肤产生严重的伤害。对缓慢移动的物体它就不会做出反应。产生三个种类的神器：刺棘、晶刺和海胆。</text>
+	</string>
+	<string id="enc_zone_anomalies_gravi">
+		<text>一个假想重力环境的特异点。当触发时，漩涡的巨大能量会把半径10-15公尺内的东西拖进中心来，被拖进中心的受害者将没有机会生还：他们的尸体很快的会被挤成一小块，之后再被强力的反向能源将他们爆开来。这个特异点会在它们的生命週期中固定存在（平均为一个礼拜），在白天可以发现它们上方会有空气波动、飞舞的树叶、附近的尸体碎片，在中心的地面上会有黑色痕迹。它在晚上非常危险，除了使用侦测器外，可以把铁块丢进去裡面来侦测。产生三个种类的神器：板手、重力和金鱼。</text>
+	</string>
+	<string id="enc_zone_anomalies_lift">
+		<text>一个无害的特异点，有时会有反重力出现。它自成一个区域--同长直径为数公尺--在那裡面地球的重力是相反的。生产的神器：薄膜。</text>
+	</string>
+	<string id="enc_zone_anomalies_meat">
+		<text>这个特异点会将它的受害者抓在空中，用一个非常危险的速度来选转他们。旋转特异点的本质不明，它会在上方产生一个小旋风、在附近会发现尸体的碎片。受害者会被它的外环给捕捉--外环在离中心最强效应区域有一定的距离--如果在这个时候逃脱会得到比较小的伤害。产生三个种类的神器：血石、肉块和灵魂</text>
+	</string>
+	<string id="enc_zone_anomalies_radioactive">
+		<text>一个辐射计量超过50 mR/h的区域。留在辐射区那麽长的时间是非常令人气馁的行为。</text>
+	</string>
+	<string id="enc_zone_anomalies_time">
+		<text>一个带有真正奇蹟的特异点：它的直径有数米，在裡面时间的流动比正常世界还缓慢。显然对人类健康没有负面的效果。无论如何，时光机器特异点很难从裡面逃脱出来。有趣的是，只要移开"项链"之后--通常会在特异点中心发现的神器--就可以让时光机器消失了。</text>
+	</string>
+	<string id="enc_zone_anomalies_zharka">
+		<text>当没有作用时，这个特异点唯一可以看得出来的就只有一团热空气。当有物体或是生物触动它时，它会迅速的将温度提升到1500K。在晚上，它可以用强力侦测器来侦测，或是丢入金属物体来触发它。产生三个种类的神器：水滴、火球和水晶。</text>
+	</string>
+	<string id="enc_zone_artifact_af-ameba-mica">
+		<text>"辐射源"特异点可以製造出最稀有、最奇特的神器。它会产生一个半透明的硬物件，一个稀有、昂贵的神器。</text>
+	</string>
+	<string id="enc_zone_artifact_af-ameba-slime">
+		<text>很确定的是这个神器是由辐射源特异点所製造出来的。当携带时，创伤的流血会减少，不过携带者的身体会变得容易受到烫伤。</text>
+	</string>
+	<string id="enc_zone_artifact_af-ameba-slug">
+		<text>由"辐射源"特异点所生产的。这个物件对它负面效果的补偿，是提高了止血的能力。这种神器不是那麽常见，他们会为它付出很好的价钱。</text>
+	</string>
+	<string id="enc_zone_artifact_af-blood">
+		<text>你可以在"旋转"特异点附近找到这个神器。它是个淡红色的难看物件，像是把一堆剩馀的植物、泥土还有骨头，歪七扭八的拼凑在一起。它的分佈很广泛、没有甚麽特殊的效用。</text>
+	</string>
+	<string id="enc_zone_artifact_af-cristall">
+		<text>当重金属被丢进"燃烧"特异点时就会製造出这种神器。这个物件可以神奇的消除辐射，对潜行者来说是很有价值的物品，而且很难发现它的踪迹。</text>
+	</string>
+	<string id="enc_zone_artifact_af-cristall-flower">
+		<text>产生于"跳板"特异点。这件神器只能在特异区中的少数区域中。这个金属複和物的小东西会发出漂亮的光芒。当晚上在火堆旁看著这件神器时可以令人非常的平静。</text>
+	</string>
+	<string id="enc_zone_artifact_af-drops">
+		<text>生产于"燃烧"特异点的高温地区。从外观来看，它的形状是泪滴型并且拥有光滑的表面，在裡面面则隐藏著裂纹。</text>
+	</string>
+	<string id="enc_zone_artifact_af-dummy-battery">
+		<text>这个物件的起源一直都被埋藏在科学的神秘之下，不过很清楚的是它部分是由绝缘体所製成的，但是科学家到现在还是无法确定那是甚麽物体。</text>
+	</string>
+	<string id="enc_zone_artifact_af-dummy-dummy">
+		<text>当携带著这个神器时，蛋白质的变质会变得缓慢。换句话说，血肉将可以忍受更高的温度和接受较少的烧伤，因此它可是个昂贵又稀少的东西。</text>
+	</string>
+	<string id="enc_zone_artifact_af-dummy-glassbeads">
+		<text>非常棒的神器，好好的保存吧--因为只拥有正面的特质所以让它变得美好。科学家还没办法在实验室中製造出这样的神器。</text>
+	</string>
+	<string id="enc_zone_artifact_af-dummy-pellicle">
+		<text>这个神器是如此的稀少，所以科学家无法想像这样的物质是如何存在大自然中。它会产生酸性的化学物质。</text>
+	</string>
+	<string id="enc_zone_artifact_af-dummy-spring">
+		<text>根据一些研究报告的看法，这个神器是油电共生的结构。</text>
+	</string>
+	<string id="enc_zone_artifact_af-electra-flash">
+		<text>在某个时候产生了这件"电镀"神器。潜行者很喜欢使用它，因为它有很好的特性。它的价钱不差、外观也不错，让很多蒐藏者都喜欢这件神器。</text>
+	</string>
+	<string id="enc_zone_artifact_af-electra-moonlight">
+		<text>电镀特异点的活动能力衰退时的产物。当特异点遭遇到热量的作用时，就会创造出一个漂亮的圆形物体出来。这可是个昂贵的神器。</text>
+	</string>
+	<string id="enc_zone_artifact_af-electra-sparkler">
+		<text>被发现在靠近电镀特异点的地方，这是很普遍、也很便宜的神器，但是因为它的品质，对特异区的研究者来说也是个有价值的物品。</text>
+	</string>
+	<string id="enc_zone_artifact_af-fireball">
+		<text>"燃烧"特异点中的晶化物。能有效的对抗放射线，穿戴在移动部位时，但是它的高能源的交换率会损耗移动部位的肌肉。该神器会产生热能。</text>
+	</string>
+	<string id="enc_zone_artifact_af-fuzz-kolobok">
+		<text>当你把这个特异区的神秘拿在手中时，你会觉得你的皮肤变得坚硬、而且比较没有感觉。你可以用子弹射穿它，但很难切开它。</text>
+	</string>
+	<string id="enc_zone_artifact_af-gold-fish">
+		<text>产生在"漩涡"特异点的神器，它由身体的热能来启动。想想看那个比较糟：幅射伤还是刀伤，选择伤害最少的那一个。不管在任何状况，你都可以把它卖出一个好价钱。</text>
+	</string>
+	<string id="enc_zone_artifact_af-gravi">
+		<text>你可以在"旋转"特异点附近或是其他潜行者手上找到它。当携带它时，身体会自动排出固定数量外的辐射堆积。它有很好的价钱。</text>
+	</string>
+	<string id="enc_zone_artifact_af-medusa">
+		<text>产生于"跳板"特异点。它会产生一个微弱的力场，副作用是轻微的辐射。这件神器很长常见，不是很有价值的东西。</text>
+	</string>
+	<string id="enc_zone_artifact_af-mincer-meat">
+		<text>由"旋转"特异点所製造出的神器。它会促进细胞的发展，但反过来看，新成长的细胞更容易受到放射物的影响。这个神器并不常见，但还不到稀有的程度。</text>
+	</string>
+	<string id="enc_zone_artifact_af-night-star">
+		<text>这个美妙的神器是在跳跳板特异点中产生的。这个神器的作用是中和致命的辐射伤害，它既昂贵又少见，是特异区中，科学探勘和研究活动中最受欢迎的东西。</text>
+	</string>
+	<string id="enc_zone_artifact_af-rusty-kristall">
+		<text>产生在"烧绒"特异点的晶化物，会自然的排除有机体中的放射感染，它是经由透过耳朵排除一些血来完成这个目的。当然大量的失血所达到的效率也会更高，因此它在神器市场的价格一直都很稳定</text>
+	</string>
+	<string id="enc_zone_artifact_af-rusty-sea-urchin">
+		<text>烧绒特异点几乎很少产生这件神器。当血压升高时，人体的会充满了大量的红血球细胞，在这个时候，堆积的放射污染可以伴随著血液流出体外。这个基础的工作被称为"稀有神器的组成结构离子化和极化作用"，萨哈洛夫记载这个物件拥有重要的稳定性，而且在未来十年中无法在实验室环境里製造出这样的神器。</text>
+	</string>
+	<string id="enc_zone_artifact_af-rusty-thorn">
+		<text>这是一个在烧绒特异点和一具潜行者尸体间互动的结果。不管怎样，刺棘神器刺穿了它拥有者的身体，但它也清除了身体中的辐射。很常见、而且很便宜。</text>
+	</string>
+	<string id="enc_zone_artifact_af-soul">
+		<text>很难发现的神器，位于旋转特异点附近。只有极少数的人会发现这件神器，也只有一些人有见过它。它有漂亮的外型，以及相符合的漂亮价钱。</text>
+	</string>
+	<string id="enc_zone_artifact_af-vyvert">
+		<text>位于"旋转"特异点。当接触到人体时，它会散播出方向性的辐射，来保护由武器引起的擦伤或是创伤。这件神器不难发现，所以它的价格也不是很高。</text>
+	</string>
+	<string id="enc_zone_locations_agroprom">
+		<text>一个奇怪的、严重污染的区域。如果你执意要进入，你会看到一个浅水的湖泊，裡面丢满了被丢弃的装备和其它的遗弃物。你同时还可以检查一下那个废弃的设施和工厂，不过军方最近已经在附近游晃了。</text>
+	</string>
+	<string id="enc_zone_locations_bar">
+		<text>纪律团已经在平原的边缘设置了营地，他们欢迎需要休息的潜行者。像是类似沙漠中的绿洲一样--一个完全没有特异点和异种生物的地方。记得要去逛一下地窖中的一百辐射酒吧--它是所有特异区中潜行者的碰头处。酒吧是由当地的贸易商人所经营的，所以如果你想要买卖装备或是当地的流言--那是个该去的地方。在酒吧的北方是军方的基地，往南是废弃区。</text>
+	</string>
+	<string id="enc_zone_locations_darkdolina">
+		<text>总是阴暗、总是多雾、也总是多雨。潜行者们为了想寻找有价值的神器，或是寻找迅速的死亡而进入黑暗山谷。一些老手时常会进入那裡，但你偶而也会发现一些强盗。在那边的某个地方应该有一座地下实验室，如果能找到它的隐藏通道会是一件很有价值的事。没有人能活著从那边回来，所以没有人可以说出那边有甚麽阴险的惊奇在等著你。</text>
+	</string>
+	<string id="enc_zone_locations_escape">
+		<text>作为特异区的前厅来说--这是一个很适合新手停留的地方。你可以在村庄的后面发现贩卖著好东西的贸易商人，就在军方前哨站的旁边。别忘了去跟他谈谈，不管怎样，建议你记得要避开前哨站，你不会想让那些军人看见你的-他们大多数的人都是先开枪再发问的。当然，就跟以前一样，只要那些高级军官睁一隻眼闭一隻眼，总是有些人是可以接受贿赂的。不建议去攻击那些士兵，除非他们对你造成了直接的威胁。</text>
+	</string>
+	<string id="enc_zone_locations_garbage">
+		<text>一个广大的机些废弃场。在第一次灾难之后，所有的辐射废料都堆积在这边。在大部分倾倒的建筑物中都是异种生物。这裡很像是特异区的郊区，到处都是新手潜行者，偶而有盗贼在附近游荡，寻找著免费的猎物。这边可以找到一些神器，但大部分都不值钱，你最好到别的地方去。往北方会通往大荒野，往西方是黑暗山谷的入口，往东是通往农会研究机构的道路。</text>
+	</string>
+	<string id="enc_zone_locations_military-loc">
+		<text>一个邻近破烂的小村子和小沼泽的废弃军事基地。这个村子是个恐怖的地方，充满了异种生物--大量的吸血怪。就算你要多花几公里来绕路，也最好不要靠近那裡。自由团的无政府主义者驻扎在军事基地中，在基地和特异区之间的道路，中间有焦脑器守卫著，这阻挡了通往皮里皮亚特和车诺比核电厂的道路。</text>
+	</string>
+	<string id="enc_zone_locations_pripiat">
+		<text>一个邻近破烂的小村子和小沼泽的废弃军事基地。这个村子是个恐怖的地方，充满了异种生物--大量的吸血怪。就算你要多花几公里来绕路，也最好不要靠近那裡。自由团的无政府主义者驻扎在军事基地中，在基地和特异区之间的道路，中间有焦脑器守卫著，这阻挡了通往皮里皮亚特和车诺比核电厂的道路。</text>
+	</string>
+	<string id="enc_zone_locations_radar">
+		<text>一个可怕的地方。在这裡一下就会消失踪迹，不管你这被子曾经有多好运。不管甚麽人只要一接近焦脑器，马上就会变得疯狂，然后变成殭尸，然后不停息的在特异区中游晃，最后只剩下了人形的躯体。没有人会带著意识回来的。</text>
+	</string>
+	<string id="enc_zone_locations_rostok">
+		<text>大荒野曾经生长著大量的植物，但现在全都毁灭了。许多潜行者死在这个地方：这裡充满著不同的怪物。这些野兽简直就散佈在整个特异区，据说在这裡藏著一堆好东西，所以总是会有一堆不怕死的人想要去碰碰他们的运气。</text>
+	</string>
+	<string id="enc_zone_locations_stancia">
+		<text>世界闻名的核电厂所在地，这裡是特异区的核心。如果你相信传说，那麽这裡同时也是黑石的所在地--一个可以实现任何愿望的神秘东西。</text>
+	</string>
+	<string id="enc_zone_locations_yantar">
+		<text>跟该区域同名的传奇湖泊，已经乾枯了很长的一段时间，只留下一个很浅的沼泽地在原来的地方。这个区域很恐怖，而且充满死亡的气息，巨大的危险在等著任何愚笨又爱冒险的灵魂来接近。任何想要深入的人一定都是疯子。殭尸在这整个区域中閒晃，等待著新的受害者。你果你沿著湖走通过殭尸，你最后会抵达科学家的营地，这是那些书呆子用直昇机运来做某些研究的地方。你可以跟他们谈谈，他们会购买神器，或是交付任务给你去执行。</text>
+	</string>
+	<string id="enc_zone_zone-story_story-2006">
+		<text>被污染的区域总是会发出刺眼的光亮，几乎让人们的眼睛无法承受。你彷彿可以见到天空的云变成了烟雾，一会儿之后死寂变成了雷声，然后大地震动。人们倒在地上，还活著的人都闭紧眼睛遮住了耳朵。这看起来就像是所有埋藏起来的核子燃料全都爆炸了开来。第二天军队隔离了新的特异区。卫星帮助确认出了爆炸的核心不是位于核电厂反应器附近的区域，而是大约在半公里外的位置。据信在电厂中的人马上死亡，但仍有许多在隔离区的人仍然活著。拯救行动马上就发现是徒劳无功的，所有被送往该区域的人跟机具马上就死亡跟失效。在灾难后没多久，特异区的直径扩大了好几公里。大部分镇守在边界的军队和研究小队立刻就毁灭了。灾祸来袭，人们开始逃难，在城镇跟村庄的人们匆促的撤离。一个巨大的灾难在袭击著世界，而我们只能猜测它的全面衝击会是甚麽东西。</text>
+	</string>
+	<string id="enc_zone_zone-story_story-2008">
+		<text>在切尔诺贝利核电站隔离区的灾难事件的两年之后，死亡人数快速高昇、无数人失踪、牲畜死亡、建筑物倾毁、森林残坏…直到今日科学家还是无法解释车诺比电厂到底发生了甚麽事情。同时，在该区域发现了一些不可思议的特异点，而特异区继续的扩张。考察队则发现了由动物变化的异种生物，牠们发展出了令人无法相信的能力。</text>
+	</string>
+	<string id="enc_zone_zone-story_story-2010">
+		<text>跟著这些自称为孤者的不怕死的潜行者脚步，研究考察队又一度开始对特异区做深入的研究。无论如何，边防卫兵现在得面对其他的危险人物--从一般的偷渡者到最坏的强盗。大多数在特异区游荡的潜行者都在寻找特异点和被称为"神器"的物品，这可以让他们得到相当不错的利益。</text>
+	</string>
+	<string id="enc_zone_zone-story_story-raid">
+		<text>军队，包含了特殊部队，由准军事潜行者特遣队带领，发起一场深入特异区的大型袭击。他们的目标是进入切尔诺贝利核电站，清除特异点的成因，或至少取得第一手关于目前事件的讯息。这个努力投入了超过千人以上的人力和一大群的机械，不过还是失败了。被分散的倖存者被迫停留在特异区中，怀著些微希望期待著拯救。</text>
+	</string>
+	<string id="Escape">
+		<text>前哨站</text>
+	</string>
+	<string id="Fuzz">
+		<text>烧绒</text>
+	</string>
+	<string id="Garbage">
+		<text>废弃区。</text>
+	</string>
+	<string id="Gravi">
+		<text>漩涡</text>
+	</string>
+	<string id="Lift">
+		<text>升降梯</text>
+	</string>
+	<string id="Locations">
+		<text>位置</text>
+	</string>
+	<string id="Meat">
+		<text>选转</text>
+	</string>
+	<string id="Military-loc">
+		<text>军事基地</text>
+	</string>
+	<string id="Pripiat">
+		<text>普里皮亚季</text>
+	</string>
+	<string id="Radar">
+		<text>焦脑器</text>
+	</string>
+	<string id="Radioactive">
+		<text>放射线来源</text>
+	</string>
+	<string id="Rostok">
+		<text>大荒野</text>
+	</string>
+	<string id="Stancia">
+		<text>切尔诺贝利核电站电厂</text>
+	</string>
+	<string id="Story-2006">
+		<text>2008年4月12日14:33</text>
+	</string>
+	<string id="Story-2008">
+		<text>2010年</text>
+	</string>
+	<string id="Story-2010">
+		<text>2011年</text>
+	</string>
+	<string id="Story-raid">
+		<text>军队突击进入变异区（2011年）</text>
+	</string>
+	<string id="Time_machine">
+		<text>时光机器</text>
+	</string>
+	<string id="Yantar">
+		<text>扬塔</text>
+	</string>
+	<string id="Zharka">
+		<text>燃烧</text>
+	</string>
+	<string id="Zone">
+		<text>变异区</text>
+	</string>
+	<string id="Zone-story">
+		<text>变异区的历史</text>
+	</string>
+</string_table>

@@ -1,0 +1,144 @@
+﻿	<string id="bar_arena_actor_afraid">
+		<text>战斗结束了！挑战者改变心意了，不再出来战斗！</text>
+	</string>
+	<string id="bar_arena_fight_10">
+		<text>已经过了10秒！</text>
+	</string>
+	<string id="bar_arena_fight_20">
+		<text>已经过了20秒！</text>
+	</string>
+	<string id="bar_arena_fight_30">
+		<text>已经过了30秒！</text>
+	</string>
+	<string id="bar_arena_fight_40">
+		<text>已经过了40秒！</text>
+	</string>
+	<string id="bar_arena_fight_50">
+		<text>已经过了50秒！</text>
+	</string>
+	<string id="bar_arena_fight_60">
+		<text>已经过了1分！</text>
+	</string>
+	<string id="bar_arena_fight_70">
+		<text>已经过了1分10秒！</text>
+	</string>
+	<string id="bar_arena_fight_80">
+		<text>已经过了1分20秒！</text>
+	</string>
+	<string id="bar_arena_fight_90">
+		<text>已经过了1分30秒！</text>
+	</string>
+	<string id="bar_arena_fight_begin">
+		<text>战斗开始！</text>
+	</string>
+	<string id="bar_arena_fight_bloodsucker">
+		<text>注意！注意！一场新的战斗即将在竞技场展开！在左边的角落--是特异区中最令人未具的梦魇、有史以来最饥渴的吸血怪！而在右边的角落…一个人？是的，是一个男人！让我们鼓掌来欢迎一号！</text>
+	</string>
+	<string id="bar_arena_fight_burer">
+		<text>注意！注意！一场新的战斗即将在竞技场展开！在左边的角落--能弯曲汤匙的功夫高手--布瑞尔！而在右边的角落--一个毫不松懈的男人！人们都叫他--一号！</text>
+	</string>
+	<string id="bar_arena_fight_dead">
+		<text>那么，挑战者已经被杀了！那真是个惊喜！</text>
+	</string>
+	<string id="bar_arena_fight_lose">
+		<text>好的，挑战者杀死了他的对手，但是他没在时间内完成。他输掉了这场比赛！</text>
+	</string>
+	<string id="bar_arena_fight_pseudodog">
+		<text>注意！注意！一场新的战斗即将在竞技场展开！在左边的角落--它很白、它毛茸茸的、它发怒起来就像地狱一般…地狱犬！而在右边的角落--他来自无名之地，那也正是他追求的。人们称呼他为--一号！</text>
+	</string>
+	<string id="bar_arena_fight_savage">
+		<text>注意！注意！一场新的战斗即将在竞技场展开！在左边的角落--你知道他的、你爱他、但他却会马上恨你！他就是野兽！而在右边的角落--活生生又活蹦乱跳的，至少在现在是这样的--一号！</text>
+	</string>
+	<string id="bar_arena_fight_snork">
+		<text>注意！注意！一场新的战斗即将在竞技场展开！在左边的角落--武术高手和健康的专家--史诺克！而在右边的角落--一个没有过去跟未来的男人，人们叫他一号！</text>
+	</string>
+	<string id="bar_arena_fight_timeout">
+		<text>时间到！挑战者失败了，不过他在为他的生命继续战斗！</text>
+	</string>
+	<string id="bar_arena_fight_victory">
+		<text>嘿！挑战者在时限内杀掉了他的对手！他赢了！</text>
+	</string>
+	<string id="bar_ecolog_attack">
+		<text>如你所愿。</text>
+	</string>
+	<string id="bar_ecolog_crush_attract_actor">
+		<text>拜托，别离开，朋友！救救我们！无政府主义者射下了我们的直升机，现在他们要把我们解决掉。我们受伤了！我们需要你的帮助！</text>
+	</string>
+	<string id="bar_ecolog_crush_heli_down">
+		<text>哈！你们的直升机现在在哪里呢，这群政府的鼠辈？你们的时间到了！</text>
+	</string>
+	<string id="bar_ecolog_crush_start_heli">
+		<text>你真的做了，狼狗。军方的直升机就要来了，他们要把你给变成肉饼！</text>
+	</string>
+	<string id="bar_ecolog_escape">
+		<text>克鲁格洛夫逃脱了！找到他！他跑不远的。</text>
+	</string>
+	<string id="bar_ecolog_hit">
+		<text>救救我，一号！他们要杀死我！</text>
+	</string>
+	<string id="bar_ecolog_spam_1">
+		<text>继续作梦吧，笨狗！在你开始做出结论前回到学校去！</text>
+	</string>
+	<string id="bar_ecolog_spam_2">
+		<text>别攻击，不然我会毁掉资料，你什么东西都拿不到！</text>
+	</string>
+	<string id="bar_ecolog_spam_3">
+		<text>如果你不想我毁掉研究资料，你最好别靠近我！</text>
+	</string>
+	<string id="bar_ecolog_spam_4">
+		<text>把你的狗带走，狼狗，在你还能走路的时候离开这里。</text>
+	</string>
+	<string id="bar_freedom_attack">
+		<text>说够了，让我们开开杀戒吧！</text>
+	</string>
+	<string id="bar_freedom_attack_attract_actor">
+		<text>嘿，过来这里！我们可以一起杀掉这些政府鼠辈。</text>
+	</string>
+	<string id="bar_freedom_attack_spy">
+		<text>你这个混蛋！你会因此付出代价的，别忘了这点，一号。</text>
+	</string>
+	<string id="bar_freedom_chase">
+		<text>你在跟踪我们吗？一号，你必须阻止他们！</text>
+	</string>
+	<string id="bar_freedom_spam_1">
+		<text>我想你们科学家应该很聪明的。我说的很简单：你给我文件，不然我会杀死你。</text>
+	</string>
+	<string id="bar_freedom_spam_2">
+		<text>我或许不认识拉亭，克鲁格洛夫，但你不会相信我有多暴力。你想要知道我有多暴力，还是你要直接把我要的讯息交出来？</text>
+	</string>
+	<string id="bar_freedom_spam_3">
+		<text>你是个聪明人，教授。给我讯息，你就可以离开！</text>
+	</string>
+	<string id="bar_freedom_spam_4">
+		<text>你就是没听懂，克鲁格洛夫？我们把你的笨直升机给射了下来，而我们需要你携带的资讯。把讯息给我，你就可以跟你的朋友离开这里。这是你的最后机会，把随身碟给我然后滚开吧！</text>
+	</string>
+	<string id="bar_psih_come">
+		<text>过来这里，快点！我的人在红森林旁抓住了一个疯狂的潜行者。我们现在得从他身上弄出些讯息来。</text>
+	</string>
+	<string id="bar_territory_dolg_1_hit">
+		<text>一号，你疯了？！马上停止射击！这是命令！</text>
+	</string>
+	<string id="bar_territory_dolg_2_hit">
+		<text>马上停止射击！一号！听命令不然我就让你变成死人！</text>
+	</string>
+	<string id="bar_territory_dolg_3_hit">
+		<text>你因为违反纪律被组织驱逐了，一号。你现在在纪律团没有朋友了。</text>
+	</string>
+	<string id="bar_territory_dolg_kill">
+		<text>一号，你违反了直接命令，纪律团不容忍这种行为。你完了。</text>
+	</string>
+	<string id="bar_territory_nodolg_1_hit">
+		<text>停火！不可以在纪律团的领域中射击！违反规定的人将接受惩罚！</text>
+	</string>
+	<string id="bar_territory_nodolg_2_hit">
+		<text>注意！一号因为违反法律和在纪律团的领域内开火，而被宣告为罪犯。</text>
+	</string>
+	<string id="bar_territory_nodolg_kill">
+		<text>注意！在纪律团领域中有一个杀人凶手，找到他并且杀死他！</text>
+	</string>
+	<string id="rostok_kruglov_spam_1">
+		<text>你，潜行者，帮帮我们！我们被佣兵团攻击，有一半的队友都死了。帮助我们，我承诺不会让你后悔的。</text>
+	</string>
+	<string id="rostok_kruglov_spam_2">
+		<text>帮助我们对抗在工厂旁的伏击，我把座标传送给你。小心一点，狼狗和他的杀手就在直升机旁边。</text>
+	</string>

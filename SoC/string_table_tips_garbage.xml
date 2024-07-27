@@ -1,0 +1,27 @@
+	<string id="gar_actor_looser">
+		<text>你这个混蛋，一号，混蛋！别期望我会感谢你--你没有什么可以谢的。</text>
+	</string>
+	<string id="gar_actor_normal">
+		<text>不赖啊，潜行者！你真的自己杀死了一些变种生物，但你拔枪的速度还没有那么快，对不对？如果你想通过，你就得付些钱出来。</text>
+	</string>
+	<string id="gar_actor_winner">
+		<text>太好了，一号，你真的帮了我们。现在可以让你通过了，到酒吧去吧。</text>
+	</string>
+	<string id="gar_direction_fire">
+		<text>让他们靠近一点，这样就没有人可以逃得掉。待会儿我先开枪，你跟着我行动，知道了吗？</text>
+	</string>
+	<string id="gar_dolg_blokpost_warning">
+		<text>你现在在纪律团的势力范围内，潜行者。这里不允许争斗。</text>
+	</string>
+	<string id="gar_dolg_monster_rush">
+		<text>注意！这里是纪律团的检查哨。有一群来自黑暗山谷的变种生物往酒吧这边过来了，我们需要任何可以帮助我们阻挡异形的人，你们不会后悔的。</text>
+	</string>
+	<string id="gar_dolg_warning">
+		<text>你现在在纪律团的势力范围中，潜行者。如果你到处乱晃，会让这辈子惹上大麻烦的。</text>
+	</string>
+	<string id="gar_hellcar_victory">
+		<text>干得好，先生们，我们把他们都解决掉了。现在可以休息一下。你，潜行者，到这来，我们聊一聊。</text>
+	</string>
+	<string id="tips_gar_hellcar_alarm">
+		<text>陌生人，我是中立阵营的指挥官。我们把盗贼们从废弃的停车场给赶了出去，但他们现在想要把它夺回去。我们的人手不够，所以如果受到了这个信号的话请马上过来帮助我们。</text>
+	</string>

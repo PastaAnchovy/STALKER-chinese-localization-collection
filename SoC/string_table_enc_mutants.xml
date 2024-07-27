@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="Blind">
+		<text>盲狗</text>
+	</string>
+	<string id="Bloodsucker">
+		<text>吸血怪</text>
+	</string>
+	<string id="Boar">
+		<text>野猪</text>
+	</string>
+	<string id="Crow">
+		<text>克罗</text>
+	</string>
+	<string id="enc_mutant_blind_general">
+		<text>在大灾难之后已经有数代的犬只出生和死去，每一代受到特异区的影响都比以前强。迅速的突变改变提升了其它的能力，经常会取代牺牲了过去主要功能的发展。最明显的生理变化是失去了视力，取代的是不可思议的嗅觉发展。当它出现后，盲眼的幼兽在特异区跟正常的生存的一样的好，或是更好。结果，正常的狗很快就变成了特异区中的绝种生物，然后把位置让给新的物种--那就是盲犬。动物本能的发现和避开异种生物、辐射、还有其它在特异区中看不见的危险。就像牠们在大自然的祖先--狼--盲犬会结队猎补。遭遇到一大群这种生物，跟面对一个全副武装的潜行者是一样危险的。</text>
+	</string>
+	<string id="enc_mutant_bloodsucker_general">
+		<text>有经验的潜行者把这个这个半传奇式的野兽描述成传说，缩成一团的类人生物，在它的嘴巴拥有一堆触手。根据生还人所述说的故事，这个生物会用它的触手伸入被害者的喉咙中来麻痺他，然后吸光他的血，到最后只会剩下一具干瘪的木乃伊。这是最令人震惊的吸血怪，而不论如何，它还拥有隐形能力。据说有无数死亡或是失踪的潜行者都死在吸血怪残酷的咬弒之下，少数幸运活下来的人就述说着这个在沼泽地的恐怖吓人的恶魔，特异区版本的吸血鬼德古拉传说。</text>
+	</string>
+	<string id="enc_mutant_boar_general">
+		<text>一团乱的异种生物，肩高1.5公尺。特异区的熊个性凶残，而且拥有远胜于在污染地外围生物的生存能力。辐射和异种也在这些动物身上留下标记：牠们的毛皮在某些位置都消失了，其它的地方则变得又长又多。牠们的脚掌变得结实、爪子变得更锐利、瞳孔则变得无色，还有熊宽阔无毛的头部到处都布满了皱纹和分布着失序的颜色。特异区的熊对放射线的抵抗力很强，可以在严重污染地区停留很长的时间。牠们通常会直击牠们的受害者，试着把他们击倒再将其撕成碎片。</text>
+	</string>
+	<string id="enc_mutant_crow_general">
+		<text>唯一在特异区中生存的鸟类，耐高辐射、能有效率的避免异种。军方飞行员需要依赖复杂的侦测器来避免重力的干扰，乌鸦看起来只依赖着自己的感官--一个让鸟类学家和生物学家疯狂的谜。许多理论试图要解释这个事迹，而所有的结论都指向一个高度专门发展的鸟脑。</text>
+	</string>
+	<string id="enc_mutant_flesh_general">
+		<text>就像其它生活在特异区的生物，家猪在大灾难后同样的也经历了不小的生理改变。看起来新陈代谢对基因的回应，在这个例子中特别的强烈。异种猪，潜行者称呼牠为豚兽，是特异区的灾难颠覆了自然最鲜明的例子。异种猪发展出了保护性的鳞甲和片状的外骨骼。牠们的再生能力提升了好几次，同样的牠们复杂的神经系统也是。跟一只普通的猪一样，豚兽是杂食性的动物，当牠飢饿时也有可能会攻击潜行者。</text>
+	</string>
+	<string id="enc_mutant_poltergeist_general">
+		<text>在某些人的眼中它们是超自然力量，是在特异区深处猎杀的隐形生物，它们通常在老的、遗弃的建筑物中猎杀。没有人知道任何关于它们的来源，不过有人谣传说它们是被巨大放射波击中的潜行者的灵魂。它们神秘的出现和消失，看起来就象是对应了吵闹鬼的传说，就跟它们的名字一样。每个人遇到的吵闹鬼都不尽相同：从调皮的笑声跟令人心寒的嚎叫，到不知从何处出现的致命火球。不幸的，所有关于吵闹鬼的原始讯息，都是来自不明、互相矛盾而且可信度低的故事。</text>
+	</string>
+	<string id="enc_mutant_pseudodog_general">
+		<text>不管字面上的意义，地狱犬是由狼所直接进化而来的。这个动物在大灾祸后就栖息在森林之中，是特异区中最危险的生物之一。地狱犬跟异种生物犬的差异就如同野狼跟狮子狗。这种生物的地域性很强，会攻击任何笨到尝试去侵犯牠们领域的人。牠的反应迅速，有不可思议的敏捷能力和锋利的牙齿。对异种生物或是装备精良的潜行者来说，牠是个相当可怕的敌人。</text>
+	</string>
+	<string id="enc_mutant_pseudogiant_general">
+		<text>巨型地狱犬的外观简直就像一团乱，下垂的腹部连接着一对不成比例的大脚。这对大脚同时是手臂也是腿部，这个生物利用它们来移动，并且来抓取牠的受害者。一只成年的地狱犬可以有两吨重，站起来有两米高。不要被牠们笨拙的外观欺骗了，有需要的话牠们可以很快速的移动。牠们的肌肉异常的有力，还有牠们的骨骼就如骨钢铁一般的坚硬。牠们的脑子被坚硬的头骨（超过10公分厚）保护着，有许多复杂的功能都由脊椎的延髓来控制。另一项惊人的内容是这种野兽有能力制造震波，可以用来伤害附近所有活着的东西。</text>
+	</string>
+	<string id="enc_mutant_snork_general">
+		<text>从某些观点来看这些生物曾经是人类，只是很难想象是什么状况让一个人变成这么恶心的野兽。史诺克是疯狂的生物，牠们跟特异区中的肉食性怪物有点不一样。牠们用四条长腿跳跃移动，不时的闻着地面想要捕捉到猎物的气味。牠们很小心的猎捕猎物，行动会经过计算，经常使用伏击的方式。由于牠们不可思议的反射能力和有力的肌肉，史诺克可以准确的跳跃接近受害者，把他压在地上然后撕成碎片。在史诺克的尸体上偶而会发现军队制服或是其它服装的碎片，这就解释了那些失踪的军人或是潜行者的下落。</text>
+	</string>
+	<string id="enc_mutant_tushkano">
+		<text>随然说在某种程度上极为相似，但事实上这些动物跟跳鼠没有关系。虽然牠的祖先曾经是群居性的老鼠，但想要分出这个物种的正确发展在目前来说还不是很成功。牠们的肩高有40公分，而且远比牠们的远亲更为灵巧和贪婪。异种鼠主要生存在废弃建筑的地下室，以所有能吃的东西为食，从植物一直到粗心的潜行者牠们都吃。有时成群的老鼠会攻击或杀害大型的生物或是异种，在牠们逃脱之前就会先把牠们给撕碎了。</text>
+	</string>
+	<string id="enc_mutant_zombie_general">
+		<text>焦脑器会破坏它的受害者的脑部和思考，让他变成活死人，只剩下一具空壳子。那些无脑的人最后会变成殭尸，只依着本能活动，无目标、没有武器、没有穿着衣服的在特异区中游荡。殭尸不过比一具会走路的尸体还先进一点，它们会找吃的，会睡觉。它们吃任何找得到的东西，所以它们身上通常都有辐射跟毒物感染。通常它们都在特异区中漫无目的的闲晃，或是跟个尸体一样的躺在遗弃的建筑物中。不管如何，如果它们发现了人类的存在，它们会很快攻击的。有经验的潜行者应该会学会如何快速的避开它们。</text>
+	</string>
+	<string id="Flesh">
+		<text>豚兽</text>
+	</string>
+	<string id="General">
+		<text>一般的讯息。</text>
+	</string>
+	<string id="mutant_boar_leg">
+		<text>野猪的蹄</text>
+	</string>
+	<string id="mutant_boar_leg_description">
+		<text>野猪的蹄可以用来制作不同的药物，包含了辐射血清。</text>
+	</string>
+	<string id="mutant_dog_tail">
+		<text>狗尾巴</text>
+	</string>
+	<string id="mutant_dog_tail_description">
+		<text>异种狗皮肤对垫和化学物质的抵抗力，一直引起科学家的注意，由于动物的尾巴几乎没有油脂，所以它特别的适合拿去实验室作实验。</text>
+	</string>
+	<string id="mutant_flesh_eye">
+		<text>豚兽的眼睛</text>
+	</string>
+	<string id="mutant_flesh_eye_description">
+		<text>异种生物豚兽浮肿的眼睛有很多奇特性，其中最重要的功能是晶体再生的能力。这个过程的内容至今无人清楚，但这个发现将会给现代医学很大的革命。你可以藉由贩卖豚兽的眼睛给科学家去实验，然后扮演在科学发展上的一个角色。</text>
+	</string>
+	<string id="mutant_krovosos_jaw">
+		<text>吸血怪的触须</text>
+	</string>
+	<string id="mutant_krovosos_jaw_description">
+		<text>吸血怪的触须有一个特殊的腺体，可以分泌酵素来分解皮肤和同时防止血液凝结。发现酵素的组成会是伟大医学进步的一个基石。</text>
+	</string>
+	<string id="mutant_psevdodog_tail">
+		<text>地狱犬的尾巴</text>
+	</string>
+	<string id="mutant_psevdodog_tail_description">
+		<text>异种狗皮肤对垫和化学物质的抵抗力，一直引起科学家的注意，由于动物的尾巴几乎没有油脂，所以它特别的适合拿去实验室作实验。</text>
+	</string>
+	<string id="mutant_snork_leg">
+		<text>史诺克的脚</text>
+	</string>
+	<string id="mutant_snork_leg_description">
+		<text>史诺克的脚拥有大量的高度弹性肌腱，这解释了这些动物不可思议长跳能力。</text>
+	</string>
+	<string id="Mutants">
+		<text>动物和异种生物</text>
+	</string>
+	<string id="Poltergeist">
+		<text>吵闹鬼</text>
+	</string>
+	<string id="Pseudodog">
+		<text>地狱犬</text>
+	</string>
+	<string id="Pseudogiant">
+		<text>巨型地狱犬</text>
+	</string>
+	<string id="Snork">
+		<text>史诺克</text>
+	</string>
+	<string id="Tushkano">
+		<text>老鼠</text>
+	</string>
+	<string id="Zombie">
+		<text>僵尸</text>
+	</string>
+	<string id="Controller">
+		<text>控制器</text>
+	</string>
+	<string id="enc_mutant_controller_general">
+		<text>一个稀有的异种生物看起来接近着变异区的中心，那是个外表像人，有着不成比例的大头的生物。它拥有良好的感应能力，并且可以控制较低等生物的行为。异种怪人也可以控制人类的脑部。这是一个凶残的敌人，就算是最有经验的潜行者也害怕碰上这样的生物。</text>
+	</string>
+</string_table>

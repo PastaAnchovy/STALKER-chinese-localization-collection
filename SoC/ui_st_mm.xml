@@ -1,0 +1,330 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="Clear">
+		<text>清除</text>
+	</string>
+	<string id="Cloudy">
+		<text>阴天</text>
+	</string>
+	<string id="Default">
+		<text>默认</text>
+	</string>
+	<string id="Extreme">
+		<text>最大</text>
+	</string>
+	<string id="gd_master">
+		<text>大师</text>
+	</string>
+	<string id="gd_novice">
+		<text>新手</text>
+	</string>
+	<string id="gd_stalker">
+		<text>潜行者</text>
+	</string>
+	<string id="gd_veteran">
+		<text>老兵</text>
+	</string>
+	<string id="High">
+		<text>高</text>
+	</string>
+	<string id="Low">
+		<text>低</text>
+	</string>
+	<string id="Minimum">
+		<text>最低</text>
+	</string>
+	<string id="mm_mp_check_cdkey">
+		<text>检查CD-Key</text>
+	</string>
+	<string id="Nigth">
+		<text>夜晚</text>
+	</string>
+	<string id="Rain">
+		<text>雨天</text>
+	</string>
+	<string id="renderer_r1">
+		<text>静态光影效果</text>
+	</string>
+	<string id="renderer_r2">
+		<text>全动态光影效果</text>
+	</string>
+	<string id="renderer_r2a">
+		<text>仅物体有动态光影效果</text>
+	</string>
+	<string id="st_artefacthunt">
+		<text>猎取神器</text>
+	</string>
+	<string id="st_deathmatch">
+		<text>死亡竞赛</text>
+	</string>
+	<string id="st_rank_experienced">
+		<text>专业</text>
+	</string>
+	<string id="st_rank_legend">
+		<text>传奇</text>
+	</string>
+	<string id="st_rank_novice">
+		<text>新手</text>
+	</string>
+	<string id="st_rank_professional">
+		<text>专家</text>
+	</string>
+	<string id="st_rank_veteran">
+		<text>老兵</text>
+	</string>
+	<string id="st_team_deathmatch">
+		<text>组队死亡竞赛</text>
+	</string>
+	<string id="testers_mp_agroprom">
+		<text>农业研究所</text>
+	</string>
+	<string id="testers_mp_atp">
+		<text>车站</text>
+	</string>
+	<string id="testers_mp_darkvalley">
+		<text>黑暗山谷</text>
+	</string>
+	<string id="testers_mp_factory">
+		<text>杨塔地区</text>
+	</string>
+	<string id="testers_mp_lost_village">
+		<text>荒芜的村庄</text>
+	</string>
+	<string id="testers_mp_military_1">
+		<text>军方的仓库</text>
+	</string>
+	<string id="testers_mp_pool">
+		<text>水池</text>
+	</string>
+	<string id="testers_mp_railroad">
+		<text>火车站</text>
+	</string>
+	<string id="testers_mp_rostok">
+		<text>罗斯托克地区</text>
+	</string>
+	<string id="testers_mp_workshop">
+		<text>废弃的工厂</text>
+	</string>
+	<string id="ui_mm_60_hz">
+		<text>60Hz频率</text>
+	</string>
+	<string id="ui_mm_action">
+		<text>活动</text>
+	</string>
+	<string id="ui_mm_advanced">
+		<text>高级</text>
+	</string>
+	<string id="ui_mm_anisotropic">
+		<text>各项异性过滤</text>
+	</string>
+	<string id="ui_mm_apply">
+		<text>确定</text>
+	</string>
+	<string id="ui_mm_back">
+		<text>退回</text>
+	</string>
+	<string id="ui_mm_blood">
+		<text>血腥状态</text>
+	</string>
+	<string id="ui_mm_brightness">
+		<text>明暗程度</text>
+	</string>
+	<string id="ui_mm_cancel">
+		<text>取消</text>
+	</string>
+	<string id="ui_mm_contrast">
+		<text>对比度</text>
+	</string>
+	<string id="ui_mm_controls">
+		<text>控制</text>
+	</string>
+	<string id="ui_mm_credits">
+		<text>制作小组</text>
+	</string>
+	<string id="ui_mm_crosshair_distance">
+		<text>显示准星目标距离</text>
+	</string>
+	<string id="ui_mm_delete">
+		<text>删除</text>
+	</string>
+	<string id="ui_mm_difficulty">
+		<text>难度</text>
+	</string>
+	<string id="ui_mm_disconnect">
+		<text>断开连接</text>
+	</string>
+	<string id="ui_mm_disconnect_message">
+		<text>你确定要断开连接吗？</text>
+	</string>
+	<string id="ui_mm_dyn_crosshair">
+		<text>动态准星</text>
+	</string>
+	<string id="ui_mm_eax">
+		<text>EAX</text>
+	</string>
+	<string id="ui_mm_fullscreen">
+		<text>全屏幕</text>
+	</string>
+	<string id="ui_mm_gameplay">
+		<text>游戏</text>
+	</string>
+	<string id="ui_mm_gamma">
+		<text>Gamma值</text>
+	</string>
+	<string id="ui_mm_geometry_lod">
+		<text>模型细节</text>
+	</string>
+	<string id="ui_mm_invert_mouse">
+		<text>反转鼠标</text>
+	</string>
+	<string id="ui_mm_key">
+		<text>按键</text>
+	</string>
+	<string id="ui_mm_keyboard_setup">
+		<text>键盘设定</text>
+	</string>
+	<string id="ui_mm_last_save">
+		<text>最后存档</text>
+	</string>
+	<string id="ui_mm_light_distance">
+		<text>照亮范围</text>
+	</string>
+	<string id="ui_mm_load">
+		<text>读取</text>
+	</string>
+	<string id="ui_mm_load_game">
+		<text>读取游戏</text>
+	</string>
+	<string id="ui_mm_master">
+		<text>大师</text>
+	</string>
+	<string id="ui_mm_master_volume">
+		<text>音效音量</text>
+	</string>
+	<string id="ui_mm_mouse_sense">
+		<text>鼠标灵敏度</text>
+	</string>
+	<string id="ui_mm_multiplayer">
+		<text>网络游戏</text>
+	</string>
+	<string id="ui_mm_multiplayer_n">
+		<text>网络游戏</text>
+	</string>
+	<string id="ui_mm_music_volume">
+		<text>音乐音量</text>
+	</string>
+	<string id="ui_mm_need_restart">
+		<text>你所做的改变将在游戏下一次启动后生效</text>
+	</string>
+	<string id="ui_mm_newgame">
+		<text>新游戏</text>
+	</string>
+	<string id="ui_mm_novice">
+		<text>新手</text>
+	</string>
+	<string id="ui_mm_npc_torch">
+		<text>NPC手电筒</text>
+	</string>
+	<string id="ui_mm_options">
+		<text>选项</text>
+	</string>
+	<string id="ui_mm_options_n">
+		<text>选项</text>
+	</string>
+	<string id="ui_mm_particles_distance">
+		<text>显示目标距离</text>
+	</string>
+	<string id="ui_mm_quality_presets">
+		<text>品质设定</text>
+	</string>
+	<string id="ui_mm_quit_game">
+		<text>离开游戏</text>
+	</string>
+	<string id="ui_mm_quit_game_message">
+		<text>你确定要离开当前正在进行的游戏吗？</text>
+	</string>
+	<string id="ui_mm_quit_windows_message">
+		<text>你确定要退出并回到Windows中吗？</text>
+	</string>
+	<string id="ui_mm_quit2windows">
+		<text>退出游戏</text>
+	</string>
+	<string id="ui_mm_renderer">
+		<text>光影类型</text>
+	</string>
+	<string id="ui_mm_resolution">
+		<text>分辨率</text>
+	</string>
+	<string id="ui_mm_return_game">
+		<text>回到游戏</text>
+	</string>
+	<string id="ui_mm_save">
+		<text>存档</text>
+	</string>
+	<string id="ui_mm_save_game">
+		<text>储存游戏</text>
+	</string>
+	<string id="ui_mm_show_crosshair">
+		<text>显示准星</text>
+	</string>
+	<string id="ui_mm_show_weapon">
+		<text>显示武器</text>
+	</string>
+	<string id="ui_mm_simply">
+		<text>基本</text>
+	</string>
+	<string id="ui_mm_sound">
+		<text>音效</text>
+	</string>
+	<string id="ui_mm_sound_quality">
+		<text>音效品质</text>
+	</string>
+	<string id="ui_mm_stalker">
+		<text>潜行者</text>
+	</string>
+	<string id="ui_mm_sun_quality">
+		<text>阴影品质</text>
+	</string>
+	<string id="ui_mm_supersample">
+		<text>反锯齿</text>
+	</string>
+	<string id="ui_mm_switch_torch">
+		<text>AI使用手电筒</text>
+	</string>
+	<string id="ui_mm_texture_quality">
+		<text>材质细节</text>
+	</string>
+	<string id="ui_mm_tips">
+		<text>NPC标示</text>
+	</string>
+	<string id="ui_mm_veteran">
+		<text>老兵</text>
+	</string>
+	<string id="ui_mm_video">
+		<text>影像</text>
+	</string>
+	<string id="ui_mm_vis_distance">
+		<text>视野距离</text>
+	</string>
+	<string id="ui_mm_vsync">
+		<text>垂直同步</text>
+	</string>
+	<string id="ui_st_last_set">
+		<text>最后设定</text>
+	</string>
+	<string id="ui_st_preset1">
+		<text>设定1</text>
+	</string>
+	<string id="ui_st_preset2">
+		<text>设定2</text>
+	</string>
+	<string id="ui_st_preset3">
+		<text>设定3</text>
+	</string>
+	<string id="ui_st_reset">
+		<text>重置</text>
+	</string>
+	<string id="ui_st_sell_all">
+		<text>全部卖出</text>
+	</string>
+</string_table>

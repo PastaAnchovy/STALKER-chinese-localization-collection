@@ -1,0 +1,48 @@
+﻿	<string id="blokpost_case">
+		<text>装著文件的公事箱</text>
+	</string>
+	<string id="esc_fox">
+		<text>受伤的狐狸</text>
+	</string>
+	<string id="esc_mill">
+		<text>遗弃的磨坊，是受伤的兄弟最后被人看见的地方</text>
+	</string>
+	<string id="escape_trader">
+		<text>贸易商人</text>
+	</string>
+	<string id="factory_bandits">
+		<text>工厂的强盗</text>
+	</string>
+	<string id="killers_team">
+		<text>一个不知名的佣兵团组织</text>
+	</string>
+	<string id="novice_leader">
+		<text>新兵营地指挥官</text>
+	</string>
+	<string id="soldiers_bridge">
+		<text>在毁坏桥旁的军事检查点大家都知道那些军人收贿后，就会让人通行（-_-!）</text>
+	</string>
+	<string id="tutorial_artefact">
+		<text>神器</text>
+	</string>
+	<string id="tutorial_bandits">
+		<text>盯上我们侦查员的强盗</text>
+	</string>
+	<string id="tutorial_secret">
+		<text>死亡潜行者的藏匿物</text>
+	</string>
+	<string id="tutorial_secret_place1">
+		<text>死亡潜行者的藏匿物</text>
+	</string>
+	<string id="tutorial_secret_shustryi">
+		<text>机灵鬼的藏匿物</text>
+	</string>
+	<string id="tutorial_wounded">
+		<text>机灵鬼，一个俘虏</text>
+	</string>
+	<string id="volk">
+		<text>沃夫，新手村的指挥官</text>
+	</string>
+	<string id="wolfs_rangers">
+		<text>沃夫的侦查员</text>
+	</string>

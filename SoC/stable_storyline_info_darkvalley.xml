@@ -1,0 +1,75 @@
+﻿	<string id="bar_darklab_documents_txt">
+		<text>酒吧老板："根据你从农业研究所带给我的文件来看，事情越来越清楚了，不过还是缺少了一些资料。证据显示有一个焦脑器阻挡了通往北方的路，但没有人确切知道那是什么东西。还有这裡提到了一个在黑暗山谷中的废弃地下建筑，它符合了X18实验室的描述。目前该地区的情况未知，而强盗们则是在黑暗山谷中设置了他们的基地。\n 在最近有几个巡逻队员经过该处，不过目前还没收到任何讯息。\n 想要进入实验室，你需要两把电子钥匙；我会给你其中一把，另一把则在强盗头子伯罗夫手上。进去实验室后，想办法拿到那些文件。</text>
+	</string>
+	<string id="bar_darklab_documents2_txt">
+		<text>必须要找到关于X18实验室的的实验相关文件，这可以帮助我们多瞭解关于「焦脑器」的事情。</text>
+	</string>
+	<string id="dar_codedoor_1_txt">
+		<text>一个组合锁封住了通往实验是内部的通路，你必需找出知道这个锁的组合的人。</text>
+	</string>
+	<string id="dar_codedoor_2_txt">
+		<text>这是另外一扇门，门后面一定有些东西，你必须找出开门用的密码。</text>
+	</string>
+	<string id="dar_document1">
+		<text>实验的开始阶段</text>
+	</string>
+	<string id="dar_document2">
+		<text>实验的第二阶段</text>
+	</string>
+	<string id="dar_document3">
+		<text>安全报告</text>
+	</string>
+	<string id="dar_document4">
+		<text>攻击员工</text>
+	</string>
+	<string id="dar_document5">
+		<text>实验的最后阶段</text>
+	</string>
+	<string id="documents_1">
+		<text>一个星期前实验对象的电磁辐射强度被增强了。第一天并没有发现任何改变，在几天后有奇怪的变化产生了：毛发掉落、具高度侵略性、有好几个对象甚至会凶残的互相伤害。</text>
+	</string>
+	<string id="documents_2">
+		<text>实验对象变得稳定了。毛发的大约剩下10%的数量，牠们的爪子和牙齿开始大量的成长。狂暴的行动看起来变成随机产生，但已经不会自相残杀了。资深实验室技术员A.N.伯诺瓦推测这应该是实验对象智商成长的关係。我们开始决定要在对象身上测试新的Psi-电磁辐射模组。</text>
+	</string>
+	<string id="documents_3">
+		<text>警卫主任：昨天安全警卫G.P.葛列伯夫丢了一片肉给实验对象取乐，牠们马上就把它给撕成了碎片，有些对象还试着想要冲破牢笼。因此，实验室技术员就无法继续进行必要的测试。虽然说G.P.葛列伯夫的动作是很不适当的，我还是建议要求员工要配备空气枪，在突发状况时才能作出适当的保护行动。</text>
+	</string>
+	<string id="documents_4">
+		<text>警卫主任：昨天的实验几乎完全失控了，两打的实验对象逃了出来而且毁了两座实验室房间，幸运的是研究人员即时将自己锁在楼上。我们被命令要清除主研究室，因此让三名守卫被实验对象给咬了。还好他们都没事，我希望实验可以赶快结束。</text>
+	</string>
+	<string id="documents_5">
+		<text>昨天我们将一个新的Psi-辐射模组用在实验对象上，显然的牠们的脑子都受到了影响。我很难想像这个辐射会影响到人类身上。我们已经测试过每种辐射，而结果都与其它实验室相同，实验在目前来说应该已经完成。或许再一个星期的时间，我们就可以开始在大型生物上进行实验了。</text>
+	</string>
+	<string id="LabX18 first key">
+		<text>第二层的通行码</text>
+	</string>
+	<string id="LabX18 second key">
+		<text>第一层的通行码</text>
+	</string>
+	<string id="LabX18_information">
+		<text>来自X18实验室的讯息</text>
+	</string>
+	<string id="pass_to_1st_door">
+		<text>太好了，同僚，我很高兴你收到了第二层的通行码。至少你将会发现我们的实验室发生了什么事情。你的通行码是1243。X-18实验室负责人，皮欧特 里其 卡鲁金。</text>
+	</string>
+	<string id="pass_to_2nd_door">
+		<text>亲爱的同僚， 我要提醒你明天开始你将负责中央实验室房间的容器。你必须每两个小时检视容器，然后直接向我报告每件事情。通往中央实验室房间的的密码是9524。X-18实验室负责人，皮欧特 里其 卡鲁金。</text>
+	</string>
+	<string id="sl_x18_dream_name">
+		<text>一个奇怪的梦</text>
+	</string>
+	<string id="sl_x18_dream_text">
+		<text>我做了一个奇怪的梦。巨大的切尔诺贝利核电站浮现在薄暮之中。每件事看起来都那麽平静。一个孤独的男人出现了，背对着我出现在核电厂的前面。风开始吹着，鼠群从电厂的每个方向冲了出来。那个人，仍然背对着我，射击着那些老鼠。突然有一生尖叫声："史特洛克！"那个男人颤动了，停了一下子，然后慢慢的转到我的方向，但…就在我要看到他的脸庞时，我醒来了。这个梦有什么意义？我不知当。但我想我以前看过这个景象。</text>
+	</string>
+	<string id="val_captive_help_txt">
+		<text>纪律团的成员弹子要我解救他被强盗抓走的伙伴，他很快的就要去废弃的工厂进行护送任务。</text>
+	</string>
+	<string id="val_prisoner_help_art_txt">
+		<text>纪律团成员："他没们抓住了我们另一个人：塞里佳。他们把他关在地窖中…那边有一座大型的建筑物…还没完工的…帮他逃出来，好吗？不然他们也会解决掉他的…"</text>
+	</string>
+	<string id="val_x18_conclusion">
+		<text>X18实验室</text>
+	</string>
+	<string id="val_x18_conclusion_txt">
+		<text>该死…X18实验室一点都不好玩…而它的成员…我不认为有任何人存在。我发现了一些文件…除了一些他们控制关于凯马洛夫发射晶体的技术规格，我不是很清楚裡面写了些什么东西。有趣的是这个部分原先是预定由一个代码为X16的实验室所负责的，它应该也是个秘密研究室。</text>
+	</string>

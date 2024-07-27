@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="cit_doctor_escape_dialog_0">
+		<text>我需要一堆问题的答案。</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_1">
+		<text>说吧，我会试着帮忙的。</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_11">
+		<text>我的东西在哪里？</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_111">
+		<text>领头的人通常负责保存所有抢到的东西。他的房间在顶楼，我被抢走的东西被他们放在那个地方。</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_1111">
+		<text>谢谢！</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_12">
+		<text>我要怎么离开这里？</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_121">
+		<text>当他们带着我的时候，我发现在一楼的楼梯下方有一个排水孔…如果你想打开牢房，那么利用排水道或许可以逃出这个地方…最好向西走，这样你就可以利用通道前往自由团了。</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_1211">
+		<text>谢谢你的讯息。</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_14">
+		<text>谁抓住了我们？</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_141">
+		<text>我们被佣兵团抓住了。没人知道他们是谁，但据说他们为外国的情报机关工作。这个基地的地点是个最高机密--没有人知道要如何进入死城。许多人都对这个讯息感到兴趣，特别是自由团和纪律团。</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_1411">
+		<text>继续。</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_14111">
+		<text>如果你想拿到死城的地图，一场成功的突击会有机会的。佣兵团或是强盗可能会有一张地图。你该试试看。</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_141111">
+		<text>谢谢你的讯息。</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_15">
+		<text>你知道关于这地方的事情吗？</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_151">
+		<text>这个成是分成了两个部分。我们在佣兵团这边。在南方、在广场的前方是强盗的地盘。他们佔据了城市西南方的一所学校。在这些基地之间，有一个倾倒的五楼建筑物、和一些完整的建筑。那边同时有一些修理厂，和一些小房子围绕在四周。那边有一些五层楼的建筑物，在强盗那边也有一些修理厂。前市政厅建筑在广场的另外一边。</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_1511">
+		<text>谢谢你的讯息。</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_16">
+		<text>谁负责这里？</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_161">
+		<text>一个叫做达胥曼的恶心男人。我看过几次他带着一个放了一些文件的档案夹。我想里面应该有些有趣的东西。</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_1611">
+		<text>谢谢你的讯息。</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_17">
+		<text>不，没什么。</text>
+	</string>
+	<string id="cit_doctor_hello_dialog_11">
+		<text>史特列洛克！你到底到哪去了？？？自从上次长征后我就没见过你了！我很担心！</text>
+	</string>
+	<string id="cit_doctor_hello_dialog_21">
+		<text>你有没有好一点？你的思绪清楚吗？</text>
+	</string>
+	<string id="cit_doctor_main_dialog_0">
+		<text>史特列洛克？？？</text>
+	</string>
+	<string id="cit_doctor_main_dialog_1">
+		<text>你是史特列洛克！不然你还会是谁？我是博士啊，你不认得我了吗？你发生了什么事情，朋友？你看来不太好。我们两年前一起进入变异区，</text>
+	</string>
+	<string id="cit_doctor_main_dialog_11">
+		<text>不，不是我。</text>
+	</string>
+	<string id="cit_doctor_main_dialog_2">
+		<text>不是你？？？史特列洛克，到底…？你不是在开玩笑吧，是吗？兄弟…其他人呢，我们的人？方跟幽灵呢？你还记得他们，对吧？</text>
+	</string>
+	<string id="cit_doctor_main_dialog_21">
+		<text>我不记得方，幽灵已经死了--我在扬塔发现了他的尸体。</text>
+	</string>
+	<string id="cit_doctor_main_dialog_3">
+		<text>幽灵？！？！死了？？！！该死，那怎么发生的？！他们…他们都是最棒的人。你发生了什么事情？</text>
+	</string>
+	<string id="cit_doctor_main_dialog_31">
+		<text>我不知道发生了什么事情，我不记得了。</text>
+	</string>
+	<string id="cit_doctor_main_dialog_4">
+		<text>等等，我得冷静一下。那真是糟糕，朋友。我想所有的事都发生自你最后一次进入变异区的旅程。当我们最后一次见面时，你把在普里皮亚季藏匿处的钥匙跟位置图都交给了我。我试着保存它--把它藏在佣兵营里。这里，拿去吧，把它收好。希望你可以在那边找到些东西。你曾经说黑石那边有些把戏，但我不太清楚那是怎么回事，你也是。</text>
+	</string>
+	<string id="cit_doctor_main_dialog_41">
+		<text>Ясно. А где мы находимся? Я не помню как сюда попал.</text>
+	</string>
+	<string id="cit_doctor_main_dialog_5">
+		<text>我们在死城！在佣兵营里。</text>
+	</string>
+	<string id="cit_doctor_main_dialog_6">
+		<text>我们在死城！...在佣兵营里…</text>
+	</string>
+	<string id="quest_cit_reward_0">
+		<text>对了，我有关于佣兵团的讯息，有兴趣吗？</text>
+	</string>
+	<string id="quest_cit_reward_1">
+		<text>那要看是什么讯息了。</text>
+	</string>
+	<string id="quest_cit_reward_11">
+		<text>我有一张地图详细的记载着他们的基地、警卫岗哨、一些混进去而不会被注意到的路线，还有些其它的东西。</text>
+	</string>
+	<string id="quest_cit_reward_111">
+		<text>听起来蛮有价值的，我会付你三千做为酬劳。</text>
+	</string>
+	<string id="quest_cit_reward_1111">
+		<text>成交，拿去吧。</text>
+	</string>
+	<string id="quest_cit_reward_11111">
+		<text>太好了！这里是你的报酬。没多久潜行者们就会抱怨佣兵团是否存在了。</text>
+	</string>
+	<string id="quest_cit_reward_1112">
+		<text>不，这不够。</text>
+	</string>
+	<string id="quest_cit_reward_11121">
+		<text>如你所愿，我不会再给更多了。</text>
+	</string>
+	<string id="quest_cit_reward_13">
+		<text>都是些不值钱的东西，不过是些小道消息，抱歉了。</text>
+	</string>
+	<string id="quest_cit_reward_131">
+		<text>如果你能找到些特别的东西拿回来给我，我会给你报酬的。</text>
+	</string>
+</string_table>

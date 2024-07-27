@@ -1,0 +1,21 @@
+﻿	<string id="pripyat_task_objective_1">
+		<text>跟踪潜行者队伍</text>
+	</string>
+	<string id="pripyat_task_objective_2">
+		<text>寻找通往切尔诺贝利核电站的道路</text>
+	</string>
+	<string id="pripyat_task_title">
+		<text>会见潜行者组织</text>
+	</string>
+	<string id="rad_antenna">
+		<text>天线</text>
+	</string>
+	<string id="rad_get_to_aes">
+		<text>抵达发电厂</text>
+	</string>
+	<string id="rad_get_to_aes_0">
+		<text>进入发电厂</text>
+	</string>
+	<string id="rad_get_to_aes_1">
+		<text>寻找石棺的入口</text>
+	</string>

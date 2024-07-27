@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="yantar_general_ucheniy_talk_start_101">
+		<text>谢谢你…呃…一号，是吧？你帮助解救了我们的同伴克鲁格洛夫，为了致上我最真诚的感激，我想要提供给你一套我们的工作服。它很轻，你应该知道的…我可以给你额外的帮助吗？</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_1011">
+		<text>我正在寻找X16实验室，酒吧老板告诉我你或许会知道它的位置。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_1012">
+		<text>我们对X16实验室的兴趣有很长的时间了…或者说，在它里面的机械装置会放射出直接影响人的意志的东西。我怕我让你失望了：如果没有特殊的电磁隔离装备，那里是不可能进入的。结局是可以预知的--就算你可以躲掉实验室外面的一大群僵尸，你也要冒着自己变成僵尸的方显，这可是很严重的事情。不管怎样，我们设计了一个屏障装置来防护电磁波，不过还需要做一些额外的测量。如果你帮我们，我们就有可能提供给你一个完全调整过的防护装置。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_1013">
+		<text>测量？</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_1014">
+		<text>如果你跟我们的同事一起，做好所有的测量工作，我就可以准备好一个可以正常工作的防护装置，让后将它交给你。这几乎就可以让你进入实验室了。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_10141">
+		<text>好，我同意。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_101411">
+		<text>太好了！跟克鲁格洛夫谈谈然后开始行动，他已经准备好必要的装备了。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_101412">
+		<text>好的。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_10142">
+		<text>好的，我同意。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_101421">
+		<text>太好了！跟谢米诺夫谈谈然后出发，他有所有你需要的东西。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_101422">
+		<text>好的。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_10143">
+		<text>不…现在我可不想参加这个。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_101431">
+		<text>那太糟了，多可惜啊..我不知道如果只有我们自己，要如何或是什么时候才能进行测量活动。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_11">
+		<text>是的，先生？你在找什么？</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_111">
+		<text>我在寻找X16实验室。酒吧老板跟我说你可能会知道它的位置。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_12">
+		<text>谢谢你救出了克鲁格洛夫，一号。收下这个压力装作为你的奖赏。还有，我想你不会只是为了简单的报酬就过来这里，我说的对吗？</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_121">
+		<text>我在寻找X16实验室。酒吧老板跟我说你可能会知道它的位置。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_1211">
+		<text>我们在X16实验室研究电磁辐射物有一段很长的时间了，但如果没有特殊装备的话你不会想要过去那里的。我们发展出了一套Psi-电磁辐射防护装置，可以帮助你免受电磁辐射伤害。如果你可以帮助我们的话，我可以给你一套防护装置，这样你就可以用它来进入实验室里面了。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_12111">
+		<text>好的。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_121111">
+		<text>太好了，跟克鲁格洛夫谈谈后出发，他有所有你需要的东西。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_12112">
+		<text>不，我还没有决定要做。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_121122">
+		<text>那真是太可惜了，到目前为止，我们还没办法自己去做测量考察。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_21">
+		<text>是的，先生？你在找什么？</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_211">
+		<text>我们很久之前就对X16实验室很有兴趣了...，确切的说，在它里面有一部机械装置，会放射出可以直接影响人类认知行为的电磁波。我怕我会让你失望：如果没有psi-电磁辐射防护装置的保护，那地方是进不去的。结果是可以预知的--就算你可以避开出没在实验室入口的僵尸群，你也要冒着变成它们的风险。这是很严重的。不管如何，我们发展了一个可以防护电磁辐射的装置，但我们还需要一些测量数据来为它做调整。如果你帮助我们测量，我就可以提供给你调整好的防护装置让你去做实地测试。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_2111">
+		<text>继续。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_21111">
+		<text>我们在X16实验室研究电磁辐射物有一段很长的时间了，但如果没有特殊装备的话你不会想要过去那里的。我们发展出了一套Psi-电磁辐射防护装置，可以帮助你免受电磁辐射伤害。如果你可以帮助我们的话，我可以给你一套防护装置，这样你就可以用它来进入实验室里面了。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_21112">
+		<text>好的，我同意了。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_211121">
+		<text>太好了！跟克鲁格洛夫谈谈然后开始行动，他已经准备好必要的装备了。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_2111211">
+		<text>好的。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_21113">
+		<text>好的，我同意了。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_211131">
+		<text>太好了！跟谢米诺夫谈谈然后出发，他有所有你需要的东西。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_211132">
+		<text>好的。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_211141">
+		<text>你不瞭解，那边有一个电磁发射器。没有人可以靠近超过半里的--它让僵尸远离每个人。没有防护服到那里跟自杀一样，知道吗？</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_2111411">
+		<text>嗯，那改变了情况。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_211142">
+		<text>该死，告诉我所有你知道的事情。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_211143">
+		<text>好的，别说我没有警告过你。瓦西里夫在解决研究室的问题，一个星期前，他跟一个叫做幽灵的潜行者试图进入实验室。几个小时后我们感觉到震动，接着电磁辐射物消失了，一个小时后，我们收到了瓦西里夫的讯号，讯号来自沼泽区但马上就消失了。事情看来，瓦西里夫已经死了，试着找到他的尸体：他有关于实验室的准确讯息--它的位置和进入的方法。他或许也知道如何关掉电磁辐射源。实验室的入口很可能隐藏在发电厂区域其中一座建筑物的地下室。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_211144">
+		<text>没错，太好了。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_21115">
+		<text>不…现在我不想去。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_211151">
+		<text>太糟了，真是可惜…我不知道要如何或是什么时候，我们才能自己完成这个测量考察。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_221">
+		<text>谢谢你…呃…一号，是吧？你帮助解救了我们的同伴克鲁格洛夫，为了致上我最真诚的感激，我想要提供给你一套我们的工作服。它很轻，你应该知道的…</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_231">
+		<text>你完成了很棒的工作，一号！现在电磁辐射源关闭了，我们可以在以前难以到达的地区探测跟考察了。还有…现在我们将会提供给你很优渥的报酬。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_2311">
+		<text>谢谢你。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_241">
+		<text>是的，一号？你在找什么？</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_31">
+		<text>你做了件很棒的工作。如果这些测量数据是正确的，防护装置将会提供给你对电磁波最大的防护。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_311">
+		<text>很高兴听到这件事。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_3111">
+		<text>现在通往实验是的路已经清除了…除了电磁辐射源还没被摧毁，而且它也还没失去它的动力，你可能没有足够的时间可以回去。亲爱的先生，那么就这样吧。根据我们的计算，电磁辐射源的地点在地底下，经过你的同意，我已经将地点标示在你的地图上了。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_31111">
+		<text>到底要如何正确的进入X16实验室？入口在哪里？</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_311111">
+		<text>瓦西里夫在解决研究室的问题，一个星期前，他跟一个叫做幽灵的潜行者试图进入实验室。几个小时后我们感觉到明显的震动，接着一个小时后，我们收到了瓦西里夫的讯号，讯号来自沼泽区但马上就消失了。事情看来，瓦西里夫已经死了，试着找到他的尸体：他有关于实验室的准确讯息--它的位置和进入的方法。他或许也知道如何关掉电磁辐射源，我会把我们所有的资料都传给你。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_311112">
+		<text>啊哈…能看一看这些文件一定会很有趣的。那么，你认为瓦西里夫有这些文件吗？</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_311113">
+		<text>希望如此。不管用任何代价，你一定要开始寻找瓦西里夫的尸体--那是我们找到实验室位置的唯一机会。你的同僚幽灵的尸体一定也在附近，你知道的，我认为他知道关于X16的讯息远多过他告诉我们的。如果他能活下来…好吧，没有必要存着那个希望，当然。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_311114">
+		<text>好的，我会试试看。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_41">
+		<text>他为什么死了？你本来应该保护他的！</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_411">
+		<text>可鲁格洛夫被僵尸杀死了…我帮不上忙，那边有太多僵尸了。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_4111">
+		<text>喔，天啊…怎么会发生了？怎么会发生这种事？？该死，每件事都出差错了。现在我们必须召唤更多的人…我们的问题已经够多了…该死…</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_41111">
+		<text>听着…克鲁格洛夫已经死了，但我还活着。把防护装置给我，我会在X16里面进行我的战斗。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_411111">
+		<text>这里是防护装置，小心点使用它。它还没有调整得很好，但这是你的错--你解救我的同僚失败了。这个装置没办法提供最大的防护能力，但至少会降低电磁波的强度，你寻找电磁辐射源的动作必须要快一点。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_4111111">
+		<text>要如何进入X16实验室？它的入口到底在哪里？</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_41111111">
+		<text>瓦西里夫在解决研究室的问题，一个星期前，他跟一个叫做幽灵的潜行者试图进入实验室。几个小时后我们感觉到明显的震动，接着一个小时后，我们收到了瓦西里夫的讯号，讯号来自沼泽区但马上就消失了。事情看来，瓦西里夫已经死了，试着找到他的尸体：他有关于实验室的准确讯息--它的位置和进入的方法。他或许也知道如何关掉电磁辐射源，我会把我们所有的资料都传给你。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_41112">
+		<text>还有呢？</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_41113">
+		<text>你一定要开始寻找瓦西里夫的尸体--那是我们找到实验室位置的唯一机会。你的同僚幽灵的尸体一定也在附近，你知道的，我认为他知道关于X16的讯息远多过他告诉我们的。如果他能活下来…好吧，没有必要存着那个希望，当然。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_41114">
+		<text>好的，我会试试看。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_51">
+		<text>他为什么死了？你本来不是应该保护他的！？</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_511">
+		<text>赛米诺夫被僵尸射中了…我帮不了他，那边有太多僵尸了。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_5111">
+		<text>喔，天啊…怎么会发生了？怎么会发生这种事？？该死，每件事都出差错了。现在我们必须召唤更多的人…我们的问题已经够多了…该死…</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_51111">
+		<text>听着…赛米诺夫死了，但我还活着。把防护装置给我，我会为自己在X16中战斗的。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_511111">
+		<text>这里是防护装置，小心点使用它。它还没有调整得很好，但这是你的错--你解救我的同僚失败了。这个装置没办法提供最大的防护能力，但至少会降低电磁波的强度，你寻找电磁辐射源的动作必须要快一点。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_5111111">
+		<text>到底要如何正确的进入X16实验室？入口在哪里？</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_511111111">
+		<text>瓦西里夫在解决研究室的问题，一个星期前，他跟一个叫做幽灵的潜行者试图进入实验室。几个小时后我们感觉到明显的震动，接着一个小时后，我们收到了瓦西里夫的讯号，讯号来自沼泽区但马上就消失了。事情看来，瓦西里夫已经死了，试着找到他的尸体：他有关于实验室的准确讯息--它的位置和进入的方法。他或许也知道如何关掉电磁辐射源，我会把我们所有的资料都传给你。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_51112">
+		<text>啊哈…能看一看这些文件一定会很有趣的。那么，你认为瓦西里夫有这些文件吗？</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_51113">
+		<text>希望如此。不管用任何代价，你一定要开始寻找瓦西里夫的尸体--那是我们找到实验室位置的唯一机会。你的同僚幽灵的尸体一定也在附近，你知道的，我认为他知道关于X16的讯息远多过他告诉我们的。如果他能活下来…好吧，没有必要存着那个希望，当然。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_51114">
+		<text>好的，我会试试看。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_61">
+		<text>是的，一号？</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_71">
+		<text>是的，一号？</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_81">
+		<text>克鲁格洛夫的死真是太糟了…不过人死不能复生，重要的是你带回给我们的测量数据。你带了吗？</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_811">
+		<text>嗯，在这里。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_8111">
+		<text>很好，让我调整一下防护装置。在这里等我一下。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_81111">
+		<text>知道了。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_812">
+		<text>不。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_8121">
+		<text>那么就去拿回来，而且要快一点！没有资料我没办法调整防护装置。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_91">
+		<text>你做了个很棒的工作，如果测量数据是正确的，那么这个防护装置应该可以提供你对电磁辐射的最大保护。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_911">
+		<text>你可以说清楚一点吗？</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_9111">
+		<text>潜行者，你现在可以进入实验室了。即使你开启了防护功能，这个装置也不能让你撑太久，不过足以让你关掉发射器了。我们已经估算出了发射器的大概位置；它位于一座地底设施中，我已经在你的地图上标好了位置。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_9112">
+		<text>我要怎么进入X16？入口到底在什么地方？</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_9113">
+		<text>瓦西里夫曾经在实验室工作，大约在一个星期之前，他跟一个称为幽灵的潜行者试着想要进入。几个小时后，我们感觉到明显的震动，再过了一个小时，我们接到了瓦西里夫从沼泽发过来的讯号，但这讯号消失了，而瓦西里夫也跟着消失了。我们试着寻找他的尸体，他身上有关于实验室的资讯，和进去的方法。实验室可能会有关于如何关闭电磁发射源的方法，我会把我们知道的资料上传到你的PDA里。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_9114">
+		<text>啊哈…能看一看这些文件一定会很有趣的。那么，你认为瓦西里夫有这些文件吗？</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_9115">
+		<text>希望如此。不管用任何代价，你一定要开始寻找瓦西里夫的尸体--那是我们找到实验室位置的唯一机会。你同僚幽灵的尸体一定也在附近，你知道的，我认为他知道关于X16的讯息远多过他告诉我们的。如果他能活下来…好吧，没有必要存着那个希望，当然。</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_9116">
+		<text>好的，我会试试看。</text>
+	</string>
+	<string id="yantar_help_scientist_101">
+		<text>没时间了…</text>
+	</string>
+	<string id="yantar_help_scientist_11">
+		<text>是的，一号？</text>
+	</string>
+	<string id="yantar_help_scientist_111">
+		<text>教授要求我前往测量点。</text>
+	</string>
+	<string id="yantar_help_scientist_1111">
+		<text>现在你在谈生意了！让我们快点离开。单独到那边是没什么用的，但如果有你一起的话就不同了…我想我们要快一点--不过要小心别让那些尸体靠太近。那么，你准备好了吗？</text>
+	</string>
+	<string id="yantar_help_scientist_11111">
+		<text>嗯。</text>
+	</string>
+	<string id="yantar_help_scientist_111111">
+		<text>你知道吗…你为什么不先走。你有一堆经验，不像我。还有这些尸体又开始移动了…</text>
+	</string>
+	<string id="yantar_help_scientist_1111111">
+		<text>好吧。</text>
+	</string>
+	<string id="yantar_help_scientist_21">
+		<text>哇！一号来到这里做私人造访！你终于来了。跟教授聊聊--他想要感谢你解救了我。</text>
+	</string>
+	<string id="yantar_help_scientist_31">
+		<text>晚点，晚点！</text>
+	</string>
+	<string id="yantar_help_scientist_41">
+		<text>嘿，一号！事情进行的如何了？</text>
+	</string>
+	<string id="yantar_help_scientist_51">
+		<text>是的，一号？</text>
+	</string>
+	<string id="yantar_help_scientist_511">
+		<text>教授要求我前往测量点。</text>
+	</string>
+	<string id="yantar_help_scientist_512">
+		<text>现在你在谈生意了！让我们快点离开。单独到那边是没什么用的，但如果有你一起的话就不同了…我想我们要快一点--不过要小心别让那些尸体靠太近。那么，你准备好了吗？</text>
+	</string>
+	<string id="yantar_help_scientist_513">
+		<text>嗯。</text>
+	</string>
+	<string id="yantar_help_scientist_514">
+		<text>你知道吗…你为什么不先走。你有一堆经验，不像我。还有这些尸体又开始移动了…</text>
+	</string>
+	<string id="yantar_help_scientist_515">
+		<text>好的。</text>
+	</string>
+	<string id="yantar_help_scientist_61">
+		<text>抱歉，我现在没有时间。</text>
+	</string>
+	<string id="yantar_help_scientist_71">
+		<text>嘿，一号！最近过的如何啊？</text>
+	</string>
+	<string id="yantar_help_scientist_81">
+		<text>等一下下…我们需要结束交谈。</text>
+	</string>
+	<string id="yantar_help_scientist_91">
+		<text>等等，我还没说完关于测量的事情。</text>
+	</string>
+	<string id="yantar_wounded_scientist_11">
+		<text>呀！喔…啊…</text>
+	</string>
+	<string id="yantar_wounded_scientist_111">
+		<text>你还活着？来吧，起来…慢慢起来。都结束了。</text>
+	</string>
+	<string id="yantar_wounded_scientist_21">
+		<text>嘿，一号。你好吗？</text>
+	</string>
+	<string id="yantar_wounded_scientist_211">
+		<text>搞定！收好相机，该走了。</text>
+	</string>
+	<string id="yantar_wounded_scientist_31">
+		<text>嘿，一号！最近怎么样啊？</text>
+	</string>
+</string_table>

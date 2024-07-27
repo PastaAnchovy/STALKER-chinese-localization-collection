@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="bar_rostok">
+		<text>大荒野--罗斯托克</text>
+	</string>
+	<string id="car_character_use">
+		<text>开门($$ACTION_USE$$)</text>
+	</string>
+	<string id="character_use">
+		<text>交谈 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="dead_character_use_or_drag">
+		<text>搜寻尸体($$ACTION_USE$$) \n 拖曳尸体(SHIFT+$$ACTION_USE$$)</text>
+	</string>
+	<string id="dead_character_use">
+		<text>搜寻尸体($$ACTION_USE$$)</text>
+	</string>
+	<string id="general_complete_task">
+		<text>任务完成</text>
+	</string>
+	<string id="general_fail_task">
+		<text>任务失败</text>
+	</string>
+	<string id="general_help">
+		<text>快，我需要医药箱！我就要死在这裡了！</text>
+	</string>
+	<string id="general_in_item">
+		<text>收到物品</text>
+	</string>
+	<string id="general_in_money">
+		<text>收到金钱</text>
+	</string>
+	<string id="general_new_diary">
+		<text>新的日志输入</text>
+	</string>
+	<string id="general_new_encyclopedy">
+		<text>新的百科全书内容</text>
+	</string>
+	<string id="general_new_task">
+		<text>新的任务</text>
+	</string>
+	<string id="general_out_item">
+		<text>失去物品</text>
+	</string>
+	<string id="general_out_money">
+		<text>失去金钱</text>
+	</string>
+	<string id="general_update_task">
+		<text>任务更新</text>
+	</string>
+	<string id="physic_shell_use">
+		<text>移动物件($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_codelock">
+		<text>组合锁($$ACTION_USE$$)</text>
+	</string>
+	<string id="to_aes">
+		<text>往切尔诺贝利核电站</text>
+	</string>
+	<string id="to_agroprom">
+		<text>往农业研究所</text>
+	</string>
+	<string id="to_agroprom_underground">
+		<text>往地下墓穴</text>
+	</string>
+	<string id="to_bar">
+		<text>往罗斯托克</text>
+	</string>
+	<string id="to_darkvalley">
+		<text>往黑暗山谷</text>
+	</string>
+	<string id="to_escape">
+		<text>往封锁线</text>
+	</string>
+	<string id="to_garbage">
+		<text>往废弃区</text>
+	</string>
+	<string id="to_military">
+		<text>往仓库</text>
+	</string>
+	<string id="to_pripyat">
+		<text>往普里皮亚季</text>
+	</string>
+	<string id="to_radar">
+		<text>往焦脑器</text>
+	</string>
+	<string id="to_rostok">
+		<text>往大荒野</text>
+	</string>
+	<string id="to_yantar">
+		<text>往杨塔</text>
+	</string>
+	<string id="st_helmet_countdown">
+		<text>保护性关闭</text>
+	</string>
+	<string id="st_psy_danger">
+		<text>检测到危险的psi-电磁辐射等级，请赶快离开危险区域</text>
+	</string>
+	<string id="st_radiation_danger">
+		<text>检测到危险的辐射污染等级，需要防护才能通行</text>
+	</string>
+	<string id="st_found_new_pda">
+		<text>发现讯息：</text>
+	</string>
+</string_table>

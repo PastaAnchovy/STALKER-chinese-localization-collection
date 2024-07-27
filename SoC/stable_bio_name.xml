@@ -1,0 +1,921 @@
+﻿	<string id="aes_Monolit_master_bio">
+		<text>黑石组织的哨兵，最好离他远一点。没有详细的资料。</text>
+	</string>
+	<string id="aes_Monolit_rpg_bio">
+		<text>黑石组织的潜行者。没有详细的资料。</text>
+	</string>
+	<string id="aes_Monolit_sniper_bio">
+		<text>黑石组织的潜行者。没有详细的资料。</text>
+	</string>
+	<string id="aes_Monolit_sniper_gauss_bio">
+		<text>黑石组织的潜行者。没有详细的资料。</text>
+	</string>
+	<string id="aes_Monolit_specnaz_bio">
+		<text>黑石组织的战士，装备良好。没有详细的资料。</text>
+	</string>
+	<string id="aes_Soldier_commander_bio">
+		<text>侵略部队的指挥官。</text>
+	</string>
+	<string id="aes_Soldier_military_bio">
+		<text>潜行者战士，装备良好，具高度的威胁性。没有详细的资料。</text>
+	</string>
+	<string id="aes_Soldier_sniper_bio">
+		<text>没有详细的资料。</text>
+	</string>
+	<string id="aes_Soldier_specnaz_aes_bio">
+		<text>俄罗斯特种部队，装备良好。没有详细的资料。</text>
+	</string>
+	<string id="aes_Soldier_specnaz_aes_name">
+		<text>不幸的瓦西尔</text>
+	</string>
+	<string id="aes_Soldier_specnaz_bio">
+		<text>俄罗斯特种部队，装备良好。没有详细的资料。</text>
+	</string>
+	<string id="agr_krot_bio">
+		<text>强盗，他和同伙掠夺了所有的研究室和碉堡。</text>
+	</string>
+	<string id="agr_krot_name">
+		<text>莫尔</text>
+	</string>
+	<string id="bar_arena_stalker">
+		<text>竞技场中最致命的对手之一。没有详细的资料。</text>
+	</string>
+	<string id="bar_arny_bio">
+		<text>老练的走私者，因为在短时间裡将数百个异种生物从限制区中运出来，而获得了他的名声。</text>
+	</string>
+	<string id="bar_arny_name">
+		<text>阿尼</text>
+	</string>
+	<string id="bar_bar_guard_bio">
+		<text>酒吧的保镖，你也可以把他当成是酒吧老板的护卫，没有人知道关于他过去、或是现在的任何事。</text>
+	</string>
+	<string id="bar_bar_guard_name">
+		<text>盖瑞克</text>
+	</string>
+	<string id="bar_bar_guard2_bio">
+		<text>酒吧的保镖，也是盖瑞克的双胞胎，他的口风跟他的兄弟一样的紧。</text>
+	</string>
+	<string id="bar_bar_guard2_name">
+		<text>罗里克</text>
+	</string>
+	<string id="bar_barmen_bio">
+		<text>酒吧老板不是圣人，也不是恶棍，不过他获得了所有潜行者的敬重。谣传说因为过去的一些不良事迹，使得他不得不藏身在特异区中。在一次误闯了特异点受伤之后，使得他不便于像以前一样行动，因此被迫放弃了过去的工作。他在纪律团营地开了间酒吧，之后这裡就变成了特异区裡老兵的聚会场所，酒吧老板同时还掌握了许多特异区和外界的联络通道。</text>
+	</string>
+	<string id="bar_barmen_name">
+		<text>酒吧老板</text>
+	</string>
+	<string id="bar_beast_name">
+		<text>野兽</text>
+	</string>
+	<string id="bar_drunk_bio">
+		<text>纪律团的成员，不过他离开的时间远多于待在队伍中的时间。派系给了他最后的机会，完成一个任务作为救赎。无论如何，他实在是醉的一塌糊涂，而且很难保持自己的清醒。</text>
+	</string>
+	<string id="bar_drunk_name">
+		<text>伯若姆</text>
+	</string>
+	<string id="bar_hunter_bio">
+		<text>猎人是个温厚、幽默的傢伙，唯一的问题是他只会用猎枪来射击，也没有使用过其他的武器。最近他因为在大荒野受到伏击，而弄丢了家传的猎枪。现在他正在酒吧旁閒晃著，希望有人能帮忙把猎枪找回来。</text>
+	</string>
+	<string id="bar_hunter_name">
+		<text>猎人</text>
+	</string>
+	<string id="bar_informer_bio">
+		<text>神秘的「全知」潜行者，在酒吧交易讯息。</text>
+	</string>
+	<string id="bar_informer_name">
+		<text>小贼</text>
+	</string>
+	<string id="bar_ivancov_bio">
+		<text>所有最严苛的突击队和冒险队的指挥官，对抗任何来自异种生物的攻击。</text>
+	</string>
+	<string id="bar_ivancov_name">
+		<text>依凡斯托夫上尉</text>
+	</string>
+	<string id="bar_kicenko_name">
+		<text>基生科中士</text>
+	</string>
+	<string id="bar_lelik_bio">
+		<text>竞技场主人的保镖，关于他的过去并不多知，不过都是一些坏事情，他恨他的兄弟。</text>
+	</string>
+	<string id="bar_lelik_name">
+		<text>留里克</text>
+	</string>
+	<string id="bar_lisiy_name">
+		<text>波弟</text>
+	</string>
+	<string id="bar_petrenko_bio">
+		<text>他同时身为纪律团的创立者之一，并且担任智囊团的工作。担负派系的神圣任务的他，负责吸收所有的派系核心成员。</text>
+	</string>
+	<string id="bar_petrenko_name">
+		<text>彼得连科上校</text>
+	</string>
+	<string id="bar_plichko_bio">
+		<text>纪律团的领土安全局首脑</text>
+	</string>
+	<string id="bar_plichko_name">
+		<text>佩里科中士</text>
+	</string>
+	<string id="bar_ryaboy_bio">
+		<text>受到焦脑器影响的陌生人。</text>
+	</string>
+	<string id="bar_ryaboy_name">
+		<text>史波弟</text>
+	</string>
+	<string id="bar_voronin_bio">
+		<text>他同时身为纪律团的创立者之一，并且担任智囊团的工作。担负派系的神圣任务的他，负责吸收所有的派系核心成员。</text>
+	</string>
+	<string id="bar_voronin_name">
+		<text>沃洛宁将军</text>
+	</string>
+	<string id="cit_bandit_drunk_bio">
+		<text>酒鬼。</text>
+	</string>
+	<string id="cit_bandit_general_bio">
+		<text>不知名的潜行者，名声极差。没有详细的资料。</text>
+	</string>
+	<string id="cit_bandit_veteran_bio">
+		<text>不知名的潜行者，名声极差。没有详细的资料。</text>
+	</string>
+	<string id="cit_bandits_leader_bio">
+		<text>一个强盗头子，装备良好并具有高危险性。没有详细的资料。</text>
+	</string>
+	<string id="cit_bandits_leader_name">
+		<text>波季</text>
+	</string>
+	<string id="cit_doctor_bio">
+		<text>博士。</text>
+	</string>
+	<string id="cit_doctor_name">
+		<text>博士</text>
+	</string>
+	<string id="cit_killer_exo_bio">
+		<text>不知名的佣兵，装备良好并具有高危险性。没有详细的资料。</text>
+	</string>
+	<string id="cit_killer_general_bio">
+		<text>不知名的佣兵，装备良好并具有高危险性。没有详细的资料。</text>
+	</string>
+	<string id="cit_killers_leader_bio">
+		<text>佣兵团的头子，装备良好并具有高危险性。没有详细的资料。</text>
+	</string>
+	<string id="cit_killers_leader_name">
+		<text>达胥曼</text>
+	</string>
+	<string id="cit_vp_bio">
+		<text>经验丰富的潜行者。没有详细的资料。</text>
+	</string>
+	<string id="cit_vp_name">
+		<text>瓦西里 彼得罗维奇</text>
+	</string>
+	<string id="dar_corpse_bio">
+		<text>无讯息。</text>
+	</string>
+	<string id="dar_explorer_bio">
+		<text>经验丰富的潜行者，总是张大眼睛小心注视著四周。</text>
+	</string>
+	<string id="dar_explorer_name">
+		<text>对子雷卡</text>
+	</string>
+	<string id="dar_kalugin_name">
+		<text>卡鲁金 P.I.</text>
+	</string>
+	<string id="ds_sergant_regular_bio">
+		<text>乌克兰军队的中士。没有详细的资料。</text>
+	</string>
+	<string id="ds_soldier_regular_bio">
+		<text>乌克兰军队的士兵。没有详细的资料。</text>
+	</string>
+	<string id="esc_bandit_novice_bio">
+		<text>不知名的潜行者，名声极差。没有详细的资料。</text>
+	</string>
+	<string id="esc_captain_bio">
+		<text>乌克兰军队的常备上尉。没有详细的资料。</text>
+	</string>
+	<string id="esc_fanat_bio">
+		<text>在沃夫之后接管了新兵营，意志坚定，进取心强，对新进人员拥有掌控权。</text>
+	</string>
+	<string id="esc_fanat_name">
+		<text>狂热者</text>
+	</string>
+	<string id="esc_fox_bio">
+		<text>被特异区所磨练出的孤独又坚韧的老者。</text>
+	</string>
+	<string id="esc_fox_name">
+		<text>狐狸</text>
+	</string>
+	<string id="esc_killer_specnaz_bio">
+		<text>不知名的潜行者，可能装备良好。没有详细的资料。</text>
+	</string>
+	<string id="esc_petruha_bio">
+		<text>聪明的菜鸟，看来沃夫喜欢他，经常派遣他去进行重要的任务。</text>
+	</string>
+	<string id="esc_petruha_name">
+		<text>皮处哈</text>
+	</string>
+	<string id="esc_provodnik_bio">
+		<text>他是个老兵，也是个活生生的传奇，他曾经去过特异区的每个地方。人们说他可以带你到特异区中的任何地方，而且他提供的服务也是物有所值，不过并不是每个人都有这样的机会。如果他不喜欢你，就算再多的钱也打不动他。</text>
+	</string>
+	<string id="esc_provodnik_name">
+		<text>向导</text>
+	</string>
+	<string id="esc_sergant_regular_bio">
+		<text>乌克兰军队的中士。没有详细的资料。</text>
+	</string>
+	<string id="esc_shustryi_bio">
+		<text>潜行者，因为近乎隐身和无法取代的能力而得名，跟他们交易的人，主要都是一些需要执行监视、窥探、或是窃听的任务的人。</text>
+	</string>
+	<string id="esc_shustryi_name">
+		<text>机灵鬼</text>
+	</string>
+	<string id="esc_soldier_commander_bio">
+		<text>少校指挥著桥旁的前哨站部队，从潜行者的手中将桥夺回，并把他们逐到桥的另一边去。</text>
+	</string>
+	<string id="esc_soldier_commander_name">
+		<text>库聂佐夫少校</text>
+	</string>
+	<string id="esc_soldier_regular_bio">
+		<text>乌克兰军队的士兵。没有详细的资料。</text>
+	</string>
+	<string id="esc_specnaz_bio">
+		<text>俄罗斯特种部队，装备良好。没有详细的资料。</text>
+	</string>
+	<string id="esc_specnaz_killer_bio">
+		<text>不知名的佣兵，装备良好并具有高危险性。没有详细的资料。</text>
+	</string>
+	<string id="esc_stalker_novice_bio">
+		<text>菜鸟，刚刚来到特异区。没有详细的资料。</text>
+	</string>
+	<string id="esc_tolik_bio">
+		<text>一般的潜行者。</text>
+	</string>
+	<string id="esc_tolik_name">
+		<text>托里克</text>
+	</string>
+	<string id="esc_wolf_bio">
+		<text>前往新兵营，一个老潜行者正计画要跳伞。</text>
+	</string>
+	<string id="esc_wolf_name">
+		<text>沃夫</text>
+	</string>
+	<string id="escape_trader_bio">
+		<text>他从小就以交易为生。在幼稚园时期，他卖蜡笔，高中时卖口香糖，大学时卖一些轻毒品。很快的当他来到特异区时，他就发现了赚钱的潜力。他以有能跟任何怪异的对象建立强力贸易关系的能力而闻名。</text>
+	</string>
+	<string id="escape_trader_name">
+		<text>西德洛维奇</text>
+	</string>
+	<string id="gar_bandit_leader_bio">
+		<text>伯罗夫的同伙，对特异区中的强盗有特定的影响力。</text>
+	</string>
+	<string id="gar_bandit_leader_name">
+		<text>野猪瓦西亚</text>
+	</string>
+	<string id="gar_dolg_blokpost_bio">
+		<text>一个来自纪律团的潜行者。没有详细的资料。</text>
+	</string>
+	<string id="gar_dolg_blokpost_leader_bio">
+		<text>一个纪律团的军官。没有详细的资料。</text>
+	</string>
+	<string id="gar_dolg_blokpost_leader_name">
+		<text>准军官</text>
+	</string>
+	<string id="gar_dram_novice_bio">
+		<text>菜鸟，正在特异区裡破土。</text>
+	</string>
+	<string id="gar_dram_novice_name">
+		<text>尤里克</text>
+	</string>
+	<string id="gar_hellcar_bio">
+		<text>藏身在特异区中，尝试著用自己的方法来维持秩序，与歹徒对抗。冷酷、但是公正。</text>
+	</string>
+	<string id="gar_hellcar_name">
+		<text>贝斯</text>
+	</string>
+	<string id="gar_newbie_bio">
+		<text>菜鸟，刚刚来到特异区。没有详细的资料。</text>
+	</string>
+	<string id="gar_seryi_bio">
+		<text>一个脸跟他的良心一样的潜行者。</text>
+	</string>
+	<string id="gar_seryi_name">
+		<text>西利</text>
+	</string>
+	<string id="gar_stalker_regular_bio">
+		<text>一个经验丰富的潜行者。没有详细的资料。</text>
+	</string>
+	<string id="mil_Dolg_specnaz_bio">
+		<text>纪律团的军人，通常拥有良好的装备。没有详细的资料。</text>
+	</string>
+	<string id="mil_Dolg_specnaz_cherep_bio">
+		<text>纪律团特殊部队的指挥官，通常拥有良好的装备。</text>
+	</string>
+	<string id="mil_Dolg_specnaz_cherep_name">
+		<text>骷髅</text>
+	</string>
+	<string id="mil_Dolg_specnaz_silence_bio">
+		<text>纪律团的战士，同常拥有良好的装备。没有详细的资料。</text>
+	</string>
+	<string id="mil_Killer_informator_bio">
+		<text>熟悉整个特异区的线人。</text>
+	</string>
+	<string id="mil_Killer_informator_name">
+		<text>亚拉</text>
+	</string>
+	<string id="mil_killer_master_bio">
+		<text>不知名的佣兵，拥有良好的装备和具高危险性。没有详细的资料。</text>
+	</string>
+	<string id="mil_killer_sniper_bio">
+		<text>不知名的佣兵，显然是刚来到特异区。没有详细的资料。</text>
+	</string>
+	<string id="mil_Killer_specnaz_bio">
+		<text>不知名的佣兵，可能拥有良好的装备。没有详细的资料。</text>
+	</string>
+	<string id="mil_Monolit_master_bio">
+		<text>黑石组织的哨兵，你最好离他远一点。没有详细的资料。</text>
+	</string>
+	<string id="mil_Monolit_regular_bio">
+		<text>黑石组织的潜行者。没有详细的资料。</text>
+	</string>
+	<string id="mil_Stalker_master_bio">
+		<text>大师级潜行者之一，对特异区瞭若指掌，通常装备良好，具高度危险性。没有详细的资料。</text>
+	</string>
+	<string id="mil_Stalker_veteran_bio">
+		<text>潜行者老兵，可能装备良好。没有详细的资料。</text>
+	</string>
+	<string id="mil_Svoboda_blockpost_leader_bio">
+		<text>来自「自由团」的潜行者，关卡的指挥官。他组织了一群人，可以随时牺牲他们的生命来达成目标。</text>
+	</string>
+	<string id="mil_Svoboda_blockpost_leader_name">
+		<text>开普</text>
+	</string>
+	<string id="mil_Svoboda_bodyguard_bio">
+		<text>「自由团」领袖卢卡许的保镖。</text>
+	</string>
+	<string id="mil_Svoboda_cook_bio">
+		<text>「自由团」的厨师，他虽然爱喝酒闹事，但却是个好厨子。</text>
+	</string>
+	<string id="mil_Svoboda_cook_name">
+		<text>大厨</text>
+	</string>
+	<string id="mil_Svoboda_engineer_bio">
+		<text>特异区裡赫赫有名的技师，可以把拖曳机改装成坦克，或是完成其他不可思议的工作。</text>
+	</string>
+	<string id="mil_Svoboda_engineer_name">
+		<text>螺栓</text>
+	</string>
+	<string id="mil_Svoboda_leader_bio">
+		<text>「自由团」的领袖。</text>
+	</string>
+	<string id="mil_Svoboda_leader_name">
+		<text>卢卡许</text>
+	</string>
+	<string id="mil_Svoboda_master_bio">
+		<text>「自由团」的指挥官。没有详细的资料。</text>
+	</string>
+	<string id="mil_Svoboda_master_Max_bio">
+		<text>「自由团」的守卫，一个狂热份子，拥有非常精良的装备，具高度危险性。没有详细的资料。</text>
+	</string>
+	<string id="mil_Svoboda_master_Max_name">
+		<text>麦斯</text>
+	</string>
+	<string id="mil_Svoboda_master_Ugrumiy_bio">
+		<text>「自由团」的守卫，一个狂热份子，拥有非常精良的装备，具高度危险性。没有详细的资料。</text>
+	</string>
+	<string id="mil_Svoboda_master_Ugrumiy_name">
+		<text>莫克</text>
+	</string>
+	<string id="mil_Svoboda_regular_bio">
+		<text>「自由团」的潜行者。没有详细的资料。</text>
+	</string>
+	<string id="mil_Svoboda_sniper_bio">
+		<text>「自由团」的狙击手。没有详细的资料。</text>
+	</string>
+	<string id="mil_Svoboda_specnaz_bio">
+		<text>「自由团」的激进份子，同常装备良好。没有详细的资料。</text>
+	</string>
+	<string id="mil_Svoboda_stukach_bio">
+		<text>「自由团」的潜行者。没有详细的资料。</text>
+	</string>
+	<string id="mil_Svoboda_stukach_name">
+		<text>巴夫里克</text>
+	</string>
+	<string id="mil_Svoboda_trader_bio">
+		<text>因贪婪和不合群而臭名远扬的家伙，不过据说他可以帮你弄到任何东西。</text>
+	</string>
+	<string id="mil_Svoboda_trader_name">
+		<text>吝啬鬼</text>
+	</string>
+	<string id="mil_Svoboda_zombi_stalker_bio">
+		<text>「自由团」的潜行者。没有详细的资料。</text>
+	</string>
+	<string id="mil_Svoboda_zombi_stalker_name">
+		<text>疯狂的「自由团」潜行者。</text>
+	</string>
+	<string id="mil_Svoboda_zoneguard_bio">
+		<text>「自由团」的激进份子，同常装备良好。没有详细的资料。</text>
+	</string>
+	<string id="pri_followers_bomber_name">
+		<text>沙夏 贝利</text>
+	</string>
+	<string id="pri_followers_common_bio">
+		<text>潜行者老兵，可能装备良好。没有详细的资料。</text>
+	</string>
+	<string id="pri_monolith_common_bio">
+		<text>黑石组的潜行者。没有详细的资料。</text>
+	</string>
+	<string id="pri_monolith_exo_bio">
+		<text>黑石组的潜行者菁英。没有详细的资料。</text>
+	</string>
+	<string id="pri_monolith_leader_bio">
+		<text>黑石组的领袖。没有详细的资料。</text>
+	</string>
+	<string id="pri_monolith_leader_name">
+		<text>开隆</text>
+	</string>
+	<string id="pri_monolith_regular_bio">
+		<text>黑石组的一般潜行者。没有详细的资料。</text>
+	</string>
+	<string id="pri_monolith_specnaz_bio">
+		<text>黑石组特殊部队的潜行者。没有详细的资料。</text>
+	</string>
+	<string id="pri_zombied_soldier_bio">
+		<text>一般的士兵。没有详细的资料。</text>
+	</string>
+	<string id="pri_zombied_soldier_name">
+		<text>尸化士兵</text>
+	</string>
+	<string id="pri_zombied_stalker_bio">
+		<text>一个用光了运气的潜行者</text>
+	</string>
+	<string id="pri_zombied_stalker_name">
+		<text>尸化潜行者</text>
+	</string>
+	<string id="rad_dolg_master_bio">
+		<text>纪律团的指挥官，装备精良。没有详细的资料。</text>
+	</string>
+	<string id="rad_ecolog_bio">
+		<text>科学家。没有详细的资料。</text>
+	</string>
+	<string id="rad_ecolog_guard_bio">
+		<text>科学家的护卫。没有详细的资料。</text>
+	</string>
+	<string id="rad_ecolog_guard_name">
+		<text>研究助理。</text>
+	</string>
+	<string id="rad_ecolog_name">
+		<text>研究助理。</text>
+	</string>
+	<string id="rad_monolith_general_bio">
+		<text>黑石组的潜行者。没有详细的资料。</text>
+	</string>
+	<string id="rad_monolith_specnaz_bio">
+		<text>黑石组的激进份子，装备良好。没有详细的资料。</text>
+	</string>
+	<string id="rad_specnaz_bio">
+		<text>俄罗斯特种部队，装备良好。没有详细的资料。</text>
+	</string>
+	<string id="rad_stalker_master_bio">
+		<text>大师级潜行者，对特异区瞭若指掌，通常装备良好，具高度危险性。没有详细的资料。</text>
+	</string>
+	<string id="rad_stalker_veteran_bio">
+		<text>老兵之一，可能装备良好，具高度危险性。没有详细的资料。</text>
+	</string>
+	<string id="rad_svoboda_master_bio">
+		<text>「自由团」的指挥官。没有详细的资料。</text>
+	</string>
+	<string id="rad_zombied_general_bio">
+		<text>一个用光了运气的潜行者</text>
+	</string>
+	<string id="ros_ecolog_guard_bio">
+		<text>一个移动实验室的研究人员。没有详细的资料。</text>
+	</string>
+	<string id="ros_freeman_bio">
+		<text>科学家，专精于研究异常现象，在美国最高秘密计画中工作，据报告他已经失踪一阵子了。</text>
+	</string>
+	<string id="ros_freeman_name">
+		<text>夫里曼</text>
+	</string>
+	<string id="ros_happy_bio">
+		<text>他是强盗和杀人犯，会为了钱去作任何的工作。从前他在纪律团里算是个好人，帮助他们赢得了领地。现在他居住在大荒野之中，跟同伴一起偷袭落单的潜行者。</text>
+	</string>
+	<string id="ros_happy_name">
+		<text>幸运儿</text>
+	</string>
+	<string id="ros_kruglov_bio">
+		<text>拥有生物学的博士学位，原本在特异区外研究动物病变的科学家。他来到特异区研究盲狗的变种。</text>
+	</string>
+	<string id="ros_kruglov_name">
+		<text>克鲁格洛夫教授</text>
+	</string>
+	<string id="ros_tiran_bio">
+		<text>佣兵群裡的一个英雄，一个身上有著不同口径弹孔伤痕的老兵。他可是一个稀有的精神病患者和虐待狂。</text>
+	</string>
+	<string id="ros_tiran_name">
+		<text>泰伦</text>
+	</string>
+	<string id="ros_volkodav_bio">
+		<text>佣兵团的战地指挥官，也是自称为「诅咒团」的佣兵团首领。他是一个无政府主义者，除了丛林法则外，鄙视所有的法律。</text>
+	</string>
+	<string id="ros_volkodav_name">
+		<text>狼狗</text>
+	</string>
+	<string id="sar_monolith_bio">
+		<text>黑石组织的潜行者。没有详细的资料。</text>
+	</string>
+	<string id="sar_monolith_cristall_bio">
+		<text>来自黑石组织中，秘密结社「水晶」的潜行者，负责黑石组织自身的安全任务。</text>
+	</string>
+	<string id="sar2_arena_manager_name">
+		<text>阿尼</text>
+	</string>
+	<string id="sar2_arena_savage_name">
+		<text>野兽</text>
+	</string>
+	<string id="sar2_bandit_leader_name">
+		<text>「野猪」瓦西亚</text>
+	</string>
+	<string id="sar2_bio">
+		<text>一个由黑石组织所製作的心智量表。</text>
+	</string>
+	<string id="sar2_borov_name">
+		<text>伯罗夫</text>
+	</string>
+	<string id="sar2_crazy_svoboda_name">
+		<text>疯狂的潜行者。</text>
+	</string>
+	<string id="sar2_dolg_blokpost_leader_name">
+		<text>准军官</text>
+	</string>
+	<string id="sar2_dolg_guard_commander_name">
+		<text>警卫长</text>
+	</string>
+	<string id="sar2_dolg_skull_name">
+		<text>「骷髅」</text>
+	</string>
+	<string id="sar2_dolg_zastava_commander_name">
+		<text>前哨站指挥官</text>
+	</string>
+	<string id="sar2_dram_novice_name">
+		<text>尤里克</text>
+	</string>
+	<string id="sar2_explorer_name">
+		<text>「对子」雷卡</text>
+	</string>
+	<string id="sar2_fanat_name">
+		<text>「狂热者」</text>
+	</string>
+	<string id="sar2_fox_name">
+		<text>「狐狸」</text>
+	</string>
+	<string id="sar2_gordon_name">
+		<text>哥登</text>
+	</string>
+	<string id="sar2_haron_name">
+		<text>开隆</text>
+	</string>
+	<string id="sar2_hellcar_name">
+		<text>贝斯</text>
+	</string>
+	<string id="sar2_informator_name">
+		<text>阿瑞</text>
+	</string>
+	<string id="sar2_ivancov_name">
+		<text>依凡斯托夫上尉</text>
+	</string>
+	<string id="sar2_krot_name">
+		<text>潜行者莫尔</text>
+	</string>
+	<string id="sar2_kruglov_name">
+		<text>克鲁格洛夫教授</text>
+	</string>
+	<string id="sar2_kuznetsov_name">
+		<text>库聂佐夫少校</text>
+	</string>
+	<string id="sar2_lucky_name">
+		<text>幸运儿</text>
+	</string>
+	<string id="sar2_petrenko_name">
+		<text>彼得连科上校</text>
+	</string>
+	<string id="sar2_petruha_name">
+		<text>罗里克</text>
+	</string>
+	<string id="sar2_professor_name">
+		<text>萨哈罗夫教授</text>
+	</string>
+	<string id="sar2_ryaboy_name">
+		<text>史波弟</text>
+	</string>
+	<string id="sar2_seryi_name">
+		<text>「灰鬼」</text>
+	</string>
+	<string id="sar2_svoboda_blockpost_leader_name">
+		<text>「帽子」</text>
+	</string>
+	<string id="sar2_svoboda_bodyguard_name">
+		<text>「完蛋」</text>
+	</string>
+	<string id="sar2_svoboda_cook_name">
+		<text>「大厨」</text>
+	</string>
+	<string id="sar2_svoboda_engeneer_name">
+		<text>「螺栓」</text>
+	</string>
+	<string id="sar2_svoboda_leader_name">
+		<text>「卢卡许」</text>
+	</string>
+	<string id="sar2_svoboda_max_name">
+		<text>麦斯</text>
+	</string>
+	<string id="sar2_svoboda_stukach_name">
+		<text>巴夫里克</text>
+	</string>
+	<string id="sar2_svoboda_trader_name">
+		<text>「吝啬鬼」</text>
+	</string>
+	<string id="sar2_svoboda_ugrumyi_name">
+		<text>「莫克」</text>
+	</string>
+	<string id="sar2_tiran_name">
+		<text>泰伦</text>
+	</string>
+	<string id="sar2_tolik_name">
+		<text>托里克</text>
+	</string>
+	<string id="sar2_volkodav_name">
+		<text>狼狗</text>
+	</string>
+	<string id="sar2_voronin_name">
+		<text>沃洛宁将军</text>
+	</string>
+	<string id="sar2_wolf_name">
+		<text>沃夫</text>
+	</string>
+	<string id="sim_bandit_general_bio">
+		<text>不知名的潜行者，声誉极差。没有详细的资料。</text>
+	</string>
+	<string id="sim_bandit_master_bio">
+		<text>不知名的潜行者，声誉极差。没有详细的资料。</text>
+	</string>
+	<string id="sim_bandit_master_fraer_bio">
+		<text>仿效60年代的漫画中的人物，为了寻求冒险而来到特异区。他有好几个名字：坏蛋、男子汉、黑斗蓬、或是班德拉斯。尽管他在特异区已经待了两年的时间，还是没有人会认真的看待他，而这常常令他疯狂。</text>
+	</string>
+	<string id="sim_bandit_master_kocherga_bio">
+		<text>冷酷、邪恶、残忍、自私、冷感、冷漠。没有人知道他是甚麽时候和如何来到特异区的。每个人都惧怕他，他也没有朋友。他单纯的生活在特异区裡，没有未来、也没有过去。在进入特异区的一次突击中，他失去了记忆，忘记了最近发生的所有事情。他忘了自己来自何处，忘了本名，他得到了失忆症。他甚至会忘掉前一小时才认识的人，这让他陷入了敌人的毒手。</text>
+	</string>
+	<string id="sim_bandit_novice_bio">
+		<text>不知名的潜行者，声誉极差。没有详细的资料。</text>
+	</string>
+	<string id="sim_bandit_veteran_bio">
+		<text>不知名的潜行者，声誉极差。没有详细的资料。</text>
+	</string>
+	<string id="sim_dolg_master_bio">
+		<text>纪律团的守卫，如果你不是他们的朋友，那麽最好离他们远一点。没有详细的资料。</text>
+	</string>
+	<string id="sim_dolg_regular_bio">
+		<text>纪律团的潜行者。没有详细的资料。</text>
+	</string>
+	<string id="sim_dolg_sniper_bio">
+		<text>纪律团的激进份子，通常拥有良好的装备。没有详细的资料。</text>
+	</string>
+	<string id="sim_dolg_veteran_barin_bio">
+		<text>巴林是恶棍、马屁精、伪君子跟懦夫，他的座右铭是「人生几何，及时行乐」，善于利用各种状况。他如同意料般的为了金钱而来到特异区，充满了野心和行动力。在两年后的今天，他果然用尽了各种手段取得了有价的资产。</text>
+	</string>
+	<string id="sim_dolg_veteran_bio">
+		<text>来自纪律团的激进份子。没有详细的资料。</text>
+	</string>
+	<string id="sim_dolg_veteran_prapor_bio">
+		<text>乌克兰安全局的官方徵召员，也是酒吧的常客。每个人都知道他是谁，他是当你日子不好过时，该去求助的人。无论如何，当你越过了这条线后，就不再是一个正直的潜行者了。</text>
+	</string>
+	<string id="sim_ecolog_zob_bio">
+		<text>每天的日子都是迟缓乏味，他隐藏自己的情绪而保持冷静。不论如何，在压力来临时，他就会变得敏感又有活力，而且非常的理智。原本为了追求名利，让他来到了特异区。在医学研究所毕业之后，他被派到特异区的营地担任神经外科助手，负责研究异种生物的脑和他们的意念能力。他希望在退休后可以搬回首都，然后离开这个腐朽之地，越远越好。</text>
+	</string>
+	<string id="sim_fresh_Zombied_bio">
+		<text>一个用光了运气的潜行者。</text>
+	</string>
+	<string id="sim_killer_general_bio">
+		<text>不知名的佣兵，可能拥有良好的装备。没有详细的资料。</text>
+	</string>
+	<string id="sim_killer_master_bio">
+		<text>不知名的佣兵，可能拥有良好的装备。没有详细的资料。</text>
+	</string>
+	<string id="sim_killer_sniper_bio">
+		<text>不知名的佣兵，可能拥有良好的装备。没有详细的资料。</text>
+	</string>
+	<string id="sim_killer_veteran_bio">
+		<text>不知名的佣兵，可能拥有良好的装备。没有详细的资料。</text>
+	</string>
+	<string id="sim_monolith_master_bio">
+		<text>黑石组的大师级潜行者。没有详细的资料。</text>
+	</string>
+	<string id="sim_monolith_regular_bio">
+		<text>黑石组的潜行者。没有详细的资料。</text>
+	</string>
+	<string id="sim_monolith_sniper_bio">
+		<text>黑石组的潜行者。没有详细的资料。</text>
+	</string>
+	<string id="sim_monolith_specnaz_bio">
+		<text>黑石组的潜行者。没有详细的资料。</text>
+	</string>
+	<string id="sim_soldier_commander_bio">
+		<text>一个军官，没有详细的资料。</text>
+	</string>
+	<string id="sim_Soldier_master_bio">
+		<text>潜行者战士，拥有良好的装备，具高危险性。没有详细的资料。</text>
+	</string>
+	<string id="sim_soldier_regular_bio">
+		<text>一般的士兵。没有详细的资料。</text>
+	</string>
+	<string id="sim_soldier_sniper_bio">
+		<text>没有详细的资料。</text>
+	</string>
+	<string id="sim_soldier_specnaz_bio">
+		<text>俄罗斯特种部队，装备良好。没有详细的资料。</text>
+	</string>
+	<string id="sim_stalker_general_bio">
+		<text>经验丰富的潜行者。没有详细的资料。</text>
+	</string>
+	<string id="sim_stalker_general_upir_bio">
+		<text>一个受幸运之神眷顾的潜行者。有许多次他都是小组中唯一的倖存者，这让许多潜行者都避著他，以免自己惹上厄运。现在有些时候他会自己一个人在特异区中行动。</text>
+	</string>
+	<string id="sim_stalker_master_bio">
+		<text>大师级的潜行者，对特异区瞭若指掌，通常装备良好，具高度危险性。没有详细的资料。</text>
+	</string>
+	<string id="sim_stalker_master_chuchelo_bio">
+		<text>经验丰富的走私者，他有很长的一段时间在非洲和南美洲之间进行交易。切尔诺贝利灾变的新闻将他带到了乌克兰，在很短的时间内，他将数百只异种生物偷渡出限制区，从而使他得到了「标本师」的称号。当他在特异区不「工作」时，其实是个成功的贸易商人。他喜欢穿著亚曼尼西装和凡赛斯的领带，不过他喜欢的武器却是俄国製的。</text>
+	</string>
+	<string id="sim_stalker_master_diador_bio">
+		<text>曾经在阿富汗参战，以前是一个无神论者，但是在一次穆斯林袭击中倖存后，他变成了虔诚的天主教信徒。在阿富汗战争之后，他移居到波兰进入神研究所就读。毕业后，他在利沃夫的天主教堂佈道。在切尔诺贝利核电站爆炸之后，他志愿去协助受害者，这几年他都在特异区中佈道。</text>
+	</string>
+	<string id="sim_stalker_master_master_bio">
+		<text>他曾经在「霍洛马赫」厂担任技师，在太太离开之后，便想要自我了结。基于的宗教信仰，他选择来到特异区作为自杀的方式，但意外的因为过去的技工经验，让他存活了下来，也因此获得了无价的经历，和其他潜行者的敬重。</text>
+	</string>
+	<string id="sim_stalker_master_polkan_bio">
+		<text>前军队的潜行者，内政部部队的中校。他是特异区灾难任务中唯一的生还者，之后才发现这个任务一开始就注定失败、有去无回。自此他便决定不再回去，忘却生死加入了潜行者的队伍。他沉静、意志坚定、却也愤世嫉俗。</text>
+	</string>
+	<string id="sim_stalker_novice_bio">
+		<text>刚来到特异区的菜鸟。没有详细的讯息。</text>
+	</string>
+	<string id="sim_stalker_novice_neumeha_bio">
+		<text>克鲁兹今年20岁，在来到这裡之前，他失去了在大陆上的所有东西跟亲友。他在特异区勉强过活，没有其它的地方可以去。他欠了很多潜行者的钱，经常出入特异区，不过并不是一个人，而是跟有经验的潜行者结伴同行。因为一无是处，让他成了个不受欢迎的伙伴。他赚不了甚麽钱，都是靠接受潜行者的施捨跟借钱来过日子。</text>
+	</string>
+	<string id="sim_stalker_sniper_bio">
+		<text>潜行者老兵，可能装备良好。没有详细的资料。</text>
+	</string>
+	<string id="sim_stalker_veteran_bio">
+		<text>潜行者老兵，可能装备良好。没有详细的资料。</text>
+	</string>
+	<string id="sim_stalker_veteran_gusarov_bio">
+		<text>他是「魔鬼」欧雷格 固萨络夫，前「黑扁帽」的成员，服役于贝勒什科夫斯卡雅俄罗斯特种部队。在经历军旅生涯后，他变成了士官长、狙击手和炸弹专家。内心孤独，从未加入组队的冒险活动，喜欢独自行动。他常常被邀请加入队伍中，但总是会被他拒绝。</text>
+	</string>
+	<string id="sim_stalker_veteran_umnik_bio">
+		<text>一个来自物理系的高年级学生，他为了追求金钱而来到特异区。他喜欢吹嘘他的科学知识和理论如何得丰富，用来证明他和其他潜行者的不同。一般来说，他还算是个正直的人，一个理论家。</text>
+	</string>
+	<string id="sim_stalker_veteran_vorobey_bio">
+		<text>麻雀今年27岁，狡猾但有远见，不过却容易做错事。他也是个没主见的人，身材瘦小、脸无血色。他因为好奇而来到特异区，承诺自己在两个月后就要回家去，不过之后他就一直都待在这裡。初到特异区时，他想要穿越一个到处都是怪物的区域，而完全不知这样做有多危险。当他发现自己作了甚麽傻事之后，他就将那天（10月9日）订为自己的第二个生日。</text>
+	</string>
+	<string id="sim_Svoboda_master_bio">
+		<text>「自由团」的首领。没有详细的讯息。</text>
+	</string>
+	<string id="sim_Svoboda_regular_bio">
+		<text>「自由团」的潜行者。没有详细的资料。</text>
+	</string>
+	<string id="sim_Svoboda_sniper_bio">
+		<text>「自由团」的潜行者。没有详细的资料。</text>
+	</string>
+	<string id="sim_Svoboda_specnaz_bio">
+		<text>「自由团」的战士，通常拥有良好的装备。没有详细的资料。</text>
+	</string>
+	<string id="sim_Svoboda_specnaz_leshii_bio">
+		<text>他的兄弟称呼他为「累嘘」，一个来到特异区的年轻空想家。不管怎样，这几年危险的生活已经让他变成了务实主义者。他把特异区当成了自己的家，而且认为失败者是没有权力生存下去的。</text>
+	</string>
+	<string id="sim_svoboda_specnaz_prut_bio">
+		<text>曾经担任过记者的他，用阿卡迪这个名字写下了特异区的故事和传说。严厉、认真且为人公正，得到了许多潜行者的敬重。</text>
+	</string>
+	<string id="sim_zombied_master_bio">
+		<text>一个用光了运气的潜行者。</text>
+	</string>
+	<string id="sim_zombied_novice_bio">
+		<text>一个用光了运气的潜行者。</text>
+	</string>
+	<string id="sim_zombied_veteran_bio">
+		<text>一个用光了运气的潜行者。</text>
+	</string>
+	<string id="val_bandit_bodyguard_bio">
+		<text>歹徒的守卫，声誉极差。没有详细的讯息。</text>
+	</string>
+	<string id="val_bandit_general_bio">
+		<text>一般的歹徒，声誉极差。没有详细的讯息。</text>
+	</string>
+	<string id="val_bandit_novice_bio">
+		<text>菜鸟级歹徒，声誉极差。没有详细的讯息。</text>
+	</string>
+	<string id="val_bandit_veteran_bio">
+		<text>经验丰富的歹徒，声誉极差。没有详细的讯息。</text>
+	</string>
+	<string id="val_borov_bio">
+		<text>歹徒首领。</text>
+	</string>
+	<string id="val_borov_name">
+		<text>伯罗夫</text>
+	</string>
+	<string id="val_dolg_common_bio">
+		<text>纪律团的潜行者。没有详细的讯息。</text>
+	</string>
+	<string id="val_monolith_common_bio">
+		<text>黑石组的潜行者。没有详细的讯息。</text>
+	</string>
+	<string id="val_prisoner_bio">
+		<text>纪律团的潜行者。没有详细的讯息。</text>
+	</string>
+	<string id="val_prisoner_name">
+		<text>「绒毛汉子」谢尔盖</text>
+	</string>
+	<string id="val_pulia_bio">
+		<text>纪律团的潜行者。没有详细的讯息。</text>
+	</string>
+	<string id="val_pulia_name">
+		<text>弹子</text>
+	</string>
+	<string id="val_soldier_regular_bio">
+		<text>一般的士兵。没有详细的资料。</text>
+	</string>
+	<string id="val_soldier_specnaz_bio">
+		<text>俄罗斯特种部队，装备良好。没有详细的资料。</text>
+	</string>
+	<string id="val_stalker_general_bio">
+		<text>经验丰富的潜行者。没有详细的资料。</text>
+	</string>
+	<string id="val_stalker_novice_bio">
+		<text>刚来到特异区的菜鸟。没有详细的讯息。</text>
+	</string>
+	<string id="yan_ghost_name">
+		<text>幽灵</text>
+	</string>
+	<string id="yan_saharov_bio">
+		<text>特异区的老研究员，参与了2007年的第一次探险。</text>
+	</string>
+	<string id="yan_saharov_name">
+		<text>萨哈罗夫教授</text>
+	</string>
+	<string id="yan_semenov_bio">
+		<text>移动研究室的研究助理。没有详细的讯息。</text>
+	</string>
+	<string id="yan_semenov_name">
+		<text>助理谢米诺夫</text>
+	</string>
+	<string id="yan_vasilyev_name">
+		<text>瓦西里夫</text>
+	</string>
+	<string id="zombie_name">
+		<text>尸化的潜行者</text>
+	</string>
+	<string id="actor_name">
+		<text>一号</text>
+	</string>
+	<string id="sim_bandit_master_fraer_name">
+		<text>修士</text>
+	</string>
+	<string id="sim_bandit_master_kocherga_name">
+		<text>朴克</text>
+	</string>
+	<string id="sim_dolg_veteran_barin_name">
+		<text>巴林</text>
+	</string>
+	<string id="sim_dolg_veteran_prapor_name">
+		<text>准尉</text>
+	</string>
+	<string id="sim_ecolog_zob_name">
+		<text>克罗普</text>
+	</string>
+	<string id="sim_stalker_general_upir_name">
+		<text>吸血鬼</text>
+	</string>
+	<string id="sim_stalker_master_chuchelo_name">
+		<text>稻草人</text>
+	</string>
+	<string id="sim_stalker_master_diador_name">
+		<text>迪奥多拉神父</text>
+	</string>
+	<string id="sim_stalker_master_master_name">
+		<text>马斯特</text>
+	</string>
+	<string id="sim_stalker_master_polkan_name">
+		<text>波肯</text>
+	</string>
+	<string id="sim_stalker_novice_neumeha_name">
+		<text>卓登</text>
+	</string>
+	<string id="sim_stalker_veteran_gusarov_name">
+		<text>"恶魔"欧雷格 葛萨罗夫</text>
+	</string>
+	<string id="sim_stalker_veteran_umnik_name">
+		<text>优尼科</text>
+	</string>
+	<string id="sim_stalker_veteran_vorobey_name">
+		<text>麻雀</text>
+	</string>
+	<string id="sim_Svoboda_specnaz_leshii_name">
+		<text>雷许</text>
+	</string>
+	<string id="sim_svoboda_specnaz_prut_name">
+		<text>南德</text>
+	</string>

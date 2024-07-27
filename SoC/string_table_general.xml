@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="actor">
+		<text>独行者</text>
+	</string>
+	<string id="actor_dolg">
+		<text>纪律团</text>
+	</string>
+	<string id="actor_freedom">
+		<text>自由团</text>
+	</string>
+	<string id="arena_enemy">
+		<text>佣兵团</text>
+	</string>
+	<string id="bad">
+		<text>坏</text>
+	</string>
+	<string id="bandit">
+		<text>强盗</text>
+	</string>
+	<string id="dolg">
+		<text>纪律团</text>
+	</string>
+	<string id="ecolog">
+		<text>科学家</text>
+	</string>
+	<string id="enemy">
+		<text>敌人</text>
+	</string>
+	<string id="excellent">
+		<text>极好</text>
+	</string>
+	<string id="exo_outfit_name_m1">
+		<text>PNB-4UZ外骨骼装甲</text>
+	</string>
+	<string id="experienced">
+		<text>老练</text>
+	</string>
+	<string id="Found_PDA">
+		<text>找到的PDA</text>
+	</string>
+	<string id="freedom">
+		<text>自由团</text>
+	</string>
+	<string id="friendly">
+		<text>友好</text>
+	</string>
+	<string id="good">
+		<text>好</text>
+	</string>
+	<string id="indifferent">
+		<text>中立</text>
+	</string>
+	<string id="killer">
+		<text>佣兵团</text>
+	</string>
+	<string id="l01_escape">
+		<text>封锁线</text>
+	</string>
+	<string id="l02_garbage">
+		<text>废弃区</text>
+	</string>
+	<string id="l03_agroprom">
+		<text>农业研究所</text>
+	</string>
+	<string id="l04_darkvalley">
+		<text>黑暗山谷</text>
+	</string>
+	<string id="l05_bar">
+		<text>酒吧</text>
+	</string>
+	<string id="l06_rostok">
+		<text>大荒野</text>
+	</string>
+	<string id="l07_military">
+		<text>军方的仓库</text>
+	</string>
+	<string id="l08_yantar">
+		<text>杨塔</text>
+	</string>
+	<string id="l10_radar">
+		<text>红森林</text>
+	</string>
+	<string id="l11_pripyat">
+		<text>普里皮亚季</text>
+	</string>
+	<string id="l12_stancia">
+		<text>切尔诺贝利核电站</text>
+	</string>
+	<string id="l12_stancia_2">
+		<text>切尔诺贝利核电站</text>
+	</string>
+	<string id="master">
+		<text>大师</text>
+	</string>
+	<string id="military">
+		<text>军队</text>
+	</string>
+	<string id="monolith">
+		<text>黑石组织</text>
+	</string>
+	<string id="neutral">
+		<text>中立</text>
+	</string>
+	<string id="novice">
+		<text>新兵</text>
+	</string>
+	<string id="st_no_active_task">
+		<text>没有进行中的任务</text>
+	</string>
+	<string id="st_time_till_surge">
+		<text>爆炸剩馀时间</text>
+	</string>
+	<string id="stalker">
+		<text>独行者</text>
+	</string>
+	<string id="terrible">
+		<text>可怕</text>
+	</string>
+	<string id="trader">
+		<text>贸易商人</text>
+	</string>
+	<string id="ui_st_community">
+		<text>阵营</text>
+	</string>
+	<string id="ui_st_price">
+		<text>价格</text>
+	</string>
+	<string id="ui_st_rank">
+		<text>等级</text>
+	</string>
+	<string id="ui_st_relation">
+		<text>态度</text>
+	</string>
+	<string id="ui_st_reputation">
+		<text>声望</text>
+	</string>
+	<string id="very_bad">
+		<text>很坏</text>
+	</string>
+	<string id="very_good">
+		<text>很好</text>
+	</string>
+	<string id="veteran">
+		<text>老兵</text>
+	</string>
+	<string id="zombied">
+		<text>僵尸化</text>
+	</string>
+	<string id="Btn_Cancel">
+		<text>取消</text>
+	</string>
+	<string id="Btn_No">
+		<text>否</text>
+	</string>
+	<string id="Btn_OK">
+		<text>是</text>
+	</string>
+	<string id="Btn_Yes">
+		<text>是</text>
+	</string>
+	<string id="global_map">
+		<text>特异区地图</text>
+	</string>
+	<string id="st_autosave">
+		<text>自动存档</text>
+	</string>
+	<string id="st_game_over">
+		<text>游戏结束</text>
+	</string>
+	<string id="st_item_used">
+		<text>使用过的</text>
+	</string>
+	<string id="st_not_enough_money">
+		<text>金钱不足</text>
+	</string>
+	<string id="st_not_enough_money_npc">
+		<text>NPC没有足够的钱</text>
+	</string>
+	<string id="ui_st_opponent_items">
+		<text>对方的交易区</text>
+	</string>
+	<string id="st_search_treasure">
+		<text>搜寻藏匿物($$ACTION_USE$$)</text>
+	</string>
+	<string id="inventory_item_use">
+		<text>拿起物品($$ACTION_USE$$)</text>
+	</string>
+	<string id="ui_mm_check_updates">
+		<text>检查更新</text>
+	</string>
+	<string id="ui_mm_alternative">
+		<text>选择</text>
+	</string>
+	<string id="ui_inv_health">
+		<text>健康</text>
+	</string>
+	<string id="ui_inv_radiation">
+		<text>辐射</text>
+	</string>
+	<string id="ui_inv_satiety">
+		<text>饥饿</text>
+	</string>
+	<string id="ui_inv_power">
+		<text>耐力</text>
+	</string>
+	<string id="ui_inv_bleeding">
+		<text>流血</text>
+	</string>
+	<string id="st_mp_say_to_all">
+		<text>对全体</text>
+	</string>
+	<string id="st_mp_say_to_team">
+		<text>对队伍</text>
+	</string>
+	<string id="st_knife">
+		<text>小刀</text>
+	</string>
+	<string id="st_mp_disabled_voting">
+		<text>目前服务器没有进行投票</text>
+	</string>
+	<string id="st_mp_no_current_voting">
+		<text>没有进行中的投票</text>
+	</string>
+	<string id="st_mp_ready">
+		<text>准备</text>
+	</string>
+	<string id="st_mp_voting_succeed">
+		<text>投票成功！</text>
+	</string>
+	<string id="st_mp_voting_failed">
+		<text>投票失败！</text>
+	</string>
+	<string id="l03u_agr_underground">
+		<text>农业研究所的地底</text>
+	</string>
+	<string id="l04u_labx18">
+		<text>X-18实验室</text>
+	</string>
+	<string id="l08u_brainlab">
+		<text>X-16实验室</text>
+	</string>
+	<string id="l10u_bunker">
+		<text>X-10实验室</text>
+	</string>
+	<string id="l12u_sarcofag">
+		<text>石棺</text>
+	</string>
+	<string id="l12u_control_monolith">
+		<text>黑石控制器</text>
+	</string>
+</string_table>

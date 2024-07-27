@@ -1,0 +1,1332 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="bar_arena_man_job_0">
+		<text>继续…</text>
+	</string>
+	<string id="bar_arena_man_job_11">
+		<text>那么，你的第一场战斗？你的对手跟你一样不过是一块肉而已。他在这里的原因是因为欠债和他只有两个选择：出来战斗，或是让自己停留在最近的变异点。他一定会像一个被逼到绝路的野兽一样战斗！今天的装备…让我想想…好的！为什么你们两个不用玛卡洛夫PMm手枪…每个人两个弹匣应该足够了。你们要想办法干掉对方，不然我们会把你抓去喂狗--选择不多，去吧。</text>
+	</string>
+	<string id="bar_arena_man_job_111">
+		<text>我准备好了。</text>
+	</string>
+	<string id="bar_arena_man_job_112">
+		<text>我还没准备好。</text>
+	</string>
+	<string id="bar_arena_man_job_12">
+		<text>你的上一场战斗不坏，至少还没有少掉任何一块肉，那些没有自尊的人一定会投注在你的身上。如果你想赚点现金，你就必须在竞技场表现的更好。你的新对手也通过了第一回和，他战的比你还辛苦。老实说，我不喜欢他--他杀的太快，人们不喜欢这样的。那么，去显示一下你能做些什么！在这场战斗后潜行者变多了--你要做的就是想办法活着。出发吧！</text>
+	</string>
+	<string id="bar_arena_man_job_121">
+		<text>我准备好了。</text>
+	</string>
+	<string id="bar_arena_man_job_122">
+		<text>我还没准备好。</text>
+	</string>
+	<string id="bar_arena_man_job_13">
+		<text>很好，很好…你不像你第一眼看起来的柔弱。现在是测试你进行真正战斗的时刻了。你现在要对抗两个对手，第一个人叫做史威弟，我记不起来第二个人的名字了。他们被故意配对起来，他们其实彼此讨厌对方的胆器，所以不用担心他们的组队--他们更喜欢彼此残杀。今天是步枪日，所以别让他们俩个人太靠近，不然我们就准备要为你收尸了。赔率现在是10：1，如果你赢了你会赚不少，输了你就掰掰了！</text>
+	</string>
+	<string id="bar_arena_man_job_131">
+		<text>我准备好了。</text>
+	</string>
+	<string id="bar_arena_man_job_132">
+		<text>我还没准备好。</text>
+	</string>
+	<string id="bar_arena_man_job_14">
+		<text>好吧，现在我可以放心的说你是个战士、一个真正的战士。现在是小队作站的时间了。你要跟两个菜鸟一起作战--两个兄弟--在你的队伍中。他们没有作战过，但他们是兄弟，所以我得把他们俩个放在同一个队伍里。如果我是你的话，我不会期望他们可以帮上什么忙得。你们要对抗的是一个有经验的队伍，上一季的胜利者，危险的家伙。他们使用不同的武器，但其中一个人有一把自动散弹枪--对付他要小心一点。祝好运，兄弟…你会需要的。</text>
+	</string>
+	<string id="bar_arena_man_job_141">
+		<text>我准备好了。</text>
+	</string>
+	<string id="bar_arena_man_job_142">
+		<text>我还没准备好。</text>
+	</string>
+	<string id="bar_arena_man_job_15">
+		<text>你今天有一场特别的战斗。连军队都听过你了！别惊讶，他们也在这里战斗--人群里还有一个将军呢。这些家伙是不是来自OMON就是来自俄罗斯特种部队。他们的装备精良、他们的武器也是好的超出你的预期。别担心，我不会把你丢在雨中的。你会拿到一件自由团的背心--它很轻所以不会减缓你的速度。去吧，让他们知道潜行者可不是只会吹口哨的男孩。祝好运！</text>
+	</string>
+	<string id="bar_arena_man_job_151">
+		<text>我准备好了。</text>
+	</string>
+	<string id="bar_arena_man_job_152">
+		<text>我还没准备好。</text>
+	</string>
+	<string id="bar_arena_man_job_16">
+		<text>现在是展示你能做什么的时候了。纪律团抓了一群在罗斯特托克附近闹事的强盗，他们是在晚上动手的，所以大部分的强盗都被活补。不管怎样他们最后都会被处死，所以我说服纪律团给他们一个机会。如果他们可以在竞技赛后活下来，他们就可以活着离开特异区，这比死在这里好太多了。他们没有啥好的装备，只有几把手枪和短管猎枪--不过他们有六个人，所以你自己小心一点。现在去吧！</text>
+	</string>
+	<string id="bar_arena_man_job_161">
+		<text>我准备好了。</text>
+	</string>
+	<string id="bar_arena_man_job_162">
+		<text>我还没准备好。</text>
+	</string>
+	<string id="bar_arena_man_job_17">
+		<text>好吧，你几乎撑到最后了。现在你要跟一个真正的潜行者对站了。他只有一个人，但他有一把F2000，并且穿着一件强化服。如果被他击中的话，你就完蛋了。到时会有一件意外的事，我也没办法告诉你…这里是我的建议：准备好，这会是一场苦战。获胜的人将会通往最后的胜利。至死方休，上！</text>
+	</string>
+	<string id="bar_arena_man_job_171">
+		<text>我准备好了。</text>
+	</string>
+	<string id="bar_arena_man_job_172">
+		<text>我还没准备好。</text>
+	</string>
+	<string id="bar_arena_man_job_18">
+		<text>恭喜，你现在要进行最后之战了！再战一次，而这一次将是死亡之战，每一个人都要为他自己奋斗。在竞技场中将会有其他四个潜行者，全都是真正的高手，身上穿着强化服，带着G36，但这是将会是一场公平的战斗--你也会有同样的装备。唯一的问题是，在这场死亡之战你不可以携带医药箱或是绷带。准备好了吗？去证明你是最棒的，上！</text>
+	</string>
+	<string id="bar_arena_man_job_181">
+		<text>我准备好了。</text>
+	</string>
+	<string id="bar_arena_man_job_182">
+		<text>我还没准备好。</text>
+	</string>
+	<string id="bar_arena_man_start_11">
+		<text>我帮你准备了一场新的战斗。</text>
+	</string>
+	<string id="bar_arena_man_start_21">
+		<text>去喝点东西或什么的，竞技场还没准备好。</text>
+	</string>
+	<string id="bar_arena_man_start_31">
+		<text>你已经变成高手了！！！</text>
+	</string>
+	<string id="bar_arena_man_start_41">
+		<text>你赢了！这是你的奖赏。</text>
+	</string>
+	<string id="bar_arena_man_start_51">
+		<text>你还不够格参加这场竞赛。</text>
+	</string>
+	<string id="bar_bar_barman_ecolog_flash_done_0">
+		<text>这是克鲁格洛夫教授给我的随身碟。</text>
+	</string>
+	<string id="bar_bar_barman_ecolog_flash_done_21">
+		<text>好孩子，我想纪律团的人会很感激这个讯息的。这是你的回报。</text>
+	</string>
+	<string id="bar_bar_barman_ecolog_flash_done_31">
+		<text>很好、很好，讯息？来自克鲁格洛夫教授？你在说那个什么？"我，克鲁格洛夫教授，为了整个科学和人性的发展，而删除我们的实验结果…"这就是你原本该拿的讯息？！好吧，该死…我很确定纪律团会对这件事"很开心"的。</text>
+	</string>
+	<string id="bar_bar_barman_killer_ambush_0">
+		<text>我完成了我的任务。这里是泰伦的PDA。</text>
+	</string>
+	<string id="bar_bar_barman_killer_ambush_1">
+		<text>哇，一号，干的好！我能说什么？你让我真开心，兄弟。我不确定你的意图，老实说…但你还活着，而他们不是！</text>
+	</string>
+	<string id="bar_bar_barman_killer_ambush_2">
+		<text>我的报酬呢？</text>
+	</string>
+	<string id="bar_bar_barman_killer_ambush_3">
+		<text>这里，如同我们所承诺的。</text>
+	</string>
+	<string id="bar_bar_barman_veterans_finish_0">
+		<text>这里是幸运儿的PDA，我完成了你要我做的事情。</text>
+	</string>
+	<string id="bar_bar_barman_veterans_finish_1">
+		<text>很好，一号。干得好！我能说什么？你让我真开心，兄弟。我不确定你想要做什么，老实说…但你还活着，而他们不是！</text>
+	</string>
+	<string id="bar_bar_barman_veterans_finish_11">
+		<text>我的报酬呢？</text>
+	</string>
+	<string id="bar_bar_barman_veterans_finish_111">
+		<text>你是个英雄，兄弟，一个真正的英雄。这里，这会让你开心的。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_0">
+		<text>你有什么特别的工作吗？</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_111">
+		<text>不，我今天没有什么事情。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_21">
+		<text>言归正传，我该做些什么？</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_221">
+		<text>不，我今天没有什么事情。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_2311">
+		<text>我有一个危急的任务。有一群老兵杀手又出现在大荒野了。一些纪律团的人来找我，要求我对付这些老兵。纪律团有很明确的证据证明他们必须为某些独行潜行者的死负责。问题是这些老兵跟纪律团有些老协议，纪律团不能打破协议，但这些老兵真的逼过头了。基本上，纪律团想解决掉他们，漂亮又低调的。这不是件容易的工作，但会有很好的报酬的。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_23111">
+		<text>还有呢？很奇怪纪律团的人会让他们这样做。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_231111">
+		<text>纪律团重视他们的名声，所以他们需要低掉的解决这件事。你所要做的就是杀死他们的首领幸运儿，然后带回他的PDA作为证明。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_2311111">
+		<text>我接受这个工作。希望我不会后悔这样说的。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_23111111">
+		<text>很好的决定，兄弟。没什么可以后悔的。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_2311112">
+		<text>不，我不接受这份工作。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_23111121">
+		<text>随你决定，但记得这是一个很好的机会，来赢取纪律团的感激。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_24">
+		<text>言归正传，我该做些什么？</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_241">
+		<text>你的任务是杀死泰伦，佣兵团的领袖。他的党羽进入了大荒野，并且在建筑工地那里设置了基地。小心点，一些他们的战士在通往工地的路上设了埋伏。将泰伦的PDA带回来给我，奖赏就是你的了。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_2411">
+		<text>我接受这个工作。希望我不会后悔这样说的。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_24111">
+		<text>很好的决定，兄弟。没什么可以后悔的。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_2412">
+		<text>不，我不接受这份工作。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_24121">
+		<text>如你所愿。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_251">
+		<text>不，我今天没有什么事情。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_261">
+		<text>你的任务是杀死泰伦，佣兵团的领袖。他的党羽进入了大荒野，并且在建筑工地那里设置了基地。小心点，一些他们的战士在通往工地的路上设了埋伏。将泰伦的PDA带回来给我，奖赏就是你的了。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_2611">
+		<text>我接受这个工作。希望我不会后悔这样说的。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_26111">
+		<text>很好的决定，兄弟。没什么可以后悔的。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_2612">
+		<text>不，我不接受这份工作。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_26121">
+		<text>如你所愿。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_266">
+		<text>不，我今天没有什么事情。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_271">
+		<text>别扯太远了，一号。你还在找新的工作，但你还没有把老兵给解决掉…</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_311">
+		<text>不，今天没事。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_321">
+		<text>我有一个危急的任务。有一群老兵杀手又出现在大荒野了。一些纪律团的人来找我，要求我对付这些老兵。纪律团有很明确的证据证明他们必须为某些独行潜行者的死负责。问题是这些老兵跟纪律团有些老协议，纪律团不能打破协议，但这些老兵真的逼过头了。基本上，纪律团想解决掉他们，漂亮又低调的。这不是件容易的工作，但会有很好的报酬的。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_3211">
+		<text>还有别的事吗？</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_32111">
+		<text>纪律团重视他们的名声，所以他们需要低掉的解决这件事。你所要做的就是杀死他们的首领幸运儿，然后带回他的PDA作为证明。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_32112">
+		<text>我要做这个工作。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_321121">
+		<text>很好的决定，兄弟。没什么可以后悔的。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_32113">
+		<text>不，我不接受这个工作。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_321131">
+		<text>随你决定，但记得这是一个很好的机会，来赢取纪律团的感激。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_32121">
+		<text>预设文字</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_331">
+		<text>你的任务是杀死泰伦，佣兵团的领袖。他的党羽进入了大荒野，并且在建筑工地那里设置了基地。小心点，一些他们的战士在通往工地的路上设了埋伏。将泰伦的PDA带回来给我，奖赏就是你的了。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_3312">
+		<text>我接受这个工作。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_33121">
+		<text>很好的决定，兄弟。没什么可以后悔的。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_3313">
+		<text>我不接受这个工作。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_33131">
+		<text>如你所愿。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_341">
+		<text>不，今天没事。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_351">
+		<text>不，今天没事。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_361">
+		<text>不，今天没事。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_371">
+		<text>不，我今天没有什么事情。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_41">
+		<text>还没，下次吧。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_441">
+		<text>我有一份给专家的工作。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_442">
+		<text>言归正传，我该做些什么？</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_443">
+		<text>你的任务是杀死泰伦，佣兵团的领袖。他的党羽进入了大荒野，并且在建筑工地那里设置了基地。小心点，一些他们的战士在通往工地的路上设了埋伏。将泰伦的PDA带回来给我，奖赏就是你的了。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_4431">
+		<text>我接受这个工作。希望我不会后悔这样说的。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_44311">
+		<text>很好的决定，兄弟。没什么可以后悔的。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_4432">
+		<text>不，我不接受这份工作。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_44321">
+		<text>如你所愿。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_444">
+		<text>现在没什么兴趣。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_52">
+		<text>不，我今天没有什么事情。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_531">
+		<text>不，我今天没有什么事情。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_541">
+		<text>不，我今天没有什么事情。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_62">
+		<text>不，我今天没有什么事情。</text>
+	</string>
+	<string id="bar_bar_barmen_jobs_72">
+		<text>不，我今天没有什么事情。</text>
+	</string>
+	<string id="bar_bar_barmen_start_1111">
+		<text>让我们开始吧。你准备好了没？</text>
+	</string>
+	<string id="bar_bar_barmen_start_1131">
+		<text>嗯嗯嗯…你从哪里来的？</text>
+	</string>
+	<string id="bar_bar_barmen_start_121">
+		<text>那么，一号，你有拿到X16实验室的文件吗？</text>
+	</string>
+	<string id="bar_bar_barmen_start_1211">
+		<text>耶，这里。</text>
+	</string>
+	<string id="bar_bar_barmen_start_1212">
+		<text>不。</text>
+	</string>
+	<string id="bar_bar_barmen_start_12121">
+		<text>该死！我在这里担心的要死，你却在树林里闲晃！快去拿那些文件，不然我们会没有任何进展的！</text>
+	</string>
+	<string id="bar_bar_barmen_start_121211">
+		<text>OK。</text>
+	</string>
+	<string id="bar_bar_barmen_start_131">
+		<text>好吧，一号，现在我们只需要对付焦脑器，和打开通往北方的路！你准备好要走了吗？</text>
+	</string>
+	<string id="bar_bar_barmen_start_1312">
+		<text>是的。</text>
+	</string>
+	<string id="bar_bar_barmen_start_13121">
+		<text>OK，一号，你拿到了防护装的原型装置，所以你可以安全的通过放射源。我有碉堡的座标，别忘了原型装置无法一直保护你，所以你要尽快进入碉堡，然后关掉焦脑器。我不知道接下来会发生什么事情，但我确定这值得这样去做。唯一我们可以确定的事情，是通往特异区中心的道路即将会开启。</text>
+	</string>
+	<string id="bar_bar_barmen_start_1313">
+		<text>继续。</text>
+	</string>
+	<string id="bar_bar_barmen_start_1314">
+		<text>我们所要做的就是到天线那边并且把它们关闭，知道了吗？</text>
+	</string>
+	<string id="bar_bar_barmen_start_1315">
+		<text>知道了。</text>
+	</string>
+	<string id="bar_bar_barmen_start_1316">
+		<text>喔耶，最后一件事！纪律团的首领，我把他标示在地图上了，需要一位自愿者，到军方仓库去执行某种任务。如果你有兴趣，你可以顺便过去看看。我会交代警卫，他们会让你过去的。</text>
+	</string>
+	<string id="bar_bar_barmen_start_132">
+		<text>不，我还没准备好。</text>
+	</string>
+	<string id="bar_bar_barmen_start_1321">
+		<text>准备好，一号！这个任务不能拖延！</text>
+	</string>
+	<string id="bar_bar_barmen_start_151">
+		<text>OK，你从研究中心带回来的文件让事情变得有点清晰了，但我们仍然缺乏讯息来完成整个图像。文件中提到了一个代号为X18的实验室，它的描述跟黑暗山谷被遗弃的地底建筑相吻合。看来你需要去那里并且拿取我们需要的讯息。那座实验室已经关闭，你需要两把电子钥匙来进去里面。我会给你一把，但你需要从黑暗山谷的野猪那里拿到另外一把。</text>
+	</string>
+	<string id="bar_bar_barmen_start_1511">
+		<text>继续。</text>
+	</string>
+	<string id="bar_bar_barmen_start_15111">
+		<text>你要做的事情就是拿到第二把钥匙，然后进入X18实验室，进去里面取得第二批的文件。别忘了给你自己弄一套防护装，不然你不会有机会进入实验室的。那么，你接受这份工作吗？</text>
+	</string>
+	<string id="bar_bar_barmen_start_15112">
+		<text>我会试试看。</text>
+	</string>
+	<string id="bar_bar_barmen_start_15113">
+		<text>太好了，我会等着你的。</text>
+	</string>
+	<string id="bar_bar_barmen_start_15114">
+		<text>不，我还没准备要接受。</text>
+	</string>
+	<string id="bar_bar_barmen_start_15115">
+		<text>你自己决定，但记得：这是打开北方通路的唯一机会。</text>
+	</string>
+	<string id="bar_bar_barmen_start_161">
+		<text>你要什么，一号？</text>
+	</string>
+	<string id="bar_bar_barmen_start_162">
+		<text>嘿，一号！时局改变，但你还是没变，一样的阴沉跟冷漠。这边，坐下来，喝杯酒--这会让你舒服一点…</text>
+	</string>
+	<string id="bar_bar_barmen_start_171">
+		<text>那么，一号，你有带来X18实验室的文件吗？</text>
+	</string>
+	<string id="bar_bar_barmen_start_172">
+		<text>是的，这里。</text>
+	</string>
+	<string id="bar_bar_barmen_start_1721">
+		<text>很好，局势变得明朗了。跟我想得一样，焦脑器是个人造物品。它是凯马洛夫实验性的发射晶体，而它正是在X18实验室中组装而成的。在X16实验室的文件里有提到他们送了一部份的零件。根据这些文件描述，X16实验室位于杨塔湖旁的生产设施区域。科学家在那附近设置了移动实验室，或许他们可以帮助我们。</text>
+	</string>
+	<string id="bar_bar_barmen_start_17211">
+		<text>继续。</text>
+	</string>
+	<string id="bar_bar_barmen_start_17212">
+		<text>它并不容易--你需要找到科学家并且找出X16实验室的位置，那么你就可以拿到遗失的文件。那么，你要去做吗？</text>
+	</string>
+	<string id="bar_bar_barmen_start_17213">
+		<text>好的。</text>
+	</string>
+	<string id="bar_bar_barmen_start_172131">
+		<text>很好，我会等着你。</text>
+	</string>
+	<string id="bar_bar_barmen_start_17214">
+		<text>不，我还没准备好。</text>
+	</string>
+	<string id="bar_bar_barmen_start_172141">
+		<text>我们需要快点准备好，一号！这些事情可是不等人的。</text>
+	</string>
+	<string id="bar_bar_barmen_start_173">
+		<text>不。</text>
+	</string>
+	<string id="bar_bar_barmen_start_1731">
+		<text>你在浪费什么时间？快去拿那些该死的文件，不然我们会没有进展的！</text>
+	</string>
+	<string id="bar_bar_barmen_start_181">
+		<text>你要什么，一号？</text>
+	</string>
+	<string id="bar_bar_barmen_start_182">
+		<text>嘿，一号！时局改变，但你还是没变，一样的阴沉跟冷漠。这边，坐下来，喝杯酒--这会让你舒服一点…</text>
+	</string>
+	<string id="bar_bar_barmen_start_2">
+		<text>嘿，一号！你有把研究所的文件带过来吗？</text>
+	</string>
+	<string id="bar_bar_barmen_start_21">
+		<text>不，我还没从研究所拿到文件。</text>
+	</string>
+	<string id="bar_bar_barmen_start_211">
+		<text>那不好，一号，一点都不好…你知道我们有多需要那些文件吗？相信我，我们非常的需要。焦脑器就在眼前而我们还不知道它是什么东西！现在就去拿那些文件--在那之后我们再聊。</text>
+	</string>
+	<string id="bar_bar_barmen_start_2111">
+		<text>我想我知道。</text>
+	</string>
+	<string id="bar_bar_barmen_start_22">
+		<text>这是研究所里的文件。</text>
+	</string>
+	<string id="bar_bar_barmen_start_221">
+		<text>干得好，一号！我们终于有这些文件了。我现在需要好好的看一下这些文件，或许可以找出前往北方的方法。当我在研究的时候，如果你缺钱花用，可以去竞技场。竞技场的主人是阿尼，我会把他的座标传给你。</text>
+	</string>
+	<string id="bar_bar_barmen_start_2211">
+		<text>好的。</text>
+	</string>
+	<string id="bar_bar_barmen_start_22111">
+		<text>现在听着！</text>
+	</string>
+	<string id="bar_bar_barmen_start_3">
+		<text>你要什么，一号？</text>
+	</string>
+	<string id="bar_bar_barmen_start_4">
+		<text>嘿，一号！时局改变，但你还是没变，一样的阴沉跟冷漠。这边，坐下来，喝杯酒--这会让你舒服一点…</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_0">
+		<text>我想要知道一些事情。</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_1">
+		<text>是什么？</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_10">
+		<text>谢谢你。</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_3">
+		<text>你知道关于史特列洛克的些什么事情？</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_31">
+		<text>据我所知他是一个经验丰富的潜行者。他过去曾经在特异区的北方出入口"工作"。他几乎很少在这里出现，但是据说他跟他们那群人进入到了特异区的中心。</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_4">
+		<text>你知道关于一个叫做幽灵的潜行者的事吗？</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_41">
+		<text>他是史特列洛克的人，据说他可以潜入任何地方而不被发现。我听说他干掉了谋些疯狂团体的领袖…那是什么名字？啊，"末日"，那一个。他们是很疯狂的人…喔，此外，我听说幽灵在帮科学家做一些工作，所以你要找他的话，试试看杨塔湖旁的移动实验室。</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_51">
+		<text>他是一个退休的老潜行者。他住在沼泽里，我在在地图上帮你标示出来。在过去他曾是史特列洛克的人。</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_6">
+		<text>你知道关于一个叫做方的潜行者的事吗？</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_61">
+		<text>过去有一个男人叫那个名字，他有点口齿不清…他有点怪异，那是真的--对他自己和他的伙伴来说…但他看起来似乎是个好人。我有一段时间没在酒吧里见过他了。</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_7">
+		<text>告诉我关于移动实验室的事情。</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_71">
+		<text>科学家不断的设置它们，一具具孤立的金属碉堡，有你生存所需的任何东西。我们曾经跟杨塔的其中一个实验室接触过。科学家们都是好人--他们告诉我们许多有趣的事情，而我们尽可能的帮助他们…某种利益交换。</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_8">
+		<text>什么是"实现愿望"？</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_81">
+		<text>喔！那是个有趣的问题…我希望我知到答案。我可以跟你说这个东西的传说，但你自己决定它有几分的真实性。有兴趣听吗？</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_811">
+		<text>Да, очень интересно.</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_8111">
+		<text>这是关于黑石的传说，它可能是导致特异区产生的原因。当2006年发现了特异区时，他们撤离了住在特异区附近的居民，然后派出军队隔离。每一个人都吓坏了，没有人知道发生了什么事情，特异区持续的再扩张，而野地实验室也无法做什么事情来阻止！一大堆人死在这里，每个人都害怕辐射会感染到半个欧洲。再过了几年之后，一些像你一样的人出现了，他们称自己为潜行者。他们偷偷的穿越军方的封锁线，相信在特异区里的东西可以让他们致富。一点一点的，他们将奇怪的东西--神器给带了出来，最后为了争夺神器而开始互相竞争。科学家们像是疯了一样的紧跟在他们的后面，现在他们会为了它而付出惊人的金钱。</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_81111">
+		<text>继续…</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_811111">
+		<text>过了一阵子之后，第一个关于残破核电厂的故事和传说开始在人群之间传开了。同时有一个老兵告诉我们有一个可以实现人们愿望的黑石的故事。你应该有见过歇斯底里：一些经验丰富、冷静老道的人开始往中心移动--每个人都想从黑石那里得到东西。我们有得到一些第一个到达黑石前面的潜行者的恐怖传说...</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_8111111">
+		<text>继续…跟我说多一点。</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_81111111">
+		<text>当特异区开始出现时，许多人被陷在里面，断绝了跟外界的联繫。他们大部分的人很快的都死了，但有一点点幸运的倖存者试着想要做点事情。其中的一个倖存者在电厂附近注意到里面有些奇怪的光线。因为无路可退，所以他决定进去一探究竟。他在石棺上找到一个破掉的屋顶，而光线正是从那边散出来的。他爬上牆去往里面看，在残破的水泥块跟铁块之间，他看见了一个立在其中的黑色巨大石块。它就是黑石。潜行者试着要摆脱"法术"，然后发现他必须要离石棺很近的地方，但那边有很高的辐射。他吓得要死，但在恐惧之中他可以感觉到黑石在呼唤他。黑石召唤他，在他的脑子里一直要他来见见这个陌生的、不可置信的东西...</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_811111111">
+		<text>酷…</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_811111112">
+		<text>我不知道这个故事什么是真实的，而什么不是。但重点是那个人的愿望成真了，同时特异区又往外扩张的五公里。看来只要它实现愿望，特异区的范围就会扩张…但那无法阻止像你这样的这样的大人物。他们不断的涌入，在心中怀着珍贵的小小愿望…</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_812">
+		<text>这时我更有兴趣的是其它的事情。</text>
+	</string>
+	<string id="bar_bar_barmen_talk_info_8121">
+		<text>那不关我的事，兄弟。你还想知道什么？</text>
+	</string>
+	<string id="bar_bar_drunk_dolg_start_11">
+		<text>嘿…该死！是的，我醉了，我醉了！他们想要…他们…想要把我踢出纪律团，如果我也搞砸了这个任务…你懂吗？但我不是…嘿…现在的感觉不是…不是很好…你知道吗…</text>
+	</string>
+	<string id="bar_bar_drunk_dolg_start_111">
+		<text>我了解。</text>
+	</string>
+	<string id="bar_bar_drunk_dolg_start_21">
+		<text>怎么了？有什么新闻吗？你还没打败那个混蛋，我可以在你的眼中看出来。生活糟透了…听着，至少跟我喝杯酒，可以吗，朋友？</text>
+	</string>
+	<string id="bar_bar_drunk_dolg_start_31">
+		<text>兄弟…嘻…你...你...你帮帮我！让我们敬纪律团…我猜！还有…喔！</text>
+	</string>
+	<string id="bar_bar_hunter_quest_finish_0">
+		<text>我找到了，你的步枪在这里。</text>
+	</string>
+	<string id="bar_bar_hunter_quest_finish_1">
+		<text>哇？！你找到了我的步枪？！我说不出话来了，兄弟！非常感谢你！谢谢你！我真感激！你真的帮了我，真的。该死，收下这个--这不多但是是我所有的。我不会忘记你的帮助，我会报答你的。听着，我要告诉你一些事情。在靠近你发现我的步枪的地方，有一个被封闭的怪异房子。没人知道里面有什么东西，但从窗子往里面看，里面有一堆的特异点。或许在里面也有神器…不过我不知道要如何进去里面。</text>
+	</string>
+	<string id="bar_bar_hunter_quest_start_0">
+		<text>继续。</text>
+	</string>
+	<string id="bar_bar_hunter_quest_start_1">
+		<text>我会把所有的东西都给你！我求求你，只要你把步枪还给我。我把它丢在那个都是吸血怪的地方。座标在这里，小心那些吸血怪，它们可一点都不友善。</text>
+	</string>
+	<string id="bar_bar_hunter_quest_start_11">
+		<text>好的，我会试着找回你的步枪。</text>
+	</string>
+	<string id="bar_bar_hunter_quest_start_111">
+		<text>我不会骗你。</text>
+	</string>
+	<string id="bar_bar_hunter_quest_start_1111">
+		<text>这是你的兴趣。</text>
+	</string>
+	<string id="bar_bar_hunter_quest_start_12">
+		<text>不，我有更重要的事要做。</text>
+	</string>
+	<string id="bar_bar_hunter_quest_start_121">
+		<text>随你…但我希望你能改变主意。</text>
+	</string>
+	<string id="bar_bar_hunter_quest_start_1212">
+		<text>再看看吧。</text>
+	</string>
+	<string id="bar_bar_hunter_start_11">
+		<text>我有个问题，兄弟！我…我把我的家传步枪丢在大荒野了。我本来想射一些吸血怪，但我逃走了。该死！听着，兄弟…如果你把它拿回来我会给你酬劳的。我有些现金，我会全都给你，只要你把我的步枪拿回来。这是家传的步枪，你知道的，爸爸传给儿子…但我却弄丢了！我已经习惯使用它了，它就像我手臂的延伸…</text>
+	</string>
+	<string id="bar_bar_hunter_start_21">
+		<text>嘿！有什么新闻吗？你有没有找到它？！</text>
+	</string>
+	<string id="bar_bar_hunter_start_31">
+		<text>谢了，兄弟！我永远不会忘记你的帮助的！</text>
+	</string>
+	<string id="bar_bar_osvedomitel_reward_0">
+		<text>狼狗说你有些东西要给我。</text>
+	</string>
+	<string id="bar_bar_osvedomitel_reward_1">
+		<text>当然。这里是用来帮助克鲁格洛夫的榴弹发射器，上面是1000块。你完成任务后我会免费送给你一些额外的讯息。</text>
+	</string>
+	<string id="bar_bar_osvedomitel_reward_2">
+		<text>谢谢你。</text>
+	</string>
+	<string id="bar_bar_osvedomitel_reward_3">
+		<text>这是我要说的，你帮助自由团做出正确的选择。你的命运现在跟自由团繫在一起，而纪律团也在盯着你。我说你现在该去废弃的军事基地，然后加入自由团--他们需要好的战士。那边很快的就会交火了，而选对阵营的人将不会后悔的。</text>
+	</string>
+	<string id="bar_bar_osvedomitel_start_11">
+		<text>我是一个讯息交易商。我卖重要的讯息和收购图表、文件还有实验室纪录。我的讯息对有钱人来说可是有用又珍贵的。</text>
+	</string>
+	<string id="bar_bar_osvedomitel_start_21">
+		<text>你好，一号，你帮助自由团做出正确的选择。你的命运现在跟自由团繫在一起，而纪律团也在盯着你。我说你现在该去废弃的军事基地，然后加入自由团--他们需要好的战士。</text>
+	</string>
+	<string id="bar_bar_osvedomitel_start_211">
+		<text>我会考虑看看。</text>
+	</string>
+	<string id="bar_bar_osvedomitel_start_2111">
+		<text>那么一号，是什么风把你吹到这里来了？想买些讯息、还是你今天想卖我什么东西？</text>
+	</string>
+	<string id="bar_bar_osvedomitel_talk_0">
+		<text>那么你那时跟自由团有联繫吗？</text>
+	</string>
+	<string id="bar_bar_osvedomitel_talk_1">
+		<text>我现在没办法回答这个问题。我能说的就是我现在不属于任何阵营。</text>
+	</string>
+	<string id="bar_bar_osvedomitel_talk_about_freedom_0">
+		<text>告诉我关于自由团的事情。</text>
+	</string>
+	<string id="bar_bar_osvedomitel_talk_about_freedom_1">
+		<text>当然，没问题！自由团是特异区最早的阵营之一，也是唯一跟政府军队还有研究小组对抗的团体。它的创立者已经死了--在军队长征特异区时他们都被杀死了，但同时外界对特异区的控制也因此断了。有一些证据指出一开始特异区是一个军方实验武器的测试地。如果那是真的，他们可真的是测试了一个强力武器。不论如何，我说什么…？喔，自由团是唯一试着阻止政府重新控制特异区的人。天知道如果又让他们测试武器的话，会再发生什么事情，所以自由团会不记一切代价来阻止的。</text>
+	</string>
+	<string id="bar_bar_osvedomitel_talk_about_freedom_2">
+		<text>那么关于纪律团呢？</text>
+	</string>
+	<string id="bar_bar_osvedomitel_talk_about_freedom_3">
+		<text>纪律团基本上是由外界的政府所空制的。他们现在的目标就是清除特异区中的变种生物和摧毁自由团，那也是这时他们在做的事情。当时机来临，他们会在特异区里投入大型的攻击势力，然后控制这个区域。</text>
+	</string>
+	<string id="bar_bar_osvedomitel_talk_about_freedom_4">
+		<text>谢谢你的讯息。</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_0">
+		<text>我想要买些讯息。</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_21">
+		<text>现在，我可以便宜的卖你关于史特列洛克组织的讯息--1500RU。</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_211">
+		<text>好吧，我接受。这里是1500RU。</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_2111">
+		<text>它位于农会研究所，在地底有一个藏匿物。里面可能有他们的计画和成员的名单。我已经把藏匿物的座标传给你了。</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_212">
+		<text>不，我改变心意了。</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_2121">
+		<text>随你，你如果改变心意的话再到酒吧里来--我总是在这里的。</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_31">
+		<text>现在，我有一些关于一个进入特异区中心的团体的讯息。我几乎是用送的--只要3000RU就好。</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_311">
+		<text>好吧，我买了，这里是3000RU。</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_3111">
+		<text>史特列洛克、幽灵跟方进入了特异区中心。他们在那里找到什么，没有人知道，但当幽灵跟方近乎疯狂的回来时，史特列洛克失踪了。最后关于幽灵的消息是他前往了杨塔湖的移动实验室，我已经把科学家营地的座标传给你了。</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_312">
+		<text>不，我改变心意了。</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_3121">
+		<text>随你，你如果改变心意的话再到酒吧里来--我总是在这里的。</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_41">
+		<text>我有一些关于杨塔湖的秘密，价钱只要4500RU--一毛都不能少！</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_411">
+		<text>好吧，我买了，这里是4500RU。</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_4111">
+		<text>某种辐射僵尸都与这些东西接触过。僵尸化的潜行者总是在中心的放射源附近移动，攻击着每个人。这个讯息指出关于杨塔湖秘密的解答就在地底下。这里是杨塔湖放射源跟那些焦脑器的座标。</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_412">
+		<text>不，我改变心意了。</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_4121">
+		<text>随你，你如果改变心意的话再到酒吧里来--我总是在这里的。</text>
+	</string>
+	<string id="bar_bar_osvedomitel_trade_info_999">
+		<text>我这时没有什么讯息。</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_11">
+		<text>…现在该是有人打倒伯洛夫的时候了！如果我知道他是谁，我会请他喝一杯的。</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_111">
+		<text>耶，也该是时候了。</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_21">
+		<text>…有人真的惹毛了自由团：我听说他们其中一个组织在大荒野中被摧毁了…我怀疑是谁干的？</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_211">
+		<text>耶，我希望我知道…</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_31">
+		<text>…最后某个人终于有胆量去解决掉大荒野的吸血鬼…纪律团在这段时间都干了什么事？</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_311">
+		<text>纪律团在做什么？除了对付自由团外，还做了什么事？</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_41">
+		<text>…我听说有人干掉了自由团的首领。我想他们的日子不好过了，纪律团会好好的对付他们的…</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_411">
+		<text>希望如此。</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_51">
+		<text>那么你干掉了那些老兵？干的好，朋友！最近有六个潜行者在那个区域里失踪了…我们都在怀疑那些疯狂的老兵。很高兴他们都被处理掉了。</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_511">
+		<text>耶，很多人都希望那些老兵"离开"。</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_61">
+		<text>你关闭了杨塔的放射源？哇…你真是个幸运的疯子，该死，我很高兴终于有人处理了这件事情！你无法想像我们有多少人死在那里…但现在科学家可以找出原因了。我们现在甚至可以对付焦脑器了…</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_611">
+		<text>我想要相信焦脑器是可以被关闭的。</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_71">
+		<text>你要什么？你没看到我在这力试着放鬆吗…</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_711">
+		<text>有什么消息？</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_7111">
+		<text>我听说史特列洛克回来了。他有所有的设备可以让你接近那个机器….因为有一堆人追着他，所以他躲起来了。有些人是公开的、有些人则是秘密的追着他。据说纪律团跟自由团的人都加入了猎捕行动…每个人都有自己的目的。</text>
+	</string>
+	<string id="bar_bar_visitors_1_start_71111">
+		<text>看来史特列洛克正躲藏了起来。</text>
+	</string>
+	<string id="bar_bar_visitors_10_start_71">
+		<text>你要什么？</text>
+	</string>
+	<string id="bar_bar_visitors_10_start_711">
+		<text>你能告诉我什么对新手是有用的？</text>
+	</string>
+	<string id="bar_bar_visitors_10_start_7111">
+		<text>对新手有用？好吧，听着。往北方，离焦脑器不远处，自由团把他们的总部设在一个老的军事基地里。他们都是声名狼籍的恐怖主义者、无政府主义者和罪犯--自由团战士，都是古怪的游击队员。他们只会破坏研究团体、攻击军事单位和不时的与纪律团争斗。他们之间的争斗已经变成了一场小规模的生死战争。让我给你一点建议：别牵涉进去了。如果一边接受了你，另一边就会悬赏你的头。哈哈哈，你相信吗？</text>
+	</string>
+	<string id="bar_bar_visitors_10_start_71111">
+		<text>谢谢你的建议。</text>
+	</string>
+	<string id="bar_bar_visitors_12_start_71">
+		<text>你要什么？</text>
+	</string>
+	<string id="bar_bar_visitors_12_start_711">
+		<text>你能告诉我什么对新手是有用的？</text>
+	</string>
+	<string id="bar_bar_visitors_12_start_7111">
+		<text>好吧，曾经有一个由史特列洛克带领的团体，有一堆关于他们的传说在特异区里流传着…好的或不好的，但没什么人知道事实是什么。事实是他们想要对付特异区，找出是什么制造它的。那也是为什么军方的人一直在追着他们，但却不知要从何找起。政府不想让一般的潜行者知道他们不该知道的事情。有一天史特列洛克发现了重要的讯息，并且跟其他人往特异区中心前进。在路上死了一半的人，但其他人都抵达了…那边发生了什么事情--没人知道。看来他们逮到它了。其他人被抓住然后被处死…我不认为现在有人还活着。悲伤的故事，嗯？</text>
+	</string>
+	<string id="bar_bar_visitors_12_start_71111">
+		<text>耶…看来有人不想让特异区被人了解…</text>
+	</string>
+	<string id="bar_bar_visitors_13_start_71">
+		<text>你要什么？</text>
+	</string>
+	<string id="bar_bar_visitors_13_start_711">
+		<text>你能告诉我什么对新手是有用的？</text>
+	</string>
+	<string id="bar_bar_visitors_13_start_7111">
+		<text>佣兵团有点像自由团，不过还要再糟一些。至少自由团还有些理念，但那些狗，他们只为了钱做事情。在他们把一些危险的东西拖出特异区到一般的世界前，真的需要有人去把他们给解决掉！他们的基地在死亡城市，在那边的建筑物里到处都是狙击手，了解了吗？他们可不收留陌生人的。</text>
+	</string>
+	<string id="bar_bar_visitors_13_start_71111">
+		<text>我知道了，看来你在死亡城市中要小心点。</text>
+	</string>
+	<string id="bar_bar_visitors_14_start_71">
+		<text>你要什么？</text>
+	</string>
+	<string id="bar_bar_visitors_14_start_711">
+		<text>你能告诉我什么对新手是有用的？</text>
+	</string>
+	<string id="bar_bar_visitors_14_start_7111">
+		<text>如果你没去过竞技场，那我建议你去看看--那是赚钱的好地方，然后展示给大家看看你做些什么。不是每个人都有胆量迎接下一个怪物的挑战，那可真是可惜！兄弟，如果我存够钱去买像样的武器，我会在那里的。</text>
+	</string>
+	<string id="bar_bar_visitors_14_start_81">
+		<text>你要什么？</text>
+	</string>
+	<string id="bar_bar_visitors_14_start_82">
+		<text>你是波弟吗？我要跟你谈谈。</text>
+	</string>
+	<string id="bar_bar_visitors_14_start_83">
+		<text>假设我是，你要什么？</text>
+	</string>
+	<string id="bar_bar_visitors_14_start_84">
+		<text>史波弟在红森林获救了，但驼背死了。</text>
+	</string>
+	<string id="bar_bar_visitors_14_start_85">
+		<text>该死！</text>
+	</string>
+	<string id="bar_bar_visitors_14_start_86">
+		<text>史波弟的状况很糟，他的脑子全毁了。或许你可以和他谈谈？我们需要找出焦脑器的週期。</text>
+	</string>
+	<string id="bar_bar_visitors_14_start_87">
+		<text>不！别要求我做这件事。驼背因我而死，发生在史波弟身上的事也是我的错。我留下他们、背叛他们、遗弃他们然后逃跑了！我没办法在做了这些事情后去面对史波弟！</text>
+	</string>
+	<string id="bar_bar_visitors_14_start_88">
+		<text>来吧，心寒的人，告诉我发生了什么事情。</text>
+	</string>
+	<string id="bar_bar_visitors_14_start_89">
+		<text>我们三个人准备穿越北部。我们不知道焦脑器的放射线什么时候会降低，但史波弟试着从某些地方拿到资讯…我不知道是哪里…我们正要通过焦脑器，突然间焦脑器又开始作用了。史波弟衝了过去然后跌倒在山坡。我痛苦的说我们该丢下一切离开，驼背试着想把他自己拉回来，他说我们该去就史波弟…我说"你是个白痴，你不想活了吗？他完了，我们要怎么一路背他回来？"他试着说服我然后开始爬下去解救史波弟…另一股放射波来了。那时我靠着自己的感觉一路衝回军事基地…我想驼背和史波弟还在那边…驼背要救史波弟但是没有成功…他试着救他…</text>
+	</string>
+	<string id="bar_bar_visitors_14_start_90">
+		<text>OK，波弟，OK。冷静点，兄弟…谢谢你告诉我发生了什么事情。我自己会去跟史波弟谈谈的。</text>
+	</string>
+	<string id="bar_bar_visitors_14_start_91">
+		<text>抱歉，我没有心情说话…我宁愿喝另一杯酒。</text>
+	</string>
+	<string id="bar_bar_visitors_2_start_71">
+		<text>你要什么？</text>
+	</string>
+	<string id="bar_bar_visitors_2_start_711">
+		<text>有什么消息？</text>
+	</string>
+	<string id="bar_bar_visitors_2_start_7111">
+		<text>有个家伙…他口齿不清，走路弯腰驼背的，他的名字就叫驼背。他有点疯狂…自己跟自己说话，跟动物说话…除了这些，他还不错。他跟史特列洛克在特异区中心失踪了一段时间…据说史特列洛克回来了。</text>
+	</string>
+	<string id="bar_bar_visitors_2_start_71111">
+		<text>我很好奇他现在在哪里。</text>
+	</string>
+	<string id="bar_bar_visitors_3_start_71">
+		<text>你要什么？</text>
+	</string>
+	<string id="bar_bar_visitors_3_start_711">
+		<text>有什么消息？</text>
+	</string>
+	<string id="bar_bar_visitors_3_start_7111">
+		<text>大荒野现在都是吸血怪了！它们在晚上出现。我听说在附近工厂有某个很重要的东西，对某些人是不可或缺的东西。纪律团最近派了些人在那边但他们全都死了，而他们的尖叫声在数里外都听得见。</text>
+	</string>
+	<string id="bar_bar_visitors_3_start_71111">
+		<text>谢谢你的讯息。</text>
+	</string>
+	<string id="bar_bar_visitors_4_start_71">
+		<text>你要什么？</text>
+	</string>
+	<string id="bar_bar_visitors_4_start_711">
+		<text>你听到了什么？</text>
+	</string>
+	<string id="bar_bar_visitors_4_start_7111">
+		<text>如果你绕着杨塔湖你会来到科学家的营地--他们在那里进行一些研究…他们搭直昇机过来和用它来运送补给。他们在那边有不错的地方...你也可以跟他们交易--他们购买神器，或许也会提供给你工作。</text>
+	</string>
+	<string id="bar_bar_visitors_4_start_71111">
+		<text>谢谢你的讯息。</text>
+	</string>
+	<string id="bar_bar_visitors_5_start_71">
+		<text>你要什么？</text>
+	</string>
+	<string id="bar_bar_visitors_5_start_711">
+		<text>你听到了什么？</text>
+	</string>
+	<string id="bar_bar_visitors_5_start_7111">
+		<text>因为焦脑器的关係没有人能穿越废车场。有的人真的见过有个潜行者穿越了无形的边界，摔倒了，接着几分钟后站了起来朝着废车场中央前进。后来没有人见过他…</text>
+	</string>
+	<string id="bar_bar_visitors_5_start_71111">
+		<text>有趣…</text>
+	</string>
+	<string id="bar_bar_visitors_6_start_71">
+		<text>你要什么？</text>
+	</string>
+	<string id="bar_bar_visitors_6_start_711">
+		<text>你听到了什么？</text>
+	</string>
+	<string id="bar_bar_visitors_6_start_7111">
+		<text>失踪的潜行者不断的回来。那是个可怕的夜晚，我告诉你：他们含糊地说着某个东西，拿着他们的武器，他们都曾经消失在某个地方…一阵子之前有个人来到纪律团的前哨站，大伙都聚集起来看着他。某个人认出他来…他有恐怖的...红眼睛，全身沾满了血…什么话都说不出来，只是像个动物在低吟着，不断的绕着圈子。纪律团把他带了进去，但过没几天他就死了。在特异区里发生了些事情，但是什么事呢？</text>
+	</string>
+	<string id="bar_bar_visitors_6_start_71111">
+		<text>我也想要知道。</text>
+	</string>
+	<string id="bar_bar_visitors_7_start_71">
+		<text>你要什么？</text>
+	</string>
+	<string id="bar_bar_visitors_7_start_711">
+		<text>你听到了什么？</text>
+	</string>
+	<string id="bar_bar_visitors_7_start_7111">
+		<text>在杨塔湖附近都是僵尸。他们四处闲晃，攻击每一个看到的人。如果你被盯上了，最好赶快逃命--那边有太多前潜行者…他们死在湖里，什么都没有留下。</text>
+	</string>
+	<string id="bar_bar_visitors_7_start_71111">
+		<text>耶，我可不想加入他们。</text>
+	</string>
+	<string id="bar_bar_visitors_8_start_71">
+		<text>你要什么？</text>
+	</string>
+	<string id="bar_bar_visitors_8_start_711">
+		<text>你听到了什么？</text>
+	</string>
+	<string id="bar_bar_visitors_8_start_7111">
+		<text>贸易商人说在特异区中心有真正珍贵的神器，所以只要能到达中心的人赚到的钱就足够让他过两辈子了。个人来看，我觉得那边还有更多的东西。显然的贸易商人只想到了自己的喜好，但那边可有一堆奇怪的传说。似乎在那里有比神器更棒的东西--某个不是来自这个世界的东西，某个外星人或其他世界的产物！他们称呼它是实现愿望的机器。我听过一个传说，说有一个潜行者成功的到达了中心。只是每一次只要有人的愿望实现，特异区就会跟着扩张，但从来就没有人许愿让特异区消失。我猜当你到那边时，对任何人也是不屑一顾的。</text>
+	</string>
+	<string id="bar_bar_visitors_8_start_71111">
+		<text>那真是悲伤。</text>
+	</string>
+	<string id="bar_bar_visitors_9_start_71">
+		<text>你要什么？</text>
+	</string>
+	<string id="bar_bar_visitors_9_start_711">
+		<text>你听到了什么？</text>
+	</string>
+	<string id="bar_bar_visitors_9_start_7111">
+		<text>每个相信黑石的人都是彻底的疯子。他们不断的对它祈求，但没有人真正知道在特异区中心里是什么东西。一个无形的水晶从天空缓缓降下…哈哈哈！我猜那又是一个秘密实验室的把戏--我是说有些潜行者曾经在里面工作过。但，显然的，你不能把特异区给炸掉。不但辐射线会遍佈整个世界，半个欧洲都会被特异区的反应给夷平。"某人"最近彻底的疯了--我听说他们最近毫无理由的在杀害一般的潜行者。你喜欢那样吗？该死的信徒。</text>
+	</string>
+	<string id="bar_bar_visitors_9_start_71111">
+		<text>我认为它值得些注意。</text>
+	</string>
+	<string id="bar_dolg_base_guard_acces_0">
+		<text>我想要加入纪律团，我需要做什么？</text>
+	</string>
+	<string id="bar_dolg_base_guard_acces_1">
+		<text>付1000RU，你会得到通行证。把它交给碉堡中的沃洛宁，他会帮你安排测试的。</text>
+	</string>
+	<string id="bar_dolg_base_guard_acces_11">
+		<text>OK，钱在这里。</text>
+	</string>
+	<string id="bar_dolg_base_guard_acces_111">
+		<text>没错，这是你的通行证。去见彼得连科，他是行政官员。我会在你的地图上标示出来的。</text>
+	</string>
+	<string id="bar_dolg_base_guard_acces_12">
+		<text>不，我改变主意了。</text>
+	</string>
+	<string id="bar_dolg_base_guard_acces_121">
+		<text>你的决定，兄弟。再见。</text>
+	</string>
+	<string id="bar_dolg_base_guard_acces_21">
+		<text>因为这里没有地方让那些自由团的匪徒容身--所以他们必须被摧毁。如果你有兴趣，去问问酒保来解释所有的事情。我可是很忙的。</text>
+	</string>
+	<string id="bar_dolg_base_guard_acces_31">
+		<text>付1000RU，你会得到通行证。把它交给纪律团的行政官员，他会帮你安排测试的。</text>
+	</string>
+	<string id="bar_dolg_base_guard_acces_311">
+		<text>好的，钱在这里。</text>
+	</string>
+	<string id="bar_dolg_base_guard_acces_3111">
+		<text>没错，这是你的通行证。去见彼得连科，他是行政官员。我会在你的地图上标示出来的。</text>
+	</string>
+	<string id="bar_dolg_base_guard_acces_312">
+		<text>不，我改变主意了。</text>
+	</string>
+	<string id="bar_dolg_base_guard_acces_3121">
+		<text>你的决定，兄弟。再见。</text>
+	</string>
+	<string id="bar_dolg_base_guard_rules_0">
+		<text>酒吧老板跟我说你的头子有任务要给我执行。</text>
+	</string>
+	<string id="bar_dolg_base_guard_rules_1">
+		<text>是的，他有提过你，但在我们让你通过之前，我要跟你说一下我们的规矩。那么听着，我们的规矩很简单。第一守则--禁止在我们的领域里开枪。如果你连续两次破坏了规定，我们的巡逻原就会向你开火。就算你逃开了，你也没办法再出现在这里--如果你乖乖的遵守，那你就不会有任何的问题。</text>
+	</string>
+	<string id="bar_dolg_base_guard_rules_2">
+		<text>知道了，还有呢？</text>
+	</string>
+	<string id="bar_dolg_base_guard_rules_3">
+		<text>这样就够了，你可以通过了。</text>
+	</string>
+	<string id="bar_dolg_base_guard_rules_4">
+		<text>知道了，还有呢？</text>
+	</string>
+	<string id="bar_dolg_base_guard_rules_5">
+		<text>就这样。如果你想加入纪律团，那么请自便。我们需要好手，但是我警告你：在被接受之前，你会被要求完成几个危险的任务。我们不需要懦夫，所以每个人都通过了测试。</text>
+	</string>
+	<string id="bar_dolg_base_guard_start_11">
+		<text>站住！外人不得进入纪律团基地！</text>
+	</string>
+	<string id="bar_dolg_base_guard_start_21">
+		<text>你站在那里做什么？快走开。</text>
+	</string>
+	<string id="bar_dolg_base_guard_start_31">
+		<text>继续，兄弟。记得：纪律团的任务是淨化。</text>
+	</string>
+	<string id="bar_dolg_base_guard_talk_0">
+		<text>你为什么让外人进来了？</text>
+	</string>
+	<string id="bar_dolg_base_guard_talk_1">
+		<text>你们这些天真的家伙是从哪里来的？那边有战争在进行着，对吧？我们在对抗自由团的匪徒！我们跟他们的战士在大荒野有几场例行性的争斗。</text>
+	</string>
+	<string id="bar_dolg_base_guard_talk_2">
+		<text>跟自由团战争？为什么？</text>
+	</string>
+	<string id="bar_dolg_base_guard_talk_3">
+		<text>因为这里没有地方让那些自由团的匪徒容身--所以他们必须被摧毁。如果你有兴趣，去问问酒保来解释所有的事情。我可是很忙的。</text>
+	</string>
+	<string id="bar_dolg_guard_bunker_start_11">
+		<text>站住！只有成员可以进来这里！没有通行证我们不能让你进来。如果你想要拿一张，去见彼得连科将军，他在穿过院子的行政区域中。</text>
+	</string>
+	<string id="bar_dolg_guard_bunker_start_21">
+		<text>你站在那里做什么？快走开。</text>
+	</string>
+	<string id="bar_dolg_guard_bunker_start_31">
+		<text>继续，兄弟。记得：纪律团的任务是淨化。</text>
+	</string>
+	<string id="bar_dolg_ivancov_start_11">
+		<text>你要什么？</text>
+	</string>
+	<string id="bar_dolg_ivancov_start_21">
+		<text>我在听着。</text>
+	</string>
+	<string id="bar_dolg_ivancov_start_31">
+		<text>你好，朋友。</text>
+	</string>
+	<string id="bar_dolg_leader_job_0">
+		<text>我可以为纪律团做些什么？</text>
+	</string>
+	<string id="bar_dolg_leader_job_1">
+		<text>那是个好问题，一号，同时那也有一个好答案来回答它--杀死自由团的匪徒。每次将他们的PDA带回来，你就可以获得奖赏，同时你也会获得晋升。把所有你拿到的PDA交给彼得连科--他会给你奖赏的。</text>
+	</string>
+	<string id="bar_dolg_leader_join_0">
+		<text>酒吧老板跟我说你有在军方仓库的任务要交给我…</text>
+	</string>
+	<string id="bar_dolg_leader_join_1">
+		<text>我想要求你为我个人做这件事，你懂了吗？我们再跟自由团阵营对抗，而我们需要一些比手上的武器还要强力的武器。自由团有一些很棒的RG6 榴弹发射器。如果你可以混进他们的领域里，然后偷一把那样的榴弹发射器，我会慷慨的回报你的。因为你不属于我们的阵营。所以你可以很快获得他们的信任，如果你够幸运的话，把RG6带回来。</text>
+	</string>
+	<string id="bar_dolg_leader_join_11">
+		<text>继续。</text>
+	</string>
+	<string id="bar_dolg_leader_join_111">
+		<text>我会把自由团基地的位置传送给你。你需要找到厨子，他是自由团的人。他知道那些RG6放在什么地方。他爱喝酒，所以带一堆伏特加过去。那么，你说呢？</text>
+	</string>
+	<string id="bar_dolg_leader_join_1111">
+		<text>好的，我会试着从自由团那里偷取 RG6。</text>
+	</string>
+	<string id="bar_dolg_leader_join_11111">
+		<text>喔，还有一件事。骷髅将军和他的人违背了我的命令，决定在没有授权的情况下攻击自由团基地。好吧，他们可以获得他们抢到的东西…自杀的笨蛋。别涉入了他们的战斗。只要帮我带回RG6 就好--其它的事情都别去管。</text>
+	</string>
+	<string id="bar_dolg_leader_join_1112">
+		<text>我还没准备好去做这么英勇的事情。</text>
+	</string>
+	<string id="bar_dolg_leader_join_11121">
+		<text>如你所愿。</text>
+	</string>
+	<string id="bar_dolg_leader_prisyaga_0">
+		<text>我准备宣誓了。</text>
+	</string>
+	<string id="bar_dolg_leader_prisyaga_1">
+		<text>好家伙！跟着我念："我，一个潜行者，以一号为名，宣誓捍卫纪律团的目标和精神。"</text>
+	</string>
+	<string id="bar_dolg_leader_prisyaga_2">
+		<text>我，一个潜行者，以一号为名，宣誓捍卫纪律团的目标和精神。</text>
+	</string>
+	<string id="bar_dolg_leader_prisyaga_3">
+		<text>为了保卫地球免受特异区的危害，来寻找并摧毁任何在它边界所产生的活动。</text>
+	</string>
+	<string id="bar_dolg_leader_prisyaga_4">
+		<text>为了保卫地球免受特异区的危害，来寻找并摧毁任何在它边界所产生的活动。</text>
+	</string>
+	<string id="bar_dolg_leader_prisyaga_5">
+		<text>与任何违反信念的人作战，不管他们是独立的潜行者还是任何组织。</text>
+	</string>
+	<string id="bar_dolg_leader_prisyaga_6">
+		<text>与任何违反信念的人作战，不管他们是独立的潜行者还是任何组织。</text>
+	</string>
+	<string id="bar_dolg_leader_prisyaga_7">
+		<text>并且用我的生命来维护地球的正义与秩序！</text>
+	</string>
+	<string id="bar_dolg_leader_prisyaga_8">
+		<text>并且用我的生命来维护地球的正义与秩序！</text>
+	</string>
+	<string id="bar_dolg_leader_prisyaga_9">
+		<text>恭喜，你现在是纪律团的成员了。</text>
+	</string>
+	<string id="bar_dolg_leader_quest_rg6_finish_0">
+		<text>我完成任务了，我把RG6给带了回来。</text>
+	</string>
+	<string id="bar_dolg_leader_quest_rg6_finish_1">
+		<text>干的好，潜行者，这正是我们需要的东西。好的，一号，你完成了我的要求，你可以拿走这个服装作为回报。我想你会喜欢它的。</text>
+	</string>
+	<string id="bar_dolg_leader_start_11">
+		<text>我在听着。</text>
+	</string>
+	<string id="bar_dolg_leader_start_21">
+		<text>是什么风把你吹到这里来，兄弟？</text>
+	</string>
+	<string id="bar_dolg_leader_start_31">
+		<text>你把RG6带回来了？</text>
+	</string>
+	<string id="bar_dolg_leader_start_311">
+		<text>是的，这个就是RG6。</text>
+	</string>
+	<string id="bar_dolg_leader_start_3111">
+		<text>干的好，潜行者，这正是我们需要的东西。好的，一号，你完成了我的要求，你可以拿走这个服装作为回报。我想你会喜欢它的。</text>
+	</string>
+	<string id="bar_dolg_leader_start_41">
+		<text>是什么风把你吹到这里来，兄弟？</text>
+	</string>
+	<string id="bar_dolg_leader_start_51">
+		<text>跟自由团的战争就快要结束了，一号。你在这场理想之战中扮演了你的角色，现在我要结束这场战争。我要你杀死自由团的领袖。</text>
+	</string>
+	<string id="bar_dolg_leader_start_81">
+		<text>是什么风把你吹到这里来，兄弟？你杀死了那些自由团匪徒的首领，让他们的组织都溃散了。战争虽然还没结束，但结局已经很清楚。你的成就很伟大，他们永远都不会忘记的。</text>
+	</string>
+	<string id="bar_dolg_newbie_start_11">
+		<text>你好，潜行者。加入纪律团吧！我们需要好战士！我才刚刚加入没多久，看看他们给我这身漂亮的制服！</text>
+	</string>
+	<string id="bar_dolg_newbie_start_21">
+		<text>你好，一号。我很高兴你跟我们一起。纪律团很需要好的战士。</text>
+	</string>
+	<string id="bar_dolg_novice_start_2">
+		<text>嘿，潜行者伙伴。</text>
+	</string>
+	<string id="bar_dolg_novice_start_3">
+		<text>告诉我关于纪律团的事。</text>
+	</string>
+	<string id="bar_dolg_novice_start_31">
+		<text>我们一开始就在这里了。这是由长驱进入特异区的特遣队的生还队员所建立的组织。我们发现自己处在一个非常可怕的局势之中，自从有一半的队员恐怖的死去后，剩下的人发誓要弄清楚特异区到底发生了什么事情，不然绝对不会离开这里…直到他们打败它。</text>
+	</string>
+	<string id="bar_dolg_novice_start_4">
+		<text>告诉我关于自由团的事情。</text>
+	</string>
+	<string id="bar_dolg_novice_start_41">
+		<text>他们都是暴徒，不知道特异区是地球上的一个烂疮。他们想把它散佈到世界各地去，一片又一片的到处都是。他们会为了目的不择手段，我必须得解决这件事。</text>
+	</string>
+	<string id="bar_dolg_novice_start_5">
+		<text>你想对抗特异区？</text>
+	</string>
+	<string id="bar_dolg_novice_start_51">
+		<text>是的，我们计画进行大规模的行动。在清除任务中，通往特异区中心的路上的整群变种生物都被消灭了。</text>
+	</string>
+	<string id="bar_dolg_novice_start_6">
+		<text>谢谢你。</text>
+	</string>
+	<string id="bar_dolg_petrenko_start_11">
+		<text>我在听着。</text>
+	</string>
+	<string id="bar_dolg_petrenko_start_21">
+		<text>我能怎么帮忙？</text>
+	</string>
+	<string id="bar_dolg_petrenko_start_31">
+		<text>你好，兄弟！你带什么给我了？</text>
+	</string>
+	<string id="bar_dolg_veteran_start_2">
+		<text>你要什么？</text>
+	</string>
+	<string id="bar_dolg_zastava_11">
+		<text>继续，保持移动。你在看什么？</text>
+	</string>
+	<string id="bar_dolg_zastava_21">
+		<text>嘿，兄弟！很高兴你还没被异种吃掉。</text>
+	</string>
+	<string id="bar_dolg_zastava_about_zastava_0">
+		<text>在前哨站旁有一场大屠杀。发生了什么事情？</text>
+	</string>
+	<string id="bar_dolg_zastava_about_zastava_1">
+		<text>那是在爆炸前最后一波的变种生物。在平静了三、四天之后，又来了另外一波。如果不是我们，酒吧就毁了，纪律团也会不在了。我们是这些疯狂异种的最后阻挡。我们有很多兄弟死在这个地方。</text>
+	</string>
+	<string id="bar_dolg_zastava_talk_0">
+		<text>我想知道一些事情。</text>
+	</string>
+	<string id="bar_dolg_zastava_talk_1">
+		<text>你想知道什么事情？</text>
+	</string>
+	<string id="bar_dolg_zastava_talk_2">
+		<text>我刚刚来到这里，你能告诉我关于这地方的一些事情吗？</text>
+	</string>
+	<string id="bar_dolg_zastava_talk_21">
+		<text>在86年的意外事件之前，这里是个工业区。如你所见，现在留下的东西并不多…在机棚的地下室你可以找到100辐射酒吧。那里是由一个当地的贸易商人兼酒保所经营的。如果你想交易、谈话、获取任务或是听到最新的消息，就去那里。那里还有一个竞技场可以让你战斗和赚点钱。纪律团的基地在竞技场不远的地方。如果你想加入纪律团，直直的走过去就是了--他们会告诉你该跟谁谈的。喔。还有，所有的地方都是由纪律团保护着，纪律团很重规矩，所以你可别乱开枪射击。如果你开了枪，巡逻员可是会很快的让你"冷静下来"的。</text>
+	</string>
+	<string id="bar_dolg_zastava_talk_211">
+		<text>你说有个酒吧在这里，你可以告诉我正确的位置吗？</text>
+	</string>
+	<string id="bar_dolg_zastava_talk_2111">
+		<text>在机棚后方的地下室…我会在你的地图上标记出来的。</text>
+	</string>
+	<string id="bar_dolg_zastava_talk_21111">
+		<text>谢谢你的讯息。</text>
+	</string>
+	<string id="bar_dolg_zastava_talk_212">
+		<text>你说纪律团的基地在这，我要怎么过去？</text>
+	</string>
+	<string id="bar_dolg_zastava_talk_2121">
+		<text>它在离竞技场不远的地方，我会在你的地图上标记出来的。</text>
+	</string>
+	<string id="bar_dolg_zastava_talk_21211">
+		<text>谢谢你的讯息。</text>
+	</string>
+	<string id="bar_dolg_zastava_talk_213">
+		<text>你说竞技场在哪里？它究竟在什么地方？</text>
+	</string>
+	<string id="bar_dolg_zastava_talk_2131">
+		<text>离开有着破屋顶的机棚，最后你会在它的前方。我会在你的地图上标记出来的。</text>
+	</string>
+	<string id="bar_dolg_zastava_talk_21311">
+		<text>谢谢你的讯息。</text>
+	</string>
+	<string id="bar_dolg_zastava_talk_214">
+		<text>谢谢你的讯息。</text>
+	</string>
+	<string id="bar_dolg_zavskald_reward_0">
+		<text>我来这里办事情。</text>
+	</string>
+	<string id="bar_dolg_zavskald_reward_1">
+		<text>我想你需要我的帮助。</text>
+	</string>
+	<string id="bar_dolg_zavskald_reward_11">
+		<text>我在来这边的路上射死了一隻猪，他们说牠很有价值。</text>
+	</string>
+	<string id="bar_dolg_zavskald_reward_111">
+		<text>我听说你杀了伯罗夫，你值得获得一些钱和一把好枪。用你的新武器来执行正义吧。</text>
+	</string>
+	<string id="bar_dolg_zavskald_reward_1111">
+		<text>别担心。</text>
+	</string>
+	<string id="bar_dolg_zavskald_reward_12">
+		<text>我跟自由团的泰伦有段小小的"谈话"，他了解了他的错误并且承诺在未来会改进。我很确定他不会违背誓言的--因为死人不会说谎。</text>
+	</string>
+	<string id="bar_dolg_zavskald_reward_121">
+		<text>泰伦是我们的眼中钉！我很高兴你干掉他了，这是你的酬劳--一把闪电S14 ，我们的注册武器。</text>
+	</string>
+	<string id="bar_dolg_zavskald_reward_1211">
+		<text>不坏，我不再做同样的事情了。再见。</text>
+	</string>
+	<string id="bar_dolg_zavskald_reward_13">
+		<text>沃洛宁没告诉你任何事情吗？</text>
+	</string>
+	<string id="bar_dolg_zavskald_reward_131">
+		<text>哇，恭喜！杀死自由团的领袖可是一大进展。兄弟，我希望我像你一样的悍。</text>
+	</string>
+	<string id="bar_dolg_zavskald_reward_1311">
+		<text>多运动，多吃蔬菜，多听妈妈的话（-_-!）。谢谢新装备，我要走了。</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_0">
+		<text>我想知道一些事情。</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_1">
+		<text>你想知道什么？</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_11">
+		<text>你是谁，你是如何到这个地方来的？</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_111">
+		<text>我的名字是克鲁格洛夫，我是一个生物学教授，我研究特异区。昨天，举例来说，我发现了一个动物的特殊行为--拟人化、植物化和通俗化。我几乎发现并记录了新的异种动物，它们的特性和特殊的特色。这些讯息都会被传送到世界各地供人研读。当然，有一部份被酒保拿去了。我的发现被用来拯救许多潜行者的生命。当直昇机冒险前来时，我都会将我在杨塔湖实验室的研究成果传上去的。</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_12">
+		<text>告诉我关于特异区的事情。</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_121">
+		<text>特异区是给人类一个神奇的礼物。当然一般人无法在这个高辐射地区生存，还有可怕的变种生物。所有这些东西显然很危险，但它们同样的拥有很高的科学价值。特异区几乎是一个自然界的实验，一个科学的宝藏！通过研究特异区深不可测的状况可以增进人类之势的发展。科技、医药、新的植物--医药和食物、生物科技、治癒无药可医疾病的方法…任何事情！获许我们可以解决整个星球的食物问题。如果人们不干预，科学可以带领人类进入一个新的黄金年代！</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_1211">
+		<text>纪律团认为其他的人、甚至是自由团都不会想要帮助你的。</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_12111">
+		<text>你该要从大处来看。对你来说，你"此时此刻"的问题远比人类的未来来得重要！</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_1212">
+		<text>或许那边有些有用的东西可以用来研究特异区。</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_12121">
+		<text>那么你也了解了？发现身边都是心胸远大的人的感觉真是美妙。我常常说要从大局着眼，才能拉开我们人类窄小的目光。即使是特异区会伤害到人类，它还是对我们有很大的用处！</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_13">
+		<text>为什么佣兵团再寻找这个讯息？</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_131">
+		<text>我希望这不会冒犯到你，但许多潜行者就像隻小鸡一样。他们很严重受到他们发现的事情的影响。只要想想那些关于黑石实现愿望的传说，真是个笑话！问题是这些孩子用真枪来玩他们的游戏而导致死亡产生。不成熟的人经常会抱怨别人不跟他们一起分享，包括了对他们无意义的讯息。他们无限制的使用武力，他们不经思考的射杀、并且杀害那些研究特异区的人。他们相信这些讯息可以开启通往特异区中心的道路，这些笨蛋，危险又天真的的笨蛋。</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_14">
+		<text>我在寻找X16实验室，你可以告诉我它在什么地方吗？</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_141">
+		<text>X16实验室？…萨哈罗夫过去有提过类似的消息，不过我记不起来他说过什么了。或许你该问问他本人…他现在人在杨塔湖的移动实验室。</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_give_info_dp_15">
+		<text>很不幸的我该走了，祝好运。</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_101">
+		<text>一号，阻止他们，不然他们会杀死我们！</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_1011">
+		<text>坐好，我们会对付他们的。</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_10111">
+		<text>好的。</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_1012">
+		<text>行动，我们得试着突破…</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_10121">
+		<text>让我们快一点。</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_11">
+		<text>潜行者，我乞求你！我们从杨塔回来时佣兵团把我们的直昇机打了下来。我听说他们在寻找讯息，但我知道他们会把我们给杀死的。帮我到湖边，我会告诉你所有我知道的事情。我知道关于焦脑器的讯息，酒吧老板会付给你很好的酬劳的。</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_111">
+		<text>好吧。</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_1111">
+		<text>谢谢你，潜行者。我不算个战士，但我知道作战的方法。所以我负责带头，你来掩护我们。</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_112">
+		<text>不，你自己想办法离开吧。</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_1121">
+		<text>不，我确定你不是那个意思。我自己绝对逃不出去的。如果你改变心意的话，我会在这里…如果我还活着的话。</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_21">
+		<text>快，我们得赶快离开这里。</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_31">
+		<text>咻！我们真的安全了吗？终于！真是感谢你的帮助！我欠你的，现在请收下这个闪存盘，里面有我最新的考察结果。我很确定酒吧老板会付出高价来购买的。</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_311">
+		<text>是的，我们在这了。</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_3111">
+		<text>一号，如果你来拜访我们的移动实验室，我们会给你一套科学工作服的。</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_31111">
+		<text>到时再说了。</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_41">
+		<text>你好，潜行者，请允许我表达代表地球科学的感谢。</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_51">
+		<text>一号，阻止他们，不然他们会杀死我们！</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_511">
+		<text>坐好，我们会对付他们的。</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_5111">
+		<text>好的。</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_512">
+		<text>行动，我们得试着突破…</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_5121">
+		<text>出发。</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_61">
+		<text>一号，阻止他们，不然他们会杀死我们！</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_611">
+		<text>坐好，我们会对付他们的。</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_6111">
+		<text>好的，我会在这等着。</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_612">
+		<text>行动，我们得试着突破…</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_6121">
+		<text>好的，动作快一点。</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_71">
+		<text>当心"燃烧"特异点，一号。我的服装可以保护我，但你最好避开它。</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_711">
+		<text>谢谢你的建议。</text>
+	</string>
+	<string id="bar_ecolog_crush_professor_start_91">
+		<text>快一点，一号，现在不是谈话的时间。</text>
+	</string>
+	<string id="bar_ecolog_dialog_11">
+		<text>潜行者，跟克鲁格洛夫教授谈谈，帮助他逃出来。</text>
+	</string>
+	<string id="bar_ecolog_dialog_21">
+		<text>结束了，他们杀死了克鲁格洛夫！</text>
+	</string>
+</string_table>

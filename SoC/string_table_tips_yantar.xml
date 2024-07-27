@@ -1,0 +1,24 @@
+﻿	<string id="general_ecolog_tip_1">
+		<text>发生了什么事？他死了吗？立刻回来！</text>
+	</string>
+	<string id="general_ecolog_tip_2">
+		<text>发生了什么事？他死了吗？拿取样本，然后马上回来！</text>
+	</string>
+	<string id="storyline_ghost_tip">
+		<text>幽灵的录音。</text>
+	</string>
+	<string id="storyline_vasilyev_tip">
+		<text>瓦西里夫的录音。</text>
+	</string>
+	<string id="tips_labx16switcher_press">
+		<text>要关掉奇迹机器按下($$ACTION_USE$$)</text>
+	</string>
+	<string id="yan_saharov_message">
+		<text>干得不错，一号，你终于做到了。我们在研究室研究这个机器是很重要的事。试著关掉它，那么我们就可以好好的研究一下。</text>
+	</string>
+	<string id="yan_saharov_message_2">
+		<text>听着，这件防护装置没办法在那么强的电磁场中长时间的保护你。当每次检测到电磁波时，会有一个计时器会开始计时。当时限到达时，防护装置就会失去了保护的能力。小心点，用你的眼睛盯着计时器。</text>
+	</string>
+	<string id="yan_saharov_message_3">
+		<text>干的好，一号。电磁场源被关闭了，而你还活著。我需要警告你，不管怎样，我们通知了一些军用直升机来清扫这个区域里的僵尸。除非必要，不然不要到处闲逛。喔，还有，每隔一段时间就进来一下我们的碉堡，可以吗？</text>
+	</string>

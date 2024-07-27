@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="dar_explorer_dialog_1">
+		<text>我在进行一个任务。</text>
+	</string>
+	<string id="dar_explorer_dialog_11">
+		<text>嗯，什么样的任务？你在找甚么东西吗？或是你已经找到了？我听说这边有一堆好东西…</text>
+	</string>
+	<string id="dar_explorer_dialog_111">
+		<text>我很抱歉，我不能告诉你，我也没有时间了。</text>
+	</string>
+	<string id="dar_explorer_dialog_1111">
+		<text>等等，别跑开。你有足够的机会可以去…你发现了甚么东西？就我自己来说，我不会在这里没事闲晃，你知道的。</text>
+	</string>
+	<string id="dar_explorer_dialog_11111">
+		<text>我找到甚么是我的事情。</text>
+	</string>
+	<string id="dar_explorer_dialog_11112">
+		<text>我找了了X18实验室的文件。酒保承诺我要用高价来购买。</text>
+	</string>
+	<string id="dar_explorer_dialog_112">
+		<text>不，我甚么都没找到。</text>
+	</string>
+	<string id="dar_explorer_dialog_2">
+		<text>我甚至不知道我是怎么到这里来的。我想尽快的离开这里。</text>
+	</string>
+	<string id="dar_explorer_dialog_21">
+		<text>你在这找不到好东西的，有吗？据说这里有一些关于科学探勘的讯息。他们可值不少钱…</text>
+	</string>
+	<string id="dar_explorer_dialog_211">
+		<text>不，我没有。</text>
+	</string>
+	<string id="dar_explorer_dialog_2111">
+		<text>耶？…那你是怎么想的？你对我隐瞒了甚么事情吗？</text>
+	</string>
+	<string id="dar_explorer_dialog_21111">
+		<text>不。</text>
+	</string>
+	<string id="dar_explorer_dialog_21112">
+		<text>这算甚么问题？</text>
+	</string>
+	<string id="dar_explorer_dialog_21113">
+		<text>你在威胁我？</text>
+	</string>
+	<string id="dar_explorer_dialog_212">
+		<text>去他的讯息，我都快要死了。</text>
+	</string>
+	<string id="dar_explorer_dialog_2121">
+		<text>好吧，那你走吧。如果你发现了甚么东西--我会在附近的…</text>
+	</string>
+	<string id="dar_explorer_dialog_25">
+		<text>听着，伙伴，我曾经在这个恶心的变异区中穿越过火、变异点和怪物，而你还见到我活的好好的！所以你别跟我说我甚么可以说、甚么不可以说。我为了文件来到这里，找不到的话我是不会离开的。如果他们在你身上，我建议你交出来，不然就准备长眠吧！懂了吗？</text>
+	</string>
+	<string id="dar_explorer_dialog_251">
+		<text>懂了。</text>
+	</string>
+	<string id="dar_explorer_dialog_2511">
+		<text>如果你骗我，那你就麻烦了。如果你想勒索我，那你就麻烦了。如果你想跟我废话，那你就麻烦了。事实上，你现在非常的麻烦，所以你得努力的表现一下！现在，让我再试一次，你自己放聪明一点：你有没有找到文件？</text>
+	</string>
+	<string id="dar_explorer_dialog_2521">
+		<text>好吧，还有下次注意你的嘴。你可以走了。如果你找到甚么东西，我会在附近的…</text>
+	</string>
+	<string id="dar_explorer_dialog_253">
+		<text>对话结束。走开。</text>
+	</string>
+	<string id="dar_explorer_dialog_26">
+		<text>我没有任何文件。</text>
+	</string>
+	<string id="dar_explorer_dialog_271">
+		<text>那好多了，好朋友。现在把你知道的讯息都跟我说，大大小小的事情。别想开甚么玩笑，不然那会是你最后的…</text>
+	</string>
+	<string id="dar_explorer_dialog_51">
+		<text>我告诉你，停下来！我不会没事在这个老鼠洞里四处乱晃。别再胡闹了，告诉我你发现了甚么。我们甚至可以平分…</text>
+	</string>
+	<string id="dar_explorer_dialog_511">
+		<text>我没要分享任何事。</text>
+	</string>
+	<string id="dar_explorer_dialog_5111">
+		<text>嗯哼，现在滚开…我给你最后的建议--注意你的脚步，潜行者，你会需要的！</text>
+	</string>
+	<string id="dar_explorer_dialog_512">
+		<text>你在威胁我？</text>
+	</string>
+	<string id="dar_explorer_dialog_5121">
+		<text>OK，OK，冷静点…我只是好奇而已，你在拔枪了！没有问题了，小心点，就这样。</text>
+	</string>
+	<string id="dar_explorer_dialog_61">
+		<text>文件，嗯…如你所知，那正是我来的原因。现在你把它们交出来然后离开。清楚了吗？</text>
+	</string>
+	<string id="dar_explorer_dialog_6111">
+		<text>我会提供些东西。</text>
+	</string>
+	<string id="dar_explorer_dialog_6121">
+		<text>听着，兄弟，别在胡搞我的脑子了。让我们协议一下，我会给你一个好价钱--你不会后悔的。</text>
+	</string>
+	<string id="dar_explorer_dialog_6131">
+		<text>听着，我的生命系在这些文件上面。让我们看看你有甚么--我想我们可以作一个协议…</text>
+	</string>
+	<string id="dar_explorer_dialog_8011">
+		<text>这里真暗，我甚么都看不见。四周都是…我为什么要同意这么做？！你的，你是怎么到这里来的？</text>
+	</string>
+	<string id="dar_explorer_dialog_8021">
+		<text>继续移动，潜行者。</text>
+	</string>
+	<string id="dar_explorer_dialog_8031">
+		<text>我讨厌说话时有人打断。我为了某些重要的文件来到这里。如果你找到些东西，把它交出来不然你惹上麻烦的。如果你甚么都没发现，滚开，别浪费我的时间。</text>
+	</string>
+	<string id="dar_explorer_dialog_8041">
+		<text>我讨厌说话时有人打断。如果你珍惜生命的话，赶快把文件交给我。</text>
+	</string>
+	<string id="dar_explorer_dialog_9">
+		<text>我会记住的。</text>
+	</string>
+</string_table>

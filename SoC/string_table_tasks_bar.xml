@@ -1,0 +1,132 @@
+﻿	<string id="bar_bring_hunter_rifle">
+		<text>归还猎人的家传来福枪</text>
+	</string>
+	<string id="bar_bring_PDA_lucky">
+		<text>将领队的PDA交给酒保</text>
+	</string>
+	<string id="bar_crazy_veterans_quest">
+		<text>杀死疯狂的老兵</text>
+	</string>
+	<string id="bar_dolg_base_rules">
+		<text>在纪律团守卫队指挥官处登记</text>
+	</string>
+	<string id="bar_dolg_base_rules_fin">
+		<text>交还给酒保</text>
+	</string>
+	<string id="bar_dolg_base_rules_talk">
+		<text>找到纪律团守卫队指挥官并将自己登记</text>
+	</string>
+	<string id="bar_dolg_bring_rg6">
+		<text>帮沃洛宁将军取得Bulldog 6</text>
+	</string>
+	<string id="bar_dolg_community_quest">
+		<text>加入纪律团</text>
+	</string>
+	<string id="bar_dolg_community_quest_prisyaga">
+		<text>许下誓言</text>
+	</string>
+	<string id="bar_dolg_community_quest_recomendation">
+		<text>从依凡斯托夫上尉处取得推荐函</text>
+	</string>
+	<string id="bar_dolg_community_quest_vernost">
+		<text>向纪律团证明你的忠诚</text>
+	</string>
+	<string id="bar_dolg_find_cook">
+		<text>获取自由团厨师的信任，并且找出RG6存放的地方。</text>
+	</string>
+	<string id="bar_dolg_find_rg6">
+		<text>混入自由团基地，寻找并偷取RG6</text>
+	</string>
+	<string id="bar_dolg_info_gain">
+		<text>寻找关于X18实验室的截取讯息</text>
+	</string>
+	<string id="bar_dolg_kill_tiran">
+		<text>杀死小队组长泰伦</text>
+	</string>
+	<string id="bar_dolg_return_info">
+		<text>将X18实验室的讯息交给沃洛宁将军</text>
+	</string>
+	<string id="bar_dolg_return_rg6">
+		<text>将RG6交给沃洛宁将军</text>
+	</string>
+	<string id="bar_dolg_rg6_quest">
+		<text>加入纪律团所需要的任务</text>
+	</string>
+	<string id="bar_dolg_svoboda_ambush_quest">
+		<text>消灭佣兵团</text>
+	</string>
+	<string id="bar_dolg_svoboda_ambush_return">
+		<text>将袖标交给沃洛宁将军</text>
+	</string>
+	<string id="bar_dolg_tiran_PDA">
+		<text>拿取泰伦的PDA</text>
+	</string>
+	<string id="bar_hunter_find_rifle">
+		<text>寻找家传来福枪</text>
+	</string>
+	<string id="bar_hunter_return_rifle">
+		<text>将来福枪交给酒吧的猎人</text>
+	</string>
+	<string id="bar_hunter_rifle">
+		<text>寻找家传来福枪</text>
+	</string>
+	<string id="bar_kill_crazy_veterans">
+		<text>杀死老兵的首领</text>
+	</string>
+	<string id="bar_kill_crazy_veterans_PDA">
+		<text>拿取他们首领的PDA</text>
+	</string>
+	<string id="bar_kill_veterans">
+		<text>摧毁疯狂老兵的营地</text>
+	</string>
+	<string id="bar_radar_deactivate">
+		<text>关掉焦脑器</text>
+	</string>
+	<string id="bar_resque_information">
+		<text>会见克鲁格洛夫</text>
+	</string>
+	<string id="bar_resque_information_2">
+		<text>带领克鲁格洛夫前往扬塔尔湖</text>
+	</string>
+	<string id="bar_resque_scientific_follow">
+		<text>带领克鲁格洛夫到出口前往扬塔尔湖</text>
+	</string>
+	<string id="bar_resque_scientific_information">
+		<text>…</text>
+	</string>
+	<string id="bar_resque_scientific_information_bring">
+		<text>与克鲁格洛夫交谈</text>
+	</string>
+	<string id="bar_resque_scientific_information_get">
+		<text>接通克鲁格洛夫</text>
+	</string>
+	<string id="bar_resque_scientific_information_get_2">
+		<text>与克鲁格洛夫教授交谈</text>
+	</string>
+	<string id="bar_x16_documents">
+		<text>寻找X16实验室中的文件</text>
+	</string>
+	<string id="bring_x16_documents">
+		<text>将文件交给酒吧老板</text>
+	</string>
+	<string id="deactivate_radar_now">
+		<text>关闭机器</text>
+	</string>
+	<string id="find_and_deactivate_radar">
+		<text>找到控制碉堡的入口</text>
+	</string>
+	<string id="get_to_antennas">
+		<text>到达天线</text>
+	</string>
+	<string id="Kruglov_research">
+		<text>克鲁格洛夫的研究</text>
+	</string>
+	<string id="look_for_x16_lab">
+		<text>找出X16实验室的文件</text>
+	</string>
+	<string id="wpn-winchester_m1">
+		<text>战斗版温彻斯特1300</text>
+	</string>
+	<string id="x16_yantar">
+		<text>与科学家交谈</text>
+	</string>

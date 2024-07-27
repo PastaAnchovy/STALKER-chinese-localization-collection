@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="binoc_tutorial">
+		<text>要使用望远镜，选择物品($$ACTION_wpn_5$$)然后按下射击键来放大。</text>
+	</string>
+	<string id="binocular">
+		<text>望远镜</text>
+	</string>
+	<string id="crouch">
+		<text>蹲下</text>
+	</string>
+	<string id="crouch_down_tutorial">
+		<text>想要蹲低一点时，按下($$ACTION_crouch$$) + (Shift)</text>
+	</string>
+	<string id="crouch_tutorial">
+		<text>想要蹲下时，按下($$ACTION_crouch$$)。想要蹲的更低时，按下($$ACTION_crouch$$) + ($$ACTION_accel$$)</text>
+	</string>
+	<string id="hide_weapon">
+		<text>选择武器</text>
+	</string>
+	<string id="hide_weapon_tutorial">
+		<text>如果你把枪指著他们，潜行者们将不愿意和你交谈，请收起你的枪。要收好你的武器，你须要选择一个栏位。 ($$ACTION_wpn_6$$)</text>
+	</string>
+	<string id="jump">
+		<text>跳跃</text>
+	</string>
+	<string id="jump_tutorial">
+		<text>跳跃可以帮助你爬到障碍物的上方。要跳跃，按下($$ACTION_jump$$)</text>
+	</string>
+	<string id="move_tutorial">
+		<text>移动形式。</text>
+	</string>
+	<string id="overload">
+		<text>超载</text>
+	</string>
+	<string id="overload_tutorial">
+		<text>你又不是骡子，所以你能携带的东西很有限。当重量超出你的负载极限时，你很快的就会耗尽体力。你可以查看目前你的装备重量，以及你装备栏的最大负重数。</text>
+	</string>
+	<string id="radiation">
+		<text>辐射</text>
+	</string>
+	<string id="radiation_tutorial">
+		<text>如果你携带了高辐射的神器，或是进入了高辐射污染区域，你的健康就会慢慢的受到伤害。要消除辐射的影响可以使用抗辐射药物或是伏特加酒来中和。</text>
+	</string>
+	<string id="relation">
+		<text>态度</text>
+	</string>
+	<string id="relation_tutorial">
+		<text>藉由帮助其他人，你可以改变他们对你的态度，如同你的声望一样。较好的态度和较高的名声可以帮助你和别人的互动。如果你是他们眼中的好人，他们会乐于给你更多的讯息和给你较便宜的购物价格。反过来说，如果你与某个人交火，他们对你的态度很快的就会变成敌人。因此要不你是他们的朋友，要不他们就会攻击你。</text>
+	</string>
+	<string id="sleep_tutorial">
+		<text>这是一个睡觉的好地方。在这里你可以好好的睡上一晚，等待天亮，或是消磨些时间。想要睡觉，打开物品栏，设定你要休息的时间，然后按下"休息"按键。你的角色将会在设定的时间醒来，他会有个好梦的。</text>
+	</string>
+	<string id="sprint">
+		<text>冲刺</text>
+	</string>
+	<string id="sprint_tutorial">
+		<text>有时你必须移动得比平时快。要这样做，在移动时按下($$ACTION_sprint_toggle$$)。一个加速的角色跑得更快跳得也更高，但更容易累，并且在这种高速移动下无法射击。</text>
+	</string>
+	<string id="starvation_tutorial">
+		<text>如果角色有段时间没有进食他就会变得饥饿。除非他找到些东西来吃，不然就会损害健康。要防止饥饿，角色必须定期进食。一块面包，一听罐头食物或是一条香肠都可以简单的解决这个问题，至少可以撑一段时间。</text>
+	</string>
+	<string id="tutorial">
+		<text>训练</text>
+	</string>
+	<string id="weakness">
+		<text>疲劳</text>
+	</string>
+	<string id="weakness_tutorial">
+		<text>长时间奔跑会引起疲劳。当角色变得精疲力竭时，他将会无法再跑步，只能走路行进。角色背的东西越多，就越容易累。停下来站个几秒钟可以获得足够的体力回复。</text>
+	</string>
+	<string id="weapon">
+		<text>武器状态</text>
+	</string>
+	<string id="weapon_tutorial">
+		<text>所有的武器都有它的耐用参数。武器的耐用度越低，就越容易卡膛。要排除故障，按下$$ACTION_wpn_reload$$来重新装填弹药。武器的耐用度会随使用时间增加而降低。武器如果被子弹击中，将会立即损坏。</text>
+	</string>
+	<string id="wound">
+		<text>伤害</text>
+	</string>
+	<string id="wound_tutorial">
+		<text>当角色被击中，他可能会开始流血。流血会导致角色不断的失去健康。出血越严重（绿色图示表示轻微出血，红色图示表示严重出血），失去健康的速度就会越快。流血会随时间而自行停止，也可以使用绷带立刻止血。</text>
+	</string>
+	<string id="pda_diary_tutorial">
+		<text>在死亡的潜行者的PDA中，你发现了他在隧道中对怪物的观察信息，这证明他发现了其中的规律性。你可以在你的PDA中的"日记"选项中阅读这些资讯。</text>
+	</string>
+</string_table>

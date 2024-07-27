@@ -1,0 +1,54 @@
+﻿	<string id="bar_darklab_documents_1_hint">
+		<text>伯罗夫</text>
+	</string>
+	<string id="bar_darklab_documents_2_hint">
+		<text>地道</text>
+	</string>
+	<string id="bar_darklab_documents_3_hint">
+		<text>实验室入口</text>
+	</string>
+	<string id="bar_darklab_documents_4_hint">
+		<text>管子</text>
+	</string>
+	<string id="bar_darklab_documents2_1_hint">
+		<text>实验室的文件</text>
+	</string>
+	<string id="bar_darklab_documents2_2_hint">
+		<text>酒吧老板</text>
+	</string>
+	<string id="val_captive_help_1_hint">
+		<text>子弹</text>
+	</string>
+	<string id="val_captive_help_2_hint">
+		<text>囚犯</text>
+	</string>
+	<string id="val_come_to_trader_1_hint">
+		<text>南边的大门</text>
+	</string>
+	<string id="val_come_to_trader_2_hint">
+		<text>贸易商人</text>
+	</string>
+	<string id="val_prisoner_help_main_hint">
+		<text>被俘的纪律团成员</text>
+	</string>
+	<string id="val_sos_help_main_hint">
+		<text>受伤的潜行者</text>
+	</string>
+	<string id="val_zone_bandits_hint">
+		<text>强盗营地</text>
+	</string>
+	<string id="val_zone_farm_hint">
+		<text>农场。\n购买高斯枪。</text>
+	</string>
+	<string id="val_zone_monolith_hint">
+		<text>旧工厂</text>
+	</string>
+	<string id="val_zone_pipe_hint">
+		<text>下水道</text>
+	</string>
+	<string id="val_zone_robbers_hint">
+		<text>遗弃的养猪场</text>
+	</string>
+	<string id="val_zone_south_gate_hint">
+		<text>大门</text>
+	</string>

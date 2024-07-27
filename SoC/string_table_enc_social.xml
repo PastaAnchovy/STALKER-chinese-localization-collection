@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="Army">
+		<text>军队</text>
+	</string>
+	<string id="Bandits">
+		<text>强盗</text>
+	</string>
+	<string id="Duty">
+		<text>纪律团阵营</text>
+	</string>
+	<string id="enc_social_military_army">
+		<text>一般的军队士兵。他们守卫着所有进入特异区的道路，在四周巡逻，杀死异种和追捕强盗。\n俄罗斯特种部队--军队中的菁英部队，通常被派到特异区来执行拯救任务和特别任务。</text>
+	</string>
+	<string id="enc_social_military_milstalkers">
+		<text>那些接受特别训练的士兵、或是跟陆军签了约的潜行者，跟着他们的部队在特异区工作。他们通常拥有数种支援配备和良好的武装，过去主要是在研究大灾变的原因和影响，以及为特异区制作地图。他们可以独立工作，或是组成五人一组的小型特遣队。军队潜行者通常不会允许一般的潜行者接近，而且一看到就会开火射击。</text>
+	</string>
+	<string id="enc_social_scientists_mobile-groups">
+		<text>消除</text>
+	</string>
+	<string id="enc_social_scientists_mobile-labs">
+		<text>移动实验室是由一个小型、带有装甲、有着脏玻璃的小窗户的碉堡改装而成的。这个实验室可以抵御大量的攻击，它可信赖维生系统可以自动的工作好几个月。碉堡由运输直升机送到特异区中，实验室的成员从来不让访客通过外部的气密室，所以从来没有任何潜行者进去过里面。</text>
+	</string>
+	<string id="enc_social_stalker-clans_bandits">
+		<text>地下世界犯罪组织的成员为了不同的理由来到特异区：变卖神器来获取金钱、逃避法律或是贩卖武器。特异区里到处都是强盗，从一般的打手到的可怕罪犯，他们大部分都是帮派的成员。虽然在特异区的帮派常会互相攻击，对一个一般的潜行者来说，犯罪仍然是特异区中很严重的问题。</text>
+	</string>
+	<string id="enc_social_stalker-clans_duty">
+		<text>一个准军事的组织知道自己的纪律，它的成员依据严格的规定来生活。纪律团的成员是唯一拒绝将特殊的物品交易到特异区外面世界的组织。根据谣言，这个组织所发现的神器都交给了科学家。它的成员以保护外面世界免受特异区伤害为优先要件。大部分该组织的任务都是毁灭怪物跟盗匪。纪律团的行动通常解救了不少陷入麻烦的一般潜行者。这个阵营跟自由团交火已经有很长的一段时间了。</text>
+	</string>
+	<string id="enc_social_stalker-clans_freedom">
+		<text>无政府主义者跟一些不怕死的人宣称他们的战士想要自由进入特异区，结果发现他们自己很快的就遭遇到了军队、军队潜行者和纪律团阵营。这些同时也被称为自由团战士的人相信特异区的信息应该世界其他的人共同分享，而且挑战着政府垄断了所有的特异区的秘密和奇迹。</text>
+	</string>
+	<string id="enc_social_stalker-clans_killers">
+		<text>特异区中最神秘、最隐蔽的阵营，有些人甚至不承认他们的存在。把他们当成是专家的人定期会雇用佣兵团的服务，可以快速的对付任何的潜行者，甚至歼灭一小群对手。他们的服务并不便宜--佣兵团会要求国王等级的赎金，他们的服务通常使用金钱或是神器来支付。他们基地的位置一直是个秘密，据说它位于深入特异区之中的地方。</text>
+	</string>
+	<string id="enc_social_stalker-clans_loners">
+		<text>潜行者会自己探索特异区。因为加入组织会拿走珍贵的时间和需要分享战利品，大部分的潜行者都一个人行动。所以总是会有一些单纯喜欢孤独和独立行动的人。</text>
+	</string>
+	<string id="enc_social_stalker-clans_monolith">
+		<text>这个组织显示了许多宗教学派的特征。它的成员相信一个外星复合水晶的存在--黑石，座落在特异区中央的某个地方。大多数的潜行者用轻视的态度看待黑石组织，并且把他们当成疯子。这个组织一开始努力阻挡所有前往特异区中心的步伐，保护黑石不让潜行者接近。谣传说他们在特异区深处有一个大型的基地，但确实的位置只有它的成员才知道。</text>
+	</string>
+	<string id="enc_social_stalker-clans_zomstalkers">
+		<text>长期暴露在扬塔和强烈辐射区的可怜灵魂。缺乏照顾的潜行者变得疯狂，最后变成了活死人。有许多像这样的尸体在特异区里游荡着，有些则游荡到了边缘去。他们没人帮助，因为这些影响是无法治疗的。殭尸化的潜行者仍然会使用武器，但他们变得很笨，而且一下就被听见他们由口中发出无意义的声音、和不完整的句子。他们逐渐会失去所有的技能而变成殭尸，他们通常非常易怒，在数量很多时会造成很可怕的威胁。</text>
+	</string>
+	<string id="Freedom">
+		<text>自由团</text>
+	</string>
+	<string id="Killers">
+		<text>佣兵团</text>
+	</string>
+	<string id="Loners">
+		<text>独行者</text>
+	</string>
+	<string id="Military">
+		<text>军事单位</text>
+	</string>
+	<string id="Milstalkers">
+		<text>军队潜行者</text>
+	</string>
+	<string id="Mobile-groups">
+		<text>研发团队</text>
+	</string>
+	<string id="Mobile-labs">
+		<text>移动科学实验室</text>
+	</string>
+	<string id="Monolith">
+		<text>黑石组织</text>
+	</string>
+	<string id="Scientists">
+		<text>科学家</text>
+	</string>
+	<string id="Social">
+		<text>阵营</text>
+	</string>
+	<string id="Stalker-clans">
+		<text>潜行者公会</text>
+	</string>
+	<string id="Zomstalkers">
+		<text>僵尸潜行者</text>
+	</string>
+</string_table>

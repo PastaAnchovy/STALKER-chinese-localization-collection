@@ -1,0 +1,1170 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="artefact">
+		<text>取得神器。</text>
+	</string>
+	<string id="barmen_defend_camp_1">
+		<text>保护废弃区中的潜行者营地，免受强盗的袭击。</text>
+	</string>
+	<string id="barmen_defend_camp_1_descr">
+		<text>保护废弃区中的潜行者营地，免受强盗的袭击。</text>
+	</string>
+	<string id="barmen_defend_camp_1_text">
+		<text>一群潜行者正过来与我会面，而我个人希望他们可以平安到达。他们在离酒吧不远的地方，一个内线告诉我们，他们就快要受到袭击了。所以，出发到那边去，保护他们的营地免受盗匪袭击。</text>
+	</string>
+	<string id="barmen_defend_camp_2">
+		<text>帮助在农业研究所的潜行者对抗强盗。</text>
+	</string>
+	<string id="barmen_defend_camp_2_descr">
+		<text>帮助在农业研究所的潜行者对抗强盗。</text>
+	</string>
+	<string id="barmen_defend_camp_2_text">
+		<text>那么交易是这样的，最近有一群潜行者前往农业研究所，在最后一次联络时，他们表示地底下有些有价值的东西，不过他们被强盗包围。他们撑住了，可是却逃不出来，你要帮助他们吗？</text>
+	</string>
+	<string id="barmen_eliminate_camp_1">
+		<text>消灭废弃区中的强盗。</text>
+	</string>
+	<string id="barmen_eliminate_camp_1_descr">
+		<text>彻底摧毁驻扎在废弃区中的强盗，这必须是个快速又有效率的行动。</text>
+	</string>
+	<string id="barmen_eliminate_camp_1_text">
+		<text>一份工作，嗯？看看我们有什么….啊哈！就这个：你可以打败废弃区的强盗吗？纪律团的那套法理说词可是搞不定他们的。那些人都是少见的恶棍，所以他们应该都活不久吧。先搞定那帮家伙的人将会得到大赏….当然，还有我请的好酒。</text>
+	</string>
+	<string id="barmen_eliminate_camp_2">
+		<text>消灭在罗斯托克的佣兵团和强盗。</text>
+	</string>
+	<string id="barmen_eliminate_camp_2_descr">
+		<text>消灭阻挡在通往罗斯托克道路上的佣兵团和盗匪。</text>
+	</string>
+	<string id="barmen_eliminate_camp_2_text">
+		<text>在罗斯托克不远处有一个佣兵团，他们跟强盗合作，密谋阻挡通往工厂的通路。我不用告诉你这有多烦人，这件事必须马上解决。纪律团的人跟一些老家伙已经去找他们了，不过我们有段时间没听到任何消息了….，去查查看他们怎么了，这个任务报酬也是很不错的。</text>
+	</string>
+	<string id="barmen_eliminate_camp_3">
+		<text>消灭农舍的强盗。</text>
+	</string>
+	<string id="barmen_eliminate_camp_3_descr">
+		<text>这很简单：清除农舍的强盗。</text>
+	</string>
+	<string id="barmen_eliminate_camp_3_text">
+		<text>在旧仓库旁有一些农舍，是用来交换商品的好场所，你知道的….就是那类的东西。不过现在那里被强盗占领了，这件事让我很不舒服。不管这些人是谁，我要你马上清除这座农舍中的强盗！</text>
+	</string>
+	<string id="barmen_eliminate_camp_4">
+		<text>清除大荒野中的强盗营地</text>
+	</string>
+	<string id="barmen_eliminate_camp_4_descr">
+		<text>清除大荒野中的强盗营地</text>
+	</string>
+	<string id="barmen_eliminate_camp_4_text">
+		<text>大荒野中强盗横行，我们不能让这些疯狂的社会败类接近酒吧，一定要去摧毁他们的营地。</text>
+	</string>
+	<string id="barmen_eliminate_camp_5">
+		<text>摧毁大荒野中疯狂异犬的巢穴。</text>
+	</string>
+	<string id="barmen_eliminate_camp_5_descr">
+		<text>摧毁大荒野中疯狂异犬的巢穴。</text>
+	</string>
+	<string id="barmen_eliminate_camp_5_text">
+		<text>我们中有一些人参加了探险队，结果只有一个人活着回来。他们大多数的人都被撕碎了、血淋淋的，活着的人眼神呆滞，像是碰到了异犬一样。所以，找出它们的巢穴，然后杀死那些异犬，一个都不留。</text>
+	</string>
+	<string id="barmen_eliminate_camp_6">
+		<text>摧毁在农业研究所的强盗组织。</text>
+	</string>
+	<string id="barmen_eliminate_camp_6_descr">
+		<text>摧毁在农业研究所的强盗组织。</text>
+	</string>
+	<string id="barmen_eliminate_camp_6_text">
+		<text>我还记得94年那些勒索者是如何的逼迫我--他们这样说，「把东西通通交出来」。伙计，我那时的日子真难过，以前我可是拥有一家餐馆和所有的东西，可是那时都没有任何人可以跟他们对抗！现在我发现同样的盗贼就在农业研究所里，正想从他们发现的那个装置弄出点油水。不过现在我可以作些事情，我甚至知道他们就藏身在什么地方。帮个忙，好好的惩罚他们。</text>
+	</string>
+	<string id="barmen_eliminate_camp_7">
+		<text>摧毁史诺克在黑暗山谷中的巢穴</text>
+	</string>
+	<string id="barmen_eliminate_camp_7_descr">
+		<text>摧毁史诺克在黑暗山谷中的巢穴</text>
+	</string>
+	<string id="barmen_eliminate_camp_7_text">
+		<text>看来那个人说这区域在扩张，是正确的事情。他们在黑暗山谷发现了几个史诺克，但之前从来没有人在这里见过它们。现在有人要开始头痛了，纪律团承诺要消灭那些史诺克，不过从没见过他们在做事。你要接受这个任务吗？</text>
+	</string>
+	<string id="barmen_find_artefact_1">
+		<text>寻找名为肉块的神器</text>
+	</string>
+	<string id="barmen_find_artefact_1_descr">
+		<text>寻找名为肉块的神器，它可以治疗轻微的病痛和伤害。</text>
+	</string>
+	<string id="barmen_find_artefact_1_text">
+		<text>有些随军牧师会停下来看看，购买一些肉块（Lizcst注：一种神器，不是可吃的东西-_-!）。你知道的，他们对这些有治疗功能的物品很有兴趣….那些卑鄙的家伙！不论如何….你接受吗？决定权在你。</text>
+	</string>
+	<string id="barmen_find_artefact_2">
+		<text>寻找名为晶刺的神器</text>
+	</string>
+	<string id="barmen_find_artefact_2_descr">
+		<text>寻找名为晶刺的神器，它可以保护对抗辐射侵袭。</text>
+	</string>
+	<string id="barmen_find_artefact_2_text">
+		<text>"鸡翅"？….不，不是。"军事"？….不，又错了….你这家伙！"晶刺"，就是它！你听清楚了没？有人说你有一个，所以没有任何东西可以搞混你的脑子，这你做和解释？</text>
+	</string>
+	<string id="barmen_find_artefact_3">
+		<text>寻找名为夜星的神器</text>
+	</string>
+	<string id="barmen_find_artefact_3_descr">
+		<text>寻找名为夜星的神器，它可以帮助军事研究。</text>
+	</string>
+	<string id="barmen_find_artefact_3_text">
+		<text>我需要名为夜星的神器。很抱歉它其实不能实现任何的愿望，可是它可以让你变得很有钱。科学家为了它会付出很高的价钱，有人说他们拿来作了些军事用途…，那么，你愿意吗？</text>
+	</string>
+	<string id="barmen_find_artefact_4">
+		<text>寻找名为闪光的神器</text>
+	</string>
+	<string id="barmen_find_artefact_4_descr">
+		<text>寻找名为闪光的神器</text>
+	</string>
+	<string id="barmen_find_artefact_4_text">
+		<text>这个任务简单，而且报酬不错。你必须寻找名为闪光的神器，别问是谁或是为什么。好吧，你接受吗？</text>
+	</string>
+	<string id="barmen_find_artefact_5">
+		<text>寻找名为金鱼的神器</text>
+	</string>
+	<string id="barmen_find_artefact_5_descr">
+		<text>寻找名为金鱼的神器</text>
+	</string>
+	<string id="barmen_find_artefact_5_text">
+		<text>一号，你知道关于金鱼的神话故事吗？耶、耶，就是那个。关于那个的笑话也是一箩筐呢。不管怎样，那是一个一直追捕金鱼的老人的故事。底线是，我需要一个叫做金鱼的神器，客户现在就在外面，一个很体面的客户。你要帮忙吗？</text>
+	</string>
+	<string id="barmen_find_item_1">
+		<text>寻找污染防护服</text>
+	</string>
+	<string id="barmen_find_item_1_descr">
+		<text>寻找防护Psi-电磁辐射的服装，在黑暗山谷的废弃实验室中可以找到它。</text>
+	</string>
+	<string id="barmen_find_item_1_text">
+		<text>在黑暗山谷中的那些实验室，尝试着在找出保护人脑免受Psi-电磁辐射伤害的方法。很确定的是，他们用光了所有的时间….不论如何，他们其中的一个尝试的确成功了，就是这个防护装。你可以穿着它作任何事情，那可真是太好了。如果你能给我这个令人兴奋的好东西，我是绝对不会忘记你的好处的。</text>
+	</string>
+	<string id="barmen_find_item_2">
+		<text>寻找外国人的枪。</text>
+	</string>
+	<string id="barmen_find_item_2_descr">
+		<text>这是个有趣的任务。这名字真熟悉….我在哪里听过？</text>
+	</string>
+	<string id="barmen_find_item_2_text">
+		<text>这个外国人有一次来到我们这边…他的名字叫哥登吗？他一生都是个经验丰富的潜行者，，但他宣称自己从未来过特异区。不管怎样，那不是重点。他最后还是失踪在特异区的某个地方。他有个叫做沙漠之鹰的奇特武器，如果我可以仔细的看看….</text>
+	</string>
+	<string id="barmen_find_item_3">
+		<text>寻找改进版的温彻斯特 1300（Lizcst注：一把散弹枪）</text>
+	</string>
+	<string id="barmen_find_item_3_descr">
+		<text>寻找改进版的温彻斯特 1300。明显的，那地方在红森林区域。</text>
+	</string>
+	<string id="barmen_find_item_3_text">
+		<text>这个奇怪的事情事这样的：这个家伙出现了，口袋里满满是钱，他搞了一个帮派。不是属于老时代的那种帮派，而是比较像阿飞类型的。他跟我买了一堆的东西….我曾经有一把全新的温塔枪，一把完美的枪！而我却笨到把它卖给他。不骗你，我赚了不少钱….直到这群人在靠近红森林区域被击败了。我能说什么呢，他们死得一文不值…好吧，至少这是个教训：你别想用钱来铺设穿越特异区的道路。不管怎样…我一直想着那把温彻斯特 1300，一把上好的枪放任在某个地方让它鏽蚀！你可以帮我找回来吗？我会付你很好的酬劳的！</text>
+	</string>
+	<string id="barmen_kill_stalker_1">
+		<text>杀死士兵</text>
+	</string>
+	<string id="barmen_kill_stalker_1_descr">
+		<text>解决掉一个士兵。这份工作轻松又容易，除了…很奇怪的是目标居然是个穿制服的人，我们的顾客一定士气疯了。</text>
+	</string>
+	<string id="barmen_kill_stalker_1_text">
+		<text>我需要你干掉这个步兵…别问我他是谁，我才不在乎！去干就是了。那么？我可以信任你吗？</text>
+	</string>
+	<string id="barmen_kill_stalker_2">
+		<text>杀死潜行者</text>
+	</string>
+	<string id="barmen_kill_stalker_2_descr">
+		<text>干掉一个潜行者，为诈骗者带来死亡，这可是贸易商人的复仇。</text>
+	</string>
+	<string id="barmen_kill_stalker_2_text">
+		<text>你知道的，像这样的人你绝不会说他坏话…你信任他如同信任自己，对吧？你投资在他身上…但突然间你发现他其实是最卑鄙邪恶的小人…这是约定：这个任务需要处理，接下它，不然我会去找其他人来作。</text>
+	</string>
+	<string id="barmen_kill_stalker_3">
+		<text>杀死来自黑石组织的潜行者</text>
+	</string>
+	<string id="barmen_kill_stalker_3_descr">
+		<text>找到贸易商人的前友人并且杀死他。</text>
+	</string>
+	<string id="barmen_kill_stalker_3_text">
+		<text>我曾经有位朋友…很难相信吧，嗯？啊！当这里什么都没有时，我和他一起来到特异区…那些我们做过的事情、去过的地方…喔，好吧，那时我们还年轻，不会去抱怨任何事…但他永远都不满足。他想要到特异区的中心，并且要求我同行，不过我拒绝了，我作了正确的决定…我们大吵了一架，然后他自己一个人离开…他现在是黑石组织的人了。那么，一好，这次的交易是这样的，干掉他…为我作这件事，身为朋友，找到他以后…好吧，别让他受苦，这已经够糟了…他对我来说就像兄弟一般，你知道吗？</text>
+	</string>
+	<string id="barmen_kill_stalker_4">
+		<text>杀死名为吸血怪的潜行者</text>
+	</string>
+	<string id="barmen_kill_stalker_4_descr">
+		<text>寻找并杀死名为吸血怪的潜行者</text>
+	</string>
+	<string id="barmen_kill_stalker_4_text">
+		<text>没错，我受够这个讨厌鬼了！我是指吸血怪，你认识他吗？这个混蛋！他吸光别人的运气就像吸血一样。跟他出任务的人都会死掉，最后只剩下他一个人平安的回来！这已经发生过五次了！这真邪恶，你不觉得吗？我真想在这个吸血怪的坟上献花…，那么，你接不接这个任务？</text>
+	</string>
+	<string id="barmen_kill_stalker_5">
+		<text>杀死名为麻雀的潜行者</text>
+	</string>
+	<string id="barmen_kill_stalker_5_descr">
+		<text>寻找麻雀并为其他死去的潜行者报仇。</text>
+	</string>
+	<string id="barmen_kill_stalker_5_text">
+		<text>该死的三剑客！还想扮演达太安决斗，混蛋！跟怪物周旋和吃子弹还不够，这些笨蛋居然开始自相残杀了！是这样的：原本发生了争执…已经没有人记得事情怎么开始了，然后就有两个笨蛋决定要洒点热血。没错，有一个人死掉了…一个曾经是很优秀的潜行者！而另一个人，麻雀，却匆忙的离开了，因为我会是第一个把子弹射穿他脑袋的人。找到他，我很确定他还在特异区里。你要接受这个任务吗？</text>
+	</string>
+	<string id="barmen_monster_part_1">
+		<text>获取豚兽的眼睛</text>
+	</string>
+	<string id="barmen_monster_part_1_descr">
+		<text>获取豚兽的眼睛</text>
+	</string>
+	<string id="barmen_monster_part_1_text">
+		<text>很快的我们会举办一个宴会，到时会有很棒的晚餐，当地怀着崇高的心灵的美食家们（我们不需要对他们指指点点）， 会想要尝尝我特别的食谱--猪肉汤熬制的「鲜活」之眼，再淋上特制美奶兹。基本上，我需要野兽的眼睛，越快越好。</text>
+	</string>
+	<string id="barmen_monster_part_2">
+		<text>拿取野猪的蹄子</text>
+	</string>
+	<string id="barmen_monster_part_2_descr">
+		<text>拿取野猪的蹄子</text>
+	</string>
+	<string id="barmen_monster_part_2_text">
+		<text>你知道我们正在准备角跟蹄子吗？这可是很罕见的，他们可以用本地变种生物的蹄子做出很棒的珠宝--我认识一个珠宝商对这个很有兴趣。去吧，去找一些野猪的蹄子，它们会变成你口袋中的现金。</text>
+	</string>
+	<string id="dolg_defend_lager_1">
+		<text>保护纪律团的安全岗哨</text>
+	</string>
+	<string id="dolg_defend_lager_1_descr">
+		<text>保护废弃区中的纪律团安全岗哨</text>
+	</string>
+	<string id="dolg_defend_lager_1_text">
+		<text>那么，你在废弃区里碰到的应该是我们的人。他们在那里担任酒吧的外部岗哨，保护免受黑暗山谷来的变种生物的侵袭。现在的消息指出有群病猪正在接进他们之中，去帮他们对抗变种生物，我会欠你一个人情的。（-_-!没什么表示的东西？）</text>
+	</string>
+	<string id="dolg_eliminate_lager_1">
+		<text>摧毁僵尸</text>
+	</string>
+	<string id="dolg_eliminate_lager_1_descr">
+		<text>摧毁在扬塔的不死僵尸</text>
+	</string>
+	<string id="dolg_eliminate_lager_1_text">
+		<text>最近我们派了一个小队到扬塔，不幸的是没有人回来。在扬塔的移动实验室的科学家说，他们见到了几个变成僵尸的潜行者。我们不能把他们留在那个恐怖的地方，你的任务是：找到并且终结已经产生变化的队员。</text>
+	</string>
+	<string id="dolg_eliminate_lager_10">
+		<text>除掉犬群。</text>
+	</string>
+	<string id="dolg_eliminate_lager_10_descr">
+		<text>除掉在废弃区中的犬群。</text>
+	</string>
+	<string id="dolg_eliminate_lager_10_text">
+		<text>一般来说，我们不会交付任务给陌生的潜行者。不过这算是个简单的任务，所以没必要一定要我们的人来执行。那么听着，你需要歼灭废弃区中的一个小的野兽巢穴。我们有一群人已经在那里工作，万一你遇上麻烦的话还有一个撤退的地方。另一方面，因为野兽的数量不多，所以应该不会有什么问题--应该不超过十只。应该都是野狗，最近有收到关于它们在那个区域大群迁移的报告。你可以去解决这个任务。</text>
+	</string>
+	<string id="dolg_eliminate_lager_11">
+		<text>摧毁潜行者的营地</text>
+	</string>
+	<string id="dolg_eliminate_lager_11_descr">
+		<text>摧毁潜行者在农业研究所的营地</text>
+	</string>
+	<string id="dolg_eliminate_lager_11_text">
+		<text>那里有个棘手的状况，但我们的人不该涉入。在农业研究所工厂出现的中立者对我们的联盟并不利。任务是这样的：解放该区域的中立潜行者，不管他们是谁、或是属于那个团体。这样瞭解吗？</text>
+	</string>
+	<string id="dolg_eliminate_lager_12">
+		<text>摧毁佣兵团的分队</text>
+	</string>
+	<string id="dolg_eliminate_lager_12_descr">
+		<text>摧毁在罗斯托克的佣兵团分队</text>
+	</string>
+	<string id="dolg_eliminate_lager_12_text">
+		<text>那么任务是这样的：你需要摧毁佣兵团的狙击手特遣队。状况：这些狙击手都已经完全安置在建筑物的最后一层楼。估计数量：不会少于两个，最多五个人。依据所有的状况来看，他们都拥有精良的装备，并装配有Dragunov狙击枪。建议：在那边可不要成天露出你的脸闲晃。</text>
+	</string>
+	<string id="dolg_eliminate_lager_13">
+		<text>摧毁强盗的基地</text>
+	</string>
+	<string id="dolg_eliminate_lager_13_descr">
+		<text>摧毁强盗在黑暗山谷的主要基地。</text>
+	</string>
+	<string id="dolg_eliminate_lager_13_text">
+		<text>摧毁强盗的主基地跟清除敌人的最大战力，是件很重要的事。基地位于黑暗山谷，那边有一座未完工的科学中心。敌人大约有30个战士，装备着轻武器、散弹枪。听清楚了吗？</text>
+	</string>
+	<string id="dolg_eliminate_lager_14">
+		<text>摧毁史诺克。</text>
+	</string>
+	<string id="dolg_eliminate_lager_14_descr">
+		<text>摧毁在扬塔区域通里的史诺克。</text>
+	</string>
+	<string id="dolg_eliminate_lager_14_text">
+		<text>现在是你需要去清除的时间了。在扬塔的地道被所有的史诺克给阻断了：大约有10只史诺克在那边，现在你不能像以前一样通过了…</text>
+	</string>
+	<string id="dolg_eliminate_lager_2">
+		<text>毁灭豚兽</text>
+	</string>
+	<string id="dolg_eliminate_lager_2_descr">
+		<text>毁灭大荒野上的豚兽</text>
+	</string>
+	<string id="dolg_eliminate_lager_2_text">
+		<text>我们追踪了一大群畜群的迁移…一群相当噁心像猪的变种生物，人们都称呼它为豚兽，它们现在聚集在废弃区中。我们的人都很忙，可是这群野兽还是需要被消灭。这是个特别任务--我们会支付酬劳的。</text>
+	</string>
+	<string id="dolg_eliminate_lager_3">
+		<text>摧毁地狱犬</text>
+	</string>
+	<string id="dolg_eliminate_lager_3_descr">
+		<text>清除军方仓库的地狱犬巢穴</text>
+	</string>
+	<string id="dolg_eliminate_lager_3_text">
+		<text>我们的同盟提醒我们，在军方仓库旁的区域发现了怪物的巢穴。我们相信那应该是一群地狱犬，但现在我们不该在那个区域搞得一团乱，所以这是一个中立的任务。你要加入吗？</text>
+	</string>
+	<string id="dolg_eliminate_lager_4">
+		<text>摧毁佣兵团的安全岗哨</text>
+	</string>
+	<string id="dolg_eliminate_lager_4_descr">
+		<text>摧毁军方仓库不远处佣兵团的安全岗哨。</text>
+	</string>
+	<string id="dolg_eliminate_lager_4_text">
+		<text>最近佣兵团的活动增加了，有几起攻击科学家的事件，他们都是工作在特异区的研究者。我们不可以放任这件事不管，我们必须进行一个惩罚性的任务。目标是：军方仓库旁的佣兵团安全哨，就在遗弃村庄的后方。</text>
+	</string>
+	<string id="dolg_eliminate_lager_5">
+		<text>摧毁在大荒野的佣兵团</text>
+	</string>
+	<string id="dolg_eliminate_lager_5_descr">
+		<text>摧毁在大荒野的佣兵团</text>
+	</string>
+	<string id="dolg_eliminate_lager_5_text">
+		<text>有一群科学家计划要研究大荒野。但这里最近变得不安全了，佣兵团开始在这边活动。确定大荒野中不会有任何佣兵团的人在活动。</text>
+	</string>
+	<string id="dolg_eliminate_lager_6">
+		<text>杀死强盗</text>
+	</string>
+	<string id="dolg_eliminate_lager_6_descr">
+		<text>杀死进入大荒野的强盗</text>
+	</string>
+	<string id="dolg_eliminate_lager_6_text">
+		<text>我会长话短说的。强盗包围了在我们在大荒野酒吧的安全岗哨，这些强盗必须要被歼灭。</text>
+	</string>
+	<string id="dolg_eliminate_lager_7">
+		<text>摧毁控制器</text>
+	</string>
+	<string id="dolg_eliminate_lager_7_descr">
+		<text>摧毁在扬塔的控制器。</text>
+	</string>
+	<string id="dolg_eliminate_lager_7_text">
+		<text>要完成这项任务，你需要有特殊的技能。科学家跟我们回报说，他们注意到在扬塔有个控制器，位于通往地下实验室的入口（位于中央建筑物）。控制器非常的危险，但是我相信你可以搞定的。</text>
+	</string>
+	<string id="dolg_eliminate_lager_8">
+		<text>清除自由团的家伙</text>
+	</string>
+	<string id="dolg_eliminate_lager_8_descr">
+		<text>清除自由团军方仓库不远旁的遗弃村庄。</text>
+	</string>
+	<string id="dolg_eliminate_lager_8_text">
+		<text>自由团增加了在军方仓库旁的废弃村庄的巡逻任务。清除村庄里的战士，完成这项任务后，你会得到特别的奖赏。</text>
+	</string>
+	<string id="dolg_eliminate_lager_9">
+		<text>毁灭强盗</text>
+	</string>
+	<string id="dolg_eliminate_lager_9_descr">
+		<text>毁灭在大荒野中强盗。</text>
+	</string>
+	<string id="dolg_eliminate_lager_9_text">
+		<text>目前的状况不太好，强盗聚集在废弃区和黑暗山谷的区域。最好的手段是同时实行两个快速的打击任务！我们的战士会负责山谷，而你就负责废弃区。</text>
+	</string>
+	<string id="dolg_find_item_1">
+		<text>寻找先进的来福枪</text>
+	</string>
+	<string id="dolg_find_item_1_descr">
+		<text>在军方仓库附近寻找先进的来福枪。</text>
+	</string>
+	<string id="dolg_find_item_1_text">
+		<text>有人帮助了佣兵团的人。最近他们拿到了机关枪，还有先进的来福枪。你知道那是个危险的玩具吗？好吧，我对枪是很有兴趣，而我的谢礼一定会很适当的，这很确定。</text>
+	</string>
+	<string id="dolg_kill_stalker_1">
+		<text>解放强盗</text>
+	</string>
+	<string id="dolg_kill_stalker_1_descr">
+		<text>解放强盗波克。</text>
+	</string>
+	<string id="dolg_kill_stalker_1_text">
+		<text>目标暱称--波克。一个最残暴的强盗首领，下流，强暴犯…显然的他的脑袋有问题：人们说他在特异区得了一种罕见的疾病，现在他会时常的失忆，当他回复意识时，他没办法记得自己是谁、和在什么地方。不过，他总是武装着并且非常的好怒。推测地点：黑暗山谷。准备执行任务了吗？</text>
+	</string>
+	<string id="drunk_dolg_find_item">
+		<text>寻找纪律团的人的武器</text>
+	</string>
+	<string id="drunk_dolg_find_item_descr">
+		<text>纪律团的人要求你帮他找回武器，他在另一个巡逻任务时把它遗失在黑暗山谷的某个地方了。</text>
+	</string>
+	<string id="drunk_dolg_find_item_text">
+		<text>我怎么会吓成那个样子的，特异区到底把脑子搞成什么样子了？虽然我的神经很大条，从没怕过什么事情，但是在这里的这个东西，这个传来耳朵里的嚎叫声。每件事跟跟往常一样，有一个巡逻队要前往黑暗山谷，我们跟着科里弗依进入了壕沟，来掩护其他的队伍，而就在那时我听到了那个声音，我吓得手握的紧紧的。该死，我甚至当忘了是怎么进入位置的。当我回到基地，沃洛宁差点开枪射我：他给了我一把先进卡农枪，来表达他的好意，可以这么说吧。还有…我因为太害怕以至于把卡农枪留在那边了。你可以帮我拿回来吗，不然我会没有合适的防身武器。</text>
+	</string>
+	<string id="ecolog_eliminate_lager_1">
+		<text>清除史诺克的巢穴</text>
+	</string>
+	<string id="ecolog_eliminate_lager_1_descr">
+		<text>摧毁在扬塔湖的史诺克巢穴。</text>
+	</string>
+	<string id="ecolog_eliminate_lager_1_text">
+		<text>我想要给你一小笔钱，如果史诺克居住在沼泽地的话，就可以停止我跟我的同事的困扰。有时当我们在进行实验时，我们根本无法专心工作。</text>
+	</string>
+	<string id="ecolog_eliminate_lager_2">
+		<text>摧毁野狗的巢穴</text>
+	</string>
+	<string id="ecolog_eliminate_lager_2_descr">
+		<text>摧毁大荒野上野狗的巢穴</text>
+	</string>
+	<string id="ecolog_eliminate_lager_2_text">
+		<text>在大荒野中有变种犬的巢穴，我要你前往那里把它们清除掉。那些变种对于我们的考察探险非常的危险。我知道动物学家可能不会喜欢这样，但是我必须说那里可不是动物园。，天知道那些动物会不会传播像狂犬病或是鼠疫那样的疾病。</text>
+	</string>
+	<string id="ecolog_find_artefact_1">
+		<text>带回名为火球的神器</text>
+	</string>
+	<string id="ecolog_find_artefact_1_descr">
+		<text>将名为火球的神器带回给科学家们研究</text>
+	</string>
+	<string id="ecolog_find_artefact_1_text">
+		<text>我们计划要在实验室中来制造神器！这是一个大突破！现在世界上所有的人将会听到我们的成功，而诺贝尔奖也将要到手了！这是一个独特的神器--"薄膜"，它主要的作用是防护化学腐蚀。为了科学的利益，你想要这个神器吗？--我需要"火球"神器作为回报，你知道这个东西吗？它的表面有独特的热量表现，这需要好好的研究一下。</text>
+	</string>
+	<string id="ecolog_find_artefact_2">
+		<text>寻找名为"重力"的神器</text>
+	</string>
+	<string id="ecolog_find_artefact_2_descr">
+		<text>将名为"重力"的神器交给科学家</text>
+	</string>
+	<string id="ecolog_find_artefact_2_text">
+		<text>我们就快要理解自然界重力的秘密了，我们几乎就要可以造出一个反重立法则的新世代引擎，这样通往星际的道路可能就会为我们开启了。为了要达成这个目标，我们需要"重力"神器，而且要快。</text>
+	</string>
+	<string id="ecolog_find_artefact_3">
+		<text>寻找名为"水母"的神器</text>
+	</string>
+	<string id="ecolog_find_artefact_3_descr">
+		<text>科学家需要名为"水母"的神器来完成宇宙时间的研究。</text>
+	</string>
+	<string id="ecolog_find_artefact_3_text">
+		<text>我们的研究小组几乎就要发现神秘的宇宙时间了。这样以后空间传送就不再是不可能的事情了！大漩涡是一种变异点，它扭曲了宇宙，它的影响比重力还强。我相信那些只会空谈理论、坐在温暖的研究设施中画着黑板的对手，当他们发现这个研究领域可以得到什么样的结果时，他们的讶异可是会让眼镜起雾的！请帮我找到"水母"神器吧。</text>
+	</string>
+	<string id="ecolog_find_artefact_4">
+		<text>寻找名为"黑石"的神器</text>
+	</string>
+	<string id="ecolog_find_artefact_4_descr">
+		<text>将"黑石"交给扬塔的科学家。一个很棒的神器…</text>
+	</string>
+	<string id="ecolog_find_artefact_4_text">
+		<text>我们迫切的需要一些材料，来继续在能量学上面的研究。你知道的，我们学习藉由神器的帮助来产生能量，假定在KPD还没那么高时，这个方法还是有用的。如果有"黑石"神器的话，我们就会得到更好的研究结果，请帮我们的实验寻找一个样本回来。</text>
+	</string>
+	<string id="ecolog_find_artefact_5">
+		<text>寻找名为"海胆"的神器</text>
+	</string>
+	<string id="ecolog_find_artefact_5_descr">
+		<text>科学家们需要名为海胆的神器来改进他们的防护装</text>
+	</string>
+	<string id="ecolog_find_artefact_5_text">
+		<text>你应该有体会过我们的防护装，提供了对抗辐射的最佳防护。主要的秘密是我们用了一种稀有神器做出来的涂剂，渗透在防护服之上。要制造另一系列的防护装我们需要这样的神器，你可以称它为"海胆"。</text>
+	</string>
+	<string id="ecolog_find_item_1">
+		<text>拿回独特的防护装</text>
+	</string>
+	<string id="ecolog_find_item_1_descr">
+		<text>从X16地底实验室拿回独特的防护装</text>
+	</string>
+	<string id="ecolog_find_item_1_text">
+		<text>我们跟你有些交易。最近我们雇用了一个潜行者进入实验室中，连我都注意到了他特别的防护装--它会去除引人注意的热量。那个潜行者说那套防护装可以自行医治伤害。问题是--那个潜行者没有从实验室中回来，喔，不，别这么想！我们跟这件事无关！他的防护装应该也还在那边。如果能把它拿回来研究，我会很高兴的。</text>
+	</string>
+	<string id="ecolog_monster_part_1">
+		<text>带回部分史诺克的身体。</text>
+	</string>
+	<string id="ecolog_monster_part_1_descr">
+		<text>要在这些东西里拿取史诺克的碎片，还真是一件简单的事情。</text>
+	</string>
+	<string id="ecolog_monster_part_1_text">
+		<text>喔，年轻人！你知道的我们需要某种特别生物身体的一部份。你的同事称它为僵尸，我必须说，这对一个可以那样自行调整变化的身体来说不算是一个很好的名字…不管怎样，我们需要它的手臂。我必须跟你说：为了某些原因，我的小组正尝试移植…僵尸的四肢到那些失去手脚的人的身上。另外，我们更计划可以使用活的器官来移植；不论如何，在现在这个时候，这还是个纯理论的项目。所以，手臂！你有兴趣吗，年轻人？</text>
+	</string>
+	<string id="ecolog_monster_part_2">
+		<text>带回豚兽的眼睛</text>
+	</string>
+	<string id="ecolog_monster_part_2_descr">
+		<text>我最好还是让我的身体离这些书呆子远一点以防万一！很好，我会帮他们带回来豚兽的眼睛，然后他们可以在自愿者身上去做他们想做的事情。</text>
+	</string>
+	<string id="ecolog_monster_part_2_text">
+		<text>好消息，年轻人：我们有非常有趣的任务要交给你！我想像你这样有经验又聪明的人，一定会赏识我同事的理论的。事情是这样的，我们的研究显示：被称人们为豚兽的生物的眼睛，装备着…你有在听吗？…装备着嗅觉的感应器！所以，它们不只可以用眼睛来看，还可以用来闻！我们现在打算进行将这个神奇的眼睛移植到志愿者的身上。我相信我们开始了一个新的风潮！此外，你想不想移植这个神奇的器官啊？</text>
+	</string>
+	<string id="ecolog_monster_part_3">
+		<text>带回盲犬的尾巴</text>
+	</string>
+	<string id="ecolog_monster_part_3_descr">
+		<text>好吧，看看科学！尝试想找出人类的第二脑？…可怜的狗，其中有一之就要没有尾巴了。</text>
+	</string>
+	<string id="ecolog_monster_part_3_text">
+		<text>日安，亲爱的男孩！听着，你可以再帮我们一次吗？我希望你知道狗是属于脊椎动物亚群…这代表它们的脊椎是从头部开始连到尾巴。事情是这样的！我的年轻同僚提出了一个关于盲犬脊椎的理论--你们是这样称呼那个动物的--它脊椎的起始点在尾巴而不是在头部！想想看，这完全的颠覆了我们在这个领域的知识。现在已经有几篇关于人类荐骨的大胆理论…好吧，这是一个有许多争议的项目。长话短说，我们需要那个狗的头，那个盲犬。出于无知的错误，我想我们要的应该是它的尾巴。</text>
+	</string>
+	<string id="ecolog_monster_part_4">
+		<text>带回野猪的腿</text>
+	</string>
+	<string id="ecolog_monster_part_4_descr">
+		<text>美食家的刺激寻求…好吧，我会带一些火腿给他们的他们。</text>
+	</string>
+	<string id="ecolog_monster_part_4_text">
+		<text>欢迎，嗯…旅行者！我很高兴你的停留：我们需要一个人来加入一个非常重要的实验。我的同僚布蓝特想要利用本地的动物，来研究异化蛋白质对人体的影响。一开始，我们决定使用野猪，我们需要火腿，猪的腿，你瞭解吗？如果你同意帮忙，那记得要找一只健康一点的样本。</text>
+	</string>
+	<string id="ecolog_monster_part_5">
+		<text>带回吸血怪的嘴部。</text>
+	</string>
+	<string id="ecolog_monster_part_5_descr">
+		<text>我不管他们要吸血怪的嘴部做什么，我只在乎他们要付多少钱来交换这个稀有的东西。</text>
+	</string>
+	<string id="ecolog_monster_part_5_text">
+		<text>好消息，亲爱的潜行者！我们的脑子里一直受这个问题的折磨：是什么原因让史诺克很少停留地面上、他们爬到墙上、跳跃着惊人的距离…答案显然很简单，年轻人！史诺克很怕看到地面！他们在地面就会感到痛苦！当他们接触到地面或是任何水平的表面时，在他们感应器的末端就会送出一个强大的刺激讯号讯号。我们需要史诺克脚爪的样本：我们试着注射一种疫苗，来解救这个可怜生物不寻常的疾病。</text>
+	</string>
+	<string id="eliminate_lager">
+		<text>营地清除。</text>
+	</string>
+	<string id="find_item">
+		<text>找到物品。</text>
+	</string>
+	<string id="freedom_defend_lager_1">
+		<text>保护在农业研究所的潜行者</text>
+	</string>
+	<string id="freedom_defend_lager_1_descr">
+		<text>对抗攻击在农业研究所潜行者营地的强盗。</text>
+	</string>
+	<string id="freedom_defend_lager_1_text">
+		<text>有一群潜行者住在农业研究所，一般的家伙，他们认为特异区是一个自由的地方，法律在这里并不适用，而你必须依赖自己的道德正确的生存。现在他们正考虑要加入我们，耶。帮助他们对抗盗贼？我们会给你一些弹药的。</text>
+	</string>
+	<string id="freedom_defend_lager_2">
+		<text>保护边界</text>
+	</string>
+	<string id="freedom_defend_lager_2_descr">
+		<text>保护靠近军方仓库的边界免受怪物袭击。</text>
+	</string>
+	<string id="freedom_defend_lager_2_text">
+		<text>焦脑器那边又有怪物过来了。帮助在边界的人摆脱它们，我保证会有回报的。</text>
+	</string>
+	<string id="freedom_eliminate_camp_1">
+		<text>摧毁军方的营地</text>
+	</string>
+	<string id="freedom_eliminate_camp_1_descr">
+		<text>摧毁农业研究所旁的军方营地。</text>
+	</string>
+	<string id="freedom_eliminate_camp_1_text">
+		<text>军方正在逐步的掌控特异区，我们需要拖慢他们的速度，不然特异区会变成一座研究用的动物园。在农业研究所旁有一座军方的营地，清除一下那个地方，这应该会拉慢他们的脚步的。</text>
+	</string>
+	<string id="freedom_eliminate_camp_2">
+		<text>摧毁佣兵营</text>
+	</string>
+	<string id="freedom_eliminate_camp_2_descr">
+		<text>摧毁仓库旁的佣兵营。</text>
+	</string>
+	<string id="freedom_eliminate_camp_2_text">
+		<text>听着，交易就这样。佣兵赢需要被摧毁，我们不能做什么，他们都是好射手…除了他们最近偷偷溜进我的地方，试着贿赂我的人。该是教训他们的时候了，你能去吗？</text>
+	</string>
+	<string id="freedom_eliminate_camp_3">
+		<text>摧毁纪律团的特遣队</text>
+	</string>
+	<string id="freedom_eliminate_camp_3_descr">
+		<text>摧毁在罗斯托克的纪律团清除队</text>
+	</string>
+	<string id="freedom_eliminate_camp_3_text">
+		<text>来一场猎杀如何？纪律团的清除队出现在罗司托克，这是一个让他们惊喜的很好机会。纪律团持续的派出人手去猎杀怪物，但是在过程中他们也会射杀掉不受他们喜欢的人。这个特遣队必须在纪律团的人来到罗司托克之前解决掉。他们应该不会有太多人：三或四个老手，跟一群的菜鸟。</text>
+	</string>
+	<string id="freedom_eliminate_camp_4">
+		<text>摧毁纪律团前哨站</text>
+	</string>
+	<string id="freedom_eliminate_camp_4_descr">
+		<text>尽可能的摧毁纪律团厌废弃区的前哨站</text>
+	</string>
+	<string id="freedom_eliminate_camp_4_text">
+		<text>这是非常紧急的工作。需要清除从废弃区通往酒吧的通道上的纪律团小队…他们躲在那里抢劫过路的人。我们在等着非常重要的包裹，但现在纪律团已经知道了我们的信差，我们试着要拦住他。我们必须清除那些路障，就算是一点点也好，可以吗？</text>
+	</string>
+	<string id="freedom_eliminate_camp_5">
+		<text>清除村庄。</text>
+	</string>
+	<string id="freedom_eliminate_camp_5_descr">
+		<text>清除村庄中的吸血怪，有可能的话也清除掉控制器。</text>
+	</string>
+	<string id="freedom_eliminate_camp_5_text">
+		<text>朋友，你有见过这些吸血怪物群聚在村庄中吗！除了笨蛋之外，没有人想接近它们。有些人说他们在那边看到了些事情…我们现在需要的是一个控制器！不管怎样，现在是我们结束它的最好时机了。我不是在逼你，说实话我不会自己去那里。但如果你不够勇敢的话，我可是不会多给你什么感谢的。</text>
+	</string>
+	<string id="freedom_eliminate_camp_6">
+		<text>毁灭野猪和豚兽</text>
+	</string>
+	<string id="freedom_eliminate_camp_6_descr">
+		<text>毁灭在军方仓库旁的野猪和豚兽。</text>
+	</string>
+	<string id="freedom_eliminate_camp_6_text">
+		<text>我们的狙击手驻守着基地的入口，晚上他驻守在塔上…那是一个很宁静的夜晚…突然产生了爆炸，疯狂的尖叫声，一阵闪光！真是！…结果，原来是野猪和豚兽在地雷区闲晃。鬼才知道它们为什么要去那边，但很确定的是每个星期，那些野兽都会去引爆地雷。这个任务很简单--干掉那些混蛋，你愿意吗？</text>
+	</string>
+	<string id="freedom_eliminate_camp_7">
+		<text>毁灭鼠群</text>
+	</string>
+	<string id="freedom_eliminate_camp_7_descr">
+		<text>毁灭大荒野中的鼠群。</text>
+	</string>
+	<string id="freedom_eliminate_camp_7_text">
+		<text>在我们的基地附近原本没有老鼠，这些动物哪里都能去。而最近这边开始有一堆老鼠了--你不会相信的，我们花了两个月的时间在对付它们…嘻嘻嘻。所以，我们发现了老鼠是从哪里来到我们基地，从大荒野，你听到了吗？那些跳鼠很可能在大量繁殖后又回来这边。我们需要一个人去解决掉它们，你愿意吗？</text>
+	</string>
+	<string id="freedom_find_item_1">
+		<text>偷取步枪</text>
+	</string>
+	<string id="freedom_find_item_1_descr">
+		<text>从纪律团的仓库中偷取改进过的SVDm 2步枪。</text>
+	</string>
+	<string id="freedom_find_item_1_text">
+		<text>这是一项很特别的任务，而且也很难….那么，你必须从纪律团的仓库中偷取一把改进过的Dragunov 步枪。这把枪甚至有自己的名字，但别管它。重点是它的惊人的瞄准镜和超低的后座力可以让你射中400公尺外的松鼠的眼睛。那么，我相信你会去做的。</text>
+	</string>
+	<string id="freedom_find_item_2">
+		<text>获取改进版的温彻斯特 1300散弹枪。</text>
+	</string>
+	<string id="freedom_find_item_2_descr">
+		<text>从科学家的手中获取改进版的温彻斯特 1300散弹枪。</text>
+	</string>
+	<string id="freedom_find_item_2_text">
+		<text>我听说那些书呆子用神器来改造温彻斯特散弹枪，这个东西的破坏力就跟榴弹砲一样。那么你为什么不去拜访他们看看是否可以跟他们做个买卖，我会负责所有的花费的！</text>
+	</string>
+	<string id="freedom_find_item_3">
+		<text>取回防弹背心。</text>
+	</string>
+	<string id="freedom_find_item_3_descr">
+		<text>取回新形式的防弹背心。</text>
+	</string>
+	<string id="freedom_find_item_3_text">
+		<text>谣传说有一种新型式的防弹背心出现了。它的内衬涂布着某种治疗药剂或是那类的东西…不管怎样，它可以很快的治疗小创伤。想想看有多幸运，某天正好有十个穿这个背心的家伙闯进去扬塔，只有六个人回来，身上只有背着三具尸体。你懂了吗？有一个人被丢在那边了。如果你帮我们拿到防弹背心，我们会好好的检查然后就可以大量的制造它们了。</text>
+	</string>
+	<string id="freedom_kill_stalker_1">
+		<text>杀死纪律团的警卫长</text>
+	</string>
+	<string id="freedom_kill_stalker_1_descr">
+		<text>尽可能不动声色的干掉纪律团的警卫长。</text>
+	</string>
+	<string id="freedom_kill_stalker_1_text">
+		<text>如果纪律团的警卫长可以消失就太好了。他们一定会陷入一团乱，那我就可以计划派几个人混进去。到时，我们就可以做出惊人的计划…好吧，我最好闭嘴。我建议你在一定的距离外干掉他，不要引起慌乱。</text>
+	</string>
+	<string id="freedom_kill_stalker_2">
+		<text>杀死依凡斯托夫上尉</text>
+	</string>
+	<string id="freedom_kill_stalker_2_descr">
+		<text>杀死依凡斯托夫上尉，纪律团头目的亲密助手。</text>
+	</string>
+	<string id="freedom_kill_stalker_2_text">
+		<text>这是一件困难的工作。我现在就在警告你，但是它值得你去做。依凡斯托夫，是纪律团头目的亲密助手。他做要求做最肮髒的工作：惩罚行动、袭击…如果你知道他已经干掉了我们多少个人！现在是我们干掉这个浑球的时间了。那么如果你要做这份工作的话，我建议你准备好全副武装。</text>
+	</string>
+	<string id="freedom_kill_stalker_3">
+		<text>杀死彼得连科上校</text>
+	</string>
+	<string id="freedom_kill_stalker_3_descr">
+		<text>杀死彼得连科上校，纪律团的创立者之一。</text>
+	</string>
+	<string id="freedom_kill_stalker_3_text">
+		<text>彼得连科上校…我不知道你是否听过这名字或是见过他，但如果你们两个会面会是好事。这个人是纪律团的创立者之一，也是我们最糟的一个敌人。尽快的结束你们的谈话…你搞得定吗？</text>
+	</string>
+	<string id="freedom_kill_stalker_4">
+		<text>杀死中立的潜行者。</text>
+	</string>
+	<string id="freedom_kill_stalker_4_descr">
+		<text>发现并杀死中立的潜行者。</text>
+	</string>
+	<string id="freedom_kill_stalker_4_text">
+		<text>在离这边不远的地方有个家伙在那里闲晃，他射倒了我们一个人，而像这样的事情是无法原谅的。你要接受这份工作吗？别担心，我们会给你酬劳的。</text>
+	</string>
+	<string id="freedom_kill_stalker_5">
+		<text>杀死纪律团的一个指挥官。</text>
+	</string>
+	<string id="freedom_kill_stalker_5_descr">
+		<text>杀死纪律团的一个指挥官。</text>
+	</string>
+	<string id="freedom_kill_stalker_5_text">
+		<text>我会悬赏任何一个纪律团的指挥官！干掉他们后回来领赏。</text>
+	</string>
+	<string id="freedom_kill_stalker_6">
+		<text>杀死名为稻草人的潜行者。</text>
+	</string>
+	<string id="freedom_kill_stalker_6_descr">
+		<text>杀死名为稻草人的潜行者。</text>
+	</string>
+	<string id="freedom_kill_stalker_6_text">
+		<text>我们摧毁怪物，那是除非它们影响到了我们的生存，无关利益。变种生物的数量并不多；此外，它们也是活生生的生命，所以我们不能放任它们的毁灭。有些人拒绝去瞭解这样的事情，有一个潜行者就是很明显的例子，他的名字叫做稻草人。他的暱称是有原因的，因为他贩卖变种的标本。我们以前警告过他，但都没有用。那么你可以为绿色和平组织做件好工作吗？</text>
+	</string>
+	<string id="freedom_kill_stalker_7">
+		<text>杀死名为巴林的潜行者。</text>
+	</string>
+	<string id="freedom_kill_stalker_7_descr">
+		<text>杀死名为巴林的潜行者，他是纪律团的军需官。</text>
+	</string>
+	<string id="freedom_kill_stalker_7_text">
+		<text>一个恶棍、马屁精、伪君子跟懦夫…那就是巴林的写照。如你所见，他是一个不可思议的人，这让他爬到了纪律团的上层，他负责纪律团的补给和粮食，但他时常在里面偷取物资。我们需要干掉他，尤其是巴林负责了纪律团的物资补给。</text>
+	</string>
+	<string id="freedom_monster_part_1">
+		<text>取回一只猪腿</text>
+	</string>
+	<string id="freedom_monster_part_1_descr">
+		<text>取回一只猪腿</text>
+	</string>
+	<string id="freedom_monster_part_1_text">
+		<text>我们计划举办一个晚餐宴会来庆祝巴布马利（雷鬼音乐教父）的生日。你可以弄一些好吃的火腿嘛？越多越好！上帝不会忘记你的！</text>
+	</string>
+	<string id="hunter_eliminate_lager">
+		<text>摧毁吸血怪的巢穴。</text>
+	</string>
+	<string id="hunter_eliminate_lager_descr">
+		<text>猎人情求摧毁在军方仓库附近村庄的吸血怪的巢穴，并且以稀有的神器作为回报。</text>
+	</string>
+	<string id="hunter_eliminate_lager_text">
+		<text>你曾间见过吸血怪吗？可怕的东西，是不是？有一天我到军方仓库附近的村庄去寻找神器，想想看这个画面：突然间我见到了吸血怪，全身都是黑白相间的疤痕。它就坐在一堆尸体之上。没有看见我。我吓坏了，然后逃了开来，因为它听到我的声音所以追了过来，突然间我听到四处都是嚎叫的声音，我才发现它们到处都是。我想它们在那边有一个巢穴，如果你能把它们赶走，我会给你一个几天前我发现的稀有神器。</text>
+	</string>
+	<string id="kill_stalker">
+		<text>杀死潜行者。</text>
+	</string>
+	<string id="lisiy_kill_stalker">
+		<text>杀死叛徒。</text>
+	</string>
+	<string id="lisiy_kill_stalker_descr">
+		<text>科学家要你杀死拿走稀有神器的潜行者。</text>
+	</string>
+	<string id="lisiy_kill_stalker_text">
+		<text>不久之前有一个潜行者跟我在寻找焦脑器旁边的一个神器。我们发现了好多东西，甚至发现了一些我从未见过、连想都没想过的神器。接着那个混蛋骗了我，在最后一晚他偷偷溜开，把最有价值的神器藏了起来，还跟我说神器是自己消失的。几天前我发现其中一件稀有的神器出现在酒吧老板手中，我简直气疯了…不论如何，潜行者，如果你找到他，帮我跟他好好的打声招呼。如果你这样做，你或许会发现他的秘密藏匿处，然后拿到其它的神器。相信我，这很值得的。</text>
+	</string>
+	<string id="mercenary_kill_stalker">
+		<text>杀死潜行者高手</text>
+	</string>
+	<string id="mercenary_kill_stalker_descr">
+		<text>佣兵团会去刺杀每一个高手。高手越少，对佣兵来说就越容易了。</text>
+	</string>
+	<string id="mercenary_kill_stalker_text">
+		<text>我们对于特异区中到处都是不怕死的人的没有兴趣：他们都是穿着特殊强化服和拿着强化的武器的潜行者，让工作变得越来越困难和危险了。只要他们的人越少，我们的工作就会越方便。每杀死他们一个人--你就会收到你的报酬。</text>
+	</string>
+	<string id="monster_part">
+		<text>拿取怪物的部分身体。</text>
+	</string>
+	<string id="petrenko_kill_stalker">
+		<text>杀死来自自由团的潜行者。</text>
+	</string>
+	<string id="petrenko_kill_stalker_descr">
+		<text>一个潜行者，一个前纪律团成员，他有许多关于普里皮亚季的讯息，最投入了自由团的阵营。在他说出太多事情之前，须要把他给解决掉。</text>
+	</string>
+	<string id="petrenko_kill_stalker_text">
+		<text>听着，我们有普里皮亚季的地图--不是最新的，是旧的地图，大约是在90年代绘制的。重要的是上面标明了所有的军事目标：地底仓库、防空洞。这会有一些小小的用处，当然，只要我们能找到通往普里皮亚季的路，这些讯息就会变成无价之宝。这边有一个问题，有一个军官投到了自由团的阵营，而他知道这些讯息，在他说出太多事情之前，须要把他给解决掉。</text>
+	</string>
+	<string id="return_for_reward">
+		<text>回去领赏</text>
+	</string>
+	<string id="return_for_reward_bring">
+		<text>带回承诺顾客的东西。</text>
+	</string>
+	<string id="shustriy_find_item">
+		<text>寻找完美的服装</text>
+	</string>
+	<string id="shustriy_find_item_descr">
+		<text>机灵鬼告诉我关于盗贼的秘密藏匿物，他要求我将被偷的东西带回来，当然是有报酬的。</text>
+	</string>
+	<string id="shustriy_find_item_text">
+		<text>当我被俘时，我听到强盗在谈论关于秘密藏匿物的事情，他们在那里放东西。听说他们在那里藏了一件很棒的外套，第二天某个怪物盯上了藏匿物，它对那些东西是如此有兴趣，让那些盗贼不敢再去那里。帮我一个忙，帮我拿回那套服装，我会给你酬劳的。</text>
+	</string>
+	<string id="tm_barman_has_no_job">
+		<text>我在那时无法提供任何东西。</text>
+	</string>
+	<string id="tm_barman_job_ask">
+		<text>你想谈些什么？</text>
+	</string>
+	<string id="tm_barman_job_complete">
+		<text>干得好，这个奖励非常值得！</text>
+	</string>
+	<string id="tm_barman_job_what">
+		<text>怎么了？</text>
+	</string>
+	<string id="tm_barman_list_job">
+		<text>看看我们现在拿到了什么。</text>
+	</string>
+	<string id="tm_defend_camp_1">
+		<text>掩护纪律团的特遣队避免受到黑暗山谷中盗贼的攻击。</text>
+	</string>
+	<string id="tm_defend_camp_1_descr">
+		<text>掩护纪律团的特遣队避免受到黑暗山谷中盗贼的攻击。</text>
+	</string>
+	<string id="tm_defend_camp_1_text">
+		<text>我终于让纪律团的大头决定要清除废弃区的强盗。纪律团决定扩大他们的领域，而他们不会危害到我的常客。好吧，那就这样--纪律团的领袖决定，为了潜行者，要切断黑暗山谷的强盗活动。所以他们派出了一个封锁特遣队，发现强盗并不喜欢这样。谁会喜欢呢！所以我在想，你可以帮他们保卫通往山谷入口吗？我会慷慨地回报你的。</text>
+	</string>
+	<string id="tm_dolg_has_no_job">
+		<text>现在没有什么可以让你做。</text>
+	</string>
+	<string id="tm_dolg_job_ask">
+		<text>你要讨论什么？</text>
+	</string>
+	<string id="tm_dolg_job_complete">
+		<text>太好了！工作完成。</text>
+	</string>
+	<string id="tm_dolg_job_what">
+		<text>我在听。</text>
+	</string>
+	<string id="tm_dolg_list_job">
+		<text>这里是新的工作列表：</text>
+	</string>
+	<string id="tm_drunk_dolg_has_no_job">
+		<text>现在没什么事情可做。</text>
+	</string>
+	<string id="tm_drunk_dolg_job_ask">
+		<text>你想讨论哪一件任务？</text>
+	</string>
+	<string id="tm_drunk_dolg_job_complete">
+		<text>任务完成--这里是你的酬劳！</text>
+	</string>
+	<string id="tm_drunk_dolg_job_what">
+		<text>任务怎么样了？</text>
+	</string>
+	<string id="tm_drunk_dolg_list_job">
+		<text>那边有些东西：</text>
+	</string>
+	<string id="tm_ecolog_has_no_job">
+		<text>抱歉，但我们现在没有任何工作可以给你做。</text>
+	</string>
+	<string id="tm_ecolog_job_ask">
+		<text>你想讨论哪一件工作？</text>
+	</string>
+	<string id="tm_ecolog_job_complete">
+		<text>你干得好！这是你应得的回报。</text>
+	</string>
+	<string id="tm_ecolog_job_what">
+		<text>我在听着。</text>
+	</string>
+	<string id="tm_ecolog_list_job">
+		<text>这是我能提供的：</text>
+	</string>
+	<string id="tm_eliminate_camp_1">
+		<text>摧毁在废弃区的强盗营地。</text>
+	</string>
+	<string id="tm_eliminate_camp_1_descr">
+		<text>摧毁在废弃区的强盗，他们在潜行者回到变异区时抢劫他们，贸易商人很不高兴。</text>
+	</string>
+	<string id="tm_eliminate_camp_1_text">
+		<text>强盗最近又袭击了，他们抢劫那些诚实的贸易商人…所以在废弃区弄一条线，我要告诉那些混蛋去废料场定居。你来搞定这件事情，每个人都将会感谢你的。我也会慷慨的给你报酬，同意吗？</text>
+	</string>
+	<string id="tm_eliminate_camp_2">
+		<text>在摧毁在停车场的强盗营地。</text>
+	</string>
+	<string id="tm_eliminate_camp_2_descr">
+		<text>摧毁在停车场的强盗营地。很显然的，他们刚到变异区来，所以这件工作很容易。</text>
+	</string>
+	<string id="tm_eliminate_camp_2_text">
+		<text>强盗又在停车场附近闲晃了，那么你猜猜看是什么工作？好吧…直接说吧！把我们最诚挚的敬意交给他们然后回来，我会好好的谢你的。成交？</text>
+	</string>
+	<string id="tm_eliminate_camp_3">
+		<text>摧毁在农业研究所旁的强盗。</text>
+	</string>
+	<string id="tm_eliminate_camp_3_descr">
+		<text>摧毁在农业研究所旁的强盗。最好保持跟贸易商人良好的关系。</text>
+	</string>
+	<string id="tm_eliminate_camp_3_text">
+		<text>有一些强盗出现在摧毁在农业研究所？他们在骚扰我的挖掘者，你去解决这个问题，我会给你报酬的。</text>
+	</string>
+	<string id="tm_eliminate_camp_4">
+		<text>清除这个区域中的变种。</text>
+	</string>
+	<string id="tm_eliminate_camp_4_descr">
+		<text>清除这个区域中的变种。</text>
+	</string>
+	<string id="tm_eliminate_camp_4_text">
+		<text>那边有件事，很简单。他们要带一些外国游客过来，他付了些钱给我想看看变异区，而他想要带人去看的地区需要把变种清理一下，你要做这份工作吗？</text>
+	</string>
+	<string id="tm_eliminate_camp_5">
+		<text>清除两个在废弃区的强盗。</text>
+	</string>
+	<string id="tm_eliminate_camp_5_descr">
+		<text>让变异区中通往最棒地方的道路变得通行无阻。</text>
+	</string>
+	<string id="tm_eliminate_camp_5_text">
+		<text>最近变异区中最棒的地方，对一些喜爱的人来说变得无法通行。在废弃区…就是废弃区，没有别的地方像那个奇特的小地方，在哪里悲伤会离开你，你会忘记闲话、钱、食物、血，忘了吧。现在那边有两个肮髒的怪物坐在那里，他们威胁着要杀死不付钱就想要进入那里的人。干掉他们--我没有别的地方可以接受游客了。</text>
+	</string>
+	<string id="tm_eliminate_camp_6">
+		<text>杀死黑暗山谷的吸血怪</text>
+	</string>
+	<string id="tm_eliminate_camp_6_descr">
+		<text>杀死黑暗山谷的吸血怪</text>
+	</string>
+	<string id="tm_eliminate_camp_6_text">
+		<text>据说军队离开了黑暗山谷，而怪物又开始占据了每个缺口。潜行者已经在那边盯上了一个吸血怪，一只很特别的吸血怪--它并不畏惧开放空间。不管怎样，一旦科学家知道了，他们一定会想要言就这之吸血怪，而我想要当那个把吸血怪送过去的人。你的工作是杀死吸血怪，其它的就留给我来担心。</text>
+	</string>
+	<string id="tm_find_artefact_1">
+		<text>寻找名为水母的神器</text>
+	</string>
+	<string id="tm_find_artefact_1_descr">
+		<text>在变异点寻找名为水母的神器</text>
+	</string>
+	<string id="tm_find_artefact_1_text">
+		<text>有些从大陆上来的人要跟我买一个水母，钱不多，但是很容易完成。去拿吧！</text>
+	</string>
+	<string id="tm_find_artefact_2">
+		<text>寻找名为石花的神器</text>
+	</string>
+	<string id="tm_find_artefact_2_descr">
+		<text>在变异点寻找名为石花的神器，他们的酬劳应该蛮好的。</text>
+	</string>
+	<string id="tm_find_artefact_2_text">
+		<text>我要求要石花。这是来自珠宝匠的订单，此外，让我们漂亮的女士开心一下，嗯？如果你拿到了，你会拿到一笔钱和一瓶好酒来为他们的健康致意…</text>
+	</string>
+	<string id="tm_find_artefact_3">
+		<text>寻找名为夜星的神器</text>
+	</string>
+	<string id="tm_find_artefact_3_descr">
+		<text>寻找名为夜星的神器，一个稀有又昂贵的石头。</text>
+	</string>
+	<string id="tm_find_artefact_3_text">
+		<text>这里有一件小工作…不是很令人愉快的。最近，军方在研究新的防护装置。不管怎样，他们下订单要买夜星。它是很稀有的，但它提供了很棒的防弹能力…你要接受吗？我会给你很好的酬劳的。</text>
+	</string>
+	<string id="tm_find_artefact_4">
+		<text>寻找名为肉块的神器</text>
+	</string>
+	<string id="tm_find_artefact_4_descr">
+		<text>寻找名为肉块的神器，它可以治疗创伤</text>
+	</string>
+	<string id="tm_find_artefact_4_text">
+		<text>有人下订要肉块，它可以治疗创伤！他们有个临床实验还是什么的，如果你拿到了，不但可以获得报酬，还同时帮助了人们。</text>
+	</string>
+	<string id="tm_find_item_1">
+		<text>寻找完美的手枪</text>
+	</string>
+	<string id="tm_find_item_1_descr">
+		<text>取得名为"堡垒"的枪枝，据说它的弹匣可以装上一大堆的子弹。它最后的主人应该是在破桥下军事检查点的指挥官。</text>
+	</string>
+	<string id="tm_find_item_1_text">
+		<text>兄弟，现在使用改过的武器好像变成了一种风尚，没有人再想要使用一般的武器来射击了，连新手都是这样！不论如何，改良的武器都会有一个规则的。据说在破桥收过路费的军人的指挥官有一把"堡垒"，它的弹匣可以装一堆子弹。你要去拿吗？</text>
+	</string>
+	<string id="tm_freedom_has_no_job">
+		<text>现在没有工作，真的…</text>
+	</string>
+	<string id="tm_freedom_job_ask">
+		<text>那么，你想要讨论什么？</text>
+	</string>
+	<string id="tm_freedom_job_complete">
+		<text>你是个很好的年轻人！干的好，这是你的酬劳。</text>
+	</string>
+	<string id="tm_freedom_job_what">
+		<text>怎么了？</text>
+	</string>
+	<string id="tm_freedom_list_job">
+		<text>这是我拿到的东西。</text>
+	</string>
+	<string id="tm_hunter_has_no_job">
+		<text>现在什么事都没有。</text>
+	</string>
+	<string id="tm_hunter_job_ask">
+		<text>你想讨论什么任务？</text>
+	</string>
+	<string id="tm_hunter_job_complete">
+		<text>任务完成--这里是你的酬劳！</text>
+	</string>
+	<string id="tm_hunter_job_what">
+		<text>任务怎么了？</text>
+	</string>
+	<string id="tm_hunter_list_job">
+		<text>有些事情：</text>
+	</string>
+	<string id="tm_job_nothing">
+		<text>没关系，下次吧。</text>
+	</string>
+	<string id="tm_job_refuse">
+		<text>我拒绝接受这份工作。</text>
+	</string>
+	<string id="tm_kill_stalker_1">
+		<text>杀死强盗的首领。</text>
+	</string>
+	<string id="tm_kill_stalker_1_descr">
+		<text>杀死冒犯到贸易商人的强盗头子。看来他不是一个人…困难的工作，但是酬劳足以弥补一切。黑暗山谷是寻找他的好地方。 </text>
+	</string>
+	<string id="tm_kill_stalker_1_text">
+		<text>你一订要除掉这个花花公子，一个强盗头子。有一天强盗们在他的命令下，拦截了我的信差并且射死他。我从不跟那些欺负我的手下的人多废话…总而言之，如果你解决了，我会给你回报的。要接受吗？</text>
+	</string>
+	<string id="tm_kill_stalker_2">
+		<text>杀死商人潜行者</text>
+	</string>
+	<string id="tm_kill_stalker_2_descr">
+		<text>杀死一个潜行者…好吧，那不是最好的工作，去对付一个同伴，但是酬劳是很高的，这应该可以弥补所有的问题。</text>
+	</string>
+	<string id="tm_kill_stalker_2_text">
+		<text>我曾经跟这个商人谈过话，好吧，如果他不愿意合作，那他就完了！但我不想让别人闲话。简而言之，他需要被解决掉，这样其他人才不会不抽手。让他们大家都知道谁才是这里的老大…</text>
+	</string>
+	<string id="tm_kill_stalker_3">
+		<text>杀死新手潜行者。</text>
+	</string>
+	<string id="tm_kill_stalker_3_descr">
+		<text>解决掉一个新手潜行者，不过他或许已经不算新手了…那么他是谁呢？啊，谁在乎！只要这任务别搞砸就好了。</text>
+	</string>
+	<string id="tm_kill_stalker_3_text">
+		<text>有一个人在这里闲晃，假装他是个新手，但他有点奇怪…那么不管怎样，如果他突然消失了，那你就帮了我很大一个忙。你知道我的意思吧？</text>
+	</string>
+	<string id="tm_kill_stalker_4">
+		<text>杀死名为"魔鬼"的潜行者</text>
+	</string>
+	<string id="tm_kill_stalker_4_descr">
+		<text>杀死一个贸易商人西德洛维奇的竞争对手，一个名为"魔鬼"的潜行者。</text>
+	</string>
+	<string id="tm_kill_stalker_4_text">
+		<text>欧雷格 固萨络夫，代号魔鬼...前「黑扁帽」的成员，服役于贝勒什科夫斯卡雅俄罗斯特种部队。他只要管好自己的生意，我就不会去对付他，独行者就该是独行者。但我听说他最近在召集一些人想要击溃封锁线，然后控制变异区的走私活动。现在这个大问题得快点解决掉。你要接受这份工作吗？</text>
+	</string>
+	<string id="tm_kill_stalker_5">
+		<text>杀死迪奥多拉神父</text>
+	</string>
+	<string id="tm_kill_stalker_5_descr">
+		<text>杀死一个反对在变异区采集和贩卖神器的神父？没错。</text>
+	</string>
+	<string id="tm_kill_stalker_5_text">
+		<text>我总是说工作和朋友不能混唯一谈，绝不能越线，而且千万别去管别人的闲事。这就是神父，上帝原谅我、迪奥多拉…好吧…他就是看不穿这个简单的事实。他总是在胡说些关于猎取神器的事情，说交易石块会让人变得疯狂，不只是在变异区，而是整个世界，不断的在逼近这条界线。听听看这个，他不断的宣扬石块的全然毁灭！！看到他的意图吗？糟糕的是他真的有一些信奉者！我曾经试着警告这个神父，但他还是继续这样做。那么是这样的：你把他送到上面他爱怎么传道就怎么传道的地方…你懂了吗？我会给你一个很酷的石头做为报酬。那么，成交？</text>
+	</string>
+	<string id="tm_kill_stalker_6">
+		<text>干掉这个商业特务</text>
+	</string>
+	<string id="tm_kill_stalker_6_descr">
+		<text>干掉这个商业特务商业特务也关心自己的名声</text>
+	</string>
+	<string id="tm_kill_stalker_6_text">
+		<text>他说自己是商业特 这意味着，他想借住我的名声来做些事情，而随后，他出手的都是一些破烂儿破枪，过期食品。别人买了这些东西来找我。我想找个人来对付这个商业骗子。</text>
+	</string>
+	<string id="tm_lisiy_has_no_job">
+		<text>现在没什么事情。</text>
+	</string>
+	<string id="tm_lisiy_job_ask">
+		<text>你想讨论什么任务？</text>
+	</string>
+	<string id="tm_lisiy_job_complete">
+		<text>任务完成--这里是你的酬劳！</text>
+	</string>
+	<string id="tm_lisiy_job_what">
+		<text>任务怎么了？</text>
+	</string>
+	<string id="tm_lisiy_list_job">
+		<text>有些事情：</text>
+	</string>
+	<string id="tm_mercenary_has_no_job">
+		<text>现在没什么事情。</text>
+	</string>
+	<string id="tm_mercenary_job_ask">
+		<text>你想讨论哪件任务？</text>
+	</string>
+	<string id="tm_mercenary_job_complete">
+		<text>任务完成--这里是你的酬劳！</text>
+	</string>
+	<string id="tm_mercenary_job_what">
+		<text>任务是什么？</text>
+	</string>
+	<string id="tm_mercenary_list_job">
+		<text>有些事情：</text>
+	</string>
+	<string id="tm_monster_part_1">
+		<text>带回吸血怪的嘴部。</text>
+	</string>
+	<string id="tm_monster_part_1_descr">
+		<text>那么吸血怪的牙齿会带来好运？你看看它有没有给吸血怪带来好运。</text>
+	</string>
+	<string id="tm_monster_part_1_text">
+		<text>我听过一个迷信说吸血怪的牙齿会带来好运。如果有人把牙齿带在脖子上，就可以通过变异点，而且神器就会直接掉在他的双手中。不管怎样，这都是胡扯，但有些笨蛋真的相信，愿意付高价来取得它。如果你帮我带来吸血鬼的嘴部，我会给你很好的报酬的。</text>
+	</string>
+	<string id="tm_monster_part_2">
+		<text>将地狱犬的尾巴带来</text>
+	</string>
+	<string id="tm_monster_part_2_descr">
+		<text>将地狱犬的尾巴带来</text>
+	</string>
+	<string id="tm_monster_part_2_text">
+		<text>冬天很快的就要来了，那么大陆上的马子都想要穿着什么过冬？没错--皮草。那边现在正在流行用一堆地狱犬尾巴制成的配件。它可是某种特殊的皮草！现在我有笔订单需要这些尾巴，你要接受这份工作吗？</text>
+	</string>
+	<string id="tm_petrenko_has_no_job">
+		<text>现在没有什么事情。</text>
+	</string>
+	<string id="tm_petrenko_job_ask">
+		<text>你想要谈论哪一件任务？</text>
+	</string>
+	<string id="tm_petrenko_job_complete">
+		<text>任务完成--这里是你的酬劳！</text>
+	</string>
+	<string id="tm_petrenko_job_what">
+		<text>任务怎么了？</text>
+	</string>
+	<string id="tm_petrenko_list_job">
+		<text>没事。</text>
+	</string>
+	<string id="tm_reward_job">
+		<text>我来这里交差。</text>
+	</string>
+	<string id="tm_seek_job_abandon">
+		<text>我对这种工作没什么兴趣。</text>
+	</string>
+	<string id="tm_seek_job_no">
+		<text>下次吧。</text>
+	</string>
+	<string id="tm_seek_job_yes">
+		<text>我做了。</text>
+	</string>
+	<string id="tm_seek_new_job">
+		<text>我需要一个工作，你有什么可以给我的吗？</text>
+	</string>
+	<string id="tm_shustriy_has_no_job">
+		<text>现在没有什么事情。</text>
+	</string>
+	<string id="tm_shustriy_job_ask">
+		<text>你想要谈论哪一件任务？</text>
+	</string>
+	<string id="tm_shustriy_job_complete">
+		<text>任务完成--这里是你的酬劳！</text>
+	</string>
+	<string id="tm_shustriy_job_what">
+		<text>任务怎么样了？</text>
+	</string>
+	<string id="tm_shustriy_list_job">
+		<text>没事。</text>
+	</string>
+	<string id="tm_trader_has_no_job">
+		<text>现在没有什么事可以让你做。</text>
+	</string>
+	<string id="tm_trader_job_ask">
+		<text>你想要谈论哪一件工作？</text>
+	</string>
+	<string id="tm_trader_job_complete">
+		<text>工作完成…这是你的酬劳！</text>
+	</string>
+	<string id="tm_trader_job_what">
+		<text>工作怎么样了？</text>
+	</string>
+	<string id="tm_trader_list_job">
+		<text>没事。</text>
+	</string>
+	<string id="tm_wolf_has_no_job">
+		<text>现在没有事情。</text>
+	</string>
+	<string id="tm_wolf_job_ask">
+		<text>你想要谈论哪一件任务？</text>
+	</string>
+	<string id="tm_wolf_job_complete">
+		<text>任务完成--这里是你的酬劳！</text>
+	</string>
+	<string id="tm_wolf_job_what">
+		<text>那么任务怎么样了？</text>
+	</string>
+	<string id="tm_wolf_list_job">
+		<text>没事。</text>
+	</string>
+	<string id="tm_zastava_commander_has_no_job">
+		<text>现在没有事情。</text>
+	</string>
+	<string id="tm_zastava_commander_job_ask">
+		<text>你想要谈论哪一件任务？</text>
+	</string>
+	<string id="tm_zastava_commander_job_complete">
+		<text>任务完成--这里是你的酬劳！</text>
+	</string>
+	<string id="tm_zastava_commander_job_what">
+		<text>那么任务怎么样了？</text>
+	</string>
+	<string id="tm_zastava_commander_list_job">
+		<text>那边没有东西</text>
+	</string>
+	<string id="wolf_eliminate_lager_1">
+		<text>摧毁野猪的巢穴</text>
+	</string>
+	<string id="wolf_eliminate_lager_1_descr">
+		<text>野猪在附近的地方筑了一个巢穴，沃夫跟他的朋友把东西放在那里。沃夫要求清理那个地方，并且承诺给你很好的回报。</text>
+	</string>
+	<string id="wolf_eliminate_lager_1_text">
+		<text>我跟我的朋友在离这不远的停车场放了些东西，那边的森林蛮茂密的。基本上，都是些你需要的东西。但是野猪最近在那边筑了巢，所以现在我们没办法去拿东西。帮忙杀死那些野猪，我跟我的朋友会好好的感谢你的。</text>
+	</string>
+	<string id="wolf_eliminate_lager_2">
+		<text>摧毁农场中的变种生物</text>
+	</string>
+	<string id="wolf_eliminate_lager_2_descr">
+		<text>沃夫要求清除农场里的变种生物，他想在那边设置一个前哨站。</text>
+	</string>
+	<string id="wolf_eliminate_lager_2_text">
+		<text>即使这边是变异区的边缘，但对新手来说这里还是很不好过的。强盗在这里不过是一半的问题--他们至少会说俄语。但那些变种生物--它们可就很难相处了。它们在废弃的农场里筑了一个巢穴，占据了唯一适合设置前哨站的好地方。如果你把农场的变种给清除掉，我会回报你的。</text>
+	</string>
+	<string id="zastava_commander_eliminate_lager">
+		<text>清除狗的巢穴</text>
+	</string>
+	<string id="zastava_commander_eliminate_lager_descr">
+		<text>在酒吧南方的检查哨有一群狗。检查哨的头儿要求清除它们的巢穴，承诺会付出报酬。</text>
+	</string>
+	<string id="zastava_commander_eliminate_lager_text">
+		<text>尽管我们的努力，有些怪物还是从废弃区跑了出来。你或许在我们的南方看见了一群狗，如果你杀死它们，那你会获得酬劳的。</text>
+	</string>
+	<string id="defend_lager">
+		<text>营地防御</text>
+	</string>
+</string_table>

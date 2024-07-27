@@ -1,0 +1,39 @@
+﻿	<string id="agr_captains_chamber_hint">
+		<text>上尉的军械库</text>
+	</string>
+	<string id="agr_collector_entrance_hint">
+		<text>地下墓穴的入口</text>
+	</string>
+	<string id="agr_factory_hint">
+		<text>工厂</text>
+	</string>
+	<string id="agr_find_gunslinger_cache_hint">
+		<text>在地下墓穴中寻找史特列洛克的藏匿物</text>
+	</string>
+	<string id="agr_give_case_to_barman_hint">
+		<text>将文件交给酒吧老板</text>
+	</string>
+	<string id="agr_help_krot_hint">
+		<text>拯救莫尔</text>
+	</string>
+	<string id="agr_help_stalkers_hint">
+		<text>拯救潜行者</text>
+	</string>
+	<string id="agr_meet_krot_hint">
+		<text>会见莫尔</text>
+	</string>
+	<string id="agr_nii_hint">
+		<text>农业研究所，军事基地。</text>
+	</string>
+	<string id="agr_swamp_hint">
+		<text>安全地点</text>
+	</string>
+	<string id="agr_take_case_hint">
+		<text>偷取文件</text>
+	</string>
+	<string id="agr_take_krots_info_hint">
+		<text>从莫尔处获取藏匿物的讯息</text>
+	</string>
+	<string id="agr_zaz_hint">
+		<text>Zaporozhets汽车</text>
+	</string>

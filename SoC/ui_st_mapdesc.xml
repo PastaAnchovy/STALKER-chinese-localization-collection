@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="ui_map_desc_mp_agroprom_large">
+		<text>一个奇特的地方。这座沉寂的建筑物有它的秘密，潜行者们都渴望获得这里的神器，不管会有多危险。快速的移动和准确的射击会让你受到幸运女神的眷顾的。</text>
+	</string>
+	<string id="ui_map_desc_mp_agroprom_short">
+		<text>一个奇特的地方。这座沉寂的建筑物有它的秘密，潜行者们都渴望获得这里的神器，不管会有多危险。</text>
+	</string>
+	<string id="ui_map_desc_mp_atp_large">
+		<text>巴士和电车停车场是变异区的大厅。牵引机、公车和卡车就永远的停留在轨道上。这边没有发现神器的报告。但这个地方受到有潜行者老手的喜爱，他们追捕新手、抢夺东西。在建筑物中找好掩蔽的地方，准备好你的武器，并且要小心敌人从天花板上出现。</text>
+	</string>
+	<string id="ui_map_desc_mp_atp_short">
+		<text>巴士和电车停车场是变异区的大厅。牵引机、公车和卡车就永远的停留在轨道上。</text>
+	</string>
+	<string id="ui_map_desc_mp_bath_large">
+		<text>这个神秘的地方对人们来说有很强的吸引力。谁建造了那个实验用的水池，以及为什麽要--那永远都会是个秘密。这里没有发现过神器。只有残馀的奇怪药物和装备吸引著潜行者到这里来。记得将你的眼睛盯著屋顶，记得这个区域的辐射指数是很高的。</text>
+	</string>
+	<string id="ui_map_desc_mp_bath_short">
+		<text>这个神秘的地方对人们有强烈的吸引力。谁建造了那个实验用的水池，以及为什麽要--那永远都会是个秘密。</text>
+	</string>
+	<string id="ui_map_desc_mp_factory_large">
+		<text>一座阴沉的废弃工厂。不知道有多少潜行者在这里死亡。这里有大量的不同种类的特异点，但仍然吸引著潜行者，来这里寻找珍贵的神器。小心这里的辐射污染！</text>
+	</string>
+	<string id="ui_map_desc_mp_factory_short">
+		<text>一座阴沉的废弃工厂。不知道有多少潜行者在这里死亡。</text>
+	</string>
+	<string id="ui_map_desc_mp_garbage_large">
+		<text>在86年的大灾难后这里堆积了大量的辐射废料…损坏的吊车、机具等等。你可以发现一些老旧设施的遗迹，和一座大型的机棚。所有的这些都位于靠近变异区入口的地方，而且四处有许多神器，那也是吸引潜行者来这里的原因。</text>
+	</string>
+	<string id="ui_map_desc_mp_garbage_short">
+		<text>在86年的大灾难后这里堆积了大量的辐射废料…损坏的吊车、机具等等。</text>
+	</string>
+	<string id="ui_map_desc_mp_lost_village_large">
+		<text>深入在变异区的阴森的废弃村庄。一座小的、浅的、褐色的、丢满了汽车残骸的湖，孕育了一只变异区探险者下意识中最畏惧的吸血怪。小心狙击手，但记得变异区最锺爱的还是勇敢的人。</text>
+	</string>
+	<string id="ui_map_desc_mp_lost_village_short">
+		<text>深入在变异区的阴森的废弃村庄。一座小的、浅的、褐色的、丢满了汽车残骸的湖，孕育了一只变异区探险者下意识中最畏惧的吸血怪。</text>
+	</string>
+	<string id="ui_map_desc_mp_military_1_large">
+		<text>一座荒废的军事基地，里面有坏掉的卡车和装甲运兵车，一些营房，和一个毁坏的指挥中心。但它并不是仅仅如此而已，这座基地有丰富的神器，但是敌人可能躲藏在任何一个角落。证明你的勇气、收集你的报酬吧！</text>
+	</string>
+	<string id="ui_map_desc_mp_military_1_short">
+		<text>一座荒废的军事基地，里面有坏掉的卡车和装甲运兵车，一些营房，和一个毁坏的指挥中心。</text>
+	</string>
+	<string id="ui_map_desc_mp_military_2_large">
+		<text>这个老村庄是一个邪恶的地方和死亡的陷阱。但是，如果你冒著巨大的风险来到这里，要时刻小心突然降临的危险。这里没有任何安全的地方，希望你的瞄准镜和灭音器可以帮你渡过危险。</text>
+	</string>
+	<string id="ui_map_desc_mp_military_2_short">
+		<text>这个老村庄是一个邪恶的地方和死亡的陷阱。但是，如果你冒著巨大的风险来到这里，要时刻小心突然降临的危险。</text>
+	</string>
+	<string id="ui_map_desc_mp_prypiat_large">
+		<text>普里皮亚季城以前是核电厂工作人员的居住地。这个废弃的工业残骸充满著危险。你在这里需要好好的保卫你自己。</text>
+	</string>
+	<string id="ui_map_desc_mp_prypiat_short">
+		<text>普里皮亚季城离核电厂不远--切尔诺贝利的石棺。</text>
+	</string>
+	<string id="ui_map_desc_mp_railraod_short">
+		<text>在罗斯托克工厂的小火车站。</text>
+	</string>
+	<string id="ui_map_desc_mp_railroad_large">
+		<text>一个在罗斯托克的工厂的小火车站。坏掉的列车和柴油机车头现在停留在永恆的叉路上。这边发现了许多神器，吸引著所有在变异区的潜行者。</text>
+	</string>
+	<string id="ui_map_desc_mp_rostok_large">
+		<text>在金属堆积物的下方和混凝土墙的后方，这座工厂有一种特殊的寂静。上一个世纪，这里到处是工人，急促的忙著他们的工作，扩音机中传来大声的标语…但现在工厂已经完成了它该做的事。</text>
+	</string>
+	<string id="ui_map_desc_mp_rostok_short">
+		<text>在金属堆积物的下方和混凝土墙的后方，这座工厂有一种特殊的寂静。</text>
+	</string>
+	<string id="ui_map_desc_mp_workshop_large">
+		<text>在纪律团到达罗斯托克工厂的外围前，你可以好好逛逛这个地方。这个破烂的区域拥有丰富的神器。空机棚和仓库里到处都充满了危险。要非常的小心、并且仔细的观察白色的塔。</text>
+	</string>
+	<string id="ui_map_desc_mp_workshop_short">
+		<text>在纪律团到达罗斯托克工厂的外围前，你可以好好逛逛这个地方。这个破烂的区域拥有丰富的神器。</text>
+	</string>
+</string_table>

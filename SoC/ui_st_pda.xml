@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="actor_btn_hint">
+		<text>以玩家为中心</text>
+	</string>
+	<string id="add_spot_btn_hint">
+		<text>增加新标记</text>
+	</string>
+	<string id="Contacts">
+		<text>关系</text>
+	</string>
+	<string id="Encyclopedia">
+		<text>百科全书</text>
+	</string>
+	<string id="global_map_btn_hint">
+		<text>特异区全图</text>
+	</string>
+	<string id="level_changer_invitation">
+		<text>进行下一个场景？</text>
+	</string>
+	<string id="Name">
+		<text>名称</text>
+	</string>
+	<string id="pda_btn_accomplished">
+		<text>完成</text>
+	</string>
+	<string id="pda_btn_accomplished_hint">
+		<text>显示已完成的任务</text>
+	</string>
+	<string id="pda_btn_active">
+		<text>启动</text>
+	</string>
+	<string id="pda_btn_active_hint">
+		<text>显示当前的任务</text>
+	</string>
+	<string id="pda_btn_contacts">
+		<text>NPC关系</text>
+	</string>
+	<string id="pda_btn_contacts_hint">
+		<text>显示NPC与你的关系</text>
+	</string>
+	<string id="pda_btn_diary">
+		<text>日记</text>
+	</string>
+	<string id="pda_btn_diary_hint">
+		<text>显示玩家的日记</text>
+	</string>
+	<string id="pda_btn_encyclopedia">
+		<text>百科全书</text>
+	</string>
+	<string id="pda_btn_encyclopedia_hint">
+		<text>显示特异区百科全书</text>
+	</string>
+	<string id="pda_btn_failed">
+		<text>失败</text>
+	</string>
+	<string id="pda_btn_failed_hint">
+		<text>显示失败的任务</text>
+	</string>
+	<string id="pda_btn_info">
+		<text>信息</text>
+	</string>
+	<string id="pda_btn_journal">
+		<text>日志</text>
+	</string>
+	<string id="pda_btn_journal_hint">
+		<text>显示玩家的输入</text>
+	</string>
+	<string id="pda_btn_map">
+		<text>地图</text>
+	</string>
+	<string id="pda_btn_map_hint">
+		<text>显示特异区的地图</text>
+	</string>
+	<string id="pda_btn_news">
+		<text>信息日志</text>
+	</string>
+	<string id="pda_btn_news_hint">
+		<text>显示信息日志</text>
+	</string>
+	<string id="pda_btn_off_hint">
+		<text>关闭</text>
+	</string>
+	<string id="pda_btn_own">
+		<text>我自己</text>
+	</string>
+	<string id="pda_btn_own_hint">
+		<text>在地图上显示我的标记</text>
+	</string>
+	<string id="pda_btn_quests">
+		<text>任务</text>
+	</string>
+	<string id="pda_btn_quests_hint">
+		<text>显示过程信息</text>
+	</string>
+	<string id="pda_btn_ranking">
+		<text>排名</text>
+	</string>
+	<string id="pda_btn_ranking_hint">
+		<text>显示最高玩家排名</text>
+	</string>
+	<string id="pda_btn_reputation">
+		<text>声望</text>
+	</string>
+	<string id="pda_btn_statistics">
+		<text>统计数据</text>
+	</string>
+	<string id="pda_btn_statistics_hint">
+		<text>显示进度的数据</text>
+	</string>
+	<string id="pda_edit_user_task_btn_hint">
+		<text>编辑说明文字</text>
+	</string>
+	<string id="pda_remove_btn_hint">
+		<text>删除标记</text>
+	</string>
+	<string id="pda_show_descr_btn_hint">
+		<text>前进</text>
+	</string>
+	<string id="pda_show_location_btn_hint">
+		<text>显示地图上的标记</text>
+	</string>
+	<string id="pda_show_pointer_btn_hint">
+		<text>启动标记</text>
+	</string>
+	<string id="pda_switch_description_btn_hint">
+		<text>切换地图/文字</text>
+	</string>
+	<string id="Rank">
+		<text>排名</text>
+	</string>
+	<string id="remove_spot_btn_hint">
+		<text>删除标示</text>
+	</string>
+	<string id="st_detail_list_for_artefacts">
+		<text>赢得神器</text>
+	</string>
+	<string id="st_detail_list_for_community_relations">
+		<text>与阵营的关係</text>
+	</string>
+	<string id="st_detail_list_for_monsterkills">
+		<text>杀死的变种生物</text>
+	</string>
+	<string id="st_detail_list_for_quests">
+		<text>完成的任务</text>
+	</string>
+	<string id="st_detail_list_for_stalkerkills">
+		<text>杀死的潜行者</text>
+	</string>
+	<string id="st_map_actor">
+		<text>这是你自己</text>
+	</string>
+	<string id="st_news">
+		<text>新闻</text>
+	</string>
+	<string id="st_pda_artefacts">
+		<text>神器</text>
+	</string>
+	<string id="st_pda_detail_info">
+		<text>详细的信息</text>
+	</string>
+	<string id="st_pda_monster_kills">
+		<text>杀死的变种生物</text>
+	</string>
+	<string id="st_pda_player_statistic">
+		<text>玩家状态</text>
+	</string>
+	<string id="st_pda_quest_complete">
+		<text>完成的任务</text>
+	</string>
+	<string id="st_pda_stalker_kills">
+		<text>杀死的潜行者</text>
+	</string>
+	<string id="st_pda_statistic_reputation">
+		<text>声望：</text>
+	</string>
+	<string id="st_pda_statistic_score">
+		<text>统计数据</text>
+	</string>
+	<string id="st_pda_task_detail_information">
+		<text>详细的任务讯息</text>
+	</string>
+	<string id="st_pda_top20">
+		<text>前20名的潜行者</text>
+	</string>
+	<string id="st_pda_total">
+		<text>总数</text>
+	</string>
+	<string id="st_tip">
+		<text>提示</text>
+	</string>
+	<string id="svoboda_outfit_description_m1">
+		<text>这件服装结合了网状的金属线，可以防护电磁的力场。这个组合还包含了一个夜视装置。</text>
+	</string>
+	<string id="Tasks">
+		<text>任务</text>
+	</string>
+	<string id="Time">
+		<text>时间。</text>
+	</string>
+	<string id="zoom_in_btn_hint">
+		<text>放大</text>
+	</string>
+	<string id="zoom_out_btn_hint">
+		<text>缩小</text>
+	</string>
+</string_table>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="dm_general_action_info">
+		<text>你在这里做什么？</text>
+	</string>
+	<string id="dm_general_cool_info">
+		<text>你可以告诉我一些有趣的事吗？</text>
+	</string>
+	<string id="dm_general_cool_info_no_more">
+		<text>什么都不知道。</text>
+	</string>
+	<string id="dm_general_help_bandage">
+		<text>拿取绷带。</text>
+	</string>
+	<string id="dm_general_help_medkit">
+		<text>拿取急救箱。</text>
+	</string>
+	<string id="dm_general_trade_info">
+		<text>对讯息有兴趣，同时也是为了钱。</text>
+	</string>
+	<string id="dm_general_trade_info_caption">
+		<text>我可以提供这些东西：</text>
+	</string>
+	<string id="dm_general_trade_info_hasno">
+		<text>没有任何东西可以提供。</text>
+	</string>
+	<string id="dm_general_trade_info_nothing">
+		<text>下次吧。</text>
+	</string>
+</string_table>

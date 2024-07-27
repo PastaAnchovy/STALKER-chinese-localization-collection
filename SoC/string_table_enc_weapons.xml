@@ -1,0 +1,583 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="Ammo">
+		<text>弹药</text>
+	</string>
+	<string id="ammo-11.43x23-fmj">
+		<text>.45子弹</text>
+	</string>
+	<string id="ammo-11.43x23-fmj_s">
+		<text>.45</text>
+	</string>
+	<string id="ammo-11.43x23-hydro">
+		<text>.45水冲空心弹</text>
+	</string>
+	<string id="ammo-11.43x23-hydro_s">
+		<text>0.45Hydro</text>
+	</string>
+	<string id="ammo-12x70-buck">
+		<text>12х70铅弹</text>
+	</string>
+	<string id="ammo-12x70-buck_s">
+		<text>12х70铅弹</text>
+	</string>
+	<string id="ammo-12x76-dart">
+		<text>12x76弹镖弹</text>
+	</string>
+	<string id="ammo-12x76-dart_s">
+		<text>12x76弹镖弹</text>
+	</string>
+	<string id="ammo-12x76-zhekan">
+		<text>12x76重铅弹</text>
+	</string>
+	<string id="ammo-12x76-zhekan_s">
+		<text>12x76重铅弹</text>
+	</string>
+	<string id="ammo-5.45x39-ap">
+		<text>5.45x39mmBP弹</text>
+	</string>
+	<string id="ammo-5.45x39-ap_s">
+		<text>5.45x39mmBP</text>
+	</string>
+	<string id="ammo-5.45x39-fmj">
+		<text>5.45x39mm弹</text>
+	</string>
+	<string id="ammo-5.45x39-fmj_s">
+		<text>5.45x39</text>
+	</string>
+	<string id="ammo-5.56x45-ap">
+		<text>5.56x45mm穿甲弹</text>
+	</string>
+	<string id="ammo-5.56x45-ap_s">
+		<text>5.56穿甲弹</text>
+	</string>
+	<string id="ammo-5.56x45-ss190">
+		<text>5.56x45 mm SS109弹</text>
+	</string>
+	<string id="ammo-5.56x45-ss190_s">
+		<text>5.56 SS</text>
+	</string>
+	<string id="ammo-7.62x54-7h1">
+		<text>7.62x54 mm 7N1弹</text>
+	</string>
+	<string id="ammo-7.62x54-7h1_s">
+		<text>7,62 7N1</text>
+	</string>
+	<string id="ammo-7.62x54-7h14">
+		<text>7.62x54R 7N14弹</text>
+	</string>
+	<string id="ammo-7.62x54-7h14_s">
+		<text>7.62 7N14</text>
+	</string>
+	<string id="ammo-7.62x54-ap">
+		<text>7.62x54 mm BP弹</text>
+	</string>
+	<string id="ammo-7.62x54-ap_s">
+		<text>7.62 BP</text>
+	</string>
+	<string id="ammo-9x18-fmj">
+		<text>9х18 mm弹</text>
+	</string>
+	<string id="ammo-9x18-fmj_s">
+		<text>9х18</text>
+	</string>
+	<string id="ammo-9x18-pmm">
+		<text>9х18 mm +P+弹</text>
+	</string>
+	<string id="ammo-9x18-pmm_s">
+		<text>9х18 +P+</text>
+	</string>
+	<string id="ammo-9x19-fmj">
+		<text>9х19mm FMJ</text>
+	</string>
+	<string id="ammo-9x19-fmj_s">
+		<text>9х19 FMJ</text>
+	</string>
+	<string id="ammo-9x19-pbp">
+		<text>9x19mm PB1s弹</text>
+	</string>
+	<string id="ammo-9x19-pbp_s">
+		<text>9x19 PB1s</text>
+	</string>
+	<string id="ammo-9x39-ap">
+		<text>9x39 mm SP-6弹</text>
+	</string>
+	<string id="ammo-9x39-ap_s">
+		<text>9x39 SP-6</text>
+	</string>
+	<string id="ammo-9x39-pab9">
+		<text>9х39 mm PAB-9弹</text>
+	</string>
+	<string id="ammo-9x39-pab9_s">
+		<text>9х39 PAB9</text>
+	</string>
+	<string id="ammo-9x39-sp5">
+		<text>9х39 mm SP-5弹</text>
+	</string>
+	<string id="ammo-9x39-sp5_s">
+		<text>9х39 SP-5</text>
+	</string>
+	<string id="ammo-gauss">
+		<text>电磁弹</text>
+	</string>
+	<string id="ammo-gauss_s">
+		<text>电磁弹</text>
+	</string>
+	<string id="ammo-m209">
+		<text>M209枪榴弹</text>
+	</string>
+	<string id="ammo-m209_s">
+		<text>M209</text>
+	</string>
+	<string id="ammo-og-7b">
+		<text>OG-7V火箭弹</text>
+	</string>
+	<string id="ammo-og-7b_s">
+		<text>OG-7V</text>
+	</string>
+	<string id="ammo-vog-25">
+		<text>VOG-25枪榴弹</text>
+	</string>
+	<string id="ammo-vog-25_s">
+		<text>VOG-25</text>
+	</string>
+	<string id="ammo-vog-25p">
+		<text>VOG-25R枪榴弹</text>
+	</string>
+	<string id="ammo-vog-25p_s">
+		<text>VOG-25R</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-11.43x23-fmj">
+		<text>给柯尔特ColtM1911.45跟SIG-SAUER P220手枪用的标准子弹，它拥有标准的核心和全包覆的弹头设计。</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-11.43x23-hydro">
+		<text>给柯尔特ColtM1911.45跟SIG-SAUER P220手枪用的改良过独特的水力冲压弹，它是一种空头弹，拥有良好的阻碍效果。</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-12x70-buck">
+		<text>标准12发的6mm铅弹匣，在近距离有强大的杀伤力，专门设计给BM 17、温彻斯特 1300跟SPSA-12铅弹鎗使用。它的有效距离通常低于30公尺。</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-12x76-dart">
+		<text>一个带鳍的子弹，在飞行时非常稳定，可以提升准确度，专门设计给TOS 34、BM 17、温彻斯特 1300跟SPSA-12铅弹鎗使用。它有穿甲能力和增强射距的效果。它的有效距离超过150公尺。</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-12x76-zhekan">
+		<text>一种裸弹，通常用于大型猎捕，也可以做为其他用途。它的重子弹没有穿刺能力，但可以因为自身的力道来穿破防弹背心，专门设计给TOS 34、BM 17、温彻斯特 1300跟SPSA-12铅弹鎗使用。它的有效距离超过100公尺。</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-5.45x39-ap">
+		<text>设计给Ak 74/2M、Aks 74/2U、ON-94步枪用的穿甲弹。它拥有改进的穿甲能力，但是阻碍效果较差。</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-5.45x39-fmj">
+		<text>设计给Ak 74/2M、Aks 74/2U和AN94步枪用的标准子弹，它拥有标准的核心和全包覆的弹头设计。</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-5.56x45-ap">
+		<text>设计给SA80、LR 300-ML-N、SIG SG550、G36和F2000步枪用的穿甲弹。</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-5.56x45-ss190">
+		<text>标准的NATO规格子弹，符合闻名的比利时 SS109 index规定，使用在SA80、LR 300-ML-N、SIG SG550、G36和F2000步枪之上。</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-7.62x54-7h1">
+		<text>一个经过简单校正的子弹，适用于SVDm 2、SVUmk2狙击枪。</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-7.62x54-7h14">
+		<text>用于SVDm 2、SVUmk2狙击枪的狙击弹，加强了准度和射距。</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-7.62x54-ap">
+		<text>用于SVDm 2、SVUmk2狙击枪的穿甲弹。</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-9x18-fmj">
+		<text>用于玛卡洛夫 PMm、玛卡洛夫 PB、Fort-12Mк2手枪的子弹，它拥有标准的核心和全包覆的弹头设计，和轻微的穿甲能力。</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-9x18-pmm">
+		<text>用于玛卡洛夫 PMm、玛卡洛夫 PB、Fort-12Mк2手枪，改良过弹道特性的子弹。因为该子弹的高初速特性，它的效应比一般子弹来得强，拥有较佳的穿甲能力。</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-9x19-fmj">
+		<text>用于沃尔特 P99跟MP5机关枪的标准子弹，它拥有全包覆的弹头设计，和轻微的穿甲能力。</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-9x19-pbp">
+		<text>用于沃尔特 P99跟MP5机关枪的改良子弹。配有高爆药的中空弹，拥有穿甲弹心。</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-9x39-ap">
+		<text>用于闪电 S14、AS-Val步枪和MP5特殊狙击枪的穿甲弹。它是次音速子弹，它的特别设计可以穿透400公尺外大部分的防弹背心。</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-9x39-pab9">
+		<text>用于闪电 S14、AS-Val步枪和MP5特殊狙击枪的子弹。属于较后期和简单校正的穿甲弹。它是次音速子弹，它的特别设计可以穿透300公尺外大部分的防弹背心。</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-9x39-sp5">
+		<text>用于闪电 S14、AS-Val步枪和MP5特殊狙击枪的狙击弹。它是次音速子弹，因为它的重量和特别设计，让它可以穿透400公尺外大部分的防弹背心。</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-gauss">
+		<text>能源槽已经充满致命元素的高斯枪弹匣。它的能源来源是一个闪光神器的封装物件。</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-m209">
+		<text>M203榴弹发射器（可以装备在LR 300-ML-N、 G36、SIG SG550、SA80）以及F2000榴弹发射器用的枪榴弹，</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-og-7b">
+		<text>给RPG-7u使用的高爆性火箭弹。它可以用来对付一群军队和小型的装甲车辆。</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-vog-25">
+		<text>给GP-25 Kostyer榴弹发射器、闪电一体式榴弹发射器、和RG-6转轮式榴弹发射器用的枪榴弹。</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-vog-25p">
+		<text>给GP-25 Kostyer榴弹发射器、闪电 S14榴弹发射器、和RG-6转轮式榴弹发射器用的枪榴弹。枪榴弹会在目标一米前炸开以提高它的杀伤力。</text>
+	</string>
+	<string id="enc_weapons1_grenade-f1">
+		<text>一个防御型的手榴弹，拥有大范围的碎片杀伤力。建议在投掷时最好躲在掩体后面。</text>
+	</string>
+	<string id="enc_weapons1_grenade-gd05">
+		<text>烟雾弹，用来製造烟雾幕，持续时间约10秒钟。</text>
+	</string>
+	<string id="enc_weapons1_grenade-rgd5">
+		<text>一个攻击型的手榴弹，拥有小范围的碎片杀伤力。</text>
+	</string>
+	<string id="enc_weapons1_wpn-abakan">
+		<text>俄罗斯菁英部队用的武器。它设计用来取代过时的Akm 74/2。它不只拥有AN94的内部机心结构，它的弹槽跟进弹器是可以活动的，这个设计降低了枪枝的弹跳，提升了射击的准确度。\n 历史简介：AN94.使用5.45X39MM步枪弹!该新枪大量使用玻璃纤维增强的高强度聚合物件.采用非常独特的联机构设计,能把两发子弹之间的发射时间缩短到最低限度,实现出1800发1分钟2发点射状态.该枪如果你设定到单发点射的设定上.射手扣住扳机不放.将自动转动成连发状态.该枪虽然被俄军用作制式步枪,但由于复杂机构.材料价格昂贵.非常难大量装备.就连特种部队也就是每个小队配备一把!可为非常珍贵! \n 弹药：\n 标准5.45x39 mm子弹。\n 5.45x39 mm BP穿甲弹。</text>
+	</string>
+	<string id="enc_weapons1_wpn-abakan_m1">
+		<text>机关枪提供了一个瞄准装置来供瞄准射击。这个装置嵌入枪身之中，比起一般型号拥有更高的解析度。</text>
+	</string>
+	<string id="enc_weapons1_wpn-abakan_m2">
+		<text>特定的机关枪在枪管下方拥有一体式的榴弹发射器，这让它变成一个更多用途的武器。</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-grenade-launcher">
+		<text>给Ak 74/2M、Aks 74/2U用的榴弹发射器。\n 弹药：VOG-25枪榴弹。\n 以及VOG-25R枪榴弹。</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-grenade-launcher-m203">
+		<text>给SIG SG550、LR 300-ML-N、G36以及SA80用的榴弹发射器。\n 弹药：M209枪榴弹。</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-scope">
+		<text>一个被广泛使用的苏联瞄准镜。瞄准镜可以使用华沙公约规格的镜桥接在枪上使用。</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-scope-susat">
+		<text>符合NATO规格的4-X瞄准镜。它可以接在标准NATO规格的滑轨上，同时也被称为皮卡汀尼导轨。</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-silencer">
+		<text>由特异区枪匠打造的高效率灭音器。这个组合包含了一个适用于任何武器的接环。</text>
+	</string>
+	<string id="enc_weapons1_wpn-ak74">
+		<text>拥有折叠托的衝锋枪，1974形式，使用5.45x39 mm子弹。它是简单又可靠的武器，但是廉价的製造品质影响了它的工作和准度。在特异区中，它是军队潜行者跟许多个人战士的武器。\n 历史简介：AK-74M是在1987年开始研制的，与AKM中的M一样，AK-74M是“现代化的AK-74”的意思，不过这种样新枪在苏联解体后才正式出现，1991年开始由伊热夫斯克机械制造厂生产。AK-74M在外观上最明显的特征就是把原来鲜艳的颜色部件都改为暗色，这是因为它用深棕色的玻璃纤维塑料代替原来的木料作为枪托、护木和握把的材料，AK-74M的折叠枪托内可以装附品盒，护木上增加了防滑纹。由于改用了塑料，因此枪重减轻至3,325g，此外塑料的热传导系数低，而且冲击强度和耐磨性都高于木质，最初的枪口制退器为前后两个敞开的气室，方便擦拭，但最后又改为与AK-74类似的设计。另外刺刀也改用了黑色的塑料刀柄，造型有所改变。新的刺刀重290g，刃长163mm，宽29mm。\n 弹药：\n 标准5.45x39 mm子弹。\n 5.45x39 mm BP穿甲弹。</text>
+	</string>
+	<string id="enc_weapons1_wpn-ak74_m1">
+		<text>改良过的闭锁系统可以增进射速。</text>
+	</string>
+	<string id="enc_weapons1_wpn-ak74u">
+		<text>Aks 74/2U的重量和尺寸跟那些衝锋枪很接近，但它的操作模式、和它使用的弹药就很像步枪。它的优点在于在城市战或是丛林战时，它的小体积很方便，但却还是拥有较高的穿透力。它主要的缺点在于有限的准确射距和容易过热的枪管。\n 历史简介：AKS-74U（俄文为AKC-74Y）是在1979年被苏军采用的，是在AKS-74的基础上改进的短枪管型突击步枪。AKS-74U的典型特征就是枪管短，因此枪口初速也降低了，射程也相应缩短，是一种近距离自卫武器，另外还设计了一种20发容量的弹匣，方便车辆驾驶员或飞行员的携带。AKS-74U主要装备特种小分队、空降部队、工兵、通信兵、炮兵、车辆驾驶员、飞机的机组成员、导演部队及执法机构的特种部队，装备数量相当多，而在它之前的AKMSU短突击步枪却只是有限地装备极少数的特种部队。在苏军撤出阿富汗以前，经常可以看到在喀布尔的士兵肩挂这种武器，而米-24直升机的乘员也常常把它挂在驾驶员座位的旁边或驾驶员脚边的地板上。\n 弹药：\n 标准5.45x39 mm子弹。\n 5.45x39 mm BP穿甲弹。</text>
+	</string>
+	<string id="enc_weapons1_wpn-ak74u_m1">
+		<text>加强机关枪，装备有无法更换的消音器。</text>
+	</string>
+	<string id="enc_weapons1_wpn-beretta">
+		<text>由美国陆军和警察所使用，同时也被世界上许多军警单位使用。因为它的高爆药弹药跟高弹量的弹匣设计，让它也受到了罪犯的青睐。\n 历史简介：随著美国军队在1985年采用伯莱塔M9，换装大容量自动手枪的风潮开始横扫全美执法机构。当时美国的执法人员普遍使用6发容量双动转轮手枪，且大多数是.38口径，比较有先见之明的是伊利诺州州警，他们在1967年就已经采用9mm口径S&W M39自动手枪，据推测，除了容弹量较大外，自动手枪在单动模式较短的板机行程也提高了命中率。当时有机构作过统计，使用转轮手枪的警员的射击命中率大约在20-30%之间，比起转轮手枪，S&W M39的枪膛轴线比较低，而且套筒后坐过程中也降低了使其比较容易控制后坐力。\n 弹药：\n 标准9x19 mm FMJ子弹。\n 改良9x19 mm PB1s子弹。</text>
+	</string>
+	<string id="enc_weapons1_wpn-bm16">
+		<text>一个锯短枪管的BM 17来福枪。跟原始的双管版本它比较轻也比较好携带，但它的有效射距只有很短的距离。这个武器通常被初学者广泛使用。\n 弹药：\n 12x70 铅弹。\n 12x76 重弹头。\n 12x76弹镖。</text>
+	</string>
+	<string id="enc_weapons1_wpn-colt_m1">
+		<text>受雇杀手的的武器。值得信赖的老式柯尔特枪，装备有不可替换的灭音器。</text>
+	</string>
+	<string id="enc_weapons1_wpn-colt1911">
+		<text>一把好枪，出现在20世纪所有的衝突，带著荣耀和信心进入新的世纪。它的小尺寸弹匣用了高爆性的子弹来补偿。\n 历史简介：柯尔特ColtM1911.45手枪是世界上最著名的手枪之一，是世界上装备时间最长、装备量最大的手枪，被许多国家军队采用。它的设计者是大名鼎鼎的美国著名枪械设计师和发明家约翰· M·勃朗宁。该枪在美国军队中服役已有70多年。该枪作为代表性武器，先后经历了第一次、第二次世界大战，朝鲜战争和越南战争的战火洗礼，直到最近才被伯莱塔M9取代.但直到现在M1911的改装型号还是特种部队的最爱!M1911现在以进攻性手枪的名称被美军和特种部队再次使用!\n 弹药：\n 改良过的.45 水力冲压弹。</text>
+	</string>
+	<string id="enc_weapons1_wpn-desert-eagle">
+		<text>一把给真正英雄的真正好枪。它很大、很重、很具破坏力。因为它的尺寸和价钱让它在特异区中不是很受欢迎。毕竟，你不是每天都需要猎杀大象的！\n 历史简介：提起大威力的半自动手枪沙漠之鹰（Desert Eagle），很多人都知道是以色列军事工业公司（IMI）的产品，但实际上它是明尼亚波尼斯市的马格南研究公司（Magnum Research Inc.）研制的。1979年，在马格南研究公司有三个人想要研制出一种发射.357马格南左轮手枪弹的半自动手枪，当时他们的研制计划名称为“马格南之鹰”（Magnum Eagle）。这三个人是J. Lindig、J. Skildam和H. Z. Skildam，而马格南研究公司的创办人──B. White负责技术的细节和开发。马格南之鹰的设计目的是作为靶枪和狩猎手枪。第一把原型枪在1981年完成，并在1982年公布，当时引起了很大的回响，这种.357马格南口径的半自动手枪巨大的威力和漂亮的外形引起很多射手的极大兴趣。然后，马格南研究公司需要寻找一家大公司来生产这种手枪，不久就找上了IMI。为什么是IMI？目前还缺乏这方面的资料。总之，这种手枪在1983年开始以IMI生产的“沙漠之鹰”的形式开始生产和销售，不过直到1985年，.357口径的沙漠之鹰才正正式式出现在美国手枪市场的售货架上。为了追求比.357马格南更大的威力，因此在1987年推出.41马格南型，不久又推出了.44马格南型，在1994年又推出了.50AE口径，而在1998年又推出了不太有前途的.440 Cor-Bon口径.\n 标准.45子弹。\n 改良过的.45 水力冲压弹。</text>
+	</string>
+	<string id="enc_weapons1_wpn-eagle_m1">
+		<text>一把原本就威力十足的枪，又改装使用步枪子弹，在近战中的确是一个杀人机器。</text>
+	</string>
+	<string id="enc_weapons1_wpn-fn2000">
+		<text>一把装有榴弹发射器的步枪。它装有电子射控模组和一个40-mm的榴弹发射器。\n 历史简介：FN在1995年就开始著手研制一种新的武器系统，考虑到未来特种作战的需要，FN公司将模块化思想贯穿到这个新产品的开发中，使士兵在战场环境中很容易更换部件来适应不同情况的需求，同时，他们也要求这种武器为未来可能出现的新型部件留下接口。2001年3月在阿拉伯联合酋长国阿布扎比举行的IDEX展览会上，FN公司第一次公开展示了这种新颖的武器系统，并命名为F2000突击武器系统。\n 弹药：标准5.56x45 mm SS109子弹。\n 5.56x45 mm АР穿甲弹。</text>
+	</string>
+	<string id="enc_weapons1_wpn-fort">
+		<text>乌克兰警用手枪，用来取代PMm。跟其它的手枪相比，它改进了准度、人体工学和大型的弹匣，但它少了点可靠性。\n 弹药：\n 标准9x18 mm子弹。\n 改良过的9x18 mm +P+子弹。</text>
+	</string>
+	<string id="enc_weapons1_wpn-fort_m1">
+		<text>实验性手枪的原型枪。</text>
+	</string>
+	<string id="enc_weapons1_wpn-g36">
+		<text>一把德国步枪。它是现代武器一年级生的样本：它很轻、可信赖、并且符合人体工学设计。\n 历史简介：G36已经装备了德国联邦国防军几年了，除德国联邦国防军外，西班牙军队也已经装备了这支步枪，另外一些西方国家也正在对将来采纳G36系列的可能性进行评估，而挪威可能会是第三个装备G36系列的国家。而G36K则成功地大举进攻特种部队和执法机构的武器市场，在美国，有一些特警队已经装备了G36K，而最近英国报纸报道，英国警察在2000年中期已经携带G36K上街执行任务了。\n 弹药：\n 标准5.56x45 mm SS109子弹\n 5.56x45 mm АР穿甲弹。</text>
+	</string>
+	<string id="enc_weapons1_wpn-gauss">
+		<text>由特异区科学家製造出来一把超级准的武器。它近乎无声，因为使用了神器的能量来取代原本子弹火药推进的设计。儘管高斯枪的火力强大，它的后座力却非常微小。准度和这把枪的火力远远超越其它小型枪枝。\n 弹药：\n 2-mm高斯弹。</text>
+	</string>
+	<string id="enc_weapons1_wpn-groza">
+		<text>装备有榴弹发射器的步枪，这是一把非常合适特异区状况使用的步枪：它很容易携带、很可靠、多用途但火力强大。Tunder S14是军队潜行者最喜欢的一把步枪。\n 历史简介：OC-14“Groza”（俄文ОЦ-14“Гроза”，其中“Гроза”即“雷电”，也有英语名称为OTs-14）并不只是一种突击步枪，而是一种突击步枪+榴弹发射器的综合武器系统的名称。“雷电”是由位于图拉的CKIB SOO（ЦКИБ СОО，中央设计局运动和狩猎武器部）在1992年设计，并由TOZ（图拉兵工厂）在1994年开始生产。武器本身是一种无托结构的自动步枪，机匣上具有明显的AKM风格，事实上“雷电”就是一种AKM的无托改型。提把上有觇孔式照门，并可以安装光学瞄准镜.该枪还有大量的改装型号!\n 弹药：\n 标准x39 mm PAB-9子弹。\n  9x39 mm SP-6穿甲弹。\n 9x39 mm SP-5狙击弹。\n 用于榴弹发射器的 VOG-25、VOG-25R枪榴弹。</text>
+	</string>
+	<string id="enc_weapons1_wpn-groza_m1">
+		<text>特製的枪管是潜行者工匠的其中一项优异设计，这让步枪可以使用更多种不同的5.45 mm子弹。</text>
+	</string>
+	<string id="enc_weapons1_wpn-hpsa">
+		<text>这把手枪可以说是20世纪最棒的手枪了。它可以信赖、威力强大并且拥很好的弹著点。它的弹匣最多可以装13发子弹。\n 弹药：\n 标准9x19 mm FMJ子弹。\n 改良的9х19 mm PB1s子弹。</text>
+	</string>
+	<string id="enc_weapons1_wpn-knife">
+		<text>猎刀，要想无声息的解决敌人就只有靠它了。</text>
+	</string>
+	<string id="enc_weapons1_wpn-l85">
+		<text>在英国陆军把他们的步枪改成德国製的GP 37后，它就第一次大量的出现在黑市。然后流入特异区中。SA80的主要优势是一个标准的4-x瞄准镜和初射的掏准确率。在连发模式，它的准确率会逐渐降低，它的主机械结构并不是那麽的值得信赖。\n 历史简介：SA80（即“80年代轻武器”的意思），英国人俗称为恩菲尔德武器系统（Enfield Weapon System），主要由两种发射5.56mm SS109弹的自动武器组成，一种是L85A1单兵武器（IW──Individual Weapon），即突击步枪；另一种是L86A1轻型支援武器（LSW──Light Support Weapon），即轻机枪；此外还有一种很短的SA80卡宾枪和一种训练用的L98A1军校学员通用步枪。\n 弹药：\n 标准5.56x45 mm SS109子弹。\n 5.56x45 mm АР穿甲弹。</text>
+	</string>
+	<string id="enc_weapons1_wpn-l85_m1">
+		<text>经过几次调整枪管的喷火效应降低了。</text>
+	</string>
+	<string id="enc_weapons1_wpn-l85_m2">
+		<text>装备有一体式灭音器的武器。许多地方都改装了比较轻的部件，让这把武器明显的变轻了。</text>
+	</string>
+	<string id="enc_weapons1_wpn-lr300">
+		<text>一把有效射距超过300公尺的轻型步枪。藉由它特殊的轻扣扳机的力道、高人体工学设计和低重量，让这把武器有很高的准确度。不过它对尘土很敏感，并且不适用于恶劣的环境。\n 历史简介：LR-300系列是一家名为Z-M武器（Z-M Weapons）公司以AR-15/M16为基础开发出来的轻型步枪（Light Rifle），该公司位于美国马萨诸塞州Bernardston，专攻AR-15/M16的零配件，而LR-300是他们唯一卖的成品枪，但也提供这种枪的改装套件。最初提供的产品主要有两个型号，军/警用途的LR-300M/L（Military / Law）和射击运动用途的LR-300SRF（Sport Rifle），LR300M/L有半自动/全自动或纯半自动两种型号，而SRF则只可半自动，用户只需通过改换下机匣和枪管就可以在M/L型和SRF型之间转换。当然，普通平民是不能购买M/L型的零件的。这两种型号都采用尼拉特隆（Nylatron）材料的护木，现在Z-M公司又增加了两种采用铝合金护木衍生型，于是对原来的两个型号重新命名为LR-300 SR-N和LR-300 ML-N，而采用铝合金护木的新型号则相应命名为LR-300 SR-A和LR-300 ML-A（铝的英文为Aluminum）。\n 弹药：\n 标准5.56x45 mm SS109子弹。\n 5.56x45 mm АР穿甲弹。</text>
+	</string>
+	<string id="enc_weapons1_wpn-lr300_m1">
+		<text>调整风暴武器改为单发射击，这是假定它要改为狙击步枪的简单操作。</text>
+	</string>
+	<string id="enc_weapons1_wpn-mp5">
+		<text>一把衝锋枪中的最佳武器。在20世纪的最后十年，它被世界各地许多国家军、警、特殊部队所採用。当它被更新型式的武器取代后，就出现在黑市之中，接著就流入了特异区。\n 历史简介：MP5的性能优越，特别是它的射击精度相当高，这是因为MP5采用了与G3步枪一样的半自由枪机和滚柱闭锁方式，而当时大部分冲锋枪均采用枪机自由后坐式以减少零部件，降低造价。所以 MP5与华尔特（Walther）公司的MPK和MPL相比，其零部件较多，单价较高。试用结果是：国境警备队选用了MP5，而其他各州的警察部门则根据预算选用MP5。\n 弹药：\n 标准9x19 mm FMJ子弹。\n 改良过的9x19 mm PB1s子弹。</text>
+	</string>
+	<string id="enc_weapons1_wpn-mp5_m1">
+		<text>轻量、携带方便、现在更被调整成适合不同的口径，这把机关枪是初学者的最佳选择。</text>
+	</string>
+	<string id="enc_weapons1_wpn-mp5_m2">
+		<text>基本型式的变化版，加入了一个不可以拆卸的灭音器。</text>
+	</string>
+	<string id="enc_weapons1_wpn-pb">
+		<text>装配有一体式灭音器的手枪，曾被苏联特殊部队使用。它现在已经过时了，但在吝啬鬼的手中，仍然是非常有效的。\n 历史简介：6P9手枪是一种在马卡洛夫手枪上增加管状消声器以降低膛口噪声的手枪，并发射专用的亚音速消声弹。这种消声型的马卡洛夫手枪也称为PB手枪。\n 弹药：\n 标准9x18 mm子弹。\n 改良过的9x18 mm +P+子弹。</text>
+	</string>
+	<string id="enc_weapons1_wpn-pm">
+		<text>在特异区中使用最多的手枪，它是苏联时期的传奇。它简单又可靠，低弹量的弹匣、低火力和不是很好的弹著点。它是潜行者新手的主要武器。\n 历史简介：在第二次世界大战结束后，苏联人总结战时的经验发现手枪在实战中使用率极低，再加上托卡列夫手枪的一些固有缺点，因此决定开发新的军官自卫手枪，要求比托卡列夫手枪更紧凑、更安全和停止作用更大的半自动手枪。可能是受到帝俄时期曾装备过的勃朗宁FN M1903的影响，有人建议采用自由枪机，因此需要一种威力尽可能大但又要适合简单的自由后坐式枪机的手枪弹。为此，苏联工程师Boris V. Syomin首先研制了一种名为PP39的9×18mm手枪弹，并于1940年6月提交靶场试验。这种PP39手枪弹就是后来的马卡洛夫手枪弹的真正前身，在西方和中国的资料上，一直认为苏联的9×18mm手枪弹是抄袭德国的9mm Ultra弹，但实际上早在二战前苏联人就已经在研制9×18mm弹，只是在战后借助德国9mm Ultra弹使之完善，而且苏联弹与德国9mm Ultra弹和战后类似的9×18mm警用弹都不通用，因为苏联弹的弹头直径更大。\n 弹药：\n 标准9x18 mm子弹。\n 改良过的9x18 mm +P+子弹。</text>
+	</string>
+	<string id="enc_weapons1_wpn-rg-6">
+		<text>一个转轮式的榴弹发射器。有时，它是不可或缺的，特别是当面对大量的异种生物、攻击防御良好的固定目标、或是对抗特别强悍的生物时。\n 历史简介：RG-6在结构上以简单著称，主要部件是6具40毫米线膛发射管，每枚榴弹都在各自发射管内由弹簧卡销固定，等待发射时，射手只需按压扳机，解脱保险装置，发射管就能自动启动管内的撞针，击发榴弹成功。它发射各种40毫米口径弹药，其中聚合碎片杀伤弹既能摧毁轻型装甲车又能同时消灭车辆上有生力量，堪称“一打一大片”。新近俄专家还为其研制了内装特殊成分的“钉子”气榴弹，内装刺激性有毒物质，最大射程250米，排气时间在15秒以内，能在瞬间使敌人丧失知觉。与俄军现装备的单发GP-25榴弹发射器相比，RG-6的主要优势是较高的战斗射速，每分钟能打出15发，是GP-25的3倍，这样一套RG-6就可全部替代一个俄步兵排装备的所有枪挂式榴弹发射器。\n 弹药：\n VOG-25枪榴弹。\n VOG-25R枪榴弹。</text>
+	</string>
+	<string id="enc_weapons1_wpn-rg6_m1">
+		<text>一个变化版的转轮式榴弹发射器。这个形式是特别用来配合西方规格的枪榴弹。</text>
+	</string>
+	<string id="enc_weapons1_wpn-rpg7">
+		<text>一个发展于1960年代的榴弹发射器。像这样的榴弹发射器在陆军仓库中都有大量个存货，有人就从那边偷运到了特异区中。对潜行者来说这是个稀有的武器：它的大体积和高重量让它不受欢迎，不过在某些任务中它是不可或缺的。\n 历史简介：RPG一7火箭筒是世界上第一种采用喷射抛射原理发射的火箭筒.具有特别的革命意义.它的英文名字是Rocket Propelled Grenade,火箭推进式榴弹的简称.或多或少的.现在很多人称呼火箭筒.都简称RPG! \n 弹药：\n OG-7V枪榴弹。</text>
+	</string>
+	<string id="enc_weapons1_wpn-sig_m1">
+		<text>这个武器是为了城市战所製造的。为了降低重量，一些部件都被拿掉或是更换，因此，它无法加装瞄准镜或是榴弹发射器。但至少它的重量比起以前要轻了快一半以上。</text>
+	</string>
+	<string id="enc_weapons1_wpn-sig_m2">
+		<text>修改成狙击枪。配置一个无法拆卸的光学瞄准镜来提昇对焦。</text>
+	</string>
+	<string id="enc_weapons1_wpn-sig220">
+		<text>发展于1975年的，但现在仍普遍在世界各地受到欢迎。它的弹匣装弹数低，但它的机械结构相当的稳定。它的第二个优势是高爆性Kora子弹。\n 历史简介：SIG-SAUER P220手枪是在1970年代应瑞士军方的要求而研制的，不过其实是在1960年代未就开始计划。当时瑞士军队装备的SIG P210手枪既贵且产量又低，军方需要一种比较便宜的代替产品，但必须是性能优秀的手枪。但由于SIG公司的轻武器分部SIG Arms规模较小，为了能在手枪的设计和生产上有更大的发展空间，SIG公司便与德国的J. P. SAUER & Sohn公司合作研制这种新手枪，因为增加了这个德国的生产车间，以后SIG公司便有能力完成任何北约国家的大宗手枪订单。由于是两家公司合作设计和生产的，因此这种手枪全称为SIG-SAUER P220。9×19mm口径的P220在1975年正式装备瑞士军队，军方编号为M75，随后日本、丹麦和法国也有采用。\n 弹药：\n 标准.45 子弹。\n .45 水力冲压弹。</text>
+	</string>
+	<string id="enc_weapons1_wpn-sig550">
+		<text>一个相对比较新的步枪，使用 5.56x45 mm SS109子弹。这个武器因为它的准确度、轻后座力跟高信赖度而非常受欢迎。\n 历史简介：1984年，SIG公司开始向瑞士陆军提供Stgw90突击步枪，以替代原来瑞士陆军使用的Stgw57（SG510）。Stgw90的出口型有两个编号，一个是SG550标准型突击步枪，另一个是SG551短枪管型突击步枪。SG550/551为传统结构，与FNC和AK的很相似，是长行程的导气活塞式自动方式。SG550/551系列最大的特点是大量采用工程塑料以提高降低重量，而且在透明弹匣两侧附有弹匣联接卡笋，使多个弹匣不需附加其它装置就可以很方便地并联在一起，现在德国HK公司的G36系列也采用了类似的弹匣。不过无论SG550/551还是G36系列，都不可以使用北约的标准弹匣。\n 弹药：\n 标准5.56x45 mm SS109子弹。\n 5.56x45 mm AP穿甲弹。</text>
+	</string>
+	<string id="enc_weapons1_wpn-spas12">
+		<text>SPSA14滑膛来福枪发展于1970年代末期，这把武器好用又值得信赖。不过它比较大一点、贵了点、还有它的机械结构也複杂的点。它可能是特异区中最佳的近距离武器了。\n 历史简介：SPAS-12多功能霰弹枪是弗兰齐公司在1970年代后期设计的一种特种用途、军队和警察的近战武器，它最大的特点是可以选择半自动装填或传统的泵动装填方式操作，以适合不同的任务需求和弹药类型。例如在战斗中有时需要较快的射击速度，但有时又必须射击一些无法产生足够气体压力让半自动霰弹枪完成自动循环的弹药（例如沙袋弹或催泪弹等），所以SPAS-12提供了两种射击形式：它能在半自动模式下迅速发射全威力弹例如鹿弹，又能转换成泵动装填方式以便可靠地发射低压弹。SPAS-12于1979年10月首次投产，由于它的通用、可靠和火力，在推出后很快就成为很流行的警用和特种部队武器，另一方面，它比其他大多数类似的霰弹枪都要沉重和复杂，相对地价格也较高。\n 弹药：\n 12x70铅弹。\n 12x76 重弹头。\n 12x76弹镖。</text>
+	</string>
+	<string id="enc_weapons1_wpn-spas12_m1">
+		<text>独特的武器。这把铅弹枪拥有步枪的枪膛，当它在射击重弹或是弹镖时提昇了很高的准确性。不管怎样，使用铅弹枪射击是很不容易的。\n 弹药：\n 12x70铅弹。\n 12x76 重弹头。\n 12x76弹镖。</text>
+	</string>
+	<string id="enc_weapons1_wpn-svd">
+		<text>这把步枪在1960年后，被广泛的使用在苏联和苏俄军队中。它是一把特别的值得信赖和携带方便的武器。在特异区中纪律团有经验的潜行者喜欢用这把枪来猎杀异种生物。\n 历史简介：前苏联军队在1963年选中了由德拉贡诺夫设计的狙击步枪代替莫辛-纳甘狙击步枪，称为ＣＢД（Снайперская Винтовка Драгунова）狙击步枪，英文为SVD（Snayperskaya Vinyovka Dragunov），通过进一步的改进后，在1967年开始装备部队。除前苏/俄外，埃及、南斯拉夫、罗马尼亚等国家的军队也采用和生产SVD。中国仿制的SVD为1979年定型的79式狙击步枪及改进型85式。\n 弹药：\n 标准7.62x54 mm 7N1子弹。\n 7.62x54 mm BP穿甲弹。\n 7.62x54 mm 7N14狙击弹。</text>
+	</string>
+	<string id="enc_weapons1_wpn-svd_m1">
+		<text>感谢改良过的光学效果，和影像解析度的提昇，让这把武器的平衡度提高了，同时它的后座力也变轻了。</text>
+	</string>
+	<string id="enc_weapons1_wpn-svu">
+		<text>一把改进更多的狙击枪，採用轻便的犊牛式设计，非常适合在特异区长途使用。\n 历史简介：SVU狙击步枪（Snaiperskaya Vintovka Ukorochennaya），俄文为СВУ（Снайперская винтовка укороченная），基本上是SVD的无托结构缩短型，基型枪配装折叠式机械瞄准具，安装PSO-1光学瞄准镜的为ОЦ-03型。SVU是在1991年开始为俄罗斯执法机构特种部队的城市战斗需要而研制的战术步枪，在1994年时已经被内务部部队和OMON在车臣中使用过。严格地说，虽然SVU是SVD的改型，且有40%的零件通用，但与SVDS及SVDK不同的是，SVU的研制与德拉贡诺夫毫无关系，因而其名称中也没有德拉贡诺夫名字的缩写。由于改为无托结构，枪管也比SVD短，因此这种步枪非常紧凑，但有效射程也比SVD近。另外SVU的枪膛为4条右旋膛线，膛线缠距320mm，这也意味著SVU并不配用专门的7N1狙击弹。为适合在近距离战斗中使用，在枪口上还有特制的消声消焰装置。
+。\n 弹药：\n 标准7.62x54 mm 7N1子弹。\n 7.62x54 mm BP穿甲弹。\n 7.62x54 mm 7N14狙击弹。</text>
+	</string>
+	<string id="enc_weapons1_wpn-toz34">
+		<text>这是把受欢迎的猎枪，但没有什么特别值得注意的地方。\n 弹药：\n 12x70铅弹。\n 12x76 重弹头。\n 12x76弹镖。</text>
+	</string>
+	<string id="enc_weapons1_wpn-usp">
+		<text>一把值得信赖的武器。作为一把高品质方便携带的近距离武器，它很受到特异区中老兵的欢迎。\n 历史简介：USP（Universal Selbstlade Pistole）是HK公司第一支专门为美国市场设计的手枪，它的设计原则以美国民间、执法机构和军事部门的用户要求为依据的。在1993年休斯顿举行的SHOT Show上，USP第一次向公众展示，同年，USP开始投入生产。USP可以发射最大威力的9mm枪弹，因为USP本来就是按发射.40弹的规格来设计制造的。无论那一种口径的USP都有9种型号，不同型号间的区别只是扳机方式、控制杆功能和位置的不同，这样就给用户一个较大的选择空间，而且每一种型号都可以任意修改为另一种型号。\n 弹药：\n 标准.45 子弹。\n改良过的.45 水力衝压弹。</text>
+	</string>
+	<string id="enc_weapons1_wpn-val">
+		<text>这把武器是依据Vintar无声狙击枪的设计，但它有一个折叠托，可以用来连射、和使用更大的弹匣。它原本是因应特殊部队的无声和无火光的要求而设计的。\n历史简介：AS“Val”（相应的俄文字母为АС“Вал”，中文意思是“巨浪”）是由中央精密机械工程研究院（TSNIITochMash）的彼德罗·谢尔久科（P. Serdjukov）领导的研究小组在1980年代后期研制的，AS是Avtomat Spetsialnij的缩写，即“特种突击步枪”。与另一种名为VSS的微声狙击步枪为同一系列的武器。AS与VSS都是以小型突击步枪的机匣为基础研制的，这两种武器的主要区别是枪托和握把的不同，另外AS突击步枪虽然也可以发射SP-6和PAB-9，但主要是发射便宜的SP-5普通弹。AS和VSS在1980年代后期开始装备部队，被俄罗斯的侦察部队和特种部队广泛采用，但也有一些被车臣分离主义武装使用.\n 弹药：\n 标准9x39 mm PAB-9子弹。\n 9x39 mm SP-6穿甲弹。\n 9x39 mm SP-5狙击弹。</text>
+	</string>
+	<string id="enc_weapons1_wpn-val_m1">
+		<text>跟基本的形式相比，多了光学瞄准镜PSO-1。</text>
+	</string>
+	<string id="enc_weapons1_wpn-vintorez">
+		<text>一把装备著不可拆卸的灭音管的特殊狙击枪，设计成无声无火光的特性。它可以在400米外射穿任何防弹背心。对所有的潜行者来说，它是很有价值的一把武器。\n 历史简介：VSS“Vintorez”（俄文为ВСС“Винторез”，中文为“绞丝机”）其实就是AS的狙击型（虽然AS实际上也被常常当作狙击步枪使用），也是中央精密机械工程研究院的P. Serdjukov小组的同时研制的。VSS是Vinovka Snaiperskaja Spetsialnaya的缩写，即“特种狙击步枪。VSS也可以发射SP-5普通弹，但主要是发射SP-6穿甲弹。和AS一样，这种步枪也是为特种部队研制的，已经装备了俄罗斯的特种部队及执法机构的行动单位，也已经在独联体各地的武装冲突中广泛应用。\n 弹药：\n 标准9x39 mm PAB-9子弹。\n 9x39 mm SP-6穿甲弹。\n 9x39 mm SP-5狙击弹。</text>
+	</string>
+	<string id="enc_weapons1_wpn-walther">
+		<text>一把完美的手枪。具高度信赖性，使用高容量的弹匣，具有很好的准确性，特别是这个形式设计使用了9 mm FMJ子弹。\n 历史简介：沃尔特P99是卡尔·沃尔特(Karl Walther)公司于1997推出的新型手枪,该枪首次采用聚合玻璃纤维制造，其强固与耐磨性高于钢材，在握把部份可依照使用者的手掌大小，有3种尺寸可供选择,P99手枪选用无击槌击发系统,并加上四重保险.传统内置式保险以阻铁限制撞针前行，而P99的撞针阻铁位于撞针前端，完全阻断撞针与底火接触，所以即使拿P99手枪尾端当铁槌猛力敲击也不会走火。\n 弹药：\n 标准9x19 mm FMJ子弹。\n 改良过的9х19 mm PB1s子弹。 </text>
+	</string>
+	<string id="enc_weapons1_wpn-walther_m1">
+		<text>这把枪修正过可以使用9x18mm calibre子弹。</text>
+	</string>
+	<string id="enc_weapons1_wpn-wincheaster1300">
+		<text>一把适用于危险环境的压动式枪机铅弹枪，它非常的值得信赖。它的表面涂佈了防鏽蚀的涂料。\n历史简介：温彻斯特防卫者1300式12号不鏽钢霰弹枪，是美国速射武器公司专为满足海上环境抗腐蚀使用要求而研制的，已装备美国警察.该枪可以按照用户寻求.更改组件.理由游戏中出现的战术性,当然,改枪也可以换装成猎枪.该枪的美国用户很多!\n 弹药：\n 12x70铅弹。\n 12x76 重弹头。\n 12x76弹镖。</text>
+	</string>
+	<string id="grenade-f1">
+		<text>F1手榴弹</text>
+	</string>
+	<string id="grenade-gd05">
+		<text>GD-05</text>
+	</string>
+	<string id="grenade-rgd5">
+		<text>RGD-5手榴弹</text>
+	</string>
+	<string id="Weapons1">
+		<text>武器</text>
+	</string>
+	<string id="wp_desert_eagle">
+		<text>沙漠之鹰</text>
+	</string>
+	<string id="wpn_hpsa">
+		<text>HPSS-1m</text>
+	</string>
+	<string id="wpn_usp">
+		<text>USP Compact</text>
+	</string>
+	<string id="wpn-abakan">
+		<text>AN94</text>
+	</string>
+	<string id="wpn-abakan_m1">
+		<text>AN94 狙击版</text>
+	</string>
+	<string id="wpn-abakan_m2">
+		<text>AN94 风暴改进版</text>
+	</string>
+	<string id="wpn-addon-grenade-launcher">
+		<text>GP-25 科司特耶</text>
+	</string>
+	<string id="wpn-addon-grenade-launcher-m203">
+		<text>M203</text>
+	</string>
+	<string id="wpn-addon-scope">
+		<text>PSO-1 瞄准镜</text>
+	</string>
+	<string id="wpn-addon-scope-susat">
+		<text>SUSAT 瞄准镜</text>
+	</string>
+	<string id="wpn-addon-silencer">
+		<text>灭音器</text>
+	</string>
+	<string id="wpn-ak74">
+		<text>Ak 74/2M</text>
+	</string>
+	<string id="wpn-ak74_m1">
+		<text>Ak 74/2M 速射版</text>
+	</string>
+	<string id="wpn-ak74u">
+		<text>Aks 74/2U</text>
+	</string>
+	<string id="wpn-ak74u_m1">
+		<text>Aks 74/2 改进版</text>
+	</string>
+	<string id="wpn-beretta">
+		<text>伯莱塔 M9</text>
+	</string>
+	<string id="wpn-bm16">
+		<text>短管dbl 铅弹枪</text>
+	</string>
+	<string id="wpn-colt_m1">
+		<text>柯尔特 灭音枪</text>
+	</string>
+	<string id="wpn-colt1911">
+		<text>柯尔特 ColtM1911.45</text>
+	</string>
+	<string id="wpn-eagle_m1">
+		<text>大笨钟</text>
+	</string>
+	<string id="wpn-fn2000">
+		<text>F2000</text>
+	</string>
+	<string id="wpn-fort">
+		<text>Fort-12Mк2</text>
+	</string>
+	<string id="wpn-fort_m">
+		<text>Fort-15</text>
+	</string>
+	<string id="wpn-g36">
+		<text>G36</text>
+	</string>
+	<string id="wpn-gauss">
+		<text>高斯枪</text>
+	</string>
+	<string id="wpn-groza">
+		<text>闪电 S14</text>
+	</string>
+	<string id="wpn-groza_m1">
+		<text>闪电 5.45 改进版</text>
+	</string>
+	<string id="wpn-l85">
+		<text>SA80</text>
+	</string>
+	<string id="wpn-l85_m1">
+		<text>SA80 天秤改进版</text>
+	</string>
+	<string id="wpn-l85_m2">
+		<text>SA80 闪电改进版</text>
+	</string>
+	<string id="wpn-lr300">
+		<text>LR 300-ML-N</text>
+	</string>
+	<string id="wpn-lr300_m1">
+		<text>LR 300 狙击版</text>
+	</string>
+	<string id="wpn-mp5">
+		<text>MP5 标准版</text>
+	</string>
+	<string id="wpn-mp5_m1">
+		<text>MP5 9x18 改进版</text>
+	</string>
+	<string id="wpn-mp5_m2">
+		<text>MP5 灭音改进版</text>
+	</string>
+	<string id="wpn-pb">
+		<text>玛卡洛夫PB 灭音枪(6P9)</text>
+	</string>
+	<string id="wpn-pm">
+		<text>玛卡洛夫 PMm</text>
+	</string>
+	<string id="wpn-rg-6">
+		<text>RG 6 榴弹发射器</text>
+	</string>
+	<string id="wpn-rg6_m1">
+		<text>RG 6 m209</text>
+	</string>
+	<string id="wpn-rpg7">
+		<text>RPG-7u</text>
+	</string>
+	<string id="wpn-sig_m1">
+		<text>SIG 强击改进版</text>
+	</string>
+	<string id="wpn-sig_m2">
+		<text>SIG 狙击版</text>
+	</string>
+	<string id="wpn-sig220">
+		<text>SIG-SAUER P220</text>
+	</string>
+	<string id="wpn-sig550">
+		<text>SIG SG550</text>
+	</string>
+	<string id="wpn-spas12">
+		<text>SPSA-12</text>
+	</string>
+	<string id="wpn-spas12_m1">
+		<text>SPSA-12 改进版</text>
+	</string>
+	<string id="wpn-svd">
+		<text>SVDm 2 狙击枪</text>
+	</string>
+	<string id="wpn-svd_m1">
+		<text>SVDm 2 改进版</text>
+	</string>
+	<string id="wpn-svu">
+		<text>SVUmk2</text>
+	</string>
+	<string id="wpn-toz34">
+		<text>TOS 34</text>
+	</string>
+	<string id="wpn-val">
+		<text>AS-Val 特殊冲锋枪</text>
+	</string>
+	<string id="wpn-val_m1">
+		<text>AS-Val 狙击版</text>
+	</string>
+	<string id="wpn-vintorez">
+		<text>VSS</text>
+	</string>
+	<string id="wpn-walther">
+		<text>沃尔特 P99</text>
+	</string>
+	<string id="wpn-walther_m1">
+		<text>沃尔特 P99 9x18</text>
+	</string>
+	<string id="wpn-wincheaster1300">
+		<text>温彻斯特 1300</text>
+	</string>
+</string_table>

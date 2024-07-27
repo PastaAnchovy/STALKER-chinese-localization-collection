@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="item test1">
+		<text>这是「物品」测试字串</text>
+	</string>
+	<string id="item test2">
+		<text>这是另一个「物品」测试字串</text>
+	</string>
+	<string id="item_case_esc_desc">
+		<text>一个装着文件的防火公事包。</text>
+	</string>
+	<string id="item_decoder_desc">
+		<text>强力的电子开锁器。非常的奇怪，它看起来不像是给歹徒用的全方位工具。应该说，它看起来像是一个特别的电子开锁器，只能用在特别的东西上。</text>
+	</string>
+	<string id="item_decoder_name">
+		<text>解码器</text>
+	</string>
+	<string id="item_detector_yantar_desc">
+		<text>Psi-辐射侦测器</text>
+	</string>
+	<string id="item_detector_yantar_name">
+		<text>PP-4a感应器</text>
+	</string>
+	<string id="item_doc_x16_desc">
+		<text>塑胶製的档案夹，你需要有生物学的文凭，才能看得懂它上面说些甚麽东西。</text>
+	</string>
+	<string id="item_doc_x16_name">
+		<text>来自X16实验室的文件</text>
+	</string>
+	<string id="item_doc_x18_desc">
+		<text>一堆科学文件，上面有一堆术语、公式还有图表。</text>
+	</string>
+	<string id="item_doc_x18p1_name">
+		<text>来自X18实验室的文件，第一部份</text>
+	</string>
+	<string id="item_doc_x18p2_name">
+		<text>来自X18实验室的文件，第二部份</text>
+	</string>
+	<string id="item_doc_x18p3_name">
+		<text>来自X18实验室的文件，第三部份</text>
+	</string>
+	<string id="item_doc_x18p4_name">
+		<text>来自X18实验室的文件，第四部份</text>
+	</string>
+	<string id="item_doc_x18p5_name">
+		<text>来自X18实验室的文件，第五部份</text>
+	</string>
+	<string id="item_docs_hiden_pri_desc">
+		<text>皮制品装订的破旧手稿，由史特列洛克所书写。依据标题来看，它应该可以解释某些特异区的秘密。</text>
+	</string>
+	<string id="item_docs_hiden_pri_name">
+		<text>来自普里皮亚季的秘密藏匿物的文件</text>
+	</string>
+	<string id="item_dynamite_esc_desc">
+		<text>一个用数种不同语言写着「爆裂物」的大木板条箱</text>
+	</string>
+	<string id="item_dynamite_esc_name">
+		<text>装着爆裂物的木箱</text>
+	</string>
+	<string id="item_flash_crazy_mil_desc">
+		<text>闪存盘--一个储存和传送资讯的好方法</text>
+	</string>
+	<string id="item_flash_crazy_mil_name">
+		<text>疯狂潜行者的闪存盘</text>
+	</string>
+	<string id="item_flash_eco_rost_desc">
+		<text>闪存盘--一个储存和传送资讯的好方法</text>
+	</string>
+	<string id="item_flash_eco_rost_name">
+		<text>克鲁格洛夫教授的闪存盘</text>
+	</string>
+	<string id="item_flash_esc_desc">
+		<text>闪存盘--一个储存和传送资讯的好方法</text>
+	</string>
+	<string id="item_flash_esc_name">
+		<text>潜行者囚犯的闪存盘</text>
+	</string>
+	<string id="item_flash_gslinger_agro_desc">
+		<text>闪存盘--一个储存和传送资讯的好方法</text>
+	</string>
+	<string id="item_flash_gslinger_agro_name">
+		<text>史特洛克的闪存盘</text>
+	</string>
+	<string id="item_key_x18_desc">
+		<text>通往地底X18实验室的电子钥匙</text>
+	</string>
+	<string id="item_key_x18_name">
+		<text>伯罗夫的钥匙</text>
+	</string>
+	<string id="item_krot_flash">
+		<text>莫尔的闪存盘</text>
+	</string>
+	<string id="item_PDA_lucky_desc">
+		<text>个人数字助理--PDA，是特异区中不可或缺的装备。</text>
+	</string>
+	<string id="item_PDA_lucky_name">
+		<text>幸运儿的PDA</text>
+	</string>
+	<string id="item_PDA_tiran_desc">
+		<text>个人数字助理--PDA，是特异区中不可或缺的装备。</text>
+	</string>
+	<string id="item_PDA_tiran_name">
+		<text>泰伦的PDA</text>
+	</string>
+	<string id="item_quest_case_02_desc">
+		<text>一个装着文件的防火公事包。</text>
+	</string>
+	<string id="item_quest_case_02_name">
+		<text>来自农业研究所的文件</text>
+	</string>
+	<string id="item_case_esc_name">
+		<text>来自前哨站的文件</text>
+	</string>
+	<string id="yan_bad_psy_helmet_desc">
+		<text>由科学家研发用来保护人们避免Psi-电磁辐射的防护装置。尚未经过调整。</text>
+	</string>
+	<string id="yan_bad_psy_helmet_name">
+		<text>尚未调整的Psi-电磁辐射污染防护头盔。</text>
+	</string>
+	<string id="yan_good_psy_helmet_desc">
+		<text>由科学家研发用来保护人们避免Psi-电磁辐射污染的防护装置，仍有效用。</text>
+	</string>
+	<string id="yan_good_psy_helmet_name">
+		<text>仍有作用的Psi-电磁辐射污染防护头盔。</text>
+	</string>
+</string_table>

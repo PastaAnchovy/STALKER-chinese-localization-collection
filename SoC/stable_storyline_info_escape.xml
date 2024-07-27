@@ -1,0 +1,81 @@
+﻿	<string id="about_enciclopedia">
+		<text>这是一部百科全书。当你在进行游戏时，你身边世界的资讯将会被记录在这里，依照标题来排序。</text>
+	</string>
+	<string id="about_pda">
+		<text>关于百科全书</text>
+	</string>
+	<string id="Bandit's flash">
+		<text>工厂强盗的PDA</text>
+	</string>
+	<string id="blokpost_case_text">
+		<text>贸易商人：进入前哨站，偷取装有军方考察队在特异区北方报告的箱子。</text>
+	</string>
+	<string id="Dead novice's flash">
+		<text>死去菜鸟的PDA</text>
+	</string>
+	<string id="defend_lager_text">
+		<text>狂热份子：帮助我们对抗那些命令菜鸟离开营地的佣兵。计划就像那样，每个人都躲了起来，所以营地就像被遗弃了一样。我们留下佣兵团在营地中，然后依上尉的命令来攻击。</text>
+	</string>
+	<string id="doctor_meet">
+		<text>向导的PDA</text>
+	</string>
+	<string id="doctor_meet_2">
+		<text>会见博士</text>
+	</string>
+	<string id="doctor_meet_quest_text">
+		<text>博士：我在等一个人，他要到史特列洛克跟他手下的藏身处来。如果他是我们的人，他会知道地方的。</text>
+	</string>
+	<string id="doctor_meet_text">
+		<text>好的，我会见见幽灵的人。我在史特列洛克的藏身处等他。如果他是我们的人，他会知道哪里可以找到我，博士。</text>
+	</string>
+	<string id="esc_flash_task_descr">
+		<text>贸易商人："…我的人正从一项任务中回来但是失踪了。他们其中一个--称为林伯--带给我一些讯息…他们就在很近的地方失踪。不晓得该怎么说，不管怎样，找出林伯，不论生死，找出他身上的闪存盘，然后带回来给我。林伯是沃夫的手下--沃夫就在营地里。去问问他，他或许知道一些事情。他会给你一些武器和装备的。"</text>
+	</string>
+	<string id="esc_fox_info">
+		<text>西利给狐狸：有朋友要我帮助一群在挖掘史特列洛克藏匿物的潜行者。我跟我的人正前往废弃区的机棚，你可以在那里找到我。</text>
+	</string>
+	<string id="esc_kolyan_lost">
+		<text>昨天有个兄弟到磨坊巡逻后，就没有出现了。我们过去纳编看看它是在哪里失踪的。</text>
+	</string>
+	<string id="factory_dynamit_text">
+		<text>沃夫：找回工厂中被强盗偷走的炸药。在桥下有些斥候可以帮助你，靠近他们然后说"来自地底世界的问候"--那是密语。带领他们去战斗吧。</text>
+	</string>
+	<string id="factory_trader_text">
+		<text>沃夫：带着我在桥下斥候的帮助，清除工厂中的强盗，然后回来向我报告。</text>
+	</string>
+	<string id="Flash dead stalker">
+		<text>死亡潜行者的PDA</text>
+	</string>
+	<string id="gunslinger_clan_cache">
+		<text>…来到一些家伙的巢穴，记不起来任何事情了。只记得PDA里有一些其他家伙的照片。在PDA上只有一则讯息--杀死史特列洛克。</text>
+	</string>
+	<string id="help_to_fox">
+		<text>贸易商人：狐狸从他的突击行动中回来请求帮助，或许他知道一些关于史特列洛克的事情。</text>
+	</string>
+	<string id="meet_seryi_text">
+		<text>狐狸：葛雷就在废弃区的机棚里，他知道更多关于史特列洛克的事情。</text>
+	</string>
+	<string id="military_case_text">
+		<text>贸易商人：从军方的农业研究所偷取考察报告，将它带到100辐射酒吧交给酒吧的老板。</text>
+	</string>
+	<string id="Seryi flash">
+		<text>狐狸的PDA</text>
+	</string>
+	<string id="storyline_fox_flash_info">
+		<text>托里克的日记。贸易商人派我们去监视农业研究所的军队。到那里，射杀每一个人、不管是盗贼或是军人，然后找出一些有趣的东西。我正在解码剩下的，看起来像密码的一堆胡言乱语</text>
+	</string>
+	<string id="storyline_seryi_info">
+		<text>葛雷致狐狸：一个我知道的人要求我跟一群潜行者见面，他们躲在史特列洛克的藏身处。我会到废弃区去，如果你愿意的话就过来。</text>
+	</string>
+	<string id="Tolik flash">
+		<text>托里克的PDA</text>
+	</string>
+	<string id="tutorial_artefact_find">
+		<text>贸易商人：在那附近有个旋转变异点，它的中央有一个神器，去把它拿回来。</text>
+	</string>
+	<string id="tutorial_moving_anomaly_text">
+		<text>那边有非常奇特的变异点，它好像在移动。我试着在计算它的移动时间跟路径，因为我没有钱可以付给军人当通行费来绕路。</text>
+	</string>
+	<string id="tutorial_secret_place">
+		<text>我留了些小东西藏在废弃的农场，都是些食物和弹药。我现在虚弱到没办法携带它们，我不确定我能否撑到营地去。</text>
+	</string>

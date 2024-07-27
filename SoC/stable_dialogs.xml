@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<string_table>
+	<string id="actor_break_dialog_0">
+		<text>再见！</text>
+	</string>
+	<string id="actor_help_wounded_0">
+		<text>你没事吧？</text>
+	</string>
+	<string id="actor_help_wounded_1">
+		<text>该死，我受伤了，你没看见吗？我需要医药箱，或者是一段绷带。</text>
+	</string>
+	<string id="actor_help_wounded_11">
+		<text>这里，把医药箱拿去。</text>
+	</string>
+	<string id="actor_help_wounded_111">
+		<text>谢了兄弟，我不会忘记的。</text>
+	</string>
+	<string id="actor_help_wounded_12">
+		<text>这里，把绷带拿去。</text>
+	</string>
+	<string id="actor_help_wounded_13">
+		<text>抱歉，我什么都没有。</text>
+	</string>
+	<string id="actor_help_wounded_131">
+		<text>那么你是怎么走遍特异区的？难道你不会被感染或是什么的吗？你甚至没办法治疗你自己！</text>
+	</string>
+	<string id="actor_help_wounded_14">
+		<text>抱歉，兄弟。如果我把我的给了你，我自己就什么都没有了。</text>
+	</string>
+	<string id="actor_help_wounded_141">
+		<text>那是你的问题，但这对你没有任何好处。</text>
+	</string>
+	<string id="hello_dialog_2">
+		<text>嘿！</text>
+	</string>
+	<string id="hello_dialog_3">
+		<text>帮我离开，可以吗？</text>
+	</string>
+</string_table>

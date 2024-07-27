@@ -1,0 +1,36 @@
+﻿	<string id="mil_actor_blockpost">
+		<text>你正接近通关口，别想弄得一塌糊涂，尽管我们会高兴接受任何的帮助。</text>
+	</string>
+	<string id="mil_after_sniper_dead">
+		<text>一号，过来拿你的酬劳，我还有下一个指示。</text>
+	</string>
+	<string id="mil_fblockpost_warning">
+		<text>一号，回到你的位置去</text>
+	</string>
+	<string id="mil_info_freedom_radio">
+		<text>如果你整晚都待在村庄的塔中，我「保证」会有事情发生…</text>
+	</string>
+	<string id="mil_info_max_mines">
+		<text>别碰上地雷了！只要有个小小的失误你就完蛋了….</text>
+	</string>
+	<string id="mil_info_max_village">
+		<text>小心点，一号！显然的在村子里有个新的变异点，它不但移动快速，还时隐时现！</text>
+	</string>
+	<string id="mil_info_to_all">
+		<text>所有想融化自己脑子的人注意了：通往红森林的道路现在由黑石组织的人在防卫着，如你所知这些都是见人就杀的狠角色。祝你们好运。</text>
+	</string>
+	<string id="mil_max_attack_signal">
+		<text>攻击！让我们杀掉那些混蛋！</text>
+	</string>
+	<string id="mil_mission_complete">
+		<text>我们在这里的工作已经完成了。撤回到农庄去，我们会在那里分发奖赏。</text>
+	</string>
+	<string id="mil_scull_attack_signal">
+		<text>前进，孩子们！道路已经清空了！</text>
+	</string>
+	<string id="mil_scull_info">
+		<text>一号，干掉那些狙击手！</text>
+	</string>
+	<string id="mil_sniper_to_player_warning">
+		<text>小心点，一号，不然你会吃子弹的…</text>
+	</string>
